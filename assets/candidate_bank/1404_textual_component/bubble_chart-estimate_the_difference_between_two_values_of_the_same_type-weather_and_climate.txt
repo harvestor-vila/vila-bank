@@ -1,0 +1,7 @@
+part 1: Estimate the difference in humidity percentage between Location C and Location G.
+part 2: 
+(A) 144.0%
+(B) 175.0%
+(C) 208.0%
+(D) 241.0%
+part 3: (C) 208.0%

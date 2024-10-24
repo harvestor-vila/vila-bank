@@ -1,0 +1,7 @@
+part 1: What task does the bubble chart design best support?
+    part 2: 
+    (A) Comparing the total land area of each city
+    (B) Examining the relationship between GDP per capita and population size while considering the median age
+    (C) Tracking changes in population over time for each city
+    (D) Identifying the dominant industry sector in each city
+    part 3: (B) Examining the relationship between GDP per capita and population size while considering the median age

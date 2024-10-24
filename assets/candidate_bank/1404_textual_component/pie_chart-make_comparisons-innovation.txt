@@ -1,0 +1,9 @@
+part 1:  Which category of innovation has a larger share, Product Innovation or Marketing Innovation?
+
+part 2:
+(A) Product Innovation has a larger share
+(B) Marketing Innovation has a larger share
+(C) Both categories have the same share
+(D) The visualization does not provide enough information to determine the answer
+
+part 3:   (A) Product Innovation has a larger share

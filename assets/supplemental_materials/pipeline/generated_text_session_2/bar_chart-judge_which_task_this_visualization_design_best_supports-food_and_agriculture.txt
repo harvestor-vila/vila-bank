@@ -1,0 +1,9 @@
+part 1: What task does this bar chart design best support?
+
+part 2: 
+  (A) Comparing the production values across different food items
+  (B) Showing the geographical distribution of food production
+  (C) Illustrating the change in food production over time
+  (D) Demonstrating the correlation between food production and consumption rates
+
+part 3: (A) Comparing the production values across different food items

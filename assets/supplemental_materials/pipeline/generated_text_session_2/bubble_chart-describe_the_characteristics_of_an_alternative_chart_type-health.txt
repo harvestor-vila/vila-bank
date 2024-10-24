@@ -1,0 +1,9 @@
+part 1: If the health data showing Age, Systolic Blood Pressure, and Cholesterol Level were to be displayed using a line chart, which of the following would best describe its characteristics?
+
+part 2: 
+(A) A line chart with multiple lines, each representing a PatientID, showing fluctuations in Cholesterol Level over Age.
+(B) A single line chart with points connected in ascending order of Age, displaying the trend of Systolic Blood Pressure.
+(C) A line chart with lines for each PatientID, where the thickness of the line indicates the Cholesterol Level.
+(D) A stacked line chart where each layer represents the Cholesterol Level of a patient, accumulating to show total Cholesterol Level over Age.
+
+part 3: (B) A single line chart with points connected in ascending order of Age, displaying the trend of Systolic Blood Pressure.

@@ -1,0 +1,7 @@
+part 1: What percentage of the educational categories is allocated to Biology?
+    part 2: 
+      (A) 10%
+      (B) 20%
+      (C) 35%
+      (D) 5%
+    part 3: (B) 20%

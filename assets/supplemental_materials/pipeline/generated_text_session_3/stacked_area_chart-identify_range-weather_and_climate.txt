@@ -1,0 +1,7 @@
+part 1: What is the range of wind speed values over the 20-day period?
+    part 2: 
+    (A) [0, 25]
+    (B) [5, 20]
+    (C) [2, 24]
+    (D) [1, 23]
+    part 3: (B) [5, 20]

@@ -1,0 +1,9 @@
+part 1: If the distribution of cholesterol levels were to be displayed using a histogram, which of the following would be an accurate description of its appearance?
+
+part 2:
+(A) The histogram would show a symmetric distribution with peaks at both ends and a trough in the middle.
+(B) The histogram would display a left-skewed distribution with a peak at higher cholesterol levels.
+(C) The histogram would have a peak at lower cholesterol levels and a tail extending towards higher cholesterol levels, indicating a right-skewed distribution.
+(D) The histogram would show a uniform distribution with equal heights for all bins across cholesterol levels.
+
+part 3: (C) The histogram would have a peak at lower cholesterol levels and a tail extending towards higher cholesterol levels, indicating a right-skewed distribution.

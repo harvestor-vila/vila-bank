@@ -1,0 +1,7 @@
+part 1: What is the range of the number of graduates across all educational programs?
+    part 2: 
+    (A) [53, 193]
+    (B) [63, 167]
+    (C) [48, 194]
+    (D) [52, 195]
+    part 3: (B) [63, 167]

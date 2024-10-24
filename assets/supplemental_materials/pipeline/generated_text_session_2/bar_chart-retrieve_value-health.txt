@@ -1,0 +1,11 @@
+part 1: How many cases of Asthma are represented in the bar chart?
+
+part 2: 
+  (A) 20
+  (B) 53
+  (C) 63
+  (D) 105
+
+part 3: (C) 63
+
+To generate the incorrect options, I calculated 15% of the correct answer (63 cases of Asthma), which is 9.45, and rounded up to the nearest whole number, giving us a min_distance of 10. I then created three incorrect options that are at least 10 cases away from the correct answer of 63.

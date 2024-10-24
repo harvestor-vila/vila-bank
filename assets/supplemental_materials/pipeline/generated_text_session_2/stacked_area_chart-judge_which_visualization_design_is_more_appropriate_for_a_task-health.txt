@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the total number of cases across different health conditions over the entire time period?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart showing the proportion of cases for each health condition in a single year.
+(B) A stacked bar chart showing the cumulative number of cases for each health condition over all years.
+(C) A line chart with multiple lines representing each health condition's cases over time.
+(D) A scatter plot with each point representing the number of cases for a health condition in a given year.
+
+part 3: the correct answer
+(B) A stacked bar chart showing the cumulative number of cases for each health condition over all years.

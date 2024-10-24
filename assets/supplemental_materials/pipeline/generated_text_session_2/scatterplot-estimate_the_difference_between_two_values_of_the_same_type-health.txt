@@ -1,0 +1,11 @@
+part 1: Estimate the difference in height (cm) between the tallest and shortest individuals represented in the scatterplot.
+
+part 2: 
+  (A) 51 cm
+  (B) 61 cm
+  (C) 71 cm
+  (D) 81 cm
+
+part 3: (B) 61 cm
+
+The incorrect options (A), (C), and (D) are 10 cm, 10 cm, and 20 cm away from the correct answer, respectively, which satisfies the requirement of being at least min_distance away from the rounded correct answer.

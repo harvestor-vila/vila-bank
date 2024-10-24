@@ -1,0 +1,7 @@
+part 1: What is the average percentage of support for Party_A across all issues?
+    part 2: 
+    (A) 16.4
+    (B) 20.4
+    (C) 24.4
+    (D) 28.4
+    part 3: (B) 20.4

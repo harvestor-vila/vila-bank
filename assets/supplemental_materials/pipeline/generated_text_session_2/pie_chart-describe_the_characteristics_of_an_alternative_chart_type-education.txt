@@ -1,0 +1,9 @@
+part 1: If the distribution of education levels in the pie chart were to be displayed using a bar chart instead, which of the following characteristics would accurately describe the bar chart?
+
+part 2: 
+(A) Each education level would be represented by a bar; the length of each bar would be proportional to the number of students in each category.
+(B) The bar chart would consist of concentric circles with varying radii representing the percentages of each education level.
+(C) The bar chart would display a single bar with segments colored differently for each education level.
+(D) The bars would be stacked horizontally, with the width of each bar segment representing the percentage of the total education level.
+
+part 3: (A) Each education level would be represented by a bar; the length of each bar would be proportional to the number of students in each category.

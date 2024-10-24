@@ -1,0 +1,11 @@
+part 1: What is the GDP Per Capita (USD) for Gotham?
+
+part 2: 
+  (A) 95160
+  (B) 110000
+  (C) 80000
+  (D) 120000
+
+part 3: (A) 95160
+
+To generate the incorrect options, I calculated 15% of the correct answer (95160), which is 14274. Rounding this up to the nearest whole number gives us 14274. The incorrect options were then chosen to be at least 14274 away from the correct answer, ensuring that they are unambiguously incorrect.

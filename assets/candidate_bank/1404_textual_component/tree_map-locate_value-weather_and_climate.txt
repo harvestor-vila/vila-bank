@@ -1,0 +1,7 @@
+part 1: In which category and subcategory does the highest percentage value occur?
+    part 2: 
+      (A) Temperature, High
+      (B) Precipitation, Moderate
+      (C) Wind, Moderate
+      (D) Precipitation, High
+    part 3: (B) Precipitation, Moderate

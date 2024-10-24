@@ -1,0 +1,9 @@
+part 1: What is the average grade of a student who studies 10 hours per week?
+
+part 2: 
+  (A) 56
+  (B) 66
+  (C) 86
+  (D) 96
+
+part 3: (C) 86

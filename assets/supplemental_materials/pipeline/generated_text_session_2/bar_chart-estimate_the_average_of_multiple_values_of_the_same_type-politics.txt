@@ -1,0 +1,11 @@
+part 1: the question stem
+Estimate the average number of votes per political party shown in the bar chart.
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) 3536
+(B) 4295
+(C) 5054
+(D) 6572
+
+part 3: the correct answer
+(C) 5054

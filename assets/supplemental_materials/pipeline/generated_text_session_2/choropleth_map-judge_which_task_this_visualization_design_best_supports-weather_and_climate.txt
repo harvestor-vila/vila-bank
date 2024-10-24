@@ -1,0 +1,9 @@
+part 1: What task does the choropleth map design best support?
+
+part 2: 
+(A) Comparing the average temperature between two specific states
+(B) Identifying trends in average temperature across regions
+(C) Displaying the distribution of a single variable across multiple categories
+(D) Showing the relationship between average temperature and population density
+
+part 3: (A) Comparing the average temperature between two specific states

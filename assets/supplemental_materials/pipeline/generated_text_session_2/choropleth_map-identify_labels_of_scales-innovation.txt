@@ -1,0 +1,9 @@
+part 1: What is the label of the color scale in the choropleth map showing innovation scores?
+
+part 2: 
+(A) Population Density
+(B) Gross State Product
+(C) Innovation Score
+(D) Average Temperature
+
+part 3: (C) Innovation Score

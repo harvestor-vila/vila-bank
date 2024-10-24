@@ -1,0 +1,9 @@
+part 1: What is the GDP contribution (in billions) of the Construction sector?
+
+part 2: 
+  (A) 200
+  (B) 405
+  (C) 600
+  (D) 465
+
+part 3: (B) 405

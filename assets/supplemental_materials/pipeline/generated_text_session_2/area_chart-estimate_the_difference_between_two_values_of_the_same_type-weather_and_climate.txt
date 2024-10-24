@@ -1,0 +1,18 @@
+part 1: What is the difference in average temperature between Day 2 and Day 20?
+
+part 2: 
+(A) 5 °F
+(B) 9 °F
+(C) 14 °F
+(D) 20 °F
+
+part 3: (B) 9 °F
+
+Calculation for correct answer and options:
+- Correct answer calculation: The difference between the average temperature on Day 2 (89 °F) and Day 20 (98 °F) is 98 - 89 = 9 °F.
+- Rounded correct answer: 9.0 °F (no change needed as it is already at one decimal place).
+- Min_distance calculation: 15% of 9.0 is 1.35, which rounds up to the nearest whole number as 2.
+- Incorrect options are generated to be at least min_distance (2 °F) away from the correct answer:
+  (A) 5 °F (9 - 4 = 5, which is more than min_distance away)
+  (C) 14 °F (9 + 5 = 14, which is more than min_distance away)
+  (D) 20 °F (9 + 11 = 20, which is more than min_distance away)

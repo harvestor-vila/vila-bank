@@ -1,0 +1,7 @@
+part 1: What is the range of energy production values depicted in the bar chart?
+    part 2: 
+    (A) [96, 466]
+    (B) [85, 466]
+    (C) [113, 405]
+    (D) [90, 466]
+    part 3: (C) [113, 405]

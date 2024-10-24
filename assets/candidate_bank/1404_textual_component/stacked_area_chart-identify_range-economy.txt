@@ -1,0 +1,7 @@
+part 1: What is the range of the economic sector values represented in the stacked area chart?
+    part 2: 
+    (A) [643, 1599]
+    (B) [529, 1808]
+    (C) [415, 2017]
+    (D) [757, 1390]
+    part 3: (D) [757, 1390]

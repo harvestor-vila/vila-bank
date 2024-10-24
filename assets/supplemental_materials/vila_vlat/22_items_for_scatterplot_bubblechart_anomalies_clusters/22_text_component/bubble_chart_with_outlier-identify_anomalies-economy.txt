@@ -1,0 +1,7 @@
+part 1: Which country's data point is an outlier in the bubble chart of economic indicators?
+    part 2: 
+      (A) Country B
+      (B) Country C
+      (C) Country A
+      (D) Country F
+    part 3: (C) Country A

@@ -1,0 +1,9 @@
+part 1: Which political party has the smallest percentage of representation in the pie chart?
+
+part 2: 
+(A) Conservative
+(B) Green
+(C) Socialist
+(D) Liberal
+
+part 3: (B) Green

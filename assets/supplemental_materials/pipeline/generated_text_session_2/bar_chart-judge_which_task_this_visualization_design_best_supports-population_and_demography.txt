@@ -1,0 +1,9 @@
+part 1: What task does this bar chart design best support?
+
+part 2: 
+  (A) Comparing the population size across different age groups
+  (B) Showing the population change over time for a single age group
+  (C) Illustrating the geographical distribution of the population
+  (D) Demonstrating the correlation between age and income levels
+
+part 3: (A) Comparing the population size across different age groups

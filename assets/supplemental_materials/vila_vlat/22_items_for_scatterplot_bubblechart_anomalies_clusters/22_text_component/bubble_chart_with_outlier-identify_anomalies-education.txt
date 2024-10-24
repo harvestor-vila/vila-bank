@@ -1,0 +1,7 @@
+part 1: Which data point on the bubble chart represents an outlier in terms of Enrollment, Graduation Rate, and Funding?
+    part 2: 
+      (A) School B
+      (B) School C
+      (C) School A
+      (D) School F
+    part 3: (C) School A

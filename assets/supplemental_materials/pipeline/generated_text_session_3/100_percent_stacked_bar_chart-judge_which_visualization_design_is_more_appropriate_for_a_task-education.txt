@@ -1,0 +1,11 @@
+part 1: the question stem of the original item
+Which visualization design is most appropriate to compare the proportional distribution of subjects within each school? The visualization above is only a demonstration of the relevant data.
+
+part 2: options of the original item
+(A) A pie chart for each school showing the distribution of subjects.
+(B) A line graph with time on the x-axis and percentage of each subject on the y-axis.
+(C) A scatter plot with schools on the x-axis and percentage of each subject on the y-axis.
+(D) A 100 percent stacked bar chart with schools on the x-axis and the percentage of each subject represented in stacked segments.
+
+part 3: the correct answer of the original item
+(D) A 100 percent stacked bar chart with schools on the x-axis and the percentage of each subject represented in stacked segments.

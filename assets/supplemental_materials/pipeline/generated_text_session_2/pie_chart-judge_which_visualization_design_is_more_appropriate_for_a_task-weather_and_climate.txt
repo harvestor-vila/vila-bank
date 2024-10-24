@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relative proportions of different climate categories?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A scatter plot with climate categories on the x-axis and percentages on the y-axis.
+(B) A pie chart with different climate categories represented as slices proportional to their percentage.
+(C) A line graph with climate categories on the x-axis and percentages on the y-axis.
+(D) A bar chart with climate categories on the x-axis and different colors representing each percentage.
+
+part 3: the correct answer
+(B) A pie chart with different climate categories represented as slices proportional to their percentage.

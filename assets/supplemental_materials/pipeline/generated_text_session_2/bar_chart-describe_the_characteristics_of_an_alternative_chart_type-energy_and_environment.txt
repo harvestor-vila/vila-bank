@@ -1,0 +1,9 @@
+part 1: If the energy production data were to be displayed using a pie chart instead of a bar chart, which of the following would be a characteristic of the pie chart?
+
+part 2: 
+(A) Each energy source would be represented by a slice, with the slice size proportional to the production value.
+(B) Energy sources with higher production would be represented by darker shades, while those with lower production would be lighter.
+(C) The pie chart would display energy sources on the x-axis and production values on the y-axis.
+(D) The pie chart would use varying bar heights to represent the production values of each energy source.
+
+part 3: (A) Each energy source would be represented by a slice, with the slice size proportional to the production value.

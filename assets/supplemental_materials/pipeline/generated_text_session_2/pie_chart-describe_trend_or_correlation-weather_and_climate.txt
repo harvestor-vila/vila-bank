@@ -1,0 +1,9 @@
+part 1: What pattern does the pie chart of climate category distribution reveal?
+
+part 2: 
+(A) There is a strong positive correlation between the climate categories and their respective percentages.
+(B) The Temperate climate has the highest percentage, followed by Cold, Tropical, Arid, and Polar climates.
+(C) The percentages of the climate categories are all equal.
+(D) There is a strong negative correlation between the climate categories and their respective percentages.
+
+part 3: (B) The Temperate climate has the highest percentage, followed by Cold, Tropical, Arid, and Polar climates.

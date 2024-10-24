@@ -1,0 +1,7 @@
+part 1: Which issue did Party_C allocate the highest percentage of their focus on?
+part 2: 
+(A) Economy
+(B) Healthcare
+(C) Education
+(D) Defense
+part 3: (D) Defense

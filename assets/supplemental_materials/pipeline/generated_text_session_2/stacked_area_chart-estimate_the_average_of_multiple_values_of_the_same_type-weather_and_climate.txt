@@ -1,0 +1,9 @@
+part 1: What is the average temperature over the 20-day period depicted in the chart?
+
+part 2: 
+  (A) 19.3
+  (B) 23.3
+  (C) 27.3
+  (D) 31.3
+
+part 3: (B) 23.3

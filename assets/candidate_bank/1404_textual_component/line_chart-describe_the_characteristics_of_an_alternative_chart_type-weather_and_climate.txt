@@ -1,0 +1,7 @@
+part 1: If the daily average temperature data over 20 days were to be displayed using a line chart, which of the following best describes its characteristics?
+    part 2: 
+    (A) The line chart would show the distribution of days across different temperature ranges, with each slice representing a unique day and its corresponding temperature.
+    (B) The line chart would display bars representing the proportion of days within certain temperature ranges.
+    (C) The line chart would consist of bars that represent the frequency of temperature ranges, with the height of each bar indicating how many days fell into each temperature range.
+    (D) The line chart would connect points representing daily temperatures with lines, showing the trend of temperature change over the 20-day period.
+    part 3: (D) The line chart would connect points representing daily temperatures with lines, showing the trend of temperature change over the 20-day period.

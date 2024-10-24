@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the bar chart depicting energy production by source?
+
+part 2: 
+  (A) Horizontal: Production (GWh), Vertical: Energy Source
+  (B) Horizontal: Energy Source, Vertical: Production (GWh)
+  (C) Horizontal: Energy Type, Vertical: Production (MWh)
+  (D) Horizontal: Source of Energy, Vertical: Quantity (GWh)
+
+part 3: (B) Horizontal: Energy Source, Vertical: Production (GWh)

@@ -1,0 +1,9 @@
+part 1: Which income bracket has more individuals, those earning around $50,000 or those earning around $60,000?
+
+part 2: 
+(A) $50,000 bracket has more individuals
+(B) $60,000 bracket has more individuals
+(C) Both brackets have the same number of individuals
+(D) It is impossible to determine from the histogram
+
+part 3: (A) $50,000 bracket has more individuals

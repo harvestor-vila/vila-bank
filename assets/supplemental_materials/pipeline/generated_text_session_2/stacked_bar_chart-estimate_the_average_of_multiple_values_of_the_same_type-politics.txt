@@ -1,0 +1,9 @@
+part 1: What is the average number of votes for the "Economy" issue across all states?
+
+part 2: 
+  (A) 613
+  (B) 705
+  (C) 521
+  (D) 797
+
+part 3: (A) 613

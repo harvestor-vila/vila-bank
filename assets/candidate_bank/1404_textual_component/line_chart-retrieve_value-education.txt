@@ -1,0 +1,7 @@
+part 1: What was the enrollment number in the academic year 2019?
+    part 2: 
+      (A) 100
+      (B) 142
+      (C) 180
+      (D) 50
+    part 3: (B) 142

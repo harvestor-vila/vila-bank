@@ -1,0 +1,7 @@
+part 1: What is the range of student enrollments over the academic years depicted in the line chart?
+    part 2: 
+    (A) [43, 163]
+    (B) [50, 170]
+    (C) [40, 171]
+    (D) [58, 150]
+    part 3: (D) [58, 150]

@@ -1,0 +1,7 @@
+part 1: What does the legend label represent in the tree map visualization of Energy and Environment?
+    part 2: 
+    (A) Subcategory percentages
+    (B) Category types
+    (C) Value ranges
+    (D) Conservation methods
+    part 3: (B) Category types

@@ -1,0 +1,7 @@
+part 1: What is the ratio of the GDP value for the year 2011 to the GDP value for the year 2018?
+    part 2: 
+      (A) 0.0
+      (B) 1.0
+      (C) 2.0
+      (D) 3.0
+    part 3: (B) 1.0

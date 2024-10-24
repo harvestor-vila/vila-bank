@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the range of Temperature values in the scatterplot?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) [52°F, 115°F]
+(B) [62°F, 100°F]
+(C) [42°F, 130°F]
+(D) [32°F, 145°F]
+
+part 3: the correct answer
+(B) [62°F, 100°F]

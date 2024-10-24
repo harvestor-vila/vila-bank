@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the range of Innovation Scores depicted in the scatterplot?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) [90, 230]
+(B) [74, 260]
+(C) [58, 290]
+(D) [106, 200]
+
+part 3: the correct answer
+(D) [106, 200]

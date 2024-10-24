@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the exact number of cases for each disease?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart with different colors representing each disease.
+(B) A bar chart with the diseases on the x-axis and the number of cases on the y-axis.
+(C) A line graph with the diseases on the x-axis and the number of cases on the y-axis.
+(D) A scatter plot with the diseases on the x-axis and the number of cases on the y-axis.
+
+part 3: the correct answer
+(B) A bar chart with the diseases on the x-axis and the number of cases on the y-axis.

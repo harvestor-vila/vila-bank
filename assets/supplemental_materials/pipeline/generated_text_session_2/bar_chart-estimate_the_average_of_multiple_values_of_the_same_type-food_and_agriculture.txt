@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the average production value (in tonnes) for the food items shown in the bar chart?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) 355
+(B) 481
+(C) 544
+(D) 418
+
+part 3: the correct answer
+(D) 418

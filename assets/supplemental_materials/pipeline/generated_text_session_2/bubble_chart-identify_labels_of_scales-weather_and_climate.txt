@@ -1,0 +1,9 @@
+part 1: What are the labels for the x-axis and y-axis in the bubble chart?
+
+part 2: 
+  (A) x-axis: Precipitation (mm), y-axis: Location
+  (B) x-axis: Temperature (°F), y-axis: Humidity (%)
+  (C) x-axis: Location, y-axis: Precipitation (mm)
+  (D) x-axis: Humidity (%), y-axis: Temperature (°F)
+
+part 3: (B) x-axis: Temperature (°F), y-axis: Humidity (%)

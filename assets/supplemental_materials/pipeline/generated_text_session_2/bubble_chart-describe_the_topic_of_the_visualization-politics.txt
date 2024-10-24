@@ -1,0 +1,9 @@
+part 1: What is the topic of the visualization?
+
+part 2: 
+(A) Comparison of educational institutions based on enrollment and endowment funds
+(B) Analysis of sports teams' performance in relation to their budget and wins
+(C) Relationship between political parties' votes, seats, and funding
+(D) Market share distribution among technology companies and their R&D investment
+
+part 3: (C) Relationship between political parties' votes, seats, and funding

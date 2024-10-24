@@ -1,0 +1,9 @@
+part 1: Which company has a higher percentage of Service Innovation compared to Process Innovation?
+
+part 2: 
+(A) Company A
+(B) Company B
+(C) Company C
+(D) Company E
+
+part 3: (A) Company A

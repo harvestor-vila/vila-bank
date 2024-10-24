@@ -1,0 +1,9 @@
+part 1: Which patient is represented by the largest bubble on the bubble chart?
+    part 2: 
+    (A) Patient 1
+    (B) Patient 2
+    (C) Patient 3
+    (D) Patient 4
+    part 3: (B) Patient 2
+
+This new item asks for the patient with the largest bubble, which is determined by the CholesterolLevel. Based on the dataset, Patient 2 has the highest CholesterolLevel (286) and therefore the largest bubble. The other options are incorrect as their CholesterolLevels are lower.

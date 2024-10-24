@@ -1,0 +1,7 @@
+part 1: What year did soybeans reach their maximum production?
+part 2: 
+(A) 2000
+(B) 2012
+(C) 2019
+(D) 2015
+part 3: (B) 2012

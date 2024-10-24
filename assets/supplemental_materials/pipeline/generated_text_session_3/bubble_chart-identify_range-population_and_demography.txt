@@ -1,0 +1,7 @@
+part 1: What is the range of GDP Per Capita (USD) values represented in the bubble chart?
+    part 2: 
+      (A) [25000, 115000]
+      (B) [39641, 95160]
+      (C) [35000, 105000]
+      (D) [30000, 110000]
+    part 3: (B) [39641, 95160]

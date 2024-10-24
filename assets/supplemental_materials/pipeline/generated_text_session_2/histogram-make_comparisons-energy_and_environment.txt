@@ -1,0 +1,9 @@
+part 1: Which range of Energy Consumption (MWh) has a higher frequency, 0-10 MWh or 40-50 MWh?
+
+part 2: 
+  (A) 0-10 MWh
+  (B) 40-50 MWh
+  (C) Both ranges have the same frequency
+  (D) Cannot be determined from the histogram
+
+part 3: (A) 0-10 MWh

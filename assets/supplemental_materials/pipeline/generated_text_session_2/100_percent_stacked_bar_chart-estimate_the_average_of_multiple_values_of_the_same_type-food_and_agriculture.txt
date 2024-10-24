@@ -1,0 +1,9 @@
+part 1: What is the average percentage of the Dairy category across the years 2019, 2020, and 2021?
+
+part 2: 
+(A) 10.7
+(B) 13.7
+(C) 19.7
+(D) 22.7
+
+part 3: (C) 19.7

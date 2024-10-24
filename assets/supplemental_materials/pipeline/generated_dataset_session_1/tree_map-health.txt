@@ -1,0 +1,13 @@
+"Category"	"Subcategory"	"Percentage"
+"Cardiology"	"Arrhythmia"	10
+"Cardiology"	"Hypertension"	15
+"Neurology"	"Stroke"	5
+"Neurology"	"Alzheimer's"	8
+"Oncology"	"Brain Cancer"	12
+"Oncology"	"Spinal Cord"	6
+"Pediatrics"	"Leukemia"	9
+"Pediatrics"	"Breast Cancer"	7
+"Orthopedics"	"General"	10
+"Orthopedics"	"Vaccination"	8
+"Cardiology"	"Bone Fracture"	5
+"Cardiology"	"Arthritis"	5

@@ -1,0 +1,9 @@
+part 1: In which academic year did the enrollment reach its maximum value?
+
+part 2: 
+(A) Year 2004
+(B) Year 2009
+(C) Year 2016
+(D) Year 2018
+
+part 3: (B) Year 2009

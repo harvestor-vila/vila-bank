@@ -1,0 +1,9 @@
+part 1: What task does the stacked bar chart design best support?
+
+part 2: 
+  (A) Comparing the total combined values of different climate factors across cities
+  (B) Identifying the exact value of each climate factor for each city
+  (C) Showing the distribution of a single climate factor within one city
+  (D) Displaying the trend of climate factors over time for each city
+
+part 3: (A) Comparing the total combined values of different climate factors across cities

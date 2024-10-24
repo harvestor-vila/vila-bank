@@ -1,0 +1,7 @@
+part 1: Which task does the histogram of votes in a hypothetical primary election best support?
+    part 2: 
+    (A) Identifying the exact number of candidates who received a specific range of votes
+    (B) Comparing the mean number of votes to the median number of votes
+    (C) Showing the distribution of votes across candidates
+    (D) Displaying the change in the number of votes over time
+    part 3: (C) Showing the distribution of votes across candidates

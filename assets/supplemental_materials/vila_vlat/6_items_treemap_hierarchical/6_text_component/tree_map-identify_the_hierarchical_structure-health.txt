@@ -1,0 +1,7 @@
+part 1: Which category does the subcategory "Stroke" belong to in the tree map?
+    part 2: 
+      (A) Oncology
+      (B) Pediatrics
+      (C) Neurology
+      (D) Orthopedics
+    part 3: (C) Neurology

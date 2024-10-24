@@ -1,0 +1,7 @@
+part 1: What is the subject of the bar chart?
+    part 2: 
+      (A) The average temperature across different cities
+      (B) The production levels of various food items
+      (C) The population growth in different countries
+      (D) The annual rainfall measurements in different regions
+    part 3: (B) The production levels of various food items

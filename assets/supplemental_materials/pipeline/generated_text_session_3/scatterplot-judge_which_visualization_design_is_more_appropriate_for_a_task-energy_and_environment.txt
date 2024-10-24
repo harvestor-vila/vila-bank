@@ -1,0 +1,11 @@
+part 1: the question stem of the original item
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to understand the relationship between Energy Consumption and Carbon Emission?
+
+part 2: options of the original item
+(A) A pie chart showing the proportion of Energy Consumption categories to the total.
+(B) A scatterplot with Energy Consumption on the x-axis and Carbon Emission on the y-axis, with points representing data entries.
+(C) A bar chart with Energy Consumption on the x-axis and the count of entries in each Energy Consumption category on the y-axis.
+(D) A line graph showing the trend of Carbon Emission over time.
+
+part 3: the correct answer of the original item
+(B) A scatterplot with Energy Consumption on the x-axis and Carbon Emission on the y-axis, with points representing data entries.

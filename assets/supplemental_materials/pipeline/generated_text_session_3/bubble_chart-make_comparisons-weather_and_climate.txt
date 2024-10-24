@@ -1,0 +1,7 @@
+part 1: Which location has a larger bubble size indicating more precipitation, Location A or Location B?
+    part 2: 
+      (A) Location A
+      (B) Location B
+      (C) Location C
+      (D) Location D
+    part 3: (B) Location B

@@ -1,0 +1,9 @@
+part 1: What are the labels for the x-axis and y-axis in the agricultural production stacked bar chart?
+
+part 2: 
+  (A) x-axis: Region, y-axis: Product
+  (B) x-axis: Production (in tons), y-axis: Product
+  (C) x-axis: Product, y-axis: Production (in tons)
+  (D) x-axis: Production (in tons), y-axis: Region
+
+part 3: (C) x-axis: Product, y-axis: Production (in tons)

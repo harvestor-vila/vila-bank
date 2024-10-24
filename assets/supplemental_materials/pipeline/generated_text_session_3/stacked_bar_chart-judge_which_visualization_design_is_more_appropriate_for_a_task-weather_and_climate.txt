@@ -1,0 +1,6 @@
+part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the total values of different climate factors across all cities?
+part 2: (A) A pie chart showing the proportion of each climate factor within each city.
+(B) A stacked bar chart with cities on the x-axis and climate factor values stacked by color.
+(C) A line graph with time on the x-axis and value on the y-axis, with separate lines for each climate factor.
+(D) A scatter plot with climate factors on the x-axis and value on the y-axis, with different colors for each city.
+part 3: (B) A stacked bar chart with cities on the x-axis and climate factor values stacked by color.

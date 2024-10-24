@@ -1,0 +1,9 @@
+part 1: Which category represents the largest percentage of the population distribution?
+
+part 2: 
+  (A) Youth
+  (B) Adults
+  (C) Seniors
+  (D) Teenagers
+
+part 3: (B) Adults

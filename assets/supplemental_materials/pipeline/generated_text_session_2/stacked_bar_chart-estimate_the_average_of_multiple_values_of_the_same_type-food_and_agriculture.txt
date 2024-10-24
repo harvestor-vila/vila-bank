@@ -1,0 +1,11 @@
+part 1: What is the average production of Wheat across all regions?
+
+part 2:
+(A) 461.8
+(B) 543.8
+(C) 625.8
+(D) 707.8
+
+part 3: (B) 543.8
+
+Please note that the actual visualization is not provided here, but the question stem is designed in a way that the test taker should be able to answer it using the stacked bar chart visualization of agricultural production by product and region.

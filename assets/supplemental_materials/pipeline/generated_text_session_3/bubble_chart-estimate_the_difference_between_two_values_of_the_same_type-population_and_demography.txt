@@ -1,0 +1,7 @@
+part 1: What is the difference in GDP Per Capita (USD) between Metropolis and Gotham?
+    part 2: 
+      (A) 16793
+      (B) 22721
+      (C) 13829
+      (D) 19757
+    part 3: (D) 19757

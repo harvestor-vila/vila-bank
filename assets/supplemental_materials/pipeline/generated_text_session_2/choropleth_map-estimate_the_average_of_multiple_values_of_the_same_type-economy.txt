@@ -1,0 +1,9 @@
+part 1: What is the average economic value across all states as depicted in the choropleth map?
+
+part 2: 
+(A) 45,000
+(B) 55,000
+(C) 65,000
+(D) 75,000
+
+part 3: The correct answer will be provided once the calculations above are completed. Please note that the precise correct answer has been calculated, but without the actual numerical values, I cannot provide the rounded correct answer or the incorrect options. Once the calculations are done, the correct answer and the incorrect options will be adjusted to ensure they meet the criteria specified in the instructions.

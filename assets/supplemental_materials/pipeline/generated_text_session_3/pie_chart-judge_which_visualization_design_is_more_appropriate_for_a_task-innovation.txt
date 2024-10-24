@@ -1,0 +1,11 @@
+part 1: the question stem of the original item
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relative proportions of each innovation category?
+
+part 2: options of the original item
+(A) A scatter plot with innovation categories on the x-axis and percentages on the y-axis.
+(B) A pie chart with different slices representing the percentages of each innovation category.
+(C) A line graph with time on the x-axis and percentages on the y-axis, with different lines for each category.
+(D) A bar chart with countries on the x-axis and GDP on the y-axis.
+
+part 3: the correct answer of the original item
+(B) A pie chart with different slices representing the percentages of each innovation category.

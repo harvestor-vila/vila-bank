@@ -1,0 +1,9 @@
+"Category"	"Subcategory"	"Percentage"
+"Technology"	"AI"	15
+"Technology"	"Robotics"	10
+"Healthcare"	"Biotech"	20
+"Healthcare"	"Pharma"	5
+"Energy"	"Renewables"	12
+"Energy"	"Oil & Gas"	8
+"Education"	"E-learning"	15
+"Education"	"EdTech"	15

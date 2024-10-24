@@ -1,0 +1,9 @@
+part 1: In which year was the Energy Consumption at its minimum value?
+
+part 2: 
+(A) 2000
+(B) 2010
+(C) 2015
+(D) 2019
+
+part 3: (D) 2019

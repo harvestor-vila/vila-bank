@@ -1,0 +1,7 @@
+part 1: How does the Energy Consumption at Time 10 compare to that at Time 20?
+part 2: 
+  (A) Energy Consumption at Time 10 is higher.
+  (B) Energy Consumption at Time 10 is lower.
+  (C) Energy Consumption at Time 10 is the same.
+  (D) There is no data for Time 10 or Time 20.
+part 3: (B) Energy Consumption at Time 10 is lower.

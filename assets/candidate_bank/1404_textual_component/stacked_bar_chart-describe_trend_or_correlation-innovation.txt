@@ -1,0 +1,7 @@
+part 1: What pattern does the stacked bar chart reveal about the number of innovations across different sectors?
+    part 2: 
+    (A) The Energy sector has consistently the highest number of innovations across all innovation types.
+    (B) The Transport sector shows a decreasing trend in the number of innovations from Patents to Collaborations.
+    (C) There is no clear trend or correlation in the number of innovations across different sectors and innovation types.
+    (D) The Tech sector has the lowest number of innovations for each innovation type.
+    part 3: (C) There is no clear trend or correlation in the number of innovations across different sectors and innovation types.

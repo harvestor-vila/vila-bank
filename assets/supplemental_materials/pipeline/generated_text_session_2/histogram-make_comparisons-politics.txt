@@ -1,0 +1,11 @@
+part 1: the question stem
+Which range of votes contains more candidates, 0-50 or 100-150?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) 0-50
+(B) 100-150
+(C) Both ranges contain the same number of candidates
+(D) The visualization does not provide enough information to determine the answer
+
+part 3: the correct answer
+(A) 0-50

@@ -1,0 +1,9 @@
+part 1: If the health-related activities distribution were displayed using a stacked bar chart instead of a pie chart, which of the following would correctly describe its characteristics?
+
+part 2: 
+(A) Each category would be represented by a separate bar, with lengths proportional to the percentage values, all aligned horizontally.
+(B) Categories would be represented by concentric circles, with the radii proportional to the percentage values.
+(C) Categories would be represented by individual points plotted along a single axis, with distances from the origin based on the percentage values.
+(D) Each category would be represented by segments of a single bar, stacked end-to-end in descending order of percentage values.
+
+part 3: (D) Each category would be represented by segments of a single bar, stacked end-to-end in descending order of percentage values.

@@ -1,0 +1,7 @@
+part 1: What is the most common age in the population?
+    part 2: 
+      (A) 20
+      (B) 35
+      (C) 40
+      (D) 55
+    part 3: (C) 40

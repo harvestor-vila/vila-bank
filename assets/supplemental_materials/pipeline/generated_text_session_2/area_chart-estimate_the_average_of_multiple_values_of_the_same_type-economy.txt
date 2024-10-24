@@ -1,0 +1,7 @@
+part 1: Estimate the average GDP (in billions) from the area chart.
+part 2: 
+  (A) 816
+  (B) 1106
+  (C) 671
+  (D) 961.0
+part 3: 961.0

@@ -1,0 +1,7 @@
+part 1: Estimate the average Innovation Score represented in the bubble chart.
+part 2: 
+  (A) 68.9
+  (B) 94.9
+  (C) 55.9
+  (D) 81.9
+part 3: (D) 81.9

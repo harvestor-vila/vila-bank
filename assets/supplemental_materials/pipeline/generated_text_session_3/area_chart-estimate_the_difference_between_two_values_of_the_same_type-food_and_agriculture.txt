@@ -1,0 +1,7 @@
+part 1: What is the estimated difference in agricultural production (in tons) between the years 2011 and 2016?
+    part 2: 
+      (A) 2 tons
+      (B) 15 tons
+      (C) 83 tons
+      (D) 102 tons
+    part 3: (A) 2 tons

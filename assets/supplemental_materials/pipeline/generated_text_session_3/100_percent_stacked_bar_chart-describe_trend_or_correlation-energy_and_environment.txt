@@ -1,0 +1,7 @@
+part 1: What consistent trend in energy source usage is observed over the years 2019 to 2021?
+    part 2: 
+      (A) A consistent increase in the percentage of Solar energy used each year.
+      (B) A consistent decline in the use of Fossil Fuels over the three years.
+      (C) Nuclear energy remained the most dominant source throughout the years.
+      (D) Hydro energy usage consistently increased each year.
+    part 3: (B) A consistent decline in the use of Fossil Fuels over the three years.

@@ -1,0 +1,7 @@
+part 1: What is the GDP Per Capita (USD) for Gotham?
+    part 2: 
+      (A) 95160
+      (B) 110000
+      (C) 80000
+      (D) 120000
+    part 3: (A) 95160

@@ -1,0 +1,7 @@
+part 1: Which issue received more votes in State 3, Healthcare or Education?
+    part 2: 
+      (A) Healthcare
+      (B) Education
+      (C) Votes were equal for both issues
+      (D) Neither issue received votes
+    part 3: (A) Healthcare

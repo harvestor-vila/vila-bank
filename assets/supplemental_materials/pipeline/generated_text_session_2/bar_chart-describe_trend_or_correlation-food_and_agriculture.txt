@@ -1,0 +1,9 @@
+part 1: What pattern does the bar chart of food production reveal about the production values of the different food items?
+
+part 2: 
+  (A) There is a strong positive correlation between the alphabetical order of food items and their production values.
+  (B) Production values decrease as we move from left to right on the food item axis.
+  (C) There is no clear trend or correlation between the type of food item and its production value.
+  (D) The production values show a cyclical pattern, increasing and decreasing every other food item.
+
+part 3: (C) There is no clear trend or correlation between the type of food item and its production value.

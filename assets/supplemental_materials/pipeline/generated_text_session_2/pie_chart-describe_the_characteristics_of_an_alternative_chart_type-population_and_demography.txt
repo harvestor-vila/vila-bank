@@ -1,0 +1,9 @@
+part 1: If the population distribution by category were to be displayed using a bar chart instead of a pie chart, which of the following would best describe its characteristics?
+
+part 2: 
+(A) A bar chart with horizontal bars, where each bar's length is proportional to the population percentage, and bars are labeled with the population count.
+(B) A bar chart with vertical bars, where each bar's height is proportional to the population percentage, and bars are labeled with the category names.
+(C) A bar chart with vertical bars, where each bar's height is proportional to the category name's length, and bars are colored differently for each percentage.
+(D) A bar chart with horizontal bars, where each bar's length is proportional to the category name's length, and bars are labeled with the percentage values.
+
+part 3: (B) A bar chart with vertical bars, where each bar's height is proportional to the population percentage, and bars are labeled with the category names.

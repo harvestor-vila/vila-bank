@@ -1,0 +1,9 @@
+part 1:  Which visualization design is most appropriate for displaying hierarchical relationships among educational categories and their respective subcategories, along with the proportion of each subcategory? The visualization above is only a demonstration of the relevant data.
+
+part 2:
+(A) A pie chart with different colors representing each subcategory and slices proportional to their percentages.
+(B) A scatter plot with points representing subcategories and their position on the x-axis corresponding to their percentage.
+(C) A treemap with nested rectangles representing subcategories within larger category rectangles, sized according to their percentages.
+(D) A line graph with time on the x-axis and percentage on the y-axis, with lines representing the trend of percentages over time for each subcategory.
+
+part 3:   (C) A treemap with nested rectangles representing subcategories within larger category rectangles, sized according to their percentages.

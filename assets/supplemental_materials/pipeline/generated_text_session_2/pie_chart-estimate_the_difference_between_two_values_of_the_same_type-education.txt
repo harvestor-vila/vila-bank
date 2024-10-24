@@ -1,0 +1,9 @@
+part 1: What is the difference in percentage points between the proportion of individuals with High School education and those with an Undergraduate degree?
+
+part 2: 
+  (A) 5
+  (B) 10
+  (C) 20
+  (D) 15
+
+part 3: (B) 10

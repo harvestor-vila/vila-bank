@@ -1,0 +1,9 @@
+part 1: What task does the area chart design best support?
+
+part 2: 
+  (A) Comparing GDP across different years
+  (B) Showing the distribution of GDP values over a period
+  (C) Identifying the correlation between GDP and another variable
+  (D) Highlighting the exact GDP values for individual years
+
+part 3: (B) Showing the distribution of GDP values over a period

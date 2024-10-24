@@ -1,0 +1,7 @@
+part 1: What are the labels for the horizontal and vertical axes in the line chart?
+    part 2: 
+      (A) Horizontal: Heart Rate (bpm), Vertical: Day
+      (B) Horizontal: Day, Vertical: Heart Rate (bpm)
+      (C) Horizontal: Time, Vertical: Pulse
+      (D) Horizontal: Date, Vertical: Blood Pressure
+    part 3: (B) Horizontal: Day, Vertical: Heart Rate (bpm)

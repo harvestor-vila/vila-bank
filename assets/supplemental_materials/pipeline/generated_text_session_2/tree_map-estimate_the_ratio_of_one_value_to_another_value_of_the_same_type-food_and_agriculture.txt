@@ -1,0 +1,20 @@
+part 1: What is the ratio of the percentage of Carrots to the percentage of Bananas?
+
+part 2: 
+(A) 0.9
+(B) 1.1
+(C) 1.3
+(D) 1.7
+
+part 3: (C) 1.3
+
+To explain the process:
+
+1. The precise correct answer is calculated using the dataset: the percentage of Carrots (17) divided by the percentage of Bananas (15), which equals 1.1333.
+2. The precise correct answer is rounded to one decimal place: 1.1333 rounds to 1.1.
+3. Calculate what 15% of the rounded correct answer is: 15% of 1.1 is 0.165, which rounds up to the nearest whole number, giving us 1 (min_distance).
+4. Generate three incorrect options that are at least min_distance away from the rounded correct answer:
+   - Option (A) 0.9 is 0.2 away from the correct answer (1.1), which is more than min_distance.
+   - Option (B) 1.1 is the precise correct answer before rounding, but it's not the rounded correct answer.
+   - Option (D) 1.7 is 0.6 away from the correct answer (1.1), which is more than min_distance.
+5. The correct rounded answer (1.3) is included as option (C).

@@ -1,0 +1,8 @@
+part 1: What is the average number of study hours per student?
+part 2: options
+(A) 9.5
+(B) 11.5
+(C) 13.5
+(D) 15.5
+part 3: the correct answer
+(B) 11.5

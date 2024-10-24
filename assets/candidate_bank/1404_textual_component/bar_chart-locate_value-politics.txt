@@ -1,0 +1,7 @@
+part 1: Which political party received the maximum number of votes?
+    part 2: 
+    (A) Socialist
+    (B) Green
+    (C) Centrist
+    (D) Pirate
+    part 3: (D) Pirate

@@ -1,0 +1,7 @@
+part 1: What is the subject of the tree map visualization?
+    part 2: 
+      (A) The distribution of energy consumption by different sectors
+      (B) The market share of various technology companies
+      (C) The proportion of different food categories in a diet
+      (D) The popularity of different genres of music
+    part 3: (C) The proportion of different food categories in a diet

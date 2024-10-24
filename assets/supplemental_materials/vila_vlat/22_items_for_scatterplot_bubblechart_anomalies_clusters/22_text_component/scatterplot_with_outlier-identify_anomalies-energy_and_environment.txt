@@ -1,0 +1,7 @@
+part 1: Which data point on the scatterplot represents an outlier in the relationship between Energy Consumption and CO2 Emissions?
+    part 2: 
+    (A) Energy Consumption: 300 MWh, CO2 Emissions: 600 Metric Tons
+    (B) Energy Consumption: 400 MWh, CO2 Emissions: 500 Metric Tons
+    (C) Energy Consumption: 750 MWh, CO2 Emissions: 1500 Metric Tons
+    (D) Energy Consumption: 200 MWh, CO2 Emissions: 400 Metric Tons
+    part 3: (C) Energy Consumption: 750 MWh, CO2 Emissions: 1500 Metric Tons

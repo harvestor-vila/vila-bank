@@ -1,0 +1,9 @@
+part 1: If the 100 percent stacked bar chart showing the energy source distribution over years were to be converted into a pie chart for the year 2021, which of the following descriptions would be accurate?
+
+part 2: 
+(A) Each slice of the pie chart would represent a different year, with the size of each slice proportional to the total number of energy sources in that year.
+(B) The pie chart would consist of five slices, each representing an energy source's contribution to the total energy mix, with the "Fossil Fuels" slice being the largest.
+(C) The pie chart would show a single slice representing the "Nuclear" energy source, as it is the only source used in 2021.
+(D) The pie chart would have five slices, corresponding to each energy source, with the "Solar" slice being the largest, followed by "Hydro" and "Nuclear" with smaller but similar-sized slices, and "Wind" and "Fossil Fuels" having the smallest slices.
+
+part 3: (D) The pie chart would have five slices, corresponding to each energy source, with the "Solar" slice being the largest, followed by "Hydro" and "Nuclear" with smaller but similar-sized slices, and "Wind" and "Fossil Fuels" having the smallest slices.

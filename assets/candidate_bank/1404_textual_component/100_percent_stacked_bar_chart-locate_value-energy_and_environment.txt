@@ -1,0 +1,7 @@
+part 1: In which year and for which energy source was the smallest percentage contribution to the energy mix shown?
+    part 2: 
+    (A) 2019, Solar
+    (B) 2020, Solar
+    (C) 2021, Fossil Fuels
+    (D) 2019, Hydro
+    part 3: (B) 2020, Solar

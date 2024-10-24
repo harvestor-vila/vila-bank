@@ -1,0 +1,7 @@
+part 1: What is the average production value (in tonnes) for the food items shown in the bar chart?
+    part 2:
+    (A) 350
+    (B) 481
+    (C) 545
+    (D) 418
+    part 3: (D) 418

@@ -1,0 +1,4 @@
+part 1: Estimate the difference between the highest and lowest Cholesterol Level recorded in the histogram.
+    part 2: (A) 134 (B) 158 (C) 182 (D) 206
+    part 3: (B) 158
+

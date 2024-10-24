@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the range of values represented on the choropleth map?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) [50, 1100]
+(B) [96, 1116]
+(C) [113, 970]
+(D) [130, 1200]
+
+part 3: the correct answer
+(C) [113, 970]

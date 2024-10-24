@@ -1,0 +1,9 @@
+part 1: Which state has a larger population, Colorado or Nevada?
+
+part 2: 
+(A) Colorado
+(B) Nevada
+(C) Both have the same population
+(D) Cannot be determined from the visualization
+
+part 3: (A) Colorado

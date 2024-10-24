@@ -1,0 +1,7 @@
+part 1: Which energy source shows a consistently increasing trend in production over the years 2000 to 2019?
+    part 2: 
+    (A) Solar energy production has shown a consistent increase each year.
+    (B) Wind energy production has shown a consistent increase each year.
+    (C) Hydro energy production has shown a consistent increase each year.
+    (D) No energy source shows a consistently increasing trend over the years.
+    part 3: (D) No energy source shows a consistently increasing trend over the years.

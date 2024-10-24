@@ -1,0 +1,9 @@
+part 1: What is the maximum test score observed in the dataset?
+
+part 2: 
+(A) 85
+(B) 107
+(C) 120
+(D) 75
+
+part 3: (B) 107

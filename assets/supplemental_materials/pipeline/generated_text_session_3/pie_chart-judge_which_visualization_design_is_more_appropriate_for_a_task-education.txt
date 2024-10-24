@@ -1,0 +1,11 @@
+part 1: the question stem of the original item
+Considering the educational levels and their respective percentages, judge which visualization design is more appropriate for displaying the proportional distribution of a categorical dataset. The visualization above is only a demonstration of the relevant data.
+
+part 2: options of the original item
+(A) A scatter plot with education levels on the x-axis and percentages on the y-axis.
+(B) A pie chart with different segments representing the proportion of each education level.
+(C) A line graph with education levels on the x-axis and percentages on the y-axis, connected by a line.
+(D) A bar chart with education levels on the x-axis and different bar heights representing the frequency of each level.
+
+part 3: the correct answer of the original item
+(B) A pie chart with different segments representing the proportion of each education level.

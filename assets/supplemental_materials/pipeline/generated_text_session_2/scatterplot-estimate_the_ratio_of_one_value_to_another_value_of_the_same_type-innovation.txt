@@ -1,0 +1,9 @@
+part 1: What is the ratio of the highest Innovation Score to the highest Research Investment?
+
+part 2: 
+  (A) 1.0
+  (B) 2.0
+  (C) 3.0
+  (D) 4.0
+
+part 3: (B) 2.0

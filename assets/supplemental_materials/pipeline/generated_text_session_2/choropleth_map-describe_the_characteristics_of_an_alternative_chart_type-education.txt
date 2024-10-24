@@ -1,0 +1,9 @@
+part 1: If the education data by state were to be displayed using a bar chart instead of a choropleth map, which of the following would be a characteristic of that bar chart?
+
+part 2: 
+(A) The bar chart would show a continuous gradient of colors representing different ranges of education values.
+(B) The bar chart would display horizontal or vertical bars with lengths proportional to the education values of each state.
+(C) The bar chart would use varying shades of a single color to represent the education values, with darker shades indicating higher values.
+(D) The bar chart would place each state's name on a map of the United States, with bar heights overlaid to indicate education values.
+
+part 3: (B) The bar chart would display horizontal or vertical bars with lengths proportional to the education values of each state.

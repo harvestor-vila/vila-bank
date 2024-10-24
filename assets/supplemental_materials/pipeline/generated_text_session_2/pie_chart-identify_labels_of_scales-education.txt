@@ -1,0 +1,9 @@
+part 1: What does the label of the colored segments in the pie chart represent?
+
+part 2: 
+  (A) Number of schools
+  (B) Education levels
+  (C) Student names
+  (D) School districts
+
+part 3: (B) Education levels

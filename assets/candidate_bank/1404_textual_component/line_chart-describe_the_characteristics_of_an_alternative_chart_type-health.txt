@@ -1,0 +1,7 @@
+part 1: If the daily heart rate measurements were displayed using a histogram instead of a line chart, which of the following would best describe its characteristics?
+    part 2: 
+    (A) The histogram would show the distribution of heart rate measurements over the 20-day period, with bars representing the frequency of measurements within specified heart rate intervals.
+    (B) The histogram would connect data points from the highest to the lowest heart rate, showing a continuous curve without individual data point markers.
+    (C) The histogram would display individual heart rate measurements as points along a circular path, with each day represented by a segment of the circle.
+    (D) The histogram would plot heart rate measurements against days, with each day's average heart rate represented by a single point on the chart.
+    part 3: (A) The histogram would show the distribution of heart rate measurements over the 20-day period, with bars representing the frequency of measurements within specified heart rate intervals.

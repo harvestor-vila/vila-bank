@@ -1,0 +1,7 @@
+part 1: What is the ratio of the percentage value for "Software" to that of "Hardware" in the Technology sector?
+    part 2: 
+      (A) 0.5
+      (B) 1.5
+      (C) 2.5
+      (D) 3.5
+    part 3: (B) 1.5

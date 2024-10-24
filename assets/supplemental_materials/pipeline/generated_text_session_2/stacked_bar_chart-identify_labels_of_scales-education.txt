@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal axis and the legend in the stacked bar chart of student distribution?
+
+part 2: 
+(A) Horizontal axis: Number of Students, Legend: Grade
+(B) Horizontal axis: Grade, Legend: School
+(C) Horizontal axis: School, Legend: Grade
+(D) Horizontal axis: Grade, Legend: Number of Students
+
+part 3: (C) Horizontal axis: School, Legend: Grade

@@ -1,0 +1,7 @@
+part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the exact number of graduates across different educational programs?
+    part 2:
+    (A) A pie chart with different colors representing each educational program.
+            (B) A bar chart with horizontal bars, where each bar's length represents the number of graduates in each program.
+            (C) A scatter plot with educational programs on the x-axis and the number of graduates on the y-axis.
+            (D) A line graph with educational programs on the x-axis and the number of graduates plotted over time.
+    part 3: (B) A bar chart with horizontal bars, where each bar's length represents the number of graduates in each program.

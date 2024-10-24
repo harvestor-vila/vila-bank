@@ -1,0 +1,9 @@
+part 1: Which education level has a larger share in the distribution, Middle School or Undergraduate?
+
+part 2: 
+  (A) Middle School
+  (B) Undergraduate
+  (C) High School
+  (D) Postgraduate
+
+part 3: (A) Middle School

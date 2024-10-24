@@ -1,0 +1,9 @@
+part 1: What is the label of the color scale in the choropleth map showing average temperatures?
+
+part 2: 
+(A) Population Density
+(B) Average Temperature
+(C) Median Income
+(D) Unemployment Rate
+
+part 3: (B) Average Temperature

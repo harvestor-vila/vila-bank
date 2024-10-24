@@ -1,0 +1,7 @@
+part 1: If the pie chart showing the distribution of innovation categories were to be represented as a bar chart instead, which of the following characteristics would the bar chart display?
+    part 2: 
+    (A) Each category would be represented by a line segment, with the length of the segment proportional to the percentage value.
+    (B) The categories would be displayed as points plotted on a grid, with the distance from the origin representing the percentage value.
+    (C) Each category would be represented by a separate bar, with the height of the bar corresponding to the percentage value.
+    (D) The categories would be represented as concentric circles, with the radius of each circle corresponding to the percentage value.
+    part 3: (C) Each category would be represented by a separate bar, with the height of the bar corresponding to the percentage value.

@@ -1,0 +1,9 @@
+part 1: If the distribution of standardized test scores were to be displayed using a histogram, which of the following would be an accurate description of its appearance?
+
+part 2: 
+(A) The histogram would show a symmetrical distribution with bars of equal height across the range of scores.
+(B) The histogram would display a left-skewed distribution with taller bars on the right side and shorter bars on the left side.
+(C) The histogram would show a right-skewed distribution with taller bars on the left side and shorter bars on the right side, indicating a tail extending to the right.
+(D) The histogram would have bars of equal height, indicating no variability in the test scores.
+
+part 3: (C) The histogram would show a right-skewed distribution with taller bars on the left side and shorter bars on the right side, indicating a tail extending to the right.

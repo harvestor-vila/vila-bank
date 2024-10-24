@@ -1,0 +1,22 @@
+part 1: Estimate the difference in Energy Consumption (GWh) between the years 2000 and 2019.
+
+part 2: 
+  (A) 700 GWh
+  (B) 823 GWh
+  (C) 900 GWh
+  (D) 1000 GWh
+
+part 3: (B) 823 GWh
+
+To explain the process:
+
+1. The precise correct answer is calculated using the dataset: Energy Consumption in 2000 (961 GWh) - Energy Consumption in 2019 (138 GWh) = 823 GWh.
+
+2. The rounded correct answer is already at one decimal place (823.0 GWh), so it remains 823 GWh.
+
+3. Calculating 15% of the rounded correct answer: 0.15 * 823 = 123.45, which rounds up to the nearest whole number as 124.
+
+4. Generating three incorrect options using min_distance (124):
+   - Option (A) must be at least 124 away from 823, so one possible incorrect option is 823 - 124 = 699, rounded to a whole number gives us 700 GWh.
+   - Option (C) could be 823 + 124 = 947, rounded to the nearest hundred gives us 900 GWh.
+   - Option (D) could be another step away, so 823 + 2*124 = 1071, rounded to the nearest thousand gives us 1000 GWh.

@@ -1,0 +1,9 @@
+part 1: What is the average percentage value across all economic sectors represented in the pie chart?
+
+part 2: 
+  (A) 14
+  (B) 17
+  (C) 20
+  (D) 26
+
+part 3: (C) 20

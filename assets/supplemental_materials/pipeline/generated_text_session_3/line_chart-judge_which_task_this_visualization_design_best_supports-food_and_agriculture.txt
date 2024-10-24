@@ -1,0 +1,7 @@
+part 1: What task does this line chart visualization design best support?
+    part 2: 
+      (A) Comparing the production values of multiple agricultural products in a single year
+      (B) Showing the distribution of production values across different categories of agricultural products
+      (C) Tracking the change in agricultural production over a period of years
+      (D) Identifying the correlation between agricultural production and another variable
+    part 3: (C) Tracking the change in agricultural production over a period of years

@@ -1,0 +1,9 @@
+part 1: What was the energy consumption in the year 2010?
+
+part 2: 
+  (A) 400 GWh
+  (B) 575 GWh
+  (C) 750 GWh
+  (D) 900 GWh
+
+part 3: (B) 575 GWh

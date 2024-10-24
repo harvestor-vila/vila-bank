@@ -1,0 +1,9 @@
+part 1: If the health subcategories distribution were to be displayed using a pie chart instead of a tree map, which of the following statements would correctly describe its characteristics?
+
+part 2: 
+(A) Each subcategory would be represented by a slice, with the slice size proportional to the number of health cases in each subcategory.
+(B) The pie chart would display each subcategory as a bar, with bar height representing the percentage of each health subcategory.
+(C) Subcategories would be shown as points along a line, with the distance from the center indicating the percentage of each health subcategory.
+(D) The pie chart would use varying shades of color to indicate the percentage of each subcategory, with darker shades representing higher percentages.
+
+part 3: (A) Each subcategory would be represented by a slice, with the slice size proportional to the number of health cases in each subcategory.

@@ -1,0 +1,9 @@
+part 1: What is the topic of the pie chart?
+
+part 2: 
+(A) Climate zones distribution across continents
+(B) Population distribution by age category
+(C) Market share of different technology companies
+(D) Distribution of land use in urban areas
+
+part 3: (B) Population distribution by age category

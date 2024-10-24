@@ -1,0 +1,11 @@
+part 1: Estimate the ratio of the total energy consumption for values 50 MWh and above to the total for values below 50 MWh.
+
+part 2: 
+(A) 0.7
+(B) 1.0
+(C) 0.4
+(D) 0.2
+
+part 3: (A) 0.7
+
+Please note that the options provided in part 2 are placeholders and would be replaced by the actual calculated values following the steps outlined above.

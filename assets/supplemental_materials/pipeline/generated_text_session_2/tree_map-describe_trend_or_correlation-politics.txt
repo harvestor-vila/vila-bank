@@ -1,0 +1,9 @@
+part 1: What pattern can be observed in the distribution of policy areas within the tree map visualization?
+
+part 2: 
+(A) Domestic Policy areas have a uniformly distributed percentage.
+(B) Each policy area has an equal number of subcategories.
+(C) Economic Policy subcategories each have the same percentage allocation.
+(D) Foreign Policy has the largest combined percentage of subcategories.
+
+part 3: (C) Economic Policy subcategories each have the same percentage allocation.

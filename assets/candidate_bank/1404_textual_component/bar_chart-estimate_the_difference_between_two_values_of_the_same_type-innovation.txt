@@ -1,0 +1,7 @@
+part 1: What is the difference in investment (in millions) between the IoT and AI sectors?
+    part 2: 
+    (A) 10.0
+    (B) 13.0
+    (C) 19.0
+    (D) 16.0
+    part 3: (D) 16.0

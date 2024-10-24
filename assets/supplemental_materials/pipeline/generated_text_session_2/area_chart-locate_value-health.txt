@@ -1,0 +1,9 @@
+part 1: What is the number of patients recovered on the day with the maximum recorded recovery?
+
+part 2: 
+  (A) 44 patients
+  (B) 68 patients
+  (C) 217 patients
+  (D) 128 patients
+
+part 3: (C) 217 patients

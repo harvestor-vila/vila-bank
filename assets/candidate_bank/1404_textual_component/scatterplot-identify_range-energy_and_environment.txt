@@ -1,0 +1,3 @@
+part 1: What is the range of Energy Consumption (MWh) values in the scatterplot?
+    part 2: (A) [90, 566] (B) [74, 640] (C) [58, 714] (D) [106, 492]
+    part 3: (D) [106, 492]

@@ -1,0 +1,7 @@
+part 1: What is the range of percentage values represented by the parties across all political issues?
+part 2: 
+(A) [3, 53]
+(B) [2, 60]
+(C) [1, 67]
+(D) [4, 46]
+part 3: (D) [4, 46]

@@ -1,0 +1,7 @@
+    part 1: What is the average Innovation Score?
+    part 2: 
+      (A) 10.3
+      (B) 7.3
+      (C) 8.0
+      (D) 13.0
+    part 3: (A) 10.3

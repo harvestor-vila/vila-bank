@@ -1,0 +1,9 @@
+part 1: Estimate the difference in population between California and Texas.
+
+part 2:
+(A) 1,031,600
+(B) 1,213,600
+(C) 1,395,600
+(D) 1,577,700
+
+part 3: (B) 1,213,600

@@ -1,0 +1,9 @@
+part 1: What is the maximum income value represented in the histogram?
+
+part 2: 
+  (A) $30,000
+  (B) $82,000
+  (C) $55,000
+  (D) $25,000
+
+part 3: (B) $82,000

@@ -1,0 +1,9 @@
+part 1: If the annual income by sector data were to be displayed using a line chart, which of the following characteristics would it have?
+
+part 2: 
+(A) Each sector would be represented by a pie slice, with the size of the slice corresponding to the sector's proportion of total income for each year.
+(B) The chart would show a series of points connected by lines for each sector, with the x-axis representing years and the y-axis representing income.
+(C) Bars would be arranged in clusters for each year, with each bar's height representing the income of a different sector.
+(D) A single bar would represent the combined income of all sectors for each year, with no distinction between sectors.
+
+part 3: (B) The chart would show a series of points connected by lines for each sector, with the x-axis representing years and the y-axis representing income.

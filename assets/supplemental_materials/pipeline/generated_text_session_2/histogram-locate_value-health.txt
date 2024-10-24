@@ -1,0 +1,9 @@
+part 1: What is the maximum cholesterol level recorded in the dataset?
+
+part 2: 
+  (A) 150
+  (B) 205
+  (C) 214
+  (D) 190
+
+part 3: (C) 214

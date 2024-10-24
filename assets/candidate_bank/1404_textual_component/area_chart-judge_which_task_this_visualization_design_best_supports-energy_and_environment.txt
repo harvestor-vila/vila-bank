@@ -1,0 +1,7 @@
+part 1: What task does the area chart design best support?
+    part 2: 
+    (A) Comparing individual yearly energy consumption values against each other
+    (B) Showing the distribution of energy consumption values over a specific year
+    (C) Identifying the correlation between energy consumption and another variable
+    (D) Tracking the change in energy consumption over time
+    part 3: (D) Tracking the change in energy consumption over time

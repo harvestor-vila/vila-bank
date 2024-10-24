@@ -1,0 +1,7 @@
+part 1: Estimate the difference in Fertilizer Use (kg/ha) between the highest and lowest values shown in the scatterplot.
+    part 2: 
+    (A) 952.0
+    (B) 1120.0
+    (C) 1288.0
+    (D) 1456.0
+    part 3: (B) 1120.0

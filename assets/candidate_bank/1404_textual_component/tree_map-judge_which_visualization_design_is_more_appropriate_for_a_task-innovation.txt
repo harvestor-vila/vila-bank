@@ -1,0 +1,9 @@
+part 1:  Which visualization design would be most appropriate to compare the relative sizes of the subsectors within each category? The visualization above is only a demonstration of the relevant data.
+
+part 2:
+(A) A line chart with time on the x-axis and percentage on the y-axis, with different lines representing each subsector.
+(B) A stacked bar chart with each bar representing a category and segments within the bars representing the subsectors' percentages.
+(C) A pie chart showing the percentage of each subsector without distinguishing between categories.
+(D) A scatter plot with subsectors on the x-axis and percentage on the y-axis, using different colors for each category.
+
+part 3:   (B) A stacked bar chart with each bar representing a category and segments within the bars representing the subsectors' percentages.

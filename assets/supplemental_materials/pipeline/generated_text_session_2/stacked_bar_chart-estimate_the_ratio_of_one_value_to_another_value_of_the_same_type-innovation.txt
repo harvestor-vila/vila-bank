@@ -1,0 +1,9 @@
+part 1: What is the ratio of the number of Startups to the number of Patents in the Tech sector?
+
+part 2: 
+(A) 1.5
+(B) 2.0
+(C) 0.8
+(D) 2.5
+
+part 3: (A) 1.5

@@ -1,0 +1,7 @@
+part 1: Estimate the average Systolic Blood Pressure (mmHg) for the patients represented in the bubble chart.
+    part 2: 
+    (A) 121.7
+    (B) 143.7
+    (C) 165.7
+    (D) 187.7
+    part 3: (B) 143.7

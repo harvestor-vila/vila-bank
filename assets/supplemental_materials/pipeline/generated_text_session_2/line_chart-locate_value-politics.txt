@@ -1,0 +1,9 @@
+part 1: What year had the highest approval rating?
+
+part 2: 
+  (A) 2006
+  (B) 2000
+  (C) 2015
+  (D) 2019
+
+part 3: (B) 2000

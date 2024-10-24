@@ -1,0 +1,7 @@
+part 1: What are the labels for the horizontal and vertical axes in the scatterplot?
+    part 2: 
+      (A) Horizontal: Average Grade, Vertical: Study Hours
+      (B) Horizontal: Study Hours, Vertical: Average Grade
+      (C) Horizontal: StudentID, Vertical: Study Hours
+      (D) Horizontal: Study Hours, Vertical: StudentID
+    part 3: (B) Horizontal: Study Hours, Vertical: Average Grade

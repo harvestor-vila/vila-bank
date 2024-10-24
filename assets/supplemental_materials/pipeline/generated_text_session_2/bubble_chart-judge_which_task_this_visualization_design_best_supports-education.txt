@@ -1,0 +1,9 @@
+part 1: What task does the bubble chart design best support?
+
+part 2: 
+  (A) Comparing the exact number of students across schools
+  (B) Understanding the relationship between school funding and average test scores
+  (C) Identifying the school with the highest number of students
+  (D) Tracking changes in average test scores over time
+
+part 3: (B) Understanding the relationship between school funding and average test scores

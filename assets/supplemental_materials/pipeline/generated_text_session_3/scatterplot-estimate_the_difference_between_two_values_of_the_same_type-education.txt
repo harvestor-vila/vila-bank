@@ -1,0 +1,7 @@
+part 1: Estimate the difference in average grades between the students who study the most and the least number of hours per week.
+    part 2: 
+      (A) 28.0
+      (B) 34.0
+      (C) 40.0
+      (D) 46.0
+    part 3: (B) 34.0

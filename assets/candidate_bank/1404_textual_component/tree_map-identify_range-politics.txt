@@ -1,0 +1,7 @@
+part 1: What is the range of policy percentages represented in the tree map?
+part 2:
+(A) [5, 35]
+(B) [10, 25]
+(C) [8, 23]
+(D) [10, 20]
+part 3: (D) [10, 20]

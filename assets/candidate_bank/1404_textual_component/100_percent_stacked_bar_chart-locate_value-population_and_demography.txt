@@ -1,0 +1,7 @@
+part 1: Which age group has the highest percentage of the male population?
+    part 2: 
+    (A) 0-14
+    (B) 15-24
+    (C) 25-54
+    (D) 75+
+    part 3: (D) 75+

@@ -1,0 +1,9 @@
+part 1: What is the topic of the visualization?
+
+part 2: 
+  (A) The distribution of global temperatures over different continents
+  (B) The breakdown of an economy by different sectors and their subcategories
+  (C) The comparison of population growth rates across various countries
+  (D) The market share of different smartphone manufacturers
+
+part 3: (B) The breakdown of an economy by different sectors and their subcategories

@@ -1,0 +1,7 @@
+part 1: What pattern does the bar chart of the number of cases by disease show?
+    part 2: 
+      (A) There is a strong positive correlation between the complexity of the disease and the number of cases.
+      (B) The number of cases for each disease is relatively similar, showing no significant variation.
+      (C) Heart Disease and Hypertension have the highest number of cases, while Asthma has the fewest.
+      (D) There is a clear increasing trend in the number of cases from the least to the most severe diseases.
+    part 3: (C) Heart Disease and Hypertension have the highest number of cases, while Asthma has the fewest.

@@ -1,0 +1,9 @@
+part 1: What trend is observed in the number of patients recovered over time?
+
+part 2: 
+  (A) The number of patients recovered decreases over time.
+  (B) The number of patients recovered remains constant over time.
+  (C) The number of patients recovered increases over time.
+  (D) There is no discernible trend in the number of patients recovered over time.
+
+part 3: (C) The number of patients recovered increases over time.

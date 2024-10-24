@@ -1,0 +1,11 @@
+part 1: Estimate the difference between the maximum and minimum 'Yield_per_Acre' as shown in the histogram.
+
+part 2:
+(A) 25.0
+(B) 10.0
+(C) 40.0
+(D) 55.0
+
+part 3: (A) 25.0
+
+In this hypothetical example, the precise correct answer was calculated to be 25 units before rounding. The rounded correct answer is 25.0 units. Assuming 15% of 25.0 is 3.75, which rounds up to 4, the `min_distance` is 4. The incorrect options (B), (C), and (D) are all at least 4 units away from the correct answer (A).

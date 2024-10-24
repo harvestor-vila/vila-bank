@@ -1,0 +1,7 @@
+part 1: What is the range of daily average temperatures displayed in the histogram?
+part 2:
+(A) [42, 104]
+(B) [38, 107]
+(C) [50, 90]
+(D) [45, 101]
+part 3: (C) [50, 90]

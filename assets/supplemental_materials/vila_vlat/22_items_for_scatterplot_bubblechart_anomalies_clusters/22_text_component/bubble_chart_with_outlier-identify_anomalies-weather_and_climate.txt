@@ -1,0 +1,7 @@
+part 1: Which city's weather data is represented as an outlier in the bubble chart of Temperature vs Humidity with Precipitation?
+    part 2: 
+      (A) Shelbyville
+      (B) Springfield
+      (C) Brockway
+      (D) Capital City
+    part 3: (B) Springfield

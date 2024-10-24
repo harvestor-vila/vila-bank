@@ -1,0 +1,8 @@
+part 1: Given the dataset's distribution of individual incomes, which visualization design would best allow a viewer to understand the central tendency and dispersion of the data? The visualization above is only a demonstration of the relevant data.
+
+part 2: (A) A pie chart showing the percentage of individuals within predefined income ranges.
+(B) A scatter plot with individual income values on the y-axis and a random spread on the x-axis to avoid overlap.
+(C) A box plot indicating the median, quartiles, and potential outliers in the income distribution.
+(D) A line graph showing the trend of income change over time with income on the y-axis and individual index on the x-axis.
+
+part 3: (C) A box plot indicating the median, quartiles, and potential outliers in the income distribution.

@@ -1,0 +1,7 @@
+part 1: If the population growth data were to be displayed using a bar chart instead of a line chart, which of the following would best describe its characteristics?
+    part 2: 
+    (A) Each year would be represented by a pie slice, with the size of the slice proportional to the population size for that year.
+    (B) Each year would be represented by a bar, with the height of the bar corresponding to the population size for that year.
+    (C) The chart would show a single bar, with different colors representing the population size for each year.
+    (D) The chart would consist of a series of points connected by dotted lines, with each point representing the population size for a given year.
+    part 3: (B) Each year would be represented by a bar, with the height of the bar corresponding to the population size for that year.

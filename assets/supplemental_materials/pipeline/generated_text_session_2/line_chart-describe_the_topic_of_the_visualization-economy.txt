@@ -1,0 +1,9 @@
+part 1: What is the topic of the visualization?
+
+part 2: 
+  (A) The fluctuation of global temperatures from 2000 to 2019
+  (B) The annual GDP growth rates from 2000 to 2019
+  (C) The population growth in various continents from 2000 to 2019
+  (D) The change in unemployment rates from 2000 to 2019
+
+part 3: (B) The annual GDP growth rates from 2000 to 2019

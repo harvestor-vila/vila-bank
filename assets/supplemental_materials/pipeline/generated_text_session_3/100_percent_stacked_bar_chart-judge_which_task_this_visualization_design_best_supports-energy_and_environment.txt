@@ -1,0 +1,7 @@
+part 1: What task does this 100 percent stacked bar chart best support?
+    part 2: 
+      (A) Comparing the exact values of energy source contributions within a single year
+      (B) Tracking the change of one energy source's contribution over multiple years
+      (C) Identifying the energy source with the highest contribution for a single year
+      (D) Showing the distribution of energy sources over multiple years relative to each other
+    part 3: (D) Showing the distribution of energy sources over multiple years relative to each other

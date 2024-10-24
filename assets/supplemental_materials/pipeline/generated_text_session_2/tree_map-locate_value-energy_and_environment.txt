@@ -1,0 +1,9 @@
+part 1: Which subcategory represents the largest percentage of the Energy and Environment categories?
+
+part 2: 
+(A) Renewable Energy - Solar
+(B) Non-Renewable Energy - Coal
+(C) Non-Renewable Energy - Oil
+(D) Pollution Control - Water Treatment
+
+part 3: (C) Non-Renewable Energy - Oil

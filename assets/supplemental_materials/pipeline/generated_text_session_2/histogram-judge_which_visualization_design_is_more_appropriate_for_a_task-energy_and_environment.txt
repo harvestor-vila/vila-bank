@@ -1,0 +1,11 @@
+part 1: the question stem
+Considering the dataset's characteristics and the need to understand its distribution, which visualization design would be most appropriate? The visualization above is only a demonstration of the relevant data.
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart showing the proportion of energy consumption categories.
+(B) A scatter plot with Energy Consumption on the x-axis and Frequency on the y-axis.
+(C) A line graph showing the trend of Energy Consumption over time.
+(D) A histogram with appropriate binning to show the distribution of Energy Consumption values.
+
+part 3: the correct answer
+(D) A histogram with appropriate binning to show the distribution of Energy Consumption values.

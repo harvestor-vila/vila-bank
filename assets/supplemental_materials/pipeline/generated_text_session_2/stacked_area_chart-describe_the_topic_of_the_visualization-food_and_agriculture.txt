@@ -1,0 +1,9 @@
+part 1: What is the topic of the visualization?
+
+part 2: 
+(A) Comparison of average global temperatures over two decades
+(B) Trends in food and agriculture production for various crops over 20 years
+(C) Population growth in different continents from 2000 to 2019
+(D) The impact of climate change on polar ice caps between 2000 and 2019
+
+part 3: (B) Trends in food and agriculture production for various crops over 20 years

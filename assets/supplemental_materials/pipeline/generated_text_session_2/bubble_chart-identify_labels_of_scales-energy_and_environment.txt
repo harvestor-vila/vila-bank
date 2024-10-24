@@ -1,0 +1,9 @@
+part 1: What do the axes and the size of the bubbles in the bubble chart represent?
+
+part 2: 
+  (A) x-axis: CO2 Emissions (Million Metric Tons), y-axis: Energy Consumption (TWh), bubble size: Country
+  (B) x-axis: Energy Consumption (TWh), y-axis: CO2 Emissions (Million Metric Tons), bubble size: Renewable Energy (%)
+  (C) x-axis: Renewable Energy (%), y-axis: Country, bubble size: Energy Consumption (TWh)
+  (D) x-axis: Country, y-axis: Renewable Energy (%), bubble size: CO2 Emissions (Million Metric Tons)
+
+part 3: (B) x-axis: Energy Consumption (TWh), y-axis: CO2 Emissions (Million Metric Tons), bubble size: Renewable Energy (%)

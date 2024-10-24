@@ -1,0 +1,9 @@
+part 1: Which state is represented with the highest value on the choropleth map?
+
+part 2: 
+(A) Texas
+(B) New York
+(C) California
+(D) Alabama
+
+part 3: (B) New York

@@ -1,0 +1,7 @@
+part 1: What is the label of the legend in the choropleth map showing Food and Agriculture Production by State?
+part 2: 
+  (A) Population Density
+  (B) Production Units
+  (C) GDP by State
+  (D) Average Temperature
+part 3: (B) Production Units

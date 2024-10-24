@@ -1,0 +1,9 @@
+part 1: Estimate the ratio of the number of individuals earning $50,000 to those earning $60,000.
+
+part 2: 
+(A) 0.5
+(B) 1.5
+(C) 2.5
+(D) 3.5
+
+part 3: (B) 1.5

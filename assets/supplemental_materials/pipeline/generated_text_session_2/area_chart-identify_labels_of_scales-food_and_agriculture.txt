@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the area chart of agricultural production?
+
+part 2: 
+  (A) Horizontal: Production (in tons), Vertical: Year
+  (B) Horizontal: Year, Vertical: Production (in tons)
+  (C) Horizontal: Time, Vertical: Quantity
+  (D) Horizontal: Quantity, Vertical: Time
+
+part 3: (B) Horizontal: Year, Vertical: Production (in tons)

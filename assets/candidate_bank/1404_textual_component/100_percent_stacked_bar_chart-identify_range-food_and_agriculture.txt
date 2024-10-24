@@ -1,0 +1,7 @@
+part 1: What is the range of percentage values represented for any food and agriculture category across all years?
+    part 2: 
+    (A) [0%, 15%]
+    (B) [2%, 36%]
+    (C) [2%, 50%]
+    (D) [-13%, 51%]
+    part 3: (B) [2%, 36%]

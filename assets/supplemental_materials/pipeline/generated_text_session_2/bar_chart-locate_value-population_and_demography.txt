@@ -1,0 +1,9 @@
+part 1: What is the population number for the age group with the smallest representation?
+
+part 2: 
+(A) 1525
+(B) 1194
+(C) 3226
+(D) 3462
+
+part 3: (B) 1194

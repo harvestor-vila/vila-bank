@@ -1,0 +1,9 @@
+part 1: What pattern does the choropleth map of Food and Agriculture Production by State reveal?
+
+part 2: 
+(A) States in the Midwest have the highest production units overall.
+(B) There is a clear increasing trend from the West Coast to the East Coast.
+(C) Coastal states have significantly lower production units than landlocked states.
+(D) No clear trend or correlation in production units by state is evident.
+
+part 3: (D) No clear trend or correlation in production units by state is evident.

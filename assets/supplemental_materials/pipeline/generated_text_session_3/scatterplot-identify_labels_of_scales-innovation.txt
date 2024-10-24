@@ -1,0 +1,7 @@
+part 1: What are the labels for the horizontal and vertical axes in the scatterplot?
+    part 2: 
+      (A) Horizontal: Innovation Scores, Vertical: Research Investment
+      (B) Horizontal: Research Investment (in millions), Vertical: Innovation Scores
+      (C) Horizontal: Research Dollars, Vertical: Innovation Index
+      (D) Horizontal: Investment Amount, Vertical: Score of Innovation
+    part 3: (B) Horizontal: Research Investment (in millions), Vertical: Innovation Scores

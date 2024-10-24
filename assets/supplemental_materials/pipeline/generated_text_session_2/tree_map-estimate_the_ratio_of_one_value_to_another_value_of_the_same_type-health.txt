@@ -1,0 +1,22 @@
+part 1: What is the ratio of the percentage value for "Hypertension" to the percentage value for "Stroke"?
+
+part 2: 
+(A) 1.0
+(B) 2.0
+(C) 3.0
+(D) 4.0
+
+part 3: (C) 3.0
+
+Explanation for the answer:
+Using the dataset provided, we can see that "Hypertension" has a percentage value of 15 and "Stroke" has a percentage value of 5. The precise correct answer for the ratio of "Hypertension" to "Stroke" is 15 / 5 = 3. This is already rounded to one decimal place, so the rounded correct answer is 3.0.
+
+To calculate min_distance, we take 15% of the rounded correct answer, which is 0.15 * 3.0 = 0.45. Rounding this number up to the nearest whole number gives us 1.
+
+Now, we need to generate three incorrect options that are at least 1 unit away from the rounded correct answer of 3.0:
+
+- Option (A) 1.0 is 2 units away from the correct answer.
+- Option (B) 2.0 is 1 unit away from the correct answer.
+- Option (D) 4.0 is 1 unit away from the correct answer.
+
+These incorrect options are all at least min_distance away from the correct answer, fulfilling the requirement.

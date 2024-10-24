@@ -1,0 +1,7 @@
+part 1: What is the range of the Research Budget values represented in the bubble chart?
+part 2: 
+  (A) [51, 189]
+  (B) [61, 164]
+  (C) [50, 190]
+  (D) [49, 191]
+part 3: (B) [61, 164]

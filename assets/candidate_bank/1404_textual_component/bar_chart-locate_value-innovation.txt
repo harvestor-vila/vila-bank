@@ -1,0 +1,7 @@
+part 1: Which innovation sector received the highest investment?
+    part 2: 
+    (A) AI
+    (B) Blockchain
+    (C) Renewable Energy
+    (D) VR/AR
+    part 3: (C) Renewable Energy

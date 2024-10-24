@@ -1,0 +1,9 @@
+part 1: Which political party received the minimum amount of funding?
+
+part 2: 
+(A) Green Party with $3,214,790
+(B) Libertarian Party with $1,378,536
+(C) Socialist Party with $3,951,286
+(D) Progressive Party with $9,590,533
+
+part 3: (B) Libertarian Party with $1,378,536

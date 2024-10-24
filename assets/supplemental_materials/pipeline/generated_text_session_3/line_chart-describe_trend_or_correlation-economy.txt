@@ -1,0 +1,7 @@
+part 1: What pattern does the line chart of annual GDP growth rates from 2000 to 2019 depict?
+    part 2: 
+      (A) A consistent upward trend in GDP growth rates over the years.
+      (B) A consistent downward trend in GDP growth rates over the years.
+      (C) A cyclical pattern with regular intervals of peaks and troughs.
+      (D) No clear trend or correlation in GDP growth rates over the years.
+    part 3: (D) No clear trend or correlation in GDP growth rates over the years.

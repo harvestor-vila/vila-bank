@@ -1,0 +1,7 @@
+part 1: Which sector had a higher total income over the years, Agriculture or Technology?
+part 2: 
+(A) Agriculture
+(B) Technology
+(C) Both had the same total income
+(D) It is not possible to determine from the visualization
+part 3: (B) Technology

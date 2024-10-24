@@ -1,0 +1,9 @@
+part 1: What task does the tree map visualization design best support?
+
+part 2: 
+(A) Comparing the exact numerical values of different policy areas
+(B) Showing the hierarchical structure of political policy areas and their relative sizes
+(C) Displaying the trend of policy area changes over time
+(D) Illustrating the geographic distribution of policy areas
+
+part 3: (B) Showing the hierarchical structure of political policy areas and their relative sizes

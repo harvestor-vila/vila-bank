@@ -1,0 +1,9 @@
+part 1: If the health focus areas by age group data were to be displayed using a pie chart, which of the following would be a characteristic of that chart?
+
+part 2: 
+(A) Each pie chart would represent a different age group, with slices proportional to the percentage focus on each health category.
+(B) A single pie chart would show the cumulative percentage focus of all age groups combined, with different colors representing each age group.
+(C) The pie chart would use varying slice thickness to represent different age groups, with colors indicating the health categories.
+(D) Each health category would have a separate pie chart, with slices indicating the percentage of each age group focusing on that category.
+
+part 3: (A) Each pie chart would represent a different age group, with slices proportional to the percentage focus on each health category.

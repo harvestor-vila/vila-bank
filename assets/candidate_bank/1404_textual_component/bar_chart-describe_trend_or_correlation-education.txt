@@ -1,0 +1,7 @@
+part 1: What pattern does the bar chart of the number of graduates by educational program show?
+    part 2: 
+    (A) A steady increase in the number of graduates from Engineering to History.
+    (B) Programs related to Science, Technology, Engineering, and Mathematics (STEM) have significantly fewer graduates than other programs.
+    (C) There is no clear trend or correlation in the number of graduates across different programs.
+    (D) The number of graduates in Medicine, Law, Art, and History is exactly the same.
+    part 3: (C) There is no clear trend or correlation in the number of graduates across different programs.

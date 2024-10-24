@@ -1,0 +1,7 @@
+part 1: Estimate the difference in school funding between School D and School E.
+    part 2: 
+    (A) $1 million
+    (B) $2 million
+    (C) $3 million
+    (D) $5 million
+    part 3: (A) $1 million

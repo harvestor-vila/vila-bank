@@ -1,0 +1,7 @@
+part 1: If the political party votes over time were displayed using a line chart instead of a stacked area chart, which of the following would be a characteristic of the line chart?
+    part 2: 
+    (A) Each party's vote trend would be represented by a line, with the possibility of lines crossing if vote counts change relative to each other over time.
+    (B) The cumulative votes for all parties would be stacked on top of each other, showing the total votes over time.
+    (C) The parties would be represented by bars, with the height of each bar indicating the number of votes for each year.
+    (D) Votes would be represented by points on a map, with the location of each point corresponding to the geographic area associated with the vote count.
+    part 3: (A) Each party's vote trend would be represented by a line, with the possibility of lines crossing if vote counts change relative to each other over time.

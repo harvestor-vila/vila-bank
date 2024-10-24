@@ -1,0 +1,7 @@
+part 1: If the data from the tree map visualization were to be displayed in a stacked bar chart, which of the following descriptions would accurately represent its characteristics?
+    part 2: 
+    (A) Each bar represents a different subcategory, with segments in the bar corresponding to the percentage of each category.
+    (B) Each bar represents a different category, with segments in the bar corresponding to the percentage of each subcategory.
+    (C) Each bar represents a different category, with color shades indicating the percentage of each subcategory.
+    (D) Each bar represents a different subcategory, with color intensity indicating the percentage contribution to the overall economy.
+    part 3: (B) Each bar represents a different category, with segments in the bar corresponding to the percentage of each subcategory.

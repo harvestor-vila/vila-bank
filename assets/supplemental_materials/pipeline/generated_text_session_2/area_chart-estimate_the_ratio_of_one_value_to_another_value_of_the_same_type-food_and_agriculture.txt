@@ -1,0 +1,11 @@
+part 1: the question stem
+Estimate the ratio of the agricultural production in 2019 to that in 2000.
+
+  part 2: the option set that includes the correct answer and three incorrect options
+  (A) 0.5
+  (B) 1.5
+  (C) 2.5
+  (D) 3.5
+
+  part 3: the correct answer
+  (B) 1.5

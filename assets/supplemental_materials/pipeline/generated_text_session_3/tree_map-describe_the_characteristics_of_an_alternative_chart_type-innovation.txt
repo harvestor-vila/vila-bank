@@ -1,0 +1,7 @@
+part 1: If the tree map visualization of innovation sectors and subsectors were to be represented as a stacked bar chart, which description would accurately characterize this alternative chart type?
+    part 2: 
+    (A) A stacked bar chart would display each category as a separate bar, with subcategories stacked on top of each other, not allowing for direct comparison of subcategory sizes.
+    (B) A stacked bar chart would show each subcategory as a separate bar, with colors representing different categories, aligned horizontally for easy comparison of each subcategory's percentage.
+    (C) A stacked bar chart would represent each category as a horizontal bar, with subcategories represented as segments within the bar, proportionally sized according to their percentage values.
+    (D) A stacked bar chart would display each subcategory as a pie slice, with the size of the slice corresponding to the percentage value, and different colors for each category.
+    part 3: (C) A stacked bar chart would represent each category as a horizontal bar, with subcategories represented as segments within the bar, proportionally sized according to their percentage values.

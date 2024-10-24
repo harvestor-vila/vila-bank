@@ -1,0 +1,7 @@
+part 1: What is the ratio of the percentage of individuals with an Undergraduate education level to those with a Middle School education level?
+    part 2: 
+    (A) 0.7
+    (B) 0.6
+    (C) 1.7
+    (D) 2.7
+    part 3: (A) 0.7

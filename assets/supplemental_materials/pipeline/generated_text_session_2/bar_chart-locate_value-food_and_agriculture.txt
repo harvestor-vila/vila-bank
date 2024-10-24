@@ -1,0 +1,9 @@
+part 1: Which food item has the highest production value?
+
+part 2: 
+  (A) Wheat
+  (B) Soybeans
+  (C) Barley
+  (D) Rice
+
+part 3: (C) Barley

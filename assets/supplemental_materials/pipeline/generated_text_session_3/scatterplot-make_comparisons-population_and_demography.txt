@@ -1,0 +1,7 @@
+part 1: Which population size has a higher median age, a smaller town with a population around 1200 or a larger city with a population close to 4800?
+    part 2: 
+      (A) The smaller town has a higher median age.
+      (B) The larger city has a higher median age.
+      (C) Both have the same median age.
+      (D) There is no visible relationship between population size and median age.
+    part 3: (A) The smaller town has a higher median age.

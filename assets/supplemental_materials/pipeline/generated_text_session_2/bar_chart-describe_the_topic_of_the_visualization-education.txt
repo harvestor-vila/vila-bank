@@ -1,0 +1,9 @@
+part 1: What is the subject of the bar chart?
+
+part 2: 
+  (A) The average salary by educational program
+  (B) The number of graduates by educational program
+  (C) The number of enrolled students by educational program
+  (D) The number of faculty members by educational program
+
+part 3: (B) The number of graduates by educational program

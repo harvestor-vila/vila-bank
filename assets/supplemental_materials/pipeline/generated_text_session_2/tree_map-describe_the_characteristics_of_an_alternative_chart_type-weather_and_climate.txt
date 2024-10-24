@@ -1,0 +1,9 @@
+part 1: If the tree map displaying weather and climate data categories and their percentages were to be represented as a pie chart, which of the following descriptions would be accurate?
+
+part 2: 
+(A) Each slice of the pie chart would represent a different subcategory, with the size of each slice corresponding to the percentage value of that subcategory.
+(B) The pie chart would consist of equal-sized slices, each representing a subcategory, to show an equal distribution of weather and climate data.
+(C) The pie chart would only show the main categories without any subcategory distinctions, with each category taking up a third of the chart.
+(D) The pie chart would be divided into three large slices for the main categories, with smaller slices within those representing the subcategories.
+
+part 3: (A) Each slice of the pie chart would represent a different subcategory, with the size of each slice corresponding to the percentage value of that subcategory.

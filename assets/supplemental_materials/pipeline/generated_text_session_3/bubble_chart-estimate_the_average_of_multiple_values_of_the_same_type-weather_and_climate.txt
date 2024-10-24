@@ -1,0 +1,7 @@
+part 1: Estimate the average temperature (°F) across all locations shown in the bubble chart.
+part 2: 
+  (A) 66.0°F
+  (B) 78.1°F
+  (C) 90.0°F
+  (D) 102.0°F
+part 3: (B) 78.1°F

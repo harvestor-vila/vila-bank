@@ -1,0 +1,9 @@
+part 1: Which school has the highest percentage of students performing in Math?
+
+part 2: 
+(A) Greenwood Elementary
+(B) Lakeside High
+(C) Hilltop Middle
+(D) None of the above
+
+part 3: (C) Hilltop Middle

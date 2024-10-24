@@ -1,0 +1,7 @@
+part 1: Which state has the highest education value?
+    part 2: 
+      (A) Texas
+      (B) New York
+      (C) California
+      (D) Alaska
+    part 3: (B) New York

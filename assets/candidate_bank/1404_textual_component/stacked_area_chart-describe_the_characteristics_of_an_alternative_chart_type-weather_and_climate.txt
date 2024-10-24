@@ -1,0 +1,7 @@
+part 1: If the weather and climate data over 20 days were to be displayed using a line chart instead of a stacked area chart, which of the following would best describe its characteristics?
+part 2: 
+(A) A line chart would show overlapping lines for Temperature, Precipitation, and Wind Speed, making it difficult to discern individual trends.
+(B) A line chart would display cumulative values of Temperature, Precipitation, and Wind Speed, with shaded areas representing the contribution of each variable.
+(C) A line chart would depict Temperature, Precipitation, and Wind Speed as separate lines, allowing for easy comparison of trends over the days.
+(D) A line chart would stack Temperature, Precipitation, and Wind Speed data points vertically for each day, with the height of the stack indicating the total value.
+part 3: (C) A line chart would depict Temperature, Precipitation, and Wind Speed as separate lines, allowing for easy comparison of trends over the days.

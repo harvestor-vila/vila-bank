@@ -1,0 +1,9 @@
+part 1: Which is greater, the average opposition support for voter turnout percentages below 60% or for voter turnout percentages above 80%?
+
+part 2: 
+(A) Below 60%
+(B) Above 80%
+(C) Equal for both ranges
+(D) Cannot be determined from the visualization
+
+part 3: (A) Below 60%

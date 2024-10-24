@@ -1,0 +1,10 @@
+part 1: What is the range of heart rate values depicted in the daily measurements?
+
+part 2:
+  (A) [45, 111]
+  (B) [62, 96]
+  (C) [52, 111]
+  (D) [51, 112]
+
+part 3: (B) [62, 96]
+

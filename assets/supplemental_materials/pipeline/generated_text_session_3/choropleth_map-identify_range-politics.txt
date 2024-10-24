@@ -1,0 +1,6 @@
+part 1: What is the range of values represented on the choropleth map?
+    part 2: (A) [50, 1100]
+             (B) [96, 1116]
+             (C) [113, 970]
+             (D) [130, 1200]
+    part 3: (C) [113, 970]

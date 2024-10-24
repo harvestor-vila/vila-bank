@@ -1,0 +1,3 @@
+part 1: Which product has the highest difference in total production between the South and West regions?
+    part 2: (A) Wheat (B) Soybeans (C) Oats (D) Rye
+    part 3: (B) Soybeans

@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the line chart depicting annual GDP growth rates?
+
+part 2: 
+(A) Horizontal: GDP Growth (%), Vertical: Year
+(B) Horizontal: Year, Vertical: GDP Growth (%)
+(C) Horizontal: Annual Income, Vertical: Tax Rate (%)
+(D) Horizontal: Population, Vertical: GDP Growth (%)
+
+part 3: (B) Horizontal: Year, Vertical: GDP Growth (%)

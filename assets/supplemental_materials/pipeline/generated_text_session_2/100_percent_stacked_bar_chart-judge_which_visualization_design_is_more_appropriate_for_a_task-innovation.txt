@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which of the following visualization designs is most appropriate for comparing the distribution of innovation categories within each company?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart for each company showing the distribution of innovation categories.
+(B) A single heat map representing the percentage distribution of innovation categories across companies.
+(C) A line graph showing the trend of percentages for each innovation category across companies.
+(D) A 100 percent stacked bar chart for each company showing the distribution of innovation categories.
+
+part 3: the correct answer
+(D) A 100 percent stacked bar chart for each company showing the distribution of innovation categories.

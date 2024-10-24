@@ -1,0 +1,7 @@
+part 1: Estimate the difference between the highest and lowest recorded Daily Average Temperatures.
+part 2: 
+  (A) 34°F
+  (B) 40°F
+  (C) 46°F
+  (D) 52°F
+part 3: (B) 40°F

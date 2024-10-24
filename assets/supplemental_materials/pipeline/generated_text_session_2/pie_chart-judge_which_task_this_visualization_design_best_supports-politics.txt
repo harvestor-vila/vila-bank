@@ -1,0 +1,9 @@
+part 1: What task does the pie chart design best support?
+
+part 2: 
+  (A) Comparing the exact numerical values of different categories
+  (B) Showing the distribution of parts to a whole
+  (C) Displaying trends over time
+  (D) Identifying correlations between two variables
+
+part 3: (B) Showing the distribution of parts to a whole

@@ -1,0 +1,7 @@
+part 1: If the distribution of agricultural yield per acre were to be displayed using a box plot, which of the following would best describe its characteristics?
+part 2: 
+(A) The box plot would show a symmetric distribution with equal lengths of whiskers and a median line centered in the box.
+(B) The box plot would display a left-skewed distribution with the median closer to the upper quartile and longer lower whisker.
+(C) The box plot would show a right-skewed distribution with the median closer to the lower quartile and a longer upper whisker.
+(D) The box plot would have multiple outliers on both the lower and upper ends, indicating a bimodal distribution.
+part 3: (C) The box plot would show a right-skewed distribution with the median closer to the lower quartile and a longer upper whisker.

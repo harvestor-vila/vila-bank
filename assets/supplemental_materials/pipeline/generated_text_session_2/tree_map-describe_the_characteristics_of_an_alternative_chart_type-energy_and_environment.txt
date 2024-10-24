@@ -1,0 +1,9 @@
+part 1: If the tree map visualization of the "Energy and Environment" dataset were to be represented as a stacked bar chart, which of the following descriptions would accurately characterize the stacked bar chart?
+
+part 2: 
+(A) Each bar represents a subcategory, and the segments within a bar are proportional to the values of the categories.
+(B) Each bar represents a category, and the segments within a bar are proportional to the total value of all subcategories combined.
+(C) Each bar represents a category, and the segments within a bar are proportional to the values of the subcategories.
+(D) Each bar represents a subcategory, and the colors of the bars correspond to the different categories without any segmentation.
+
+part 3: (C) Each bar represents a category, and the segments within a bar are proportional to the values of the subcategories.

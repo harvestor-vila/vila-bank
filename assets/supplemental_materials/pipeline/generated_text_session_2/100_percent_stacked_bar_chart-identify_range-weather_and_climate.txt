@@ -1,0 +1,9 @@
+part 1: What is the range of weather type percentages across all locations?
+
+part 2: 
+(A) [0%, 20%]
+(B) [4%, 36%]
+(C) [0%, 51%]
+(D) [2%, 41%]
+
+part 3: (B) [4%, 36%]

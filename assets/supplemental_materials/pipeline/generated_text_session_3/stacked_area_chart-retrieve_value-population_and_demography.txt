@@ -1,0 +1,7 @@
+part 1: What was the population of the age group "25-64" in the year 2010?
+part 2: 
+(A) 5537
+(B) 1000
+(C) 7000
+(D) 4500
+part 3: (A) 5537

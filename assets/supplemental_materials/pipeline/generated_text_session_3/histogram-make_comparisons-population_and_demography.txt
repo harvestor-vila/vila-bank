@@ -1,0 +1,3 @@
+part 1: Which age group has a greater number of people, those in their early thirties or those in their late twenties?
+    part 2: (A) Early thirties (B) Late twenties (C) Both groups have the same number of people (D) The visualization does not provide this information
+    part 3: (A) Early thirties

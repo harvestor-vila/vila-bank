@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the range of state populations represented on the choropleth map?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) [602571, 11310271]
+(B) [708908, 9833279]
+(C) [500000, 10000000]
+(D) [558000, 11300000]
+
+part 3: the correct answer
+(B) [708908, 9833279]

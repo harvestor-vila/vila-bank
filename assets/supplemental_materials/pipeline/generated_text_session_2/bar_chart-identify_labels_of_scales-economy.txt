@@ -1,0 +1,9 @@
+part 1: What are the labels for the x and y axes in the bar chart depicting GDP contribution by sector?
+
+part 2: 
+  (A) x-axis: GDP Contribution (in billions), y-axis: Sector
+  (B) x-axis: Sector, y-axis: Number of Companies
+  (C) x-axis: Sector, y-axis: GDP Contribution (in billions)
+  (D) x-axis: Contribution Percentage, y-axis: Economic Sector
+
+part 3: (C) x-axis: Sector, y-axis: GDP Contribution (in billions)

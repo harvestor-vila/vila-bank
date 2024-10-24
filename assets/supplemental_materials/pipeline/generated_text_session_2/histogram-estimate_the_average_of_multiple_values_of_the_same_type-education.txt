@@ -1,0 +1,13 @@
+part 1: the question stem
+What is the average test score?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) 76.1
+(B) 90.1
+(C) 104.1
+(D) 118.1
+
+part 3: the correct answer
+(B) 90.1
+
+Please note that the incorrect options (A), (C), and (D) are generated based on the min_distance calculated and are at least min_distance away from the correct answer (B). The precise values for the incorrect options may vary based on the actual calculations performed with the dataset.

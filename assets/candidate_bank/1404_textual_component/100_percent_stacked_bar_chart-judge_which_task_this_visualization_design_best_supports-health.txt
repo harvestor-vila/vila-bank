@@ -1,0 +1,7 @@
+part 1: Which task does this visualization design best support?
+    part 2: 
+    (A) Comparing the exact percentage values of health focus areas within each age group
+    (B) Identifying the distribution of health focus areas across different age groups
+    (C) Tracking changes in health focus areas over time for each age group
+    (D) Determining the correlation between different health focus areas and age groups
+    part 3: (B) Identifying the distribution of health focus areas across different age groups

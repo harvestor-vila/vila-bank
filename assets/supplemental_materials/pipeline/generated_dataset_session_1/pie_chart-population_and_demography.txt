@@ -1,0 +1,4 @@
+"Category"	"Percentage"
+"Youth"	35
+"Adults"	50
+"Seniors"	15

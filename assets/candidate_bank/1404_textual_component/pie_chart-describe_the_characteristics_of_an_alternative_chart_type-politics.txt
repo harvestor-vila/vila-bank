@@ -1,0 +1,7 @@
+part 1: If the political party distribution data were to be displayed in a bar chart instead of a pie chart, which of the following would be an accurate description of its characteristics?
+part 2: 
+(A) Each political party would be represented by a point, and the distance between points would indicate the difference in their percentages.
+(B) The chart would consist of a circle divided into sectors, with each sector's angle corresponding to the party's percentage.
+(C) Each political party would be represented by a horizontal bar, and the length of each bar would be proportional to the party's percentage.
+(D) Political parties would be represented by lines, with the slope of each line indicating the percentage of each party.
+part 3: (C) Each political party would be represented by a horizontal bar, and the length of each bar would be proportional to the party's percentage.

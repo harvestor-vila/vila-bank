@@ -1,0 +1,9 @@
+part 1: If the scatterplot showing Study Hours vs Average Grade of Students were to be represented as a box plot, which of the following descriptions would accurately characterize it?
+
+part 2: 
+(A) The box plot would display the distribution of Average Grades, with boxes representing the interquartile range for each hour of study, and whiskers extending to the minimum and maximum grades.
+(B) The box plot would show a single box representing the combined study hours of all students, with the median study time highlighted.
+(C) The box plot would illustrate the average number of study hours per grade, with outliers for each grade shown as individual points.
+(D) The box plot would have a separate box for each student, showing the variability in their study hours and grades over time.
+
+part 3: (A) The box plot would display the distribution of Average Grades, with boxes representing the interquartile range for each hour of study, and whiskers extending to the minimum and maximum grades.

@@ -1,0 +1,7 @@
+part 1: What pattern does the histogram of Energy Consumption reveal about the distribution of the data?
+    part 2: 
+      (A) The data is uniformly distributed.
+      (B) The data shows a strong positive correlation.
+      (C) The data is predominantly left-skewed.
+      (D) The data is normally distributed with no skewness.
+    part 3: (C) The data is predominantly left-skewed.

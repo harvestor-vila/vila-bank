@@ -1,0 +1,9 @@
+part 1: What is the difference in percentage between the Services sector's Retail subcategory and the Technology sector's Hardware subcategory?
+
+part 2: 
+  (A) 5%
+  (B) 15%
+  (C) 10%
+  (D) 20%
+
+part 3: (C) 10%

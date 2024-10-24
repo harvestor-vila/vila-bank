@@ -1,0 +1,7 @@
+part 1: What is the ratio of the production of Barley to the production of Wheat?
+    part 2: 
+    (A) 1.4
+    (B) 1.8
+    (C) 2.2
+    (D) 2.6
+    part 3: (B) 1.8

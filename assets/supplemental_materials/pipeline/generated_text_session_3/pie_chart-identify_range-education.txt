@@ -1,0 +1,7 @@
+part 1: What is the range of percentages represented in the pie chart for the different education levels?
+    part 2: 
+    (A) [5, 36]
+    (B) [10, 30]
+    (C) [7, 38]
+    (D) [3, 40]
+    part 3: (B) [10, 30]

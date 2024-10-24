@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the average number of study hours per student?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) 10.7
+(B) 12.7
+(C) 14.7
+(D) 16.7
+
+part 3: the correct answer
+(B) 12.7

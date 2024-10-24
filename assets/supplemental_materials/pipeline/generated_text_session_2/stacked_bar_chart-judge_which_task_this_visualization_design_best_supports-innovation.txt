@@ -1,0 +1,9 @@
+part 1: Which task does the stacked bar chart design best support?
+
+part 2: 
+  (A) Identifying the exact number of innovations in the "Tech" sector.
+  (B) Comparing the distribution of innovation types across different sectors.
+  (C) Determining the correlation between the number of patents and investments in the "Health" sector.
+  (D) Showing the trend of innovation types over a period of time.
+
+part 3: (B) Comparing the distribution of innovation types across different sectors.

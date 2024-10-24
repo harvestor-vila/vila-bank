@@ -1,0 +1,9 @@
+part 1: What is the mode of the Test Scores as shown in the histogram?
+
+part 2:
+  (A) 85
+  (B) 100
+  (C) 115
+  (D) 130
+
+part 3: (B) 100

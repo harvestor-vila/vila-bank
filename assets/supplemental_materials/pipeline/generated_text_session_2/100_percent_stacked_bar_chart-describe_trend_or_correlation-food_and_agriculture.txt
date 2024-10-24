@@ -1,0 +1,9 @@
+part 1: What pattern does the distribution of food and agriculture categories over the years 2019 to 2021 follow?
+
+part 2: 
+  (A) A consistent increase in the percentage of Vegetables and a decrease in Dairy.
+  (B) The percentage of Grains peaked in 2020, while Dairy showed a significant drop in 2021.
+  (C) Meat maintained the highest percentage across all years.
+  (D) Fruits consistently held the lowest percentage over the years.
+
+part 3: (B) The percentage of Grains peaked in 2020, while Dairy showed a significant drop in 2021.

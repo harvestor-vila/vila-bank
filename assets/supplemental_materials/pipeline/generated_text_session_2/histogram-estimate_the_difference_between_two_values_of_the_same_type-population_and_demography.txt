@@ -1,0 +1,9 @@
+part 1: What is the difference between the maximum and minimum ages in the population age distribution?
+
+part 2: 
+  (A) 22
+  (B) 26
+  (C) 30
+  (D) 34
+
+part 3: (B) 26

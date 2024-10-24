@@ -1,0 +1,8 @@
+
+    part 1: Which subcategory represents the smallest percentage of the economy?
+    part 2: 
+    (A) Crops
+    (B) Livestock
+    (C) Textiles
+    (D) Hardware
+    part 3: (B) Livestock

@@ -1,0 +1,7 @@
+part 1: Which category has a larger share in the food and agriculture sectors, Grains or Meats?
+    part 2: 
+      (A) Grains
+      (B) Meats
+      (C) Both have the same share
+      (D) Cannot be determined from the visualization
+    part 3: (A) Grains

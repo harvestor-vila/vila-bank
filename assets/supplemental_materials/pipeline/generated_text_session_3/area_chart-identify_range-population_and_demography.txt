@@ -1,0 +1,7 @@
+part 1: What is the range of the population values depicted in the area chart?
+    part 2: 
+      (A) [950, 5100]
+      (B) [1000, 4900]
+      (C) [1168, 4827]
+      (D) [900, 5200]
+    part 3: (C) [1168, 4827]

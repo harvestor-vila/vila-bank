@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the histogram of cholesterol levels?
+
+part 2: 
+(A) Horizontal: Number of People, Vertical: Cholesterol Level
+(B) Horizontal: Cholesterol Level, Vertical: Number of People
+(C) Horizontal: Patient ID, Vertical: Cholesterol Level
+(D) Horizontal: Cholesterol Level, Vertical: Frequency
+
+part 3: (B) Horizontal: Cholesterol Level, Vertical: Number of People

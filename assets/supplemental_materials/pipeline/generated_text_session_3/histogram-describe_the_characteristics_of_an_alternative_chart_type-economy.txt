@@ -1,0 +1,9 @@
+part 1: If the distribution of incomes in the economy were to be displayed using a histogram, which of the following characteristics would it most likely exhibit?
+
+part 2: 
+(A) The histogram would show a wide range of incomes with multiple peaks indicating a multimodal distribution.
+(B) The histogram would have a long tail on the right side, suggesting a significant number of outliers with high incomes.
+(C) The histogram would display a symmetric distribution with most incomes clustering around the mean.
+(D) The histogram would have a long tail on the left side, indicating a significant number of outliers with low incomes.
+
+part 3: (C) The histogram would display a symmetric distribution with most incomes clustering around the mean.

@@ -1,0 +1,9 @@
+part 1: What trend or correlation is observed between Energy Consumption and Carbon Emission based on the dataset provided?
+
+part 2: 
+(A) Strong positive correlation
+(B) Strong negative correlation
+(C) No correlation
+(D) Moderate positive correlation
+
+part 3: (C) No correlation

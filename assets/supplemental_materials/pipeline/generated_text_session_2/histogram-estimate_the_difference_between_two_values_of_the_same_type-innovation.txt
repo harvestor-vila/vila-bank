@@ -1,0 +1,9 @@
+part 1: Estimate the difference between the highest and lowest Innovation Scores.
+
+part 2:
+(A) 22
+(B) 26
+(C) 30
+(D) 34
+
+part 3: (B) 26

@@ -1,0 +1,13 @@
+part 1: the question stem
+Estimate the difference between the maximum and minimum number of votes.
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) 23 votes
+(B) 28 votes
+(C) 33 votes
+(D) 38 votes
+
+part 3: the correct answer
+(B) 28 votes
+
+Please note that the precise correct answer and the values used to generate the incorrect options are hypothetical and for illustrative purposes only, as I cannot execute R code to obtain the actual values from the dataset provided.

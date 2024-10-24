@@ -1,0 +1,10 @@
+part 1: What is the average median age depicted in the scatterplot?
+part 2: 
+  (A) 57.6
+  (B) 41.6
+  (C) 65.6
+  (D) 49.6
+part 3: (D) 49.6
+```
+
+If the calculated average median age is not 49.6, or the incorrect options are not at the correct distance from the correct answer, I would provide the corrected item with an explanation of the mistake.

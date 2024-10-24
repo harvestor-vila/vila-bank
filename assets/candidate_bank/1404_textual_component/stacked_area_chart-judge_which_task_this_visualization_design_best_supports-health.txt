@@ -1,0 +1,7 @@
+part 1: Which task does the stacked area chart design best support?
+    part 2: 
+    (A) Comparing the exact values of cases between different conditions for each year
+    (B) Showing the distribution of cases across different conditions over multiple years
+    (C) Identifying the condition with the least number of cases in a specific year
+    (D) Tracking the precise year-to-year changes in case numbers for a single condition
+    part 3: (B) Showing the distribution of cases across different conditions over multiple years

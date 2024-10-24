@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the bar chart?
+
+part 2: 
+  (A) Horizontal: Average Temperature (°F), Vertical: City
+  (B) Horizontal: City, Vertical: Average Temperature (°F)
+  (C) Horizontal: Temperature, Vertical: City Name
+  (D) Horizontal: City Name, Vertical: Temperature
+
+part 3: (B) Horizontal: City, Vertical: Average Temperature (°F)

@@ -1,0 +1,9 @@
+part 1: What is the range of production values (in tonnes) for the food items displayed in the bar chart?
+
+part 2: 
+(A) [150, 1150]
+(B) [200, 1100]
+(C) [217, 917]
+(D) [100, 1200]
+
+part 3: (C) [217, 917]

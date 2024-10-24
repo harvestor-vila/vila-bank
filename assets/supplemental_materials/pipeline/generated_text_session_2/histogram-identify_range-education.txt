@@ -1,0 +1,9 @@
+part 1: What is the range of test scores depicted in the histogram?
+
+part 2:
+(A) [61, 125]
+(B) [60, 126]
+(C) [59, 127]
+(D) [73, 107]
+
+part 3: The correct answer is (D) [73, 107].

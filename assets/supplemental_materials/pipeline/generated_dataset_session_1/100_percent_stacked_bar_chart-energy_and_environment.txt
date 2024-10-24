@@ -1,0 +1,16 @@
+"Category"	"Year"	"Percentage"
+"Solar"	"2019"	9
+"Wind"	"2019"	24
+"Hydro"	"2019"	12
+"Nuclear"	"2019"	27
+"Fossil Fuels"	"2019"	28
+"Solar"	"2020"	2
+"Wind"	"2020"	21
+"Hydro"	"2020"	36
+"Nuclear"	"2020"	22
+"Fossil Fuels"	"2020"	19
+"Solar"	"2021"	35
+"Wind"	"2021"	16
+"Hydro"	"2021"	25
+"Nuclear"	"2021"	21
+"Fossil Fuels"	"2021"	3

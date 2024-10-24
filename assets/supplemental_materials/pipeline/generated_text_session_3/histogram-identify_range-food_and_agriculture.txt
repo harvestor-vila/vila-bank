@@ -1,0 +1,7 @@
+part 1: What is the range of 'Yield per Acre' values represented in the histogram?
+    part 2: 
+      (A) [0, 42]
+      (B) [0, 48]
+      (C) [0, 54]
+      (D) [0, 36]
+    part 3: (D) [0, 36]

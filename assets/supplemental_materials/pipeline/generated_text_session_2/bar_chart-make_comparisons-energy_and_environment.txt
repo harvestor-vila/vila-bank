@@ -1,0 +1,11 @@
+part 1: the question stem
+Which energy source has a higher production level, Solar or Coal?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) Solar has a higher production level than Coal.
+(B) Coal has a higher production level than Solar.
+(C) Solar and Coal have the same production level.
+(D) The production levels cannot be compared without specific values.
+
+part 3: the correct answer
+(B) Coal has a higher production level than Solar.

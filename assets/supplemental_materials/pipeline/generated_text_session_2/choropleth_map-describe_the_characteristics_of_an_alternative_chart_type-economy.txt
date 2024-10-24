@@ -1,0 +1,9 @@
+part 1: If the economic value data were to be displayed in a histogram instead of a choropleth map, which of the following would best describe its characteristics?
+
+part 2: 
+(A) A circular chart divided into sectors, each representing a proportion of the total economic value.
+(B) A graphical representation of data where variables are depicted by the height of lines or points connected by straight lines.
+(C) A bar graph that shows the frequency of data points falling into consecutive, non-overlapping intervals of the economic value.
+(D) A pie chart with slices representing economic values as percentages out of a total sum.
+
+part 3: (C) A bar graph that shows the frequency of data points falling into consecutive, non-overlapping intervals of the economic value.

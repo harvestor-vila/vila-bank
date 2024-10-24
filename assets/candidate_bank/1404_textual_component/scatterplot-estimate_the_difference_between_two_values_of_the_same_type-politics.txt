@@ -1,0 +1,3 @@
+part 1: Estimate the difference in Opposition Support percentage between the highest and lowest recorded values.
+part 2: (A) 39 (B) 47 (C) 55 (D) 63
+part 3: (B) 47

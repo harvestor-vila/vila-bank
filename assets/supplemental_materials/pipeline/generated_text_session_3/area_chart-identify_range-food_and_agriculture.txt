@@ -1,0 +1,7 @@
+part 1: What is the range of agricultural production values (in tons) over the years as shown in the area chart?
+    part 2: 
+    (A) [91, 230]
+    (B) [90, 231]
+    (C) [108, 200]
+    (D) [89, 232]
+    part 3: (C) [108, 200]

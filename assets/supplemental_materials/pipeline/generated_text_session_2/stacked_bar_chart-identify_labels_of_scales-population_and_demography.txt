@@ -1,0 +1,9 @@
+part 1: What are the labels for the x-axis and the y-axis in the stacked bar chart?
+
+part 2: 
+(A) x-axis: Age Group, y-axis: Population
+(B) x-axis: Population, y-axis: Region
+(C) x-axis: Region, y-axis: Population
+(D) x-axis: Population, y-axis: Age Group
+
+part 3: (C) x-axis: Region, y-axis: Population

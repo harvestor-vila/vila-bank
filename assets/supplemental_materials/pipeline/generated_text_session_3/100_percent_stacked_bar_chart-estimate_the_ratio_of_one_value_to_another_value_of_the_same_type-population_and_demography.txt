@@ -1,0 +1,7 @@
+part 1: What is the ratio of the percentage of the male population aged 55-74 to the percentage of the female population aged 0-14?
+    part 2: 
+    (A) 10.0
+    (B) 13.5
+    (C) 17.0
+    (D) 7.0
+    part 3: (B) 13.5

@@ -1,0 +1,7 @@
+part 1: What is the range of Temperature values represented in the bubble chart?
+    part 2: 
+    (A) [45, 111]
+    (B) [62, 96]
+    (C) [55, 110]
+    (D) [50, 105]
+    part 3: (B) [62, 96]

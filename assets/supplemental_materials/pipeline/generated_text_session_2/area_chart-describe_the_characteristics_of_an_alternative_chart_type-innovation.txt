@@ -1,0 +1,9 @@
+part 1: If the data on the number of innovations per year were displayed using a line chart instead of an area chart, which of the following would be true?
+
+part 2: 
+(A) The line chart would show the volume of innovations over time by filling the space between the line and the x-axis.
+(B) The line chart would consist of a series of dots connected by lines, emphasizing the change in the number of innovations from year to year.
+(C) The line chart would use varying shades of color to represent different years, with darker shades indicating higher numbers of innovations.
+(D) The line chart would display individual bars for each year, with the height of the bar representing the number of innovations.
+
+part 3: (B) The line chart would consist of a series of dots connected by lines, emphasizing the change in the number of innovations from year to year.

@@ -1,0 +1,7 @@
+part 1: What task does the scatterplot of Innovation Scores vs. Research Investment best support?
+    part 2: 
+    (A) Comparing the total number of innovation scores to the total research investment
+    (B) Identifying trends or relationships between innovation scores and research investment
+    (C) Summarizing the distribution of innovation scores across different categories
+    (D) Ranking research investment from highest to lowest
+    part 3: (B) Identifying trends or relationships between innovation scores and research investment

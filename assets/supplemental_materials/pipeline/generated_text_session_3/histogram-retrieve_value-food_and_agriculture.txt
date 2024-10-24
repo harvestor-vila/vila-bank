@@ -1,0 +1,9 @@
+part 1: the question stem of the new item
+"What is the highest yield per acre (in whole numbers) observed in the histogram?"
+    part 2: options of the new item
+(A) 30
+(B) 36
+(C) 42
+(D) 24
+    part 3: the correct answer of the new item
+(B) 36

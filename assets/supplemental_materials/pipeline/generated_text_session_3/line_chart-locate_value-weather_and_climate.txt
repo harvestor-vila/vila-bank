@@ -1,0 +1,7 @@
+part 1: What days had the highest recorded temperature?
+part 2: 
+(A) Day 5
+(B) Day 11 and Day 20
+(C) Day 15
+(D) Day 8
+part 3: (B) Day 11 and Day 20

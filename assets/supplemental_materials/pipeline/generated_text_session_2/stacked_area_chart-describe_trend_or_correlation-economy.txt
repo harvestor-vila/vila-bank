@@ -1,0 +1,9 @@
+part 1: Which sector showed a generally increasing trend in value from 2000 to 2019?
+
+part 2: 
+  (A) Agriculture
+  (B) Manufacturing
+  (C) Services
+  (D) Construction
+
+part 3: (A) Agriculture

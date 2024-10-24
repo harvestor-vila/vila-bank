@@ -1,0 +1,7 @@
+part 1: Which state received the highest number of votes for the issue of Healthcare?
+    part 2: 
+    (A) State 1
+    (B) State 2
+    (C) State 3
+    (D) State 4
+    part 3: (D) State 4

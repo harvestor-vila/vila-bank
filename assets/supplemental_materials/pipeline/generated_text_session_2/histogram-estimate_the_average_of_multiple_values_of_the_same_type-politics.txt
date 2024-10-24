@@ -1,0 +1,16 @@
+part 1:", part_1, "\n")
+cat("part 2:", part_2, "\n")
+cat("part 3:", part_3, "\n")
+```
+
+Please note that the above R code is a representation of the steps I would take to calculate the correct answer and generate the multiple-choice item. Since I cannot execute code, I will simulate the expected output based on typical R code execution.
+
+part 1: What is the average number of votes received by the candidates in the hypothetical primary election?
+part 2: 
+  (A) 30.0
+  (B) 35.0
+  (C) 25.0
+  (D) 40.0
+part 3: 30.0
+
+Please note that the options provided in part 2 are placeholders and the actual values would depend on the calculations performed using the R code.

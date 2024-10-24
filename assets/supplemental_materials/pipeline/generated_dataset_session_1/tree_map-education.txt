@@ -1,0 +1,9 @@
+"Category"	"Subcategory"	"Percentage"
+"Mathematics"	"Algebra"	15
+"Mathematics"	"Geometry"	10
+"Science"	"Biology"	20
+"Science"	"Chemistry"	15
+"Humanities"	"History"	10
+"Humanities"	"Geography"	10
+"Languages"	"English"	10
+"Languages"	"Spanish"	10

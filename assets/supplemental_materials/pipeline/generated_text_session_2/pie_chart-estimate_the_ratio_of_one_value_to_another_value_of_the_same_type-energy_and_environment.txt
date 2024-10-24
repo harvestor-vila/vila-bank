@@ -1,0 +1,9 @@
+part 1: What is the ratio of the percentage of energy produced by Solar to that produced by Nuclear?
+
+part 2: 
+(A) 1.0
+(B) 0.5
+(C) 3.0
+(D) 2.0
+
+part 3: (D) 2.0

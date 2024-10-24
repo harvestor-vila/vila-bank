@@ -1,0 +1,7 @@
+part 1: Which crop has the highest profit in thousands of dollars?
+    part 2: 
+    (A) Wheat: 43
+    (B) Rice: 53
+    (C) Soybean: 109
+    (D) Rye: 129
+    part 3: (D) Rye: 129

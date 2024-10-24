@@ -1,0 +1,7 @@
+part 1: What is the difference in percentage points between Party B's and Party D's support for the Defense issue?
+part 2: 
+  (A) 20%
+  (B) 40%
+  (C) 26%
+  (D) 50%
+part 3: (B) 40%

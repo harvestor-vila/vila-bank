@@ -1,0 +1,7 @@
+part 1: What is the Health Index value for the state of Oregon?
+    part 2: 
+    (A) 1690
+    (B) 1994
+    (C) 2300
+    (D) 1500
+    part 3: (B) 1994
