@@ -54,7 +54,6 @@ const Item = ({ chartType, task, context }: ItemProps) => {
         loadTextContent();
     }, [chartType, task, context]);
 
-    // The values from the enums will be used correctly in the path
     const imagePath = `/candidate_bank/108_visualization_component/${chartType}-${context}.png`;
 
     return (
