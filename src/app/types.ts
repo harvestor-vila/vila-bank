@@ -1,4 +1,3 @@
-// types.ts
 export enum VisualizationTask {
     MAKE_COMPARISONS = "make_comparisons",
     IDENTIFY_RANGE = "identify_range",

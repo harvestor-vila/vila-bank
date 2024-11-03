@@ -12,8 +12,22 @@ interface CarouselProps {
   }>;
 }
 
+const formatCategoryName = (chartType: string, task: string) => {
+    const chartName = chartType.split('_').map(word => 
+      word.charAt(0).toUpperCase() + word.slice(1)
+    ).join(' ');
+    
+    const taskName = task.split('_').map(word => 
+      word.charAt(0).toUpperCase() + word.slice(1)
+    ).join(' ');
+    
+    return `${chartName} - ${taskName}`;
+};
+
 const Carousel = ({ items }: CarouselProps) => {
   const [currentIndex, setCurrentIndex] = useState(0);
+  const chartType = items[currentIndex].chartType;
+  const task = items[currentIndex].task;
 
   const goToPrevious = () => {
     setCurrentIndex((prevIndex) => 
@@ -37,6 +51,9 @@ const Carousel = ({ items }: CarouselProps) => {
 
   return (
     <div className="relative max-w-4xl mx-auto">
+        <h2 className="text-2xl font-bold mb-6">
+            {formatCategoryName(chartType, task)}
+        </h2>
       {/* Current Item */}
       <div className="overflow-hidden bg-white rounded-lg shadow-lg">
         <Item {...items[currentIndex]} />
@@ -61,7 +78,7 @@ const Carousel = ({ items }: CarouselProps) => {
       </div>
 
       {/* Slide Counter */}
-      <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 bg-black/50 text-white px-3 py-1 rounded-full text-sm">
+      <div className="absolute -bottom-10 left-1/2 transform -translate-x-1/2 bg-black/50 text-white px-3 py-1 rounded-full text-sm">
         {currentIndex + 1} / {items.length}
       </div>
     </div>

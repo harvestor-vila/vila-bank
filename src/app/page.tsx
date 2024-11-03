@@ -1,6 +1,6 @@
 'use client';
-import Item from '@/app/item';
 import Carousel from '@/app/item-carousel';
+import CategorizedCarousels from './blue-matrix';
 import { ChartType, VisualizationTask, VisualizationContext } from '@/app/types';
 
 export default function Home() {
@@ -53,10 +53,8 @@ export default function Home() {
   ];
 
   return (
-    <div className="min-h-screen p-8 pb-20 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="">
-        <Carousel items={items} />
-      </main>
+    <div className="min-h-screen p-8 sm:p-20">
+      <Carousel items={items} />
     </div>
   );
 }

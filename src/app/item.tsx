@@ -1,6 +1,6 @@
-'use client';
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
+ 
 import { ChartType, VisualizationTask, VisualizationContext } from './types';
 
 interface ItemProps {
@@ -78,11 +78,11 @@ const Item = ({ chartType, task, context }: ItemProps) => {
                 <h2 className="font-bold">Question</h2>
                 <p>{question}</p>
                 <h2 className="font-bold mt-4">Choices</h2>
-                <ul className="list-disc pl-5">
+                <div className="list-disc pl-5">
                     {choices.map((choice, index) => (
-                        <li key={index}>{choice}</li>
+                        <p key={index}>{choice}</p>
                     ))}
-                </ul>
+                </div>
                 <h2 className="font-bold mt-4">Answer</h2>
                 <p>{answer}</p>
             </div>
