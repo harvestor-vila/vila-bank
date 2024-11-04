@@ -31,10 +31,8 @@ const BlueMatrix = () => {
   const [carouselItems, setCarouselItems] = useState<VisualizationItem[]>([]);
   const [itemsInFinalBank, setItemsInFinalBank] = useState<string[]>([]);
 
-  // Fetch and parse matrix data and items from final_bank.csv
   useEffect(() => {
     const fetchCSV = async () => {
-      // Fetch and parse matrix data from final_bank_count_by_charttypetaskcombo.csv
       const response = await fetch('/final_bank/final_bank_count_by_charttypetaskcombo.csv');
       const csvText = await response.text();
       Papa.parse<CSVRow>(csvText, {
@@ -61,19 +59,19 @@ const BlueMatrix = () => {
           });
 
           setMatrixData({ chartTypes, taskNames, matrix });
+          console.log("Parsed matrix data:", { chartTypes, taskNames, matrix });
         },
       });
 
-      // Fetch and parse items from final_bank.csv
       const itemsResponse = await fetch('/final_bank/final_bank.csv');
       const itemsText = await itemsResponse.text();
       Papa.parse<string[]>(itemsText, {
         header: false,
         skipEmptyLines: true,
         complete: (result: ParseResult<string[]>) => {
-          // Assuming each row in final_bank.csv contains a single combo string in the format 'chartType-task-context'
           const items = result.data.map((row) => row[0]);
           setItemsInFinalBank(items);
+          console.log("Items in final bank:", items);
         },
       });
     };
@@ -101,9 +99,22 @@ const BlueMatrix = () => {
   };
 
   const handleCellClick = (chartType: string, taskName: string) => {
+    console.log(`Cell clicked: chartType = ${chartType}, taskName = ${taskName}`);
+  
+    const normalizedChartType = chartType.replace(/\s+/g, '_').toLowerCase();
+    const normalizedTaskName = taskName.replace(/\s+/g, '_').toLowerCase();
+  
     const items: VisualizationItem[] = itemsInFinalBank
-      .filter((item) => item.startsWith(`${chartType}-${taskName}`))
-      .slice(0, 9) // Limit to 9 items
+      .filter((item) => {
+        const [itemChart, itemTask] = item.split('-');
+        const matches = 
+          itemChart.trim().toLowerCase() === normalizedChartType &&
+          itemTask.trim().toLowerCase() === normalizedTaskName;
+        
+        console.log(`Comparing: ${item} -> chart: ${itemChart}, task: ${itemTask}, matches: ${matches}`);
+        
+        return matches;
+      })
       .map((item) => {
         const [chart, task, context] = item.split('-');
         return {
@@ -112,10 +123,13 @@ const BlueMatrix = () => {
           context: context.toUpperCase() as VisualizationContext,
         };
       });
-
+  
+    console.log("Filtered items for carousel:", items);
     setCarouselItems(items);
     setIsPopupOpen(true);
   };
+  
+  
 
   const closePopup = () => {
     setIsPopupOpen(false);
