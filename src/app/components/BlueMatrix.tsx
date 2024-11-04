@@ -29,7 +29,7 @@ const BlueMatrix = () => {
 
   useEffect(() => {
     const fetchCSV = async () => {
-      const response = await fetch('/assets/final_bank_count_by_charttypetaskcombo.csv');
+      const response = await fetch('/assets//final_bank/final_bank_count_by_charttypetaskcombo.csv');
       const csvText = await response.text();
       Papa.parse<CSVRow>(csvText, {
         header: true,
