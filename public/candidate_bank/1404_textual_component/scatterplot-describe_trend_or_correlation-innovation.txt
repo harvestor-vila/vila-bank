@@ -1,0 +1,7 @@
+part 1: What trend or correlation is observed between Research Investment and Innovation Scores in the scatterplot?
+    part 2: 
+      (A) There is a strong positive correlation between Research Investment and Innovation Scores.
+      (B) There is a strong negative correlation between Research Investment and Innovation Scores.
+      (C) There is no clear trend or correlation between Research Investment and Innovation Scores.
+      (D) Research Investment decreases as Innovation Scores increase.
+    part 3: (C) There is no clear trend or correlation between Research Investment and Innovation Scores.

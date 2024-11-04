@@ -1,0 +1,7 @@
+part 1: Which state is represented with the highest Health Index value on the map?
+    part 2: 
+      (A) California
+      (B) Oregon
+      (C) Connecticut
+      (D) Texas
+    part 3: (B) Oregon

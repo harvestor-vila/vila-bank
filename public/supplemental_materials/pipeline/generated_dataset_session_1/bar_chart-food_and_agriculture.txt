@@ -1,0 +1,11 @@
+"Item"	"Production"
+"Wheat"	514
+"Rice"	562
+"Corn"	278
+"Soybeans"	625
+"Potatoes"	294
+"Barley"	917
+"Cassava"	217
+"Sorghum"	398
+"Yams"	328
+"Oats"	343

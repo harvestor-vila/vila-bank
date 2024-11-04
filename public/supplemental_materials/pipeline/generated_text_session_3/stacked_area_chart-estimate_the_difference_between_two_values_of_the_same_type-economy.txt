@@ -1,0 +1,7 @@
+part 1: Estimate the difference in Value for the Agriculture sector between the years 2000 and 2019.
+    part 2: 
+    (A) 126
+    (B) 149
+    (C) 172
+    (D) 195
+    part 3: (B) 149

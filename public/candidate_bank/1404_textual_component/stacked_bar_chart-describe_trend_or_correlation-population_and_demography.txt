@@ -1,0 +1,7 @@
+part 1: What pattern can be observed in the population distribution across different age groups for the regions presented?
+    part 2: 
+      (A) The population consistently decreases with increasing age across all regions.
+      (B) The population consistently increases with increasing age across all regions.
+      (C) No clear trend in population distribution by age can be observed across the regions.
+      (D) The population is highest in the "25-54" age group for all regions.
+    part 3: (C) No clear trend in population distribution by age can be observed across the regions.

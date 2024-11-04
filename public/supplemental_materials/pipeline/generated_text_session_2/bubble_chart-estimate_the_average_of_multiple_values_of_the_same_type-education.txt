@@ -1,0 +1,9 @@
+part 1: What is the average test score across all schools?
+
+part 2:
+(A) 71
+(B) 83.8
+(C) 97
+(D) 110
+
+part 3: (B) 83.8

@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the population sizes of the individual US states and the District of Columbia?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart with each slice representing a state's share of the total US population.
+(B) A choropleth map with varying shades representing different population ranges across states.
+(C) A line graph with time on the x-axis and population on the y-axis for each state.
+(D) A scatter plot with each point representing a state's population versus its land area.
+
+part 3: the correct answer
+(B) A choropleth map with varying shades representing different population ranges across states.

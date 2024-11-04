@@ -1,0 +1,7 @@
+part 1: Estimate the average number of cases for the Cardiovascular group over the years 2001 to 2020.
+    part 2:
+    (A) 262.8
+    (B) 309.8
+    (C) 356.8
+    (D) 403.8
+    part 3: (B) 309.8

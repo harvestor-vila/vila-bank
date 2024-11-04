@@ -1,0 +1,11 @@
+"Category"	"Subcategory"	"Value"
+"Renewable Energy"	"Solar"	5
+"Renewable Energy"	"Wind"	13
+"Renewable Energy"	"Hydro"	8
+"Non-Renewable Energy"	"Coal"	15
+"Non-Renewable Energy"	"Oil"	16
+"Non-Renewable Energy"	"Natural Gas"	2
+"Pollution Control"	"Air Quality"	9
+"Pollution Control"	"Water Treatment"	15
+"Conservation Efforts"	"Wildlife Protection"	9
+"Conservation Efforts"	"Forest Management"	8

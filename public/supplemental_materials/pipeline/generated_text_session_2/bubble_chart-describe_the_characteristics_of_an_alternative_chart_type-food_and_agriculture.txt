@@ -1,0 +1,9 @@
+part 1: If the bubble chart showing Crop Production vs Yield and Profit were to be represented as a bar chart, which of the following descriptions would be accurate?
+
+part 2: 
+(A) The bar chart would display horizontal bars with lengths proportional to the crop yield, sorted by production, and color-coded by profit.
+(B) The bar chart would use stacked bars to represent production and yield for each crop, with different colors indicating different crops.
+(C) The bar chart would have bars of uniform color and width, with height representing the profit for each type of crop.
+(D) The bar chart would show vertical bars with heights proportional to the production, with separate bars for each crop's yield and profit side by side.
+
+part 3: (C) The bar chart would have bars of uniform color and width, with height representing the profit for each type of crop.

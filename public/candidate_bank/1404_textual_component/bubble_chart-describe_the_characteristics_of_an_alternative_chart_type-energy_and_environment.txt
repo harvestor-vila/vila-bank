@@ -1,0 +1,7 @@
+part 1: If the bubble chart showing Energy Consumption vs. CO2 Emissions by Country were to be represented as a bar chart, which of the following characteristics would it have?
+    part 2: 
+    (A) Each country would be represented by a pie slice, with the size of the slice corresponding to the country's energy consumption.
+    (B) Each country would be represented by a bar, with the height of the bar corresponding to the country's CO2 emissions and color indicating the renewable energy percentage.
+    (C) Each country would be represented by a line, with the position on the y-axis showing the CO2 emissions and on the x-axis showing the energy consumption.
+    (D) Each country would be represented by a point, with the position on the y-axis showing the renewable energy percentage and on the x-axis showing the CO2 emissions.
+    part 3: (B) Each country would be represented by a bar, with the height of the bar corresponding to the country's CO2 emissions and color indicating the renewable energy percentage.

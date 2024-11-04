@@ -1,0 +1,7 @@
+part 1: What was the temperature on Day 10?
+    part 2: 
+      (A) 58
+      (B) 73
+      (C) 88
+      (D) 103
+    part 3: (B) 73

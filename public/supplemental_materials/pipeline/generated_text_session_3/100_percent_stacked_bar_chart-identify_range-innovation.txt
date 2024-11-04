@@ -1,0 +1,7 @@
+part 1: What is the range of percentage values for the innovation categories across all companies?
+    part 2: 
+    (A) [1, 51]
+    (B) [0, 52]
+    (C) [-1, 53]
+    (D) [2, 44]
+    part 3: (D) [2, 44]

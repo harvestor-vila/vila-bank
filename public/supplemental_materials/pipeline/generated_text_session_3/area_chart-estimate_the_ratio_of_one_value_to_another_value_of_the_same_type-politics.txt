@@ -1,0 +1,11 @@
+part 1: the question stem of the original item
+What is the ratio of the number of votes in 2019 to the number of votes in 2000?
+
+part 2: options of the original item
+(A) 0.5
+(B) 2.5
+(C) 3.5
+(D) 1.5
+
+part 3: the correct answer of the original item
+(D) 1.5

@@ -1,0 +1,7 @@
+part 1: What is the difference in average temperature between Day 2 and Day 20?
+    part 2: 
+    (A) 5 °F
+    (B) 9 °F
+    (C) 14 °F
+    (D) 20 °F
+    part 3: (B) 9 °F

@@ -1,0 +1,9 @@
+part 1: Which disease has the highest number of cases?
+
+part 2: 
+(A) Asthma
+(B) Diabetes
+(C) Heart Disease
+(D) Arthritis
+
+part 3: (C) Heart Disease

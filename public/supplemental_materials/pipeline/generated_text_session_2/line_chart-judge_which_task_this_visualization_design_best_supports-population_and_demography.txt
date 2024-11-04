@@ -1,0 +1,9 @@
+part 1: What task does the line chart with points best support?
+
+part 2: 
+(A) Comparing the population between different years at a glance
+(B) Identifying the exact population for a given year
+(C) Showing the distribution of population across different age groups
+(D) Illustrating the correlation between population growth and economic indicators
+
+part 3: (A) Comparing the population between different years at a glance

@@ -1,0 +1,9 @@
+part 1: Which category has a larger combined percentage, Fruits or Grains?
+
+part 2: 
+  (A) Fruits
+  (B) Grains
+  (C) Both have the same combined percentage
+  (D) Cannot be determined from the visualization
+
+part 3: (B) Grains

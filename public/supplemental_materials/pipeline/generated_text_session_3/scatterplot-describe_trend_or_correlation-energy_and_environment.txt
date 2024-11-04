@@ -1,0 +1,11 @@
+part 1: What trend or correlation is observed between Energy Consumption and Carbon Emission based on the dataset provided?
+
+part 2: 
+(A) Strong positive correlation
+(B) Strong negative correlation
+(C) No correlation
+(D) Moderate positive correlation
+
+part 3: (C) No correlation
+
+Without the ability to calculate the exact correlation or visualize the scatterplot, option (C) seems to be the most appropriate answer based on the dataset provided. However, it is important to note that this assessment is made with limited information and the actual correlation might be different if calculated or visualized.

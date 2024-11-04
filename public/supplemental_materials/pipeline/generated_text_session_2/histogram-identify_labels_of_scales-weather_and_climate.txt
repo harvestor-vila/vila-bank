@@ -1,0 +1,9 @@
+part 1: What are the labels for the x and y axes in the histogram of daily average temperatures?
+
+part 2: 
+(A) x: Days, y: Temperature (°F)
+(B) x: Frequency, y: Daily Average Temperature
+(C) x: Temperature (°F), y: Frequency
+(D) x: Temperature (°C), y: Number of Days
+
+part 3: (C) x: Temperature (°F), y: Frequency

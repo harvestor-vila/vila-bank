@@ -1,0 +1,7 @@
+part 1: What task does this pie chart best support?
+    part 2: 
+    (A) Comparing the exact numerical values of different categories
+    (B) Showing the distribution of categories as a part of a whole
+    (C) Displaying trends over time for different categories
+    (D) Illustrating the hierarchical structure of categories
+    part 3: (B) Showing the distribution of categories as a part of a whole

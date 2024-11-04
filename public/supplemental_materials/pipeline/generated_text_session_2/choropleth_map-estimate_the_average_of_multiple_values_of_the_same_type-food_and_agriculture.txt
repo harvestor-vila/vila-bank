@@ -1,0 +1,9 @@
+part 1: What is the average value of production units across all states as depicted in the choropleth map?
+
+part 2:
+(A) 486.5
+(B) 572.5
+(C) 658.5
+(D) 744.5
+
+part 3: (B) 572.5

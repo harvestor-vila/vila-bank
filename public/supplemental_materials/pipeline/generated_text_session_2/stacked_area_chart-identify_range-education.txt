@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the range of enrollment values depicted in the stacked area chart?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) [80, 580]
+(B) [103, 500]
+(C) [87, 575]
+(D) [90, 565]
+
+part 3: the correct answer
+(B) [103, 500]

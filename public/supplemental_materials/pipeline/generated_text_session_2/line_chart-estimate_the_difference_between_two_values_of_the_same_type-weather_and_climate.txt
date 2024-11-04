@@ -1,0 +1,11 @@
+part 1: the question stem
+Estimate the difference in temperature (°F) between Day 5 and Day 20.
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) 2.0°F
+(B) 3.0°F
+(C) 4.0°F
+(D) 1.0°F
+
+part 3: the correct answer
+(D) 1.0°F

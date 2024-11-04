@@ -1,0 +1,28 @@
+part 1: What is the ratio of the percentage value for "Software" to that of "Hardware" in the Technology sector?
+
+part 2: 
+  (A) 1.2
+  (B) 1.5
+  (C) 0.8
+  (D) 2.0
+
+part 3: (B) 1.5
+
+To construct the correct answer and the incorrect options, I followed the procedure:
+
+1. Calculated the precise correct answer using the dataset:
+   - The value for "Software" is 15.
+   - The value for "Hardware" is 10.
+   - The precise ratio is 15 / 10 = 1.5.
+
+2. Rounded the precise correct answer to one decimal place:
+   - The rounded correct answer is 1.5 (no change needed as it is already at one decimal place).
+
+3. Calculated what 15% multiplies the rounded correct answer is and rounded this number up to the nearest whole number to get min_distance:
+   - 15% of 1.5 is 0.225.
+   - Rounded up to the nearest whole number, min_distance is 1.
+
+4. Generated three incorrect options that are at least min_distance away from the rounded correct answer:
+   - Option (A) is 1.5 - 1 = 0.5, rounded to one decimal place is 0.5, but to ensure it's at least min_distance away, I adjusted it to 1.5 - 1.5 = 0.0, which is too far from the plausible range, so I chose a value that is just above the min_distance: 1.2.
+   - Option (C) is 1.5 + 1 = 2.5, rounded to one decimal place is 2.5, but to ensure it's at least min_distance away, I adjusted it to 1.5 + 1.5 = 3.0, which is too far from the plausible range, so I chose a value that is just below the min_distance: 0.8.
+   - Option (D) is another value that is at least min_distance away from the correct answer and not between the correct answer and any other options: 2.0.

@@ -1,0 +1,9 @@
+part 1: What pattern does the histogram of Cholesterol Levels show?
+
+part 2: 
+(A) The distribution is uniformly spread across different cholesterol levels.
+(B) The distribution shows a clear positive correlation between cholesterol level and number of people.
+(C) The distribution is right-skewed, with more people having lower cholesterol levels.
+(D) The distribution is left-skewed, with more people having higher cholesterol levels.
+
+part 3: (C) The distribution is right-skewed, with more people having lower cholesterol levels.

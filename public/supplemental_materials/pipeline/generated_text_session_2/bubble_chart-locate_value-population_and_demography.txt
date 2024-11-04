@@ -1,0 +1,9 @@
+part 1: Which city has the highest GDP Per Capita?
+
+part 2: 
+  (A) Metropolis
+  (B) Gotham
+  (C) Central City
+  (D) Ivy Town
+
+part 3: (B) Gotham

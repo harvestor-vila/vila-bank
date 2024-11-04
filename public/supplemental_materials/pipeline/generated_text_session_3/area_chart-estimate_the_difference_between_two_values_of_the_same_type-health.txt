@@ -1,0 +1,7 @@
+part 1: Estimate the difference in the number of patients recovered between Day 10 and Day 15.
+    part 2: 
+      (A) 40
+      (B) 60
+      (C) 80
+      (D) 100
+    part 3: (B) 60

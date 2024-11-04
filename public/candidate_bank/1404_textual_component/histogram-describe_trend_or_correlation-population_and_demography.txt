@@ -1,0 +1,7 @@
+part 1: What pattern does the histogram of the population age distribution display?
+    part 2: 
+    (A) A right-skewed distribution with most individuals being younger.
+    (B) A uniform distribution with ages evenly distributed across the population.
+    (C) A left-skewed distribution with most individuals being older.
+    (D) No clear trend or skewness in the age distribution.
+    part 3: (C) A left-skewed distribution with most individuals being older.

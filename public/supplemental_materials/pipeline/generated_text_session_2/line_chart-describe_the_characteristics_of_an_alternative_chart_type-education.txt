@@ -1,0 +1,9 @@
+part 1: If the enrollment data over academic years were to be displayed using a bar chart, which of the following would be an accurate description of its characteristics?
+
+part 2: 
+(A) The bar chart would show a continuous line connecting the tops of the bars, indicating trends over the years.
+(B) The bar chart would consist of horizontal bars with lengths proportional to the enrollment numbers, sorted in descending order.
+(C) The bar chart would display vertical bars for each academic year with heights corresponding to the enrollment numbers, allowing for easy year-to-year comparison.
+(D) The bar chart would use pie slices to represent the proportion of enrollments for each academic year, with the size of each slice corresponding to the number of students.
+
+part 3: (C) The bar chart would display vertical bars for each academic year with heights corresponding to the enrollment numbers, allowing for easy year-to-year comparison.

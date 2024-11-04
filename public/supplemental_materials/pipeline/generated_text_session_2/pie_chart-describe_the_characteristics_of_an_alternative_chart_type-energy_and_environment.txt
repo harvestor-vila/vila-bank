@@ -1,0 +1,9 @@
+part 1: If the data on energy sources distribution were to be displayed using a stacked bar chart instead of a pie chart, which of the following would be an accurate description of its characteristics?
+
+part 2: 
+(A) Each energy source would be represented by a separate bar, with bar lengths proportional to the percentage of total energy production.
+(B) Energy sources would be represented by concentric circles, with the radius of each circle corresponding to its percentage of total energy production.
+(C) Energy sources would be represented by segments of a circle, with the angle of each segment corresponding to its percentage of total energy production.
+(D) Energy sources would be stacked in a single bar, with the length of each segment within the bar corresponding to its percentage of total energy production.
+
+part 3: (D) Energy sources would be stacked in a single bar, with the length of each segment within the bar corresponding to its percentage of total energy production.

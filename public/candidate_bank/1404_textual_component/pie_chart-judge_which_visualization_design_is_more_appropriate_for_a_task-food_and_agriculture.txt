@@ -1,0 +1,9 @@
+part 1:  Given the task of understanding the distribution of different food and agriculture sectors, judge which visualization design is more appropriate. The visualization above is only a demonstration of the relevant data.
+
+part 2:
+(A) A scatter plot with 'Category' on the x-axis and 'Percentage' on the y-axis, different colors for each category.
+(B) A pie chart with sectors as slices proportional to their 'Percentage' values and labeled with 'Category' names.
+(C) A line graph with 'Category' on the x-axis and 'Percentage' on the y-axis, connected by lines in the order of the categories.
+(D) A bar chart with 'Category' on the x-axis and 'Percentage' on the y-axis, each bar representing a different sector.
+
+part 3:   (B) A pie chart with sectors as slices proportional to their 'Percentage' values and labeled with 'Category' names.

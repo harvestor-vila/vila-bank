@@ -1,0 +1,9 @@
+part 1: What percentage of the energy source distribution was made up by Solar in 2021?
+
+part 2: 
+(A) 20%
+(B) 35%
+(C) 50%
+(D) 70%
+
+part 3: (B) 35%

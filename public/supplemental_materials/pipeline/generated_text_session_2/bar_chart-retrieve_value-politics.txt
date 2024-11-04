@@ -1,0 +1,9 @@
+part 1: How many votes did the Socialist party receive?
+
+part 2: 
+(A) 7500
+(B) 8817
+(C) 10000
+(D) 10500
+
+part 3: (B) 8817

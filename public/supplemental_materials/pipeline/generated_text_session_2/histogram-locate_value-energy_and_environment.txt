@@ -1,0 +1,9 @@
+part 1: What is the maximum value of Energy Consumption (MWh) depicted in the histogram?
+
+part 2: 
+(A) 25 MWh
+(B) 63 MWh
+(C) 100 MWh
+(D) 80 MWh
+
+part 3: (B) 63 MWh

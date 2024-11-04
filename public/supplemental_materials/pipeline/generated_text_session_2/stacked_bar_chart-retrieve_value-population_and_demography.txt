@@ -1,0 +1,9 @@
+part 1: What is the population of the age group "55-74" in "Region D"?
+
+part 2: 
+  (A) 18000
+  (B) 22300
+  (C) 26000
+  (D) 30000
+
+part 3: (B) 22300

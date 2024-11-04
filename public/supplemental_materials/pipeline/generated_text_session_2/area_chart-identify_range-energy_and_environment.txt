@@ -1,0 +1,9 @@
+part 1: What is the range of energy consumption values depicted in the area chart?
+
+part 2: 
+  (A) [100, 1000]
+  (B) [138, 961]
+  (C) [120, 1105]
+  (D) [50, 1200]
+
+part 3: (B) [138, 961]

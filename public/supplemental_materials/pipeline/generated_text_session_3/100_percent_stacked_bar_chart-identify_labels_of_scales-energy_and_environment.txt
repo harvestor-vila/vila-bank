@@ -1,0 +1,7 @@
+part 1: What are the labels for the x-axis, y-axis, and the legend in the energy source distribution chart?
+    part 2: 
+    (A) x-axis: Energy Source, y-axis: Year, legend: Percentage
+    (B) x-axis: Year, y-axis: Energy Source, legend: Percentage
+    (C) x-axis: Year, y-axis: Percentage, legend: Energy Source
+    (D) x-axis: Percentage, y-axis: Year, legend: Energy Source
+    part 3: (C) x-axis: Year, y-axis: Percentage, legend: Energy Source

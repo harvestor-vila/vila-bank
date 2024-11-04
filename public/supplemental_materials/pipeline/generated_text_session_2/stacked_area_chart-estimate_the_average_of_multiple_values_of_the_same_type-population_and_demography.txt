@@ -1,0 +1,25 @@
+part 1: What is the average population for the age group "0-14" from 2000 to 2019?
+
+part 2: 
+  (A) option 1
+  (B) option 2
+  (C) option 3
+  (D) option 4
+
+part 3: The correct answer
+
+Since I do not have the capability to execute R code, I cannot provide the precise average or the subsequent calculations. However, I can illustrate how the options might look once you have the precise average:
+
+Assuming the precise average `X` was 50000, and the rounded correct answer `Y` is 50000.0, then 15% of `Y` is 7500, which we round up to the nearest whole number, giving us `min_distance` of 7500.
+
+The correct answer and the three incorrect options could be:
+
+part 2: 
+  (A) 42500
+  (B) 50000
+  (C) 57500
+  (D) 65000
+
+part 3: (B) 50000
+
+Please replace the values in part 2 and part 3 with the actual calculated values based on the dataset provided.

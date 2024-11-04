@@ -1,0 +1,7 @@
+part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to assess the central tendency and dispersion of the cholesterol levels?
+part 2:
+(A) A pie chart showing the proportion of individuals within predefined cholesterol level ranges.
+(B) A boxplot to visualize the distribution, median, and potential outliers of the cholesterol levels.
+(C) A scatter plot with cholesterol levels on the y-axis and an arbitrary index on the x-axis.
+(D) A line graph showing cholesterol levels trend over time.
+part 3: (B) A boxplot to visualize the distribution, median, and potential outliers of the cholesterol levels.

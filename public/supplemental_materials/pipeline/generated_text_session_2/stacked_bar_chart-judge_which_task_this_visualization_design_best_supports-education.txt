@@ -1,0 +1,9 @@
+part 1: Which task does this stacked bar chart design best support?
+
+part 2: 
+  (A) Comparing the total number of students across all schools and grades
+  (B) Identifying trends over time for student enrollment in each school
+  (C) Comparing the exact number of students between two specific grades within a school
+  (D) Showing the distribution of student numbers by grade within each school
+
+part 3: (D) Showing the distribution of student numbers by grade within each school

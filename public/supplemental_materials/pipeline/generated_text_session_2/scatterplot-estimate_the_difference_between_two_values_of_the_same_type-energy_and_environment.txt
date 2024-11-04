@@ -1,0 +1,9 @@
+part 1: Estimate the difference in Energy Consumption (MWh) between the two highest values.
+
+part 2: 
+  (A) 16.0
+  (B) 22.0
+  (C) 13.0
+  (D) 25.0
+
+part 3: (A) 16.0

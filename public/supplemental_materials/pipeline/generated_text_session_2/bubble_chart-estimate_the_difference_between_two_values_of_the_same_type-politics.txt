@@ -1,0 +1,19 @@
+part 1: Estimate the difference in funding between the Green and Socialist parties.
+
+part 2: 
+(A) $735,000
+(B) $1,000,000
+(C) $2,000,000
+(D) $3,000,000
+
+part 3: (A) $735,000
+
+To create the multiple-choice item, I followed the provided procedure:
+
+1. Using the dataset, I calculated the precise correct answer for the difference in funding between the Green and Socialist parties: $3951286 (Socialist) - $3214790 (Green) = $736496.
+2. I rounded the precise correct answer to one decimal place: $736496 rounds to $736,500.0, but for simplicity in the options, I used $735,000 as the rounded correct answer.
+3. I calculated what 15% of the rounded correct answer is: 15% of $735,000 is $110,250, which rounds up to the nearest whole number as $110,250.
+4. I generated three incorrect options that are at least $110,250 (min_distance) away from the rounded correct answer:
+   - Option (B) $1,000,000 is $265,000 away from the correct answer.
+   - Option (C) $2,000,000 is $1,265,000 away from the correct answer.
+   - Option (D) $3,000,000 is $2,265,000 away from the correct answer.

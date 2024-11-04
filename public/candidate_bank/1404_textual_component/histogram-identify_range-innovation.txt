@@ -1,0 +1,7 @@
+part 1: What is the range of Innovation Scores depicted in the histogram?
+    part 2:
+    (A) [1, 33]
+    (B) [0, 38]
+    (C) [2, 28]
+    (D) [-1, 43]
+    part 3: (C) [2, 28]

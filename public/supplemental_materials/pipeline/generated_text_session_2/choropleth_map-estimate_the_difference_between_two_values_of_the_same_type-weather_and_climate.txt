@@ -1,0 +1,30 @@
+part 1: What is the difference in average temperature between Arizona and Arkansas?
+
+part 2: 
+(A) 27 degrees
+(B) 40 degrees
+(C) 10 degrees
+(D) 37 degrees
+
+part 3: (A) 27 degrees
+
+To explain the process:
+
+1. The precise correct answer is calculated using the dataset: Arizona (100) - Arkansas (63) = 37.
+2. The precise correct answer is rounded to one decimal place: 37.0 (which remains 37 when rounded to a whole number).
+3. Calculate 15% of the rounded correct answer: 0.15 * 37 = 5.55, which rounds up to the nearest whole number as 6 (min_distance).
+4. Generate three incorrect options that are at least min_distance away from the rounded correct answer:
+   - Option (B) 40 degrees is 3 degrees more than the correct answer, which is less than min_distance, so it is not a valid option.
+   - Option (C) 10 degrees is 27 degrees less than the correct answer, which is more than min_distance, so it is a valid option.
+   - Option (D) 37 degrees is the correct answer.
+   - To find a valid option instead of (B), we can choose a number that is at least 6 degrees away from 37, but not 27 (since it's the correct answer). Let's choose 27 + 6 = 33 or 27 - 6 = 21. We'll go with 21 degrees.
+   - We need one more incorrect option. Let's choose a number that is at least 6 degrees away from both 37 and 21. We can go with 37 + 6 = 43 or 21 - 6 = 15. We'll go with 43 degrees.
+
+Corrected part 2 with valid options:
+(A) 27 degrees
+(B) 21 degrees
+(C) 10 degrees
+(D) 43 degrees
+
+Corrected part 3 remains the same:
+(A) 27 degrees

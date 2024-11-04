@@ -1,0 +1,9 @@
+part 1: Which range of 'Yield per Acre' contains more data points, 0-9 or 10-19?
+
+part 2: 
+  (A) 0-9
+  (B) 10-19
+  (C) Both ranges contain the same number of data points
+  (D) It is not possible to determine from the histogram
+
+part 3: (A) 0-9

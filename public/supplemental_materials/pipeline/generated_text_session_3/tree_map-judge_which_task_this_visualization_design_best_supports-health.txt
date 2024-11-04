@@ -1,0 +1,7 @@
+part 1: What task does the tree map visualization design best support?
+    part 2: 
+    (A) Comparing exact values across multiple categories and subcategories
+    (B) Showing the hierarchical structure of health subcategories within categories
+    (C) Displaying trends over time for different health subcategories
+    (D) Illustrating the geographic distribution of health subcategories
+    part 3: (B) Showing the hierarchical structure of health subcategories within categories

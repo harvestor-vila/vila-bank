@@ -1,0 +1,9 @@
+part 1: What is the range of the number of innovations across all categories from 2000 to 2019?
+
+part 2: 
+(A) [42, 230]
+(B) [50, 200]
+(C) [35, 245]
+(D) [30, 240]
+
+part 3: (B) [50, 200]

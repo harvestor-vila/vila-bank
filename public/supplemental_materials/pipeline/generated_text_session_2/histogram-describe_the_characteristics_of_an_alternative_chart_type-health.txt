@@ -1,0 +1,9 @@
+part 1: If the distribution of cholesterol levels were to be displayed using a box plot, which of the following would be an accurate description of its appearance?
+
+part 2: 
+(A) The box plot would show a symmetric distribution with equal whisker lengths on both sides of the box.
+(B) The box plot would display a right-skewed distribution with a longer whisker extending towards higher cholesterol levels.
+(C) The box plot would have a long lower whisker, indicating a left-skewed distribution with more values concentrated on the higher end.
+(D) The box plot would show a uniform distribution with the median line located at the center of the box.
+
+part 3: (C) The box plot would have a long lower whisker, indicating a left-skewed distribution with more values concentrated on the higher end.

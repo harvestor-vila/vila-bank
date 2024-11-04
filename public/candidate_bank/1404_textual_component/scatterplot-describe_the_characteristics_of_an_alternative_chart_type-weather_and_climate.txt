@@ -1,0 +1,7 @@
+    part 1: If the scatterplot of Temperature vs Humidity were to be represented as a box plot, which of the following characteristics would it display?
+    part 2: 
+    (A) The box plot would show a single box for each variable with a clear indication of the median, quartiles, and potential outliers for temperature and humidity separately.
+    (B) The box plot would display the distribution of data points along a timeline, with temperature and humidity values stacked on top of each other.
+    (C) The box plot would illustrate the exact positive correlation between temperature and humidity with a line of best fit.
+    (D) The box plot would consist of concentric circles representing temperature and humidity, with the size of each circle corresponding to the frequency of data points.
+    part 3: (A) The box plot would show a single box for each variable with a clear indication of the median, quartiles, and potential outliers for temperature and humidity separately.

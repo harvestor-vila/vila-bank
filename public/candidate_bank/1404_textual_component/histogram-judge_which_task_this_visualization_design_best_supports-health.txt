@@ -1,0 +1,7 @@
+part 1: What task does the histogram of Cholesterol Levels best support?
+    part 2: 
+    (A) Identifying the average Cholesterol Level
+    (B) Comparing Cholesterol Levels between different groups
+    (C) Showing the distribution of Cholesterol Levels among individuals
+    (D) Displaying the change in Cholesterol Levels over time
+    part 3: (C) Showing the distribution of Cholesterol Levels among individuals

@@ -1,0 +1,7 @@
+part 1: What is the range of Profit values represented in the bubble chart?
+    part 2: 
+      (A) [36, 149]
+      (B) [43, 129]
+      (C) [35, 150]
+      (D) [34, 151]
+    part 3: (B) [43, 129]

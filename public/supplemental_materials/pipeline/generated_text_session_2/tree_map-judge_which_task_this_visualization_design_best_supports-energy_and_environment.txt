@@ -1,0 +1,7 @@
+part 1: Which task does this tree map visualization design best support?
+part 2: 
+  (A) Comparing exact values across different categories and subcategories
+  (B) Showing the hierarchical structure of categories and their distribution of values
+  (C) Displaying trends over time for different subcategories
+  (D) Identifying correlations between different subcategories
+part 3: (B) Showing the hierarchical structure of categories and their distribution of values

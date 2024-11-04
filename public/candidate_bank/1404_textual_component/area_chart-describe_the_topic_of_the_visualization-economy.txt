@@ -1,0 +1,7 @@
+part 1: What does the area chart illustrate about the economy over the given time period?
+part 2: 
+  (A) The fluctuation of unemployment rates over two decades
+  (B) The change in GDP over a period of years
+  (C) The diversity of species found in a rainforest
+  (D) The annual precipitation levels in a region
+part 3: (B) The change in GDP over a period of years

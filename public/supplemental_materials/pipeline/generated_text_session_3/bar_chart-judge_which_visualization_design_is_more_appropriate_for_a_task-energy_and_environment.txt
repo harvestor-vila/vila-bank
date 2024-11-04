@@ -1,0 +1,11 @@
+part 1: the question stem of the original item
+    Given the task of comparing the production values across different energy sources to identify the most and least utilized sources, which visualization design would be most appropriate? The visualization above is only a demonstration of the relevant data.
+    
+    part 2: options of the original item
+    (A) A pie chart with different colors representing each energy source and the size of each slice proportional to production values.
+    (B) A scatter plot with energy sources on the x-axis and production values on the y-axis, with each point representing an energy source.
+    (C) A bar chart with energy sources on the x-axis and production values on the y-axis, with the height of each bar representing the production value.
+    (D) A line graph with time on the x-axis and production values on the y-axis, with points connected in the order of energy sources.
+    
+    part 3: the correct answer of the original item
+    (C) A bar chart with energy sources on the x-axis and production values on the y-axis, with the height of each bar representing the production value.

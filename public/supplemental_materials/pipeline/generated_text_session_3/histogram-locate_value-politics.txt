@@ -1,0 +1,7 @@
+part 1: What is the maximum number of votes received by a candidate in the histogram of votes in a hypothetical primary election?
+part 2: 
+  (A) 1500 votes
+  (B) 36 votes
+  (C) 100 votes
+  (D) 250 votes
+part 3: (B) 36 votes

@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the range of Weight values in the scatterplot?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) [40, 115]
+(B) [51, 100]
+(C) [43, 120]
+(D) [35, 130]
+
+part 3: the correct answer
+(B) [51, 100]

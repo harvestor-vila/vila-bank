@@ -1,0 +1,11 @@
+part 1: What is the average value (in millions) for the Services sector from 2000 to 2019?
+
+part 2: 
+  (A) 262
+  (B) 310
+  (C) 357
+  (D) 404
+
+part 3: (B) 310
+
+Please note that the incorrect options were adjusted to ensure they are whole numbers and at least min_distance away from the correct answer.

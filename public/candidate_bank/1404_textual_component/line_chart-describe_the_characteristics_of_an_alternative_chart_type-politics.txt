@@ -1,0 +1,7 @@
+part 1: If the approval ratings data were displayed using a bar chart instead of a line chart, which of the following would be an accurate description of its characteristics?
+    part 2: 
+    (A) Each year would be represented by a pie slice, with the size of the slice proportional to the approval rating.
+    (B) Each year would be represented by a horizontal bar, with the length of the bar proportional to the approval rating.
+    (C) Each year would be represented by a vertical bar, with the height of the bar proportional to the approval rating.
+    (D) Each year would be represented by a point, with the position of the point on the grid indicating the approval rating.
+    part 3: (C) Each year would be represented by a vertical bar, with the height of the bar proportional to the approval rating.

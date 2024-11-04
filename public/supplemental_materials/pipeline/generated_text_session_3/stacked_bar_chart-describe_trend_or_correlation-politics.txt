@@ -1,0 +1,7 @@
+part 1: What pattern can be observed in the distribution of votes for political issues across the states?
+part 2: 
+(A) Each state has a dominant party that has the majority of votes across all issues.
+(B) No single issue consistently receives the most votes across all states.
+(C) The number of votes for each issue is proportional to the state's population.
+(D) Defense consistently receives the least number of votes across all states.
+part 3: (B) No single issue consistently receives the most votes across all states.

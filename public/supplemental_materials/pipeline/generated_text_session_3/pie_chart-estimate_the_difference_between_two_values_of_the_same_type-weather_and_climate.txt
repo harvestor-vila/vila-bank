@@ -1,0 +1,7 @@
+part 1: What is the estimated difference in percentage between the Temperate and Cold climate categories?
+    part 2: 
+      (A) 2%
+      (B) 5%
+      (C) 10%
+      (D) 15%
+    part 3: (B) 5%

@@ -1,0 +1,10 @@
+part 1: If the age distribution of the population were to be displayed using a histogram, which of the following would be an accurate description of its appearance?
+
+part 2: 
+(A) The histogram would show a symmetric distribution with most of the ages concentrated in the middle bins.
+(B) The histogram would display a right-skewed distribution with most of the ages concentrated in the bins on the left side.
+(C) The histogram would have a uniform distribution with equal counts in all age bins.
+(D) The histogram would show a left-skewed distribution with most of the ages concentrated in the bins on the right side.
+
+part 3: (B) The histogram would display a right-skewed distribution with most of the ages concentrated in the bins on the left side.
+

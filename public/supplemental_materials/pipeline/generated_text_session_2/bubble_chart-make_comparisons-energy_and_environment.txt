@@ -1,0 +1,9 @@
+part 1: Which country has a larger bubble size, indicating a higher percentage of renewable energy usage, Grevia or Cyprum?
+
+part 2: 
+  (A) Grevia
+  (B) Cyprum
+  (C) Both have the same bubble size
+  (D) The visualization does not include information on renewable energy usage
+
+part 3: (A) Grevia

@@ -1,0 +1,7 @@
+part 1: What does the legend label represent in the tree map visualization of weather and climate data?
+    part 2: 
+      (A) Subcategories of weather and climate data
+      (B) Percentage values of each category
+      (C) Categories of weather and climate data
+      (D) Number of data points for each subcategory
+    part 3: (C) Categories of weather and climate data

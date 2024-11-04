@@ -1,0 +1,11 @@
+part 1: the question stem
+Given the constant GDP values over the years, which visualization design would best represent the stability of the economy depicted in the dataset? The visualization above is only a demonstration of the relevant data.
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A line chart with a single horizontal line indicating the unchanging GDP value over time.
+(B) A scatter plot with individual points for each year's GDP, showing fluctuations over time.
+(C) A bar chart with varying bar heights to represent the differences in GDP each year.
+(D) A 3D pie chart representing the proportion of GDP contributions by year.
+
+part 3: the correct answer
+(A) A line chart with a single horizontal line indicating the unchanging GDP value over time.

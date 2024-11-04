@@ -1,0 +1,7 @@
+part 1: What are the labels for the horizontal and vertical axes in the line chart?
+    part 2: 
+      (A) Horizontal: Temperature (°F), Vertical: Day
+      (B) Horizontal: Day, Vertical: Temperature (°F)
+      (C) Horizontal: Humidity (%), Vertical: Time (Hours)
+      (D) Horizontal: Time (Days), Vertical: Precipitation (Inches)
+    part 3: (B) Horizontal: Day, Vertical: Temperature (°F)

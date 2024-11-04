@@ -1,0 +1,9 @@
+part 1: Estimate the difference in percentage between the "Defense" and "Diplomacy" policy areas.
+
+part 2: 
+(A) 2%
+(B) 7%
+(C) 10%
+(D) 15%
+
+part 3: (B) 7%

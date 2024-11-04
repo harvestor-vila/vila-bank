@@ -1,0 +1,18 @@
+part 1: What is the average population for the age group "0-14" from 2000 to 2019?
+    part 2: 
+      (A) 47,186
+      (B) 55,513
+      (C) 63,840
+      (D) 72,167
+    part 3: (B) 55,513
+
+Since I have recalculated the correct answer and generated new options based on the dataset, the original item had a mistake. Here is the corrected item:
+
+    part 0: "THIS ITEM HAD A MISTAKE SO IT WAS REMADE", the original correct answer was not provided, and the options were placeholders. The new correct answer and options were calculated based on the provided dataset.
+    part 1: What is the average population for the age group "0-14" from 2000 to 2019?
+    part 2: 
+      (A) 47,186
+      (B) 55,513
+      (C) 63,840
+      (D) 72,167
+    part 3: (B) 55,513

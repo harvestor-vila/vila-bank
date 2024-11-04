@@ -1,0 +1,11 @@
+"Innovation"	"Investments"
+"AI"	278
+"Blockchain"	113
+"IoT"	294
+"5G"	405
+"Biotech"	217
+"Nanotech"	398
+"Robotics"	328
+"Quantum Computing"	343
+"VR/AR"	113
+"Renewable Energy"	473

@@ -1,0 +1,9 @@
+part 1: In which year did the political party receive the maximum number of votes?
+
+part 2: 
+(A) 2000
+(B) 2009
+(C) 2012
+(D) 2018
+
+part 3: (B) 2009

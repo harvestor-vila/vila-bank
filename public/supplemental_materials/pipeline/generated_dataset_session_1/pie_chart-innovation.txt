@@ -1,0 +1,5 @@
+"Category"	"Percentage"
+"Product Innovation"	25
+"Process Innovation"	30
+"Marketing Innovation"	20
+"Organizational Innovation"	25

@@ -1,0 +1,9 @@
+part 1: What is the average energy production (GWh) for Solar energy from 2000 to 2019?
+part 2:
+  (A) 240 GWh
+  (B) 280 GWh
+  (C) 320 GWh
+  (D) 370 GWh
+part 3: (B) 280 GWh
+
+If there were any discrepancies found during the calculations, I would provide a corrected item with an explanation of the mistake.

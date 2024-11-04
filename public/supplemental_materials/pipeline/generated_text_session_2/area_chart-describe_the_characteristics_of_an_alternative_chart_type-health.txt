@@ -1,0 +1,9 @@
+part 1: If the number of patients recovered over time were displayed using a line chart instead of an area chart, which of the following would best describe its characteristics?
+
+part 2: 
+(A) A line chart would show individual data points connected by straight lines, without a filled area beneath the line, emphasizing the trend over time.
+(B) A line chart would display bars for each day, with the height of the bars representing the number of patients recovered, to compare individual days.
+(C) A line chart would use pie slices to represent the proportion of patients recovered each day out of the total recovered over the period.
+(D) A line chart would stack segments vertically for each day to show the cumulative number of patients recovered, with each segment's height proportional to the daily count.
+
+part 3: (A) A line chart would show individual data points connected by straight lines, without a filled area beneath the line, emphasizing the trend over time.

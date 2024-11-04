@@ -1,0 +1,7 @@
+part 1: What trend can be observed in the population distribution by age group and gender?
+    part 2: 
+    (A) The percentage of males increases with each ascending age group.
+    (B) Females aged 25-54 have the highest percentage compared to other female age groups.
+    (C) Males aged 0-14 have a higher percentage than females aged 0-14.
+    (D) Each gender has an equal percentage distribution across all age groups.
+    part 3: (B) Females aged 25-54 have the highest percentage compared to other female age groups.

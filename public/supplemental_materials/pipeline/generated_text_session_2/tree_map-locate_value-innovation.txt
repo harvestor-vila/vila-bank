@@ -1,0 +1,9 @@
+part 1: Which subsector has the smallest percentage allocation in the innovation sectors tree map?
+
+part 2: 
+  (A) AI
+  (B) Robotics
+  (C) Pharma
+  (D) Oil & Gas
+
+part 3: (C) Pharma

@@ -1,0 +1,7 @@
+part 1: What is the range of the population values across the different age groups in the bar chart?
+    part 2: 
+      (A) [1000, 4000]
+      (B) [1194, 3510]
+      (C) [900, 3600]
+      (D) [1100, 3700]
+    part 3: (B) [1194, 3510]

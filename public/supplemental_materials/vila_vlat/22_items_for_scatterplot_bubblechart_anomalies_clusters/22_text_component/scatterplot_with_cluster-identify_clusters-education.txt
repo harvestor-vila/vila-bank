@@ -1,0 +1,7 @@
+part 1: Where is the cluster of data points located on the scatterplot of Test Scores versus Study Hours?
+    part 2: 
+      (A) Around Test Score 70 and Study Hours 40
+      (B) Around Test Score 85 and Study Hours 50
+      (C) Around Test Score 95 and Study Hours 55
+      (D) No visible cluster
+    part 3: (B) Around Test Score 85 and Study Hours 50

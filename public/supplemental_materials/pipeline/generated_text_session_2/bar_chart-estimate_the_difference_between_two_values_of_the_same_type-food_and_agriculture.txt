@@ -1,0 +1,13 @@
+part 1: the question stem
+Estimate the difference in production (in tonnes) between Soybeans and Corn.
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) 300 tonnes
+(B) 347 tonnes
+(C) 400 tonnes
+(D) 450 tonnes
+
+part 3: the correct answer
+(B) 347 tonnes
+
+The incorrect options (A), (C), and (D) are 47, 53, and 103 tonnes away from the correct answer, respectively, which satisfies the requirement that they are at least min_distance away from the correct answer.

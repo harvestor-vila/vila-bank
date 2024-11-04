@@ -1,0 +1,11 @@
+part 1: What is the innovation score for the state of California?
+
+part 2: 
+  (A) 300
+  (B) 475
+  (C) 550
+  (D) 700
+
+part 3: (B) 475
+
+To generate the incorrect options, I used the correct answer of 475 and calculated 15% of this value, which is 71.25. Rounding this up to the nearest whole number gives us a min_distance of 72. I then created three incorrect options that are at least 72 units away from the correct answer of 475. These incorrect options are 300 (175 units away), 550 (75 units away), and 700 (225 units away).

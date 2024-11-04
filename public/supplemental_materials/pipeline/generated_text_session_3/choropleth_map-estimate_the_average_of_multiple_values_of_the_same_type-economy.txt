@@ -1,0 +1,9 @@
+part 1: What is the average economic value across all states as depicted in the choropleth map?
+
+part 2: 
+(A) $45,018
+(B) $52,962
+(C) $60,906
+(D) $68,850
+
+part 3: (B) $52,962

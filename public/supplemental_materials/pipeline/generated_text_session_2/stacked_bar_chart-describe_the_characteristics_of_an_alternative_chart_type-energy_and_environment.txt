@@ -1,0 +1,9 @@
+part 1: If the energy production data were to be displayed using a pie chart instead of a stacked bar chart, which of the following would be an accurate description of this alternative chart type?
+
+part 2: 
+(A) A pie chart would show the distribution of energy production for each country, with separate pie slices for each energy source, and the size of each slice would be proportional to the production values.
+(B) A pie chart would represent each country as a separate pie, with colors indicating the different energy sources and the size of the pies reflecting the total production of all sources.
+(C) A pie chart would display energy sources as concentric circles, with the radius of each circle representing the production amount for each country.
+(D) A pie chart would use a single pie to represent all countries, with slices for each energy source, and the color intensity of each slice would vary according to the production amount.
+
+part 3: (A) A pie chart would show the distribution of energy production for each country, with separate pie slices for each energy source, and the size of each slice would be proportional to the production values.

@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal axis, vertical axis, and the legend in the stacked area chart?
+
+part 2: 
+(A) Horizontal: Category, Vertical: Year, Legend: Value
+(B) Horizontal: Value, Vertical: Category, Legend: Year
+(C) Horizontal: Year, Vertical: Value, Legend: Category
+(D) Horizontal: Year, Vertical: Category, Legend: Value
+
+part 3: (C) Horizontal: Year, Vertical: Value, Legend: Category

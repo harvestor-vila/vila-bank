@@ -1,0 +1,7 @@
+part 1: What does the legend in the pie chart represent?
+    part 2: 
+      (A) Different countries' energy consumption
+      (B) Types of energy sources
+      (C) Percentage of energy saved
+      (D) Years of energy production
+    part 3: (B) Types of energy sources

@@ -1,0 +1,7 @@
+part 1: What is the ratio of the investment in AI to the investment in Biotech?
+part 2: 
+(A) 0.8
+(B) 1.3
+(C) 2.0
+(D) 0.3
+part 3: (B) 1.3

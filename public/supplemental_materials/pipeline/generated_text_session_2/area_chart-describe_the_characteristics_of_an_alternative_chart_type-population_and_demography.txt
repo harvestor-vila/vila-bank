@@ -1,0 +1,9 @@
+part 1: If the population trend depicted in the area chart were to be represented using a line chart, which of the following characteristics would accurately describe the line chart?
+
+part 2: 
+(A) The line chart would show a series of bars with varying heights, reflecting the population size each year.
+(B) The line chart would display a pie for each year, with the size of each slice representing the population for that year.
+(C) The line chart would consist of points connected by a line, showing a decreasing trend in population from 2000 to 2019.
+(D) The line chart would have stacked lines, each representing a different year's population, accumulating to show total growth over time.
+
+part 3: (C) The line chart would consist of points connected by a line, showing a decreasing trend in population from 2000 to 2019.

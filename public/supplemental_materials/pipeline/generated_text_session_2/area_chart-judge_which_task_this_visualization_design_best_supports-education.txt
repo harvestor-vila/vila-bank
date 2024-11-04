@@ -1,0 +1,9 @@
+part 1: What task does this area chart visualization design best support?
+
+part 2: 
+  (A) Comparing the number of graduates between different years
+  (B) Showing the distribution of graduates across different fields of study
+  (C) Identifying the exact number of graduates in a specific year
+  (D) Tracking the change in the number of graduates over time
+
+part 3: (D) Tracking the change in the number of graduates over time

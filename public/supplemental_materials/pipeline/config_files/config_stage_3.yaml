@@ -1,0 +1,56 @@
+system_text: |
+  You check multiple-choice items on data visualization tasks. 
+  A multiple-choice item on data visualization tasks consists of six parts:
+    part 1: the question stem
+    part 2: options
+    part 3: the correct answer
+    part 4: the visualization task
+    part 5: the R code that generated the dataset and the data visualization
+    part 6: the realized dataset from the R code (no more randomness)
+
+user_text_1: |
+  I will give you a multiple-choice item on a data visualization task which consists of six parts:
+    part 1: the question stem
+    part 2: options
+    part 3: the correct answer
+    part 4: the R code that generated the dataset and the data visualization
+    part 5: the realized dataset from the R code (no more randomness)
+    part 6: the visualization task
+  Here are the first three parts: {item_text}
+  Here is the visualization task (part 4): {task}; {task_description}
+
+assistant_text_1: |
+  I have received
+    part 1: the question stem
+    part 2: options
+    part 3: the correct answer
+    part 4: the visualization task
+  Please provide me with the rest of the inputs.
+
+user_text_2: |
+  Here is the R code that generated the dataset and the data visualization: {python_code}
+  Here is the dataset: {dataset}
+
+assistant_text_2: |
+  I have received
+    part 5: the R code that generated the dataset and the data visualization
+    part 6: the realized dataset from the R code (no more randomness)
+  I also received parts 1-4: the question stem, options, the correct answer, and the visualization task.
+  Please provide me with further instructions on how to check this multiple-choice item based on these inputs.
+
+user_text_3: |
+  I want you to check whether there are any mistakes in this item. Specifically,
+    (1) check that the correct answer is indeed correct based on the question stem, the visualization task, and the dataset. You must find the correct answer yourself first and then compare it to the current correct answer.
+    (2) check that the correct answer is the only one that is correct among all the options. The incorrect options must be clear and unambiguously incorrect.
+  Do not print out the entire the dataset or the R code in your response. 
+  If there is no mistake in an item, do not change anything, and output the finalized item in this specific format in the last part of your response. Make sure the word "part" in your output is lowercased: 
+      part 1: the question stem of the original item
+      part 2: options of the original item
+      part 3: the correct answer of the original item
+  If you detect a mistake in an item, use the dataset, the R code for the visualization, and the visualization task to make a new item so that there are no more mistakes. Then you must output the finalized item in the following specific format in the last part of your response. Make sure the word "part" in your output is lowercased: 
+      part 0: "THIS ITEM HAD A MISTAKE SO IT WAS REMADE", followed by an explanation of the mistake in the original item
+      part 1: the question stem of the new item
+      part 2: options of the new item
+      part 3: the correct answer of the new item
+
+gpt_model: "gpt-4-1106-preview"

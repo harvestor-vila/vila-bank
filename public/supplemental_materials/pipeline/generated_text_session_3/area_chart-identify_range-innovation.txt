@@ -1,0 +1,8 @@
+part 1: What is the range of the number of innovations shown in the area chart?
+    part 2: options
+    (A) [40, 180]
+    (B) [30, 200]
+    (C) [45, 175]
+    (D) [58, 150]
+    part 3: the correct answer
+    (D) [58, 150]

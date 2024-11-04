@@ -1,0 +1,52 @@
+"region"	"value"
+"alabama"	514
+"alaska"	562
+"arizona"	278
+"arkansas"	625
+"california"	294
+"colorado"	1037
+"connecticut"	1941
+"delaware"	1241
+"florida"	1422
+"georgia"	1352
+"hawaii"	1367
+"idaho"	1137
+"illinois"	1497
+"indiana"	764
+"iowa"	701
+"kansas"	1726
+"kentucky"	1891
+"louisiana"	808
+"maine"	1110
+"maryland"	1214
+"massachusetts"	1052
+"michigan"	447
+"minnesota"	1116
+"mississippi"	1772
+"missouri"	1478
+"montana"	939
+"nebraska"	125
+"nevada"	618
+"new hampshire"	1549
+"new jersey"	1772
+"new mexico"	1889
+"new york"	310
+"north carolina"	1031
+"north dakota"	1713
+"ohio"	692
+"oklahoma"	654
+"oregon"	1994
+"pennsylvania"	472
+"rhode island"	943
+"south carolina"	1266
+"south dakota"	643
+"tennessee"	589
+"texas"	1744
+"utah"	1898
+"vermont"	1004
+"virginia"	1036
+"washington"	1965
+"west virginia"	1146
+"wisconsin"	1022
+"wyoming"	1055
+"district of columbia"	408

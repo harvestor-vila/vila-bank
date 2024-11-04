@@ -1,0 +1,7 @@
+part 1: What is the ratio of the Energy Consumption at Time 10 to the Energy Consumption at Time 20?
+    part 2: 
+    (A) 0.6
+    (B) 1.6
+    (C) 0.0
+    (D) 2.6
+    part 3: (A) 0.6

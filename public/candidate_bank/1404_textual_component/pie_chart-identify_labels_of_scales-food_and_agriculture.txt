@@ -1,0 +1,7 @@
+part 1: What does the label "Category" in the pie chart refer to?
+    part 2: 
+      (A) The title of the pie chart
+      (B) The segments of the pie chart
+      (C) The numerical values on the pie chart
+      (D) The color coding of the pie chart
+    part 3: (B) The segments of the pie chart

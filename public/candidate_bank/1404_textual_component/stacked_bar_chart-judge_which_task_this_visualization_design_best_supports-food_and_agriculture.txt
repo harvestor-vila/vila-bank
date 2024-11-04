@@ -1,0 +1,7 @@
+part 1: What task does the stacked bar chart design best support?
+    part 2: 
+      (A) Comparing the total agricultural production across different products
+      (B) Identifying trends in agricultural production over time
+      (C) Analyzing the distribution of a single product's production within different regions
+      (D) Assessing the correlation between the type of product and its production volume
+    part 3: (C) Analyzing the distribution of a single product's production within different regions

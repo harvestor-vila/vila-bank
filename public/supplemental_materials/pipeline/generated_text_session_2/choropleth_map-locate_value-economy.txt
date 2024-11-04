@@ -1,0 +1,9 @@
+part 1: Which state is represented with the highest economic value in the choropleth map?
+
+part 2: 
+(A) Texas
+(B) Kansas
+(C) California
+(D) New York
+
+part 3: (B) Kansas

@@ -1,0 +1,7 @@
+part 1: What task does the stacked bar chart design best support?
+    part 2: 
+      (A) Comparing the total energy production across different countries
+      (B) Identifying the exact number of energy sources used by each country
+      (C) Analyzing the trend of energy production over time
+      (D) Assessing the distribution of a single country's energy production by source
+    part 3: (A) Comparing the total energy production across different countries

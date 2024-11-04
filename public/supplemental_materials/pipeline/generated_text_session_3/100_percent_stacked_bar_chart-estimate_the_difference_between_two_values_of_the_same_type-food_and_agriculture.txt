@@ -1,0 +1,7 @@
+part 1: Estimate the difference in percentage points between the "Meat" category in 2019 and the "Dairy" category in 2021.
+part 2: 
+(A) 1%
+(B) 24%
+(C) 18%
+(D) 35%
+part 3: (B) 24%

@@ -1,0 +1,11 @@
+part 1: In which sector and year did the minimum percentage contribution to the economy occur?
+
+part 2: 
+  (A) Agriculture, 2021
+  (B) Services, 2020
+  (C) Agriculture, 2020
+  (D) Services, 2019
+
+part 3: (C) Agriculture, 2020
+
+This revised item ensures that all incorrect options are sufficiently far from the correct answer, fulfilling the visualization task requirement.

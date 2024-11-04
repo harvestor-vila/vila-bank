@@ -1,0 +1,7 @@
+part 1: What percentage of the economy is attributed to the Finance subcategory within the Services sector?
+    part 2: 
+      (A) 5%
+      (B) 10%
+      (C) 15%
+      (D) 25%
+    part 3: (C) 15%

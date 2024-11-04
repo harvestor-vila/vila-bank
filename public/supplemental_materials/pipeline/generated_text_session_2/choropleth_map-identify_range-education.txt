@@ -1,0 +1,9 @@
+part 1: What is the range of education values represented on the choropleth map of the United States?
+
+part 2: 
+(A) [85, 1115]
+(B) [100, 985]
+(C) [113, 970]
+(D) [90, 1050]
+
+part 3: (C) [113, 970]

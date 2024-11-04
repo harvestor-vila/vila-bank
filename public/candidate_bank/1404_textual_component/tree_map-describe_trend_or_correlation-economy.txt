@@ -1,0 +1,7 @@
+part 1: What pattern can be observed in the distribution of percentages among the different sectors and their respective subcategories?
+    part 2: 
+      (A) The Agriculture sector has the most subcategories.
+      (B) Each sector contributes equally to the economy.
+      (C) The Services sector has the largest percentage distribution.
+      (D) There is a strong positive correlation between the number of subcategories and their percentage contributions.
+    part 3: (C) The Services sector has the largest percentage distribution.

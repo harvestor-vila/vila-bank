@@ -1,0 +1,9 @@
+part 1: Which sector received more investment, IoT or Biotech?
+
+part 2: 
+  (A) IoT
+  (B) Biotech
+  (C) Investments are equal
+  (D) Cannot be determined from the visualization
+
+part 3: (A) IoT

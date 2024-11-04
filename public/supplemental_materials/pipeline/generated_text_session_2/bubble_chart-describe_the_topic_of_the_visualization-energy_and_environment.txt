@@ -1,0 +1,9 @@
+part 1: What is the topic of the visualization?
+
+part 2: 
+(A) The relationship between GDP and population growth in various countries
+(B) The comparison of energy consumption and CO2 emissions across different countries, with a focus on renewable energy usage
+(C) The impact of tourism on the economy and environment of different countries
+(D) The correlation between education levels and employment rates in several nations
+
+part 3: (B) The comparison of energy consumption and CO2 emissions across different countries, with a focus on renewable energy usage

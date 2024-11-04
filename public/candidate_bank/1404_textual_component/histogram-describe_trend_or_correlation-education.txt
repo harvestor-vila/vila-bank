@@ -1,0 +1,7 @@
+part 1: What pattern does the histogram of standardized test scores show?
+    part 2: 
+    (A) The distribution is uniformly spread across the range of scores.
+    (B) There is a clear positive correlation between the number of students and test scores.
+    (C) The distribution is right-skewed with most students scoring towards the higher end.
+    (D) The distribution is left-skewed with most students scoring towards the lower end.
+    part 3: (C) The distribution is right-skewed with most students scoring towards the higher end.

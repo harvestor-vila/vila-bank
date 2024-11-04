@@ -1,0 +1,9 @@
+part 1: What is the range of Voter Turnout percentages represented in the scatterplot?
+
+part 2:
+(A) [40, 104]
+(B) [52, 90]
+(C) [43, 105]
+(D) [42, 106]
+
+part 3: (B) [52, 90]

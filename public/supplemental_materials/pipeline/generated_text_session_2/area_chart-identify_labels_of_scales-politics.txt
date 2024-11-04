@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the area chart depicting political party votes over time?
+
+part 2: 
+  (A) Horizontal: Votes, Vertical: Year
+  (B) Horizontal: Year, Vertical: Votes
+  (C) Horizontal: Time, Vertical: Party
+  (D) Horizontal: Party, Vertical: Time
+
+part 3: (B) Horizontal: Year, Vertical: Votes

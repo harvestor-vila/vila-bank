@@ -1,0 +1,9 @@
+part 1: Estimate the average funding received by the political parties.
+
+part 2: 
+  (A) $4,131,000
+  (B) $4,860,000
+  (C) $5,589,000
+  (D) $6,318,000
+
+part 3: (B) $4,860,000

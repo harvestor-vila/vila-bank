@@ -1,0 +1,8 @@
+part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relative sizes of the categories within the population?
+part 2: options of the original item
+(A) A scatter plot with each category represented by a point whose position on the y-axis reflects its percentage.
+(B) A pie chart with each slice representing a category and its size proportional to the percentage of the population it represents.
+(C) A line graph with time on the x-axis and the percentage of each category on the y-axis.
+(D) A bar chart with categories on the x-axis and different colors representing different years on the y-axis.
+part 3: the correct answer of the original item
+(B) A pie chart with each slice representing a category and its size proportional to the percentage of the population it represents.

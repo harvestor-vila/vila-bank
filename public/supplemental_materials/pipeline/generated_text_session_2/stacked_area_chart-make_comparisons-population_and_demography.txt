@@ -1,0 +1,9 @@
+part 1: Which age group had a larger population in the year 2000, "0-14" or "65+"?
+
+part 2: 
+  (A) Age group "0-14" had a larger population.
+  (B) Age group "65+" had a larger population.
+  (C) Both age groups had the same population.
+  (D) The visualization does not include data for the year 2000.
+
+part 3: (B) Age group "65+" had a larger population.

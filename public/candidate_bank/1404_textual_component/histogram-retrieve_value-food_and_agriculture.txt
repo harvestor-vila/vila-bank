@@ -1,0 +1,7 @@
+part 1: What is the highest yield per acre (in whole numbers) observed in the histogram?
+part 2:
+(A) 30
+(B) 36
+(C) 42
+(D) 24
+    part 3: (B) 36

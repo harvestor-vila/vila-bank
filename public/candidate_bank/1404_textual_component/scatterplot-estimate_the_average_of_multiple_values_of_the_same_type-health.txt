@@ -1,0 +1,7 @@
+part 1: Estimate the average height (in cm) represented in the scatterplot.
+part 2:
+(A) 123.4
+(B) 142.4
+(C) 104.4
+(D) 85.4
+part 3: (A) 123.4

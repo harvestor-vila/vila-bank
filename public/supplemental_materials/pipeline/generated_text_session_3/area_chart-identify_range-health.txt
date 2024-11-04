@@ -1,0 +1,7 @@
+part 1: What is the range of the total number of patients recovered over the 20-day period shown in the area chart?
+    part 2: 
+      (A) [0, 250]
+      (B) [4, 251]
+      (C) [7, 217]
+      (D) [-10, 230]
+    part 3: (C) [7, 217]

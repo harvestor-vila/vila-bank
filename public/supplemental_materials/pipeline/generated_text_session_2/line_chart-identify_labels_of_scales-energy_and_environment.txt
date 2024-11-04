@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the line chart?
+
+part 2: 
+  (A) Horizontal: Energy Consumption (GWh), Vertical: Time (Arbitrary Units)
+  (B) Horizontal: Time (Arbitrary Units), Vertical: Energy Consumption (GWh)
+  (C) Horizontal: Time (Months), Vertical: Energy Used (kWh)
+  (D) Horizontal: Date, Vertical: Power (MW)
+
+part 3: (B) Horizontal: Time (Arbitrary Units), Vertical: Energy Consumption (GWh)

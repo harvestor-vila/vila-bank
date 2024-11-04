@@ -1,0 +1,7 @@
+part 1: Which crop shows an outlier in both production and yield on the bubble chart?
+    part 2: 
+      (A) Wheat
+      (B) Rice
+      (C) Barley
+      (D) Soybean
+    part 3: (C) Barley

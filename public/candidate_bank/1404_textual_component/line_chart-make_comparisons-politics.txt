@@ -1,0 +1,7 @@
+part 1: How does the approval rating in 2000 compare to the approval rating in 2019?
+part 2: 
+(A) The approval rating in 2000 is lower than in 2019.
+(B) The approval rating in 2000 is the same as in 2019.
+(C) The approval rating in 2000 is higher than in 2019.
+(D) The approval rating in 2000 is more than twice the approval rating in 2019.
+part 3: (C) The approval rating in 2000 is higher than in 2019.

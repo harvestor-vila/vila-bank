@@ -1,0 +1,8 @@
+
+    part 1: What is the average population for the age group "0-14" from 2000 to 2019?
+    part 2: 
+      (A) 47,186
+      (B) 55,513
+      (C) 63,840
+      (D) 72,167
+    part 3: (B) 55,513

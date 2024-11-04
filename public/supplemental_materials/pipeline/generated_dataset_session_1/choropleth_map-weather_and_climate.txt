@@ -1,0 +1,52 @@
+"region"	"value"
+"alabama"	80
+"alaska"	64
+"arizona"	100
+"arkansas"	63
+"california"	52
+"colorado"	91
+"connecticut"	99
+"delaware"	92
+"florida"	86
+"georgia"	63
+"hawaii"	74
+"idaho"	75
+"illinois"	76
+"indiana"	54
+"iowa"	100
+"kansas"	76
+"kentucky"	77
+"louisiana"	58
+"maine"	78
+"maryland"	84
+"massachusetts"	57
+"michigan"	75
+"minnesota"	56
+"mississippi"	91
+"missouri"	58
+"montana"	68
+"nebraska"	85
+"nevada"	63
+"new hampshire"	66
+"new jersey"	92
+"new mexico"	88
+"new york"	61
+"north carolina"	64
+"north dakota"	81
+"ohio"	91
+"oklahoma"	94
+"oregon"	56
+"pennsylvania"	58
+"rhode island"	90
+"south carolina"	59
+"south dakota"	72
+"tennessee"	76
+"texas"	56
+"utah"	76
+"vermont"	81
+"virginia"	87
+"washington"	74
+"west virginia"	83
+"wisconsin"	78
+"wyoming"	54
+"district of columbia"	57

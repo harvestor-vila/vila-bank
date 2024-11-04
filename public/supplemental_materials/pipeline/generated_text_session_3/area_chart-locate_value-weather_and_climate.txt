@@ -1,0 +1,7 @@
+part 1: On which day was the average temperature first recorded at 98°F?
+    part 2: 
+      (A) Day 11
+      (B) Day 14
+      (C) Day 17
+      (D) Day 20
+    part 3: (A) Day 11

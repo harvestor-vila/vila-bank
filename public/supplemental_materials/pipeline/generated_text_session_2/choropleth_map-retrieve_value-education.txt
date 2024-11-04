@@ -1,0 +1,17 @@
+part 1: What is the education value for the state of California?
+
+part 2: 
+(A) 100
+(B) 294
+(C) 500
+(D) 1100
+
+part 3: (B) 294
+
+To clarify the process:
+- The correct answer is the value for California, which is 294.
+- 15% of 294 is 44.1, which rounds up to 45 (min_distance).
+- The incorrect options are generated to be at least 45 away from the correct answer:
+  (A) 100 (194 away from 294)
+  (C) 500 (206 away from 294)
+  (D) 1100 (806 away from 294)

@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the area chart?
+
+part 2: 
+  (A) Horizontal: GDP (in Billions), Vertical: Year
+  (B) Horizontal: Year, Vertical: GDP (in Billions)
+  (C) Horizontal: Time, Vertical: Economic Growth
+  (D) Horizontal: Fiscal Year, Vertical: GDP Growth Rate
+
+part 3: (B) Horizontal: Year, Vertical: GDP (in Billions)

@@ -1,0 +1,7 @@
+part 1: What is the average percentage of energy sourced from Solar, Wind, Hydro, Nuclear, Coal, and Natural Gas?
+part 2: 
+(A) 13%
+(B) 10%
+(C) 16.7%
+(D) 20%
+part 3: (C) 16.7%

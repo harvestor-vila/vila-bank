@@ -1,0 +1,9 @@
+part 1: What is the average percentage of the subcategories within the Science category?
+
+part 2: 
+(A) 12%
+(B) 18%
+(C) 35%
+(D) 17.5%
+
+part 3: (D) 17.5%

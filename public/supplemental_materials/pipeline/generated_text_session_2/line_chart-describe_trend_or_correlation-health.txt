@@ -1,0 +1,9 @@
+part 1: What pattern does the line chart of daily heart rate measurements over a 20-day period most clearly show?
+
+part 2: 
+  (A) A consistent upward trend in heart rate
+  (B) A consistent downward trend in heart rate
+  (C) No clear trend or correlation in heart rate
+  (D) A cyclical pattern with regular intervals
+
+part 3: (C) No clear trend or correlation in heart rate

@@ -1,0 +1,7 @@
+part 1: Estimate the difference in the number of Patents between the Tech and Health sectors.
+    part 2: 
+      (A) 29.0
+      (B) 36.0
+      (C) 43.0
+      (D) 48.0
+    part 3: (B) 36.0

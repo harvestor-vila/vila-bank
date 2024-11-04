@@ -1,0 +1,7 @@
+part 1: How many votes did Party B receive for the issue of Healthcare in State 5?
+    part 2: 
+    (A) 472
+    (B) 300
+    (C) 650
+    (D) 700
+    part 3: (A) 472

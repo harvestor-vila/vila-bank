@@ -1,0 +1,9 @@
+part 1: What task does this line chart visualization design best support?
+
+part 2: 
+  (A) Comparing the total heart rate values across multiple individuals
+  (B) Tracking changes in a single individual's heart rate over a series of days
+  (C) Identifying the correlation between heart rate and the amount of physical activity
+  (D) Categorizing heart rate measurements into predefined ranges
+
+part 3: (B) Tracking changes in a single individual's heart rate over a series of days

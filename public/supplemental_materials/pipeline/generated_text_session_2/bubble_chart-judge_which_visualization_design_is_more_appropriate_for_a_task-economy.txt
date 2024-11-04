@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to compare the GDP and Unemployment Rate of each country while also considering their Population?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart with slices representing GDP and colors indicating Unemployment Rate, with no consideration of Population.
+(B) A bubble chart with GDP on the x-axis, Unemployment Rate on the y-axis, and bubble size representing Population.
+(C) A bar chart with bars representing GDP and color gradients indicating Unemployment Rate, without displaying Population.
+(D) A line graph with GDP on the x-axis and Unemployment Rate on the y-axis, with no representation of Population.
+
+part 3: the correct answer
+(B) A bubble chart with GDP on the x-axis, Unemployment Rate on the y-axis, and bubble size representing Population.

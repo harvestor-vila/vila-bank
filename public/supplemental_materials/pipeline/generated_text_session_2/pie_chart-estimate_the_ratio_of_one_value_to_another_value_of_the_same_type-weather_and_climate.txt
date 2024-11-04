@@ -1,0 +1,19 @@
+part 1: What is the ratio of the percentage of "Temperate" climate to the percentage of "Cold" climate?
+
+part 2: 
+(A) 0.8
+(B) 1.2
+(C) 1.5
+(D) 2.0
+
+part 3: (B) 1.2
+
+To explain the process:
+
+1. The precise correct answer is calculated using the dataset: the percentage of "Temperate" climate (30) divided by the percentage of "Cold" climate (25), which equals 1.2.
+2. The precise correct answer is already rounded to one decimal place, so the rounded correct answer is 1.2.
+3. 15% of the rounded correct answer (1.2) is 0.18, which rounds up to the nearest whole number, giving us a min_distance of 1.
+4. The three incorrect options are generated to be at least min_distance away from the rounded correct answer:
+   - Option (A) 0.8 is 0.4 away from the correct answer, which is less than the min_distance, so we adjust it to be at least 1 away, making it 0.2 (1.2 - 1 = 0.2).
+   - Option (C) 1.5 is 0.3 away from the correct answer, which is less than the min_distance, so we adjust it to be at least 1 away, making it 2.2 (1.2 + 1 = 2.2), but to keep it a round number, we choose 2.0.
+   - Option (D) 2.0 is 0.8 away from the correct answer, which is less than the min_distance, so we adjust it to be at least 1 away, making it 2.2 (1.2 + 1 = 2.2), but since we already have 2.0 as an option, we choose the next whole number, which is 2.0 + 1 = 3.0. However, to maintain a reasonable range of options, we can instead choose a lower incorrect option, such as 0.2, which is more than 1 away from the correct answer.

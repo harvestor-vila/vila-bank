@@ -1,0 +1,3 @@
+part 1: Estimate the difference in production (in tonnes) between Soybeans and Corn.
+    part 2: (A) 300 tonnes (B) 347 tonnes (C) 400 tonnes (D) 450 tonnes
+    part 3: (B) 347 tonnes

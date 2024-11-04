@@ -1,0 +1,7 @@
+part 1: Estimate the average percentage across all education levels shown in the pie chart.
+part 2: 
+  (A) 17.0
+  (B) 23.0
+  (C) 14.0
+  (D) 20.0
+part 3: (D) 20.0

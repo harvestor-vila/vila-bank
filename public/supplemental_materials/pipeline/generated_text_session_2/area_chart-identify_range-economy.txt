@@ -1,0 +1,9 @@
+part 1: What is the range of GDP values (in billions) displayed in the economy area chart?
+
+part 2: 
+  (A) [800, 1200]
+  (B) [961, 961]
+  (C) [820, 1100]
+  (D) [850, 1150]
+
+part 3: (B) [961, 961]

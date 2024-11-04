@@ -1,0 +1,8 @@
+"Location"	"Temperature"	"Humidity"	"Precipitation"
+"Location A"	74	138	4
+"Location B"	73	147	18
+"Location C"	62	246	8
+"Location D"	96	-62	2
+"Location E"	73	147	7
+"Location F"	84	47	6
+"Location G"	85	38	9

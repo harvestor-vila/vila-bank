@@ -1,0 +1,7 @@
+part 1: Which task does the 100 percent stacked bar chart best support?
+    part 2: 
+    (A) Comparing the exact values of different categories within each company
+    (B) Showing the distribution of innovation categories within each company as a part of the whole
+    (C) Displaying the trend of innovation categories over time
+    (D) Identifying the company with the highest overall percentage of innovation
+    part 3: (B) Showing the distribution of innovation categories within each company as a part of the whole

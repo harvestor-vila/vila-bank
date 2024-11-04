@@ -1,0 +1,16 @@
+"Sector" "GDP_Contribution"
+"Agriculture" 278
+"Manufacturing" 113
+"Services" 294
+"Construction" 405
+"Transportation" 217
+"Retail" 398
+"Wholesale" 328
+"Finance" 343
+"Education" 113
+"Healthcare" 473
+"Technology" 252
+"Energy" 189
+"Mining" 190
+"Real_Estate" 355
+"Government" 296

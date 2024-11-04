@@ -1,0 +1,9 @@
+part 1: If the data on political party votes over time were to be displayed using a line chart instead of an area chart, which of the following would best describe its characteristics?
+
+part 2: 
+(A) A line chart would show the distribution of votes across different political parties for each year with bars of varying heights.
+(B) A line chart would connect individual data points representing votes for each year with a continuous line, emphasizing the trend over time.
+(C) A line chart would use pie slices to represent the proportion of votes each year relative to the total number of votes over all years.
+(D) A line chart would stack segments on top of one another for each year to show the cumulative votes for all political parties combined.
+
+part 3: (B) A line chart would connect individual data points representing votes for each year with a continuous line, emphasizing the trend over time.

@@ -1,0 +1,6 @@
+part 1: What is the ratio of the number of times the most frequent number of votes received by a candidate to the total number of candidates, rounded to one decimal place?
+part 2: (A) 0.2 (B) 1.2 (C) -0.8 (D) 2.2
+part 3: (A) 0.2
+```
+
+However, if the hypothetical `rounded_ratio` were different from 0.2, or if the incorrect options were not at least `min_distance` away from the correct answer, I would correct the item accordingly and provide the new correct answer and options.

@@ -1,0 +1,7 @@
+part 1: What is the production value (in tonnes) for Soybeans?
+    part 2: 
+      (A) 400
+      (B) 625
+      (C) 800
+      (D) 950
+    part 3: (B) 625

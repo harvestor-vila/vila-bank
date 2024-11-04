@@ -1,0 +1,7 @@
+part 1: If the enrollment data over years by education level were to be displayed using a line chart instead of a stacked area chart, which of the following would best describe its characteristics?
+    part 2: 
+    (A) A line chart would show individual lines for each education level with points connected across years, making it easier to compare trends between categories.
+    (B) A line chart would stack lines on top of each other, representing cumulative enrollment numbers for each year, with the area under the lines filled with different colors.
+    (C) A line chart would display bars for each education level side by side for each year, with the height of the bars representing enrollment numbers.
+    (D) A line chart would represent each year as a pie slice, with the size of the slice corresponding to the enrollment numbers and different colors indicating education levels.
+    part 3: (A) A line chart would show individual lines for each education level with points connected across years, making it easier to compare trends between categories.

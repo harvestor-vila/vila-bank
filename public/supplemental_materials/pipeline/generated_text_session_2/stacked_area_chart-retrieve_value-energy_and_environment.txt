@@ -1,0 +1,11 @@
+part 1: What was the energy production (GWh) from Wind sources in the year 2019?
+
+part 2: 
+(A) 200 GWh
+(B) 312 GWh
+(C) 450 GWh
+(D) 600 GWh
+
+part 3: (B) 312 GWh
+
+To generate the incorrect options, I used the correct answer (312 GWh) and calculated 15% of this value, which is 46.8 GWh. Rounding this up to the nearest whole number gives a min_distance of 47 GWh. The incorrect options were then chosen to be at least 47 GWh away from the correct answer, ensuring that they are unambiguously incorrect.

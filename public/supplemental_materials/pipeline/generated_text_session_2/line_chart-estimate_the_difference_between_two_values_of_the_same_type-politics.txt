@@ -1,0 +1,27 @@
+part 1: What is the difference in the Approval Rating between the years 2000 and 2019?
+
+part 2: 
+(A) 30
+(B) 36
+(C) 42
+(D) 48
+
+part 3: (A) 36
+
+To generate the correct answer and the incorrect options, I followed these steps:
+
+1. Calculated the precise correct answer using the dataset:
+   The Approval Rating in 2000 is 68 and in 2019 is 32. The difference is 68 - 32 = 36.
+
+2. Rounded the precise correct answer to one decimal place:
+   The difference is already a whole number, so the rounded correct answer is 36.
+
+3. Calculated what 15% of the rounded correct answer is and rounded this number up to the nearest whole number to get min_distance:
+   15% of 36 is 5.4, which rounds up to 6. Therefore, min_distance is 6.
+
+4. Generated three incorrect options that are at least min_distance away from the rounded correct answer:
+   (B) 36 + 6 = 42
+   (C) 36 + 2*6 = 48
+   (D) 36 - 6 = 30
+
+These steps ensure that the correct answer (A) 36 is included in part 2 and that the three incorrect options are at least min_distance away from the correct answer.

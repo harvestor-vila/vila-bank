@@ -1,0 +1,7 @@
+part 1: What is the topic of the visualization?
+    part 2: 
+      (A) The relationship between global temperatures and sea levels over time
+      (B) The correlation between innovation scores, research budgets, and their market impact
+      (C) The distribution of species in different ecosystems
+      (D) The comparison of average daily traffic volumes on urban vs. rural roads
+    part 3: (B) The correlation between innovation scores, research budgets, and their market impact

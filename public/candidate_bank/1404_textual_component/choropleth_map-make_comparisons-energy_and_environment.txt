@@ -1,0 +1,7 @@
+part 1: Which state shows a higher energy consumption, Texas or California?
+part 2: 
+(A) Texas
+(B) California
+(C) Both show equal consumption
+(D) The visualization does not provide this information
+part 3: (B) California

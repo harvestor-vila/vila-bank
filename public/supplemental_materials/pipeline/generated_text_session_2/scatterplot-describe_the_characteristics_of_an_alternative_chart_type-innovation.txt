@@ -1,0 +1,9 @@
+part 1: If the scatterplot of Innovation Scores vs. Research Investment were to be represented as a boxplot, which description would accurately characterize this alternative chart type?
+
+part 2: 
+(A) A boxplot would show the distribution of either Innovation Scores or Research Investment, with boxes representing the interquartile range and whiskers extending to the minimum and maximum values, but it would not display the relationship between the two variables.
+(B) A boxplot would depict the correlation between Innovation Scores and Research Investment by aligning boxes along the line of best fit, with the size of each box corresponding to the density of points.
+(C) A boxplot would provide a three-dimensional view of the data, with the height of the boxes representing Innovation Scores and the width representing Research Investment.
+(D) A boxplot would display individual data points as boxes, with the color of each box indicating the frequency of data points at that position in the Research Investment and Innovation Scores space.
+
+part 3: (A) A boxplot would show the distribution of either Innovation Scores or Research Investment, with boxes representing the interquartile range and whiskers extending to the minimum and maximum values, but it would not display the relationship between the two variables.

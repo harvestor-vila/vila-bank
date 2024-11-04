@@ -1,0 +1,7 @@
+part 1: What is the difference in heart rate (bpm) between Day 5 and Day 10?
+part 2: 
+(A) 22 bpm
+(B) 40 bpm
+(C) 10 bpm
+(D) 32 bpm
+part 3: (D) 32 bpm

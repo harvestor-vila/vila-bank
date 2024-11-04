@@ -1,0 +1,11 @@
+part 1: the question stem
+Estimate the ratio of CO2 Emissions (in million metric tons) to Energy Consumption (in TWh) for Grevia.
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) 632.4
+(B) 856.4
+(C) 968.4
+(D) 744.4
+
+part 3: the correct answer
+(D) 744.4

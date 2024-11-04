@@ -1,0 +1,7 @@
+part 1: What task does the stacked bar chart design best support?
+    part 2: 
+      (A) Comparing the exact income values across different sectors for a single year
+      (B) Tracking the change in total annual income across all sectors over the years
+      (C) Identifying the correlation between income and year for individual sectors
+      (D) Displaying the distribution of income within a single sector over multiple years
+    part 3: (B) Tracking the change in total annual income across all sectors over the years

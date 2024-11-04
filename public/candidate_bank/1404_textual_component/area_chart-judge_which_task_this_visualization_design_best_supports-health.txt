@@ -1,0 +1,7 @@
+part 1: What task does the area chart design best support?
+    part 2: 
+      (A) Comparing the number of patients recovered between different days
+      (B) Showing the distribution of patient recovery times
+      (C) Identifying the exact number of patients recovered on a specific day
+      (D) Tracking the cumulative number of patients recovered over a period of time
+    part 3: (D) Tracking the cumulative number of patients recovered over a period of time

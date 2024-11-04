@@ -1,0 +1,7 @@
+part 1: What is the maximum yield per acre recorded in the histogram?
+part 2: 
+(A) 10
+(B) 36
+(C) 25
+(D) 50
+part 3: (B) 36

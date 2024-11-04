@@ -1,0 +1,7 @@
+part 1: How many cases of Asthma are represented in the bar chart?
+    part 2: 
+      (A) 20
+      (B) 53
+      (C) 63
+      (D) 105
+    part 3: (C) 63

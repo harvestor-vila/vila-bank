@@ -1,0 +1,7 @@
+part 1: Which subject has a larger percentage at Greenwood Elementary compared to Lakeside High?
+    part 2: 
+    (A) Math
+    (B) Science
+    (C) English
+    (D) History
+    part 3: (A) Math

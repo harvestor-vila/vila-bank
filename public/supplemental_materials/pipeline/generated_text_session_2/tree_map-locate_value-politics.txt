@@ -1,0 +1,9 @@
+part 1: Which policy subcategory is allocated the largest percentage of focus?
+
+part 2: 
+  (A) Education
+  (B) Healthcare
+  (C) Defense
+  (D) Diplomacy
+
+part 3: (C) Defense

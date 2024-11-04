@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to compare the average test scores and the number of students for each school while also representing the school funding?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart with slices representing the average test scores and the size of each slice proportional to the number of students.
+(B) A bubble chart with the average test scores on the x-axis, the number of students on the y-axis, and the bubble size representing school funding.
+(C) A line graph with schools on the x-axis, average test scores on the y-axis, and a separate line for each level of school funding.
+(D) A bar chart with schools on the x-axis, average test scores on the y-axis, and bars colored by the number of students.
+
+part 3: the correct answer
+(B) A bubble chart with the average test scores on the x-axis, the number of students on the y-axis, and the bubble size representing school funding.

@@ -1,0 +1,9 @@
+part 1: Estimate the difference in energy production (GWh) between Solar and Wind sources in the year 2019.
+
+part 2: 
+  (A) 72.0 GWh
+  (B) 85.0 GWh
+  (C) 98.0 GWh
+  (D) 111.0 GWh
+
+part 3: (B) 85.0 GWh

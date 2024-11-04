@@ -1,0 +1,9 @@
+part 1: If the histogram of Energy Consumption were to be replaced with a boxplot, which of the following characteristics would it display?
+
+part 2: 
+(A) The boxplot would show multiple peaks, indicating a multimodal distribution.
+(B) The boxplot would have a long upper whisker, suggesting a right-skewed distribution.
+(C) The boxplot would have a long lower whisker, indicating a left-skewed distribution.
+(D) The boxplot would display a symmetric distribution with equal whisker lengths.
+
+part 3: (C) The boxplot would have a long lower whisker, indicating a left-skewed distribution.

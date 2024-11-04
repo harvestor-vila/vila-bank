@@ -1,0 +1,9 @@
+part 1: Which political party had a higher total number of votes in 2003, the Green Party or the Libertarian Party?
+
+part 2: 
+(A) Green Party
+(B) Libertarian Party
+(C) Both had the same number of votes
+(D) Cannot be determined from the visualization
+
+part 3: (B) Libertarian Party

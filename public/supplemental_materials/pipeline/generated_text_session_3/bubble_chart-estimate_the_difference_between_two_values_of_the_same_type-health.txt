@@ -1,0 +1,7 @@
+part 1: Estimate the difference in Cholesterol Level (mg/dL) between Patient 2 and Patient 4.
+part 2: 
+  (A) 56 mg/dL
+  (B) 24 mg/dL
+  (C) 75 mg/dL
+  (D) 100 mg/dL
+part 3: (A) 56 mg/dL

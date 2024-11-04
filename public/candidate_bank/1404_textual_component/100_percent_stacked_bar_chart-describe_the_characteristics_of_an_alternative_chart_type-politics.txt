@@ -1,0 +1,9 @@
+part 1: If the 100 percent stacked bar chart were to be replaced with a pie chart, which of the following best describes its characteristics?
+
+part 2: 
+(A) Each pie slice represents a party's percentage for a single issue, with different colors for each issue.
+(B) Each pie slice represents an issue's percentage for a single party, with different colors for each party.
+(C) Each pie slice represents a party's overall percentage across all issues, with different colors for each issue.
+(D) Each pie slice represents an issue's overall percentage across all parties, with different colors for each party.
+
+part 3: (A) Each pie slice represents a party's percentage for a single issue, with different colors for each issue.

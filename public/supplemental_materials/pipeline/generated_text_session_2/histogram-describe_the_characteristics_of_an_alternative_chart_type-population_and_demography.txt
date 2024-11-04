@@ -1,0 +1,9 @@
+part 1: If the age distribution of the population were to be displayed using a box plot, which of the following would be an accurate description of its appearance?
+
+part 2: 
+(A) The box plot would show a symmetric distribution with equal lengths of whiskers and a median line located centrally within the box.
+(B) The box plot would display a right-skewed distribution with the median closer to the third quartile and longer whiskers on the left side.
+(C) The box plot would have a long upper whisker, indicating a large range of higher age values, and a median closer to the bottom of the box.
+(D) The box plot would show a left-skewed distribution with the median closer to the first quartile and longer whiskers on the right side.
+
+part 3: (B) The box plot would display a right-skewed distribution with the median closer to the third quartile and longer whiskers on the left side.

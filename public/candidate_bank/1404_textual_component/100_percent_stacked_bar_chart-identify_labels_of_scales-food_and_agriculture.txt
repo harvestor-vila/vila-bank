@@ -1,0 +1,7 @@
+part 1: What are the labels for the x-axis and y-axis in the stacked bar chart of the distribution of food and agriculture categories over years?
+    part 2: 
+    (A) x-axis: Category, y-axis: Year
+    (B) x-axis: Year, y-axis: Percentage
+    (C) x-axis: Percentage, y-axis: Category
+    (D) x-axis: Year, y-axis: Total Quantity
+    part 3: (B) x-axis: Year, y-axis: Percentage

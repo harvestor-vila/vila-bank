@@ -1,0 +1,7 @@
+part 1: Which task does the stacked area chart best support?
+    part 2: 
+      (A) Comparing exact values across individual sectors for a single year
+      (B) Tracking the change in distribution of values across multiple sectors over time
+      (C) Identifying correlations between different sectors
+      (D) Displaying hierarchical relationships between sectors
+    part 3: (B) Tracking the change in distribution of values across multiple sectors over time

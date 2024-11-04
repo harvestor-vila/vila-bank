@@ -1,0 +1,7 @@
+part 1: What task does this line chart design best support?
+    part 2: 
+      (A) Comparing the total enrollment across multiple academic years
+      (B) Identifying the distribution of enrollment numbers within a single academic year
+      (C) Determining the correlation between enrollment numbers and another variable not depicted
+      (D) Categorizing academic years based on enrollment thresholds
+    part 3: (A) Comparing the total enrollment across multiple academic years

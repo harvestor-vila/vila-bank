@@ -1,0 +1,7 @@
+part 1: What are the labels for the axes and legend in the weather distribution bar chart?
+    part 2: 
+      (A) X-axis: Weather, Y-axis: Location, Legend: Percentage
+      (B) X-axis: Location, Y-axis: Percentage, Legend: Weather
+      (C) X-axis: Percentage, Y-axis: Weather, Legend: Location
+      (D) X-axis: Climate Type, Y-axis: Frequency, Legend: Area
+    part 3: (B) X-axis: Location, Y-axis: Percentage, Legend: Weather

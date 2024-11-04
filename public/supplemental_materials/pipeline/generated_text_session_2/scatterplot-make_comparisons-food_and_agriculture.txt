@@ -1,0 +1,9 @@
+part 1: Which is greater, the average fertilizer use for crops yielding between 2100 and 2200 kg/ha or for crops yielding between 4600 and 4700 kg/ha?
+
+part 2:
+(A) 2100-2200 kg/ha range
+(B) 4600-4700 kg/ha range
+(C) Both ranges have the same average fertilizer use
+(D) It is not possible to determine from the scatterplot
+
+part 3: (A) 2100-2200 kg/ha range

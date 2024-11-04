@@ -1,0 +1,7 @@
+part 1: What is the range of values represented on the choropleth map of Energy Consumption by State?
+    part 2:
+    (A) [85, 1134]
+    (B) [70, 1282]
+    (C) [55, 1430]
+    (D) [100, 986]
+    part 3: (D) [100, 986]

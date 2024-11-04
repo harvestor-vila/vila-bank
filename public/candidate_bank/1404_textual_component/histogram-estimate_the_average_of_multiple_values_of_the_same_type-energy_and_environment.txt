@@ -1,0 +1,7 @@
+part 1: Estimate the average energy consumption (MWh).
+    part 2: 
+      (A) 20.3
+      (B) 23.0
+      (C) 17.0
+      (D) 25.0
+    part 3: (A) 20.3

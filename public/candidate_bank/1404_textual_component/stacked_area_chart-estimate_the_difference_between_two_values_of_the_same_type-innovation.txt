@@ -1,0 +1,7 @@
+part 1: Estimate the difference in the number of innovations between "Tech_Advancements" and "Research_Development" in the year 2019.
+    part 2: 
+      (A) 10
+      (B) 12
+      (C) 14
+      (D) 16
+    part 3: (B) 12

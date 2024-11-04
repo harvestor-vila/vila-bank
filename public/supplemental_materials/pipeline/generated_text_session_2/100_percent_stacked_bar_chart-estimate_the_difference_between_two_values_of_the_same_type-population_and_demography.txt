@@ -1,0 +1,9 @@
+part 1: What is the difference in percentage points between the population of males aged 55-74 and females aged 75+?
+
+part 2: 
+(A) 5%
+(B) 8%
+(C) 16%
+(D) 11%
+
+part 3: (B) 8%

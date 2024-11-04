@@ -1,0 +1,11 @@
+part 1: What is the ratio of the average temperature value of Arizona to that of California?
+
+part 2: 
+(A) 1.0
+(B) 1.9
+(C) 2.0
+(D) 3.0
+
+part 3: (B) 1.9
+
+The incorrect options (A), (C), and (D) are at least min_distance away from the correct answer (B). Option (A) is 0.9 away, option (C) is 0.1 away but is rounded to the next whole number, and option (D) is 1.1 away, satisfying the requirement that incorrect options must be at least min_distance away from the correct answer.

@@ -1,0 +1,11 @@
+part 1: What is the average enrollment for College from 2000 to 2019?
+
+part 2:
+(A) 250
+(B) 297.5
+(C) 350
+(D) 400
+
+part 3: (B) 297.5
+
+The incorrect options (A), (C), and (D) are at least 45 units away from the correct answer (B).

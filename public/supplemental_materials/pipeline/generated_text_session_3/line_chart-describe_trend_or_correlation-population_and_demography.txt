@@ -1,0 +1,7 @@
+part 1: What trend does the line chart depicting population from 2000 to 2019 show?
+    part 2: 
+      (A) The population decreased steadily over the years.
+      (B) The population showed no clear trend or correlation over the years.
+      (C) The population increased steadily over the years.
+      (D) The population increased initially and then decreased after 2010.
+    part 3: (C) The population increased steadily over the years.

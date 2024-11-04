@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would best allow a viewer to compare the total amount of precipitation with the average temperature over the 20-day period?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart showing the proportion of days with different temperature ranges.
+(B) A line chart with two y-axes, one for precipitation and one for average temperature over time.
+(C) A scatter plot with precipitation on the x-axis and temperature on the y-axis.
+(D) A bar chart with categories for different wind speeds.
+
+part 3: the correct answer
+(B) A line chart with two y-axes, one for precipitation and one for average temperature over time.

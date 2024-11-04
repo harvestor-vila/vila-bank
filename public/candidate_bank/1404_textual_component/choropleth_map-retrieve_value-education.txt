@@ -1,0 +1,7 @@
+part 1: What is the education value for the state of California?
+    part 2: 
+    (A) 100
+    (B) 294
+    (C) 500
+    (D) 1100
+    part 3: (B) 294

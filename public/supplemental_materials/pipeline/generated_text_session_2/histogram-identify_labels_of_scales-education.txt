@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the histogram of standardized test scores?
+
+part 2: 
+  (A) Horizontal: Number of Students, Vertical: Test Scores
+  (B) Horizontal: Test Scores, Vertical: Number of Students
+  (C) Horizontal: Frequency, Vertical: Scores Range
+  (D) Horizontal: Score Groups, Vertical: Frequency
+
+part 3: (B) Horizontal: Test Scores, Vertical: Number of Students

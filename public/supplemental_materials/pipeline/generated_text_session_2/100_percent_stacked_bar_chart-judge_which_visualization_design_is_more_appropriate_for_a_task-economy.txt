@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design is most appropriate for comparing the relative contributions of different sectors to the economy over multiple years?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart showing the percentage contribution of each sector for a single year.
+(B) A 100 percent stacked bar chart showing the distribution of sector contributions over multiple years.
+(C) A line graph showing the trend of one sector's contribution over multiple years.
+(D) A scatter plot comparing two sectors' contributions against each other over multiple years.
+
+part 3: the correct answer
+(B) A 100 percent stacked bar chart showing the distribution of sector contributions over multiple years.

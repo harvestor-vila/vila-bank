@@ -1,0 +1,7 @@
+part 1: What is the topic of the visualization?
+    part 2: 
+    (A) The geographic distribution of natural resources in a region
+    (B) The frequency of different weather patterns over a year
+    (C) The distribution of incomes among individuals in the economy
+    (D) The age demographics of a population
+    part 3: (C) The distribution of incomes among individuals in the economy

@@ -1,0 +1,27 @@
+part 1: Estimate the difference in the number of votes between the Communist and Socialist parties.
+
+part 2: 
+(A) 500 votes
+(B) 616 votes
+(C) 730 votes
+(D) 850 votes
+
+part 3: (B) 616 votes
+
+To explain the process:
+
+1. Calculate the precise correct answer:
+   Difference between Communist and Socialist votes = 9433 (Communist) - 8817 (Socialist) = 616
+
+2. Round the precise correct answer to one decimal place:
+   616 rounds to 616.0 (no change as there are no decimal places).
+
+3. Calculate what 15% of the rounded correct answer is and round this number up to the nearest whole number:
+   15% of 616 = 92.4, which rounds up to 93 (min_distance).
+
+4. Generate three incorrect options that are at least min_distance away from the rounded correct answer:
+   (A) 500 (116 away from 616)
+   (C) 730 (114 away from 616)
+   (D) 850 (234 away from 616)
+
+These options ensure that each incorrect option is at least 93 votes away from the correct answer, fulfilling the requirement for min_distance.

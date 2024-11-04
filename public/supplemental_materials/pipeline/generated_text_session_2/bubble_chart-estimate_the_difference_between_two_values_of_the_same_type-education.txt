@@ -1,0 +1,28 @@
+part 1: Estimate the difference in school funding between School D and School E.
+
+part 2: 
+(A) $1 million
+(B) $2 million
+(C) $3 million
+(D) $5 million
+
+part 3: (A) $1 million
+
+To create this multiple-choice item, I followed the procedure:
+
+1. Calculated the precise correct answer using the dataset:
+   School D Funding = $10,000,000
+   School E Funding = $9,000,000
+   Difference = School D Funding - School E Funding = $10,000,000 - $9,000,000 = $1,000,000
+
+2. Rounded the precise correct answer to one decimal place:
+   The difference is already a whole number, so the rounded correct answer is $1 million.
+
+3. Calculated what 15% of the rounded correct answer is and rounded this number up to the nearest whole number:
+   15% of $1 million = $150,000
+   Rounded up to the nearest whole number = $150,000 (no change needed as it is already a whole number)
+
+4. Generated three incorrect options that are at least $150,000 (min_distance) away from the rounded correct answer:
+   (B) $2 million (rounded correct answer + min_distance + extra)
+   (C) $3 million (rounded correct answer + 2 * min_distance + extra)
+   (D) $5 million (rounded correct answer + 4 * min_distance + extra)

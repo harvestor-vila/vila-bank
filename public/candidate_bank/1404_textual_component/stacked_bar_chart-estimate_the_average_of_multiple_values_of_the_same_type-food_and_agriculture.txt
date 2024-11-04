@@ -1,0 +1,3 @@
+part 1: What is the average production of Wheat across all regions?
+    part 2: (A) 461.8 (B) 543.8 (C) 625.8 (D) 707.8
+    part 3: (B) 543.8

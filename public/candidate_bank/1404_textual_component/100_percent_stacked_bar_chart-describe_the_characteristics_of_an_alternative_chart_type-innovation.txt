@@ -1,0 +1,7 @@
+part 1: If the innovation distribution by company data were to be displayed using a pie chart instead of a 100 percent stacked bar chart, which of the following characteristics would correctly describe the pie chart?
+    part 2: 
+    (A) Each company would be represented by a separate pie chart, with slices proportional to the percentage of each innovation category.
+    (B) A single pie chart would represent all companies, with slices indicating the total percentage of each innovation category across all companies.
+    (C) Each innovation category would be represented by a separate pie chart, with slices indicating the percentage contribution of each company.
+    (D) A single pie chart would represent all companies and innovation categories, with slices sized equally to show the distribution evenly.
+    part 3: (A) Each company would be represented by a separate pie chart, with slices proportional to the percentage of each innovation category.

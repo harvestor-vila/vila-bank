@@ -1,0 +1,7 @@
+part 1: What task does the choropleth map visualization design best support?
+    part 2: 
+    (A) Comparing the exact population values between multiple US states
+    (B) Identifying trends in population distribution across the US states
+    (C) Analyzing the change in population over time for each US state
+    (D) Assessing the correlation between population and land area of US states
+    part 3: (B) Identifying trends in population distribution across the US states

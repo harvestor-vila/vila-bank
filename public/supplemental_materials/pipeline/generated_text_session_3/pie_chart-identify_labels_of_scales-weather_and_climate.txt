@@ -1,0 +1,7 @@
+part 1: What does the label of the colored segments in the pie chart represent?
+    part 2: 
+      (A) Temperature ranges
+      (B) Climate categories
+      (C) Percentage of land area
+      (D) Annual rainfall
+    part 3: (B) Climate categories

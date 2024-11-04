@@ -1,0 +1,7 @@
+part 1: Which state is shown to have the highest average temperature?
+    part 2: 
+    (A) California
+    (B) Iowa
+    (C) Alaska
+    (D) Maine
+    part 3: (B) Iowa

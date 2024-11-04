@@ -1,0 +1,9 @@
+part 1: On which day was the highest wind speed recorded?
+
+part 2: 
+  (A) Day 3
+  (B) Day 8
+  (C) Day 12
+  (D) Day 16
+
+part 3: (B) Day 8

@@ -1,0 +1,7 @@
+part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would best allow a viewer to understand the relationship between the number of votes and the amount of funding received by each political party?
+part 2:
+(A) A pie chart with slices representing the proportion of votes for each party.
+(B) A scatter plot with votes on the x-axis and funding on the y-axis, where each point represents a party.
+(C) A stacked bar chart with parties on the x-axis, where each bar is divided into segments representing the funding amounts.
+(D) A line graph with votes on the x-axis and cumulative funding on the y-axis for each party over time.
+part 3: (B) A scatter plot with votes on the x-axis and funding on the y-axis, where each point represents a party.

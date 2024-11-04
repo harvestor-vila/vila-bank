@@ -1,0 +1,9 @@
+part 1: Which location has the highest percentage of Snowy weather?
+
+part 2: 
+(A) Location_C
+(B) Location_B
+(C) Location_A
+(D) Location_D
+
+part 3: (C) Location_A

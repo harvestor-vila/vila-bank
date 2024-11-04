@@ -1,0 +1,7 @@
+part 1: What are the labels for the x-axis, y-axis, and the legend in the stacked area chart?
+    part 2: 
+    (A) x-axis: Energy Production (GWh), y-axis: Year, legend: Energy Source
+    (B) x-axis: Year, y-axis: Energy Source, legend: Value
+    (C) x-axis: Year, y-axis: Energy Production (GWh), legend: Source
+    (D) x-axis: Source, y-axis: Value, legend: Year
+    part 3: (C) x-axis: Year, y-axis: Energy Production (GWh), legend: Source

@@ -1,0 +1,7 @@
+part 1: Which political party shows a consistently high percentage across all issues in the stacked bar chart?
+part 2: 
+(A) Party_A
+(B) Party_B
+(C) Party_C
+(D) Party_D
+part 3: (C) Party_C

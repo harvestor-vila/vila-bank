@@ -1,0 +1,16 @@
+"Category"	"Group"	"Percentage"
+"Diet"	"Young Adults"	9
+"Exercise"	"Young Adults"	24
+"Sleep"	"Young Adults"	12
+"Hydration"	"Young Adults"	27
+"Stress Management"	"Young Adults"	28
+"Diet"	"Adults"	2
+"Exercise"	"Adults"	21
+"Sleep"	"Adults"	36
+"Hydration"	"Adults"	22
+"Stress Management"	"Adults"	19
+"Diet"	"Seniors"	35
+"Exercise"	"Seniors"	16
+"Sleep"	"Seniors"	25
+"Hydration"	"Seniors"	21
+"Stress Management"	"Seniors"	3

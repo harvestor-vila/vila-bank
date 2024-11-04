@@ -1,0 +1,28 @@
+part 1: What is the ratio of the percentage contribution of the Technology sector to the Economy in 2019 compared to its contribution in 2021?
+
+part 2: 
+  (A) 0.3
+  (B) 9.3
+  (C) 6.5
+  (D) 2.1
+
+part 3: (B) 9.3
+
+To explain the process:
+
+1. The precise correct answer is calculated using the dataset:
+   - Technology sector contribution in 2019: 28%
+   - Technology sector contribution in 2021: 3%
+   - Ratio: 28 / 3 = 9.333...
+
+2. The precise correct answer is rounded to one decimal place:
+   - Rounded correct answer: 9.3
+
+3. Calculate what 15% multiplies the rounded correct answer is and round this number up to the nearest whole number to get min_distance:
+   - 15% of 9.3 = 1.395
+   - Rounded up to the nearest whole number: 2
+
+4. Generate three incorrect options that are at least min_distance away from the rounded correct answer:
+   - Option (A) 0.3 (9.3 - 2 * 5)
+   - Option (C) 6.5 (9.3 - 2 * 2)
+   - Option (D) 2.1 (9.3 - 2 * 4)

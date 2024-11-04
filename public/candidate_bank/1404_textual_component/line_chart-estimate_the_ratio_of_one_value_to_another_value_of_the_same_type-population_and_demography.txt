@@ -1,0 +1,7 @@
+part 1: What is the ratio of the population in 2019 to the population in 2000?
+    part 2: 
+    (A) 28.2
+    (B) 33.2
+    (C) 38.2
+    (D) 43.2
+    part 3: (B) 33.2

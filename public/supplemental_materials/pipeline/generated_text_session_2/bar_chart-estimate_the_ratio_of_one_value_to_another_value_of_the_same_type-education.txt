@@ -1,0 +1,9 @@
+part 1: What is the ratio of the number of graduates in Medicine to the number of graduates in Engineering?
+
+part 2: 
+(A) 1.4
+(B) 2.2
+(C) 0.9
+(D) 3.0
+
+part 3: (A) 1.4

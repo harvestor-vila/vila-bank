@@ -1,0 +1,9 @@
+part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relative distribution of food and agriculture categories within each year?
+
+part 2:
+(A) A series of pie charts, one for each year, showing the proportion of each food category.
+(B) A single scatter plot with food categories on the x-axis and years on the y-axis, with dot size representing percentage.
+(C) A line graph with years on the x-axis and percentage on the y-axis, with separate lines for each food category.
+(D) A 100 percent stacked bar chart with years on the x-axis and percentage on the y-axis, with each bar divided into segments representing the food categories.
+
+part 3:   (D) A 100 percent stacked bar chart with years on the x-axis and percentage on the y-axis, with each bar divided into segments representing the food categories.

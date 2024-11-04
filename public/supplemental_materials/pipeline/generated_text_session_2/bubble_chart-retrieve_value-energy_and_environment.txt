@@ -1,0 +1,9 @@
+part 1: What is the CO2 Emissions value (in Million Metric Tons) for the country with an Energy Consumption of 113 TWh?
+
+part 2: 
+  (A) 118034
+  (B) 135739
+  (C) 100329
+  (D) 150000
+
+part 3: (A) 118034

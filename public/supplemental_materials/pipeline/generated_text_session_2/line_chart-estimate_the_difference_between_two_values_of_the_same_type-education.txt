@@ -1,0 +1,9 @@
+part 1: What is the difference in enrollment between the years 2019 and 2003?
+
+part 2: 
+(A) 42
+(B) 22
+(C) 82
+(D) 62
+
+part 3: (A) 42

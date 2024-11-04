@@ -1,0 +1,9 @@
+part 1: Estimate the difference in population between the "0-14" age group in Region A and Region B.
+
+part 2: 
+  (A) 22898
+  (B) 26939
+  (C) 30980
+  (D) 35021
+
+part 3: (B) 26939

@@ -1,0 +1,7 @@
+part 1: Which range of cholesterol levels contains more people, 150-159 or 160-169?
+part 2: 
+(A) 150-159
+(B) 160-169
+(C) Both ranges contain the same number of people
+(D) Cannot be determined from the histogram
+part 3: (A) 150-159

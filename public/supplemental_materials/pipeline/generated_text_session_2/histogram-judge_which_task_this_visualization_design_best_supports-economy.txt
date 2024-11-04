@@ -1,0 +1,9 @@
+part 1: Which task does the histogram of incomes best support?
+
+part 2: 
+(A) Identifying the exact income values for individual data points
+(B) Comparing the mean income to the median income
+(C) Understanding the distribution of incomes across individuals
+(D) Assessing the relationship between income and another variable
+
+part 3: (C) Understanding the distribution of incomes across individuals

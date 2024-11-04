@@ -1,0 +1,9 @@
+part 1: Which task does the scatterplot of Crop Yield versus Fertilizer Use best support?
+
+part 2: 
+(A) Comparing the total use of fertilizer across different crops
+(B) Identifying the relationship between crop yield and fertilizer use
+(C) Showing the distribution of fertilizer use over time
+(D) Ranking crops based on their yield
+
+part 3: (B) Identifying the relationship between crop yield and fertilizer use

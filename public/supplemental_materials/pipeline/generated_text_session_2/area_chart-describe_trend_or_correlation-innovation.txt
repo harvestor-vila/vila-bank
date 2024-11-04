@@ -1,0 +1,9 @@
+part 1: What trend is observed in the number of innovations over the years 2001 to 2020?
+
+part 2: 
+  (A) A steady increase in the number of innovations each year.
+  (B) A steady decrease in the number of innovations each year.
+  (C) No clear trend, with the number of innovations fluctuating each year.
+  (D) The number of innovations doubles every five years.
+
+part 3: (C) No clear trend, with the number of innovations fluctuating each year.

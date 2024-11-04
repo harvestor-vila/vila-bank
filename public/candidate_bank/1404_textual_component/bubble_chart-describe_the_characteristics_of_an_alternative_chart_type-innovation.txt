@@ -1,0 +1,7 @@
+    part 1: If the bubble chart showing the relationship between Innovation Score, Research Budget, and Market Impact were to be represented as a scatter plot, which of the following characteristics would it have?
+    part 2: 
+    (A) The scatter plot would use varying shades of color to represent the Market Impact, with no variation in the size of the points.
+    (B) The scatter plot would display the Research Budget on the x-axis and the Market Impact on the y-axis, with the color of the points indicating the Innovation Score.
+    (C) The scatter plot would include a third axis perpendicular to the plane to represent the Market Impact as a third dimension.
+    (D) The scatter plot would use different shapes for the points to represent different categories of the Innovation Score.
+    part 3: (A) The scatter plot would use varying shades of color to represent the Market Impact, with no variation in the size of the points.

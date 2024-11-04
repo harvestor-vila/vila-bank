@@ -1,0 +1,7 @@
+part 1: What is the difference in the Approval Rating between the years 2000 and 2019?
+part 2: 
+(A) 36
+(B) 42
+(C) 48
+(D) 30
+part 3: (A) 36

@@ -1,0 +1,7 @@
+part 1: What is the range of percentages represented in the food and agriculture sectors pie chart?
+part 2: 
+  (A) [8, 35]
+  (B) [6, 40]
+  (C) [4, 45]
+  (D) [10, 30]
+part 3: (D) [10, 30]

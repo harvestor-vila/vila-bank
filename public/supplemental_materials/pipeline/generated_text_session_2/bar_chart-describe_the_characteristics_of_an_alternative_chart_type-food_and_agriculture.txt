@@ -1,0 +1,9 @@
+part 1: If the bar chart showing Food and Agriculture Production were to be represented as a pie chart, which of the following descriptions would be accurate?
+
+part 2: 
+(A) The pie chart would show each food item's production as a slice, with the size of each slice proportional to the production quantity relative to the total.
+(B) The pie chart would display equal-sized slices for each food item, with different colors indicating the production levels.
+(C) The pie chart would arrange the food items alphabetically in concentric circles, with the radii representing production quantities.
+(D) The pie chart would stack segments on top of each other, with the length of each segment representing the production quantity.
+
+part 3: (A) The pie chart would show each food item's production as a slice, with the size of each slice proportional to the production quantity relative to the total.

@@ -1,0 +1,7 @@
+part 1: What is the range of Weight values in the scatterplot?
+    part 2:
+    (A) [40, 115]
+             (B) [51, 100]
+             (C) [43, 120]
+             (D) [35, 130]
+    part 3: (B) [51, 100]

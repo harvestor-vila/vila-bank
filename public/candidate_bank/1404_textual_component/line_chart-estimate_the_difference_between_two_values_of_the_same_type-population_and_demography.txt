@@ -1,0 +1,9 @@
+part 1: Estimate the difference in population between the years 2010 and 2015.
+
+part 2:
+  (A) 25000000
+  (B) 34000000
+  (C) 29457000
+  (D) 35000000
+
+part 3: (C) 29457000

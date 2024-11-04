@@ -1,0 +1,9 @@
+part 1: What is the range of Cholesterol Level values represented in the bubble chart?
+
+part 2: 
+  (A) [130, 320]
+  (B) [140, 310]
+  (C) [156, 286]
+  (D) [145, 295]
+
+part 3: (C) [156, 286]

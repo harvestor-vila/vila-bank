@@ -1,0 +1,11 @@
+part 1: What is the average grade of the students?
+
+part 2:
+(A) 78.4
+(B) 90
+(C) 67
+(D) 102
+
+part 3: (A) 78.4
+
+Please note that the incorrect options (B), (C), and (D) are generated based on the min_distance calculation and are at least min_distance away from the correct answer (A). The correct answer is rounded to one decimal place as per the instructions.

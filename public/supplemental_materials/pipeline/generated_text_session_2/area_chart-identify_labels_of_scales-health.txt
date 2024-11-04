@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the area chart?
+
+part 2: 
+  (A) Horizontal: Patients Recovered, Vertical: Day
+  (B) Horizontal: Day, Vertical: Number of Patients
+  (C) Horizontal: Day, Vertical: Patients Recovered
+  (D) Horizontal: Time, Vertical: Total Patients
+
+part 3: (C) Horizontal: Day, Vertical: Patients Recovered

@@ -1,0 +1,11 @@
+"Program" "Graduates"
+"Engineering" 63
+"Business" 99
+"Biology" 167
+"Education" 92
+"Computer Science" 63
+"Psychology" 167
+"Medicine" 139
+"Law" 140
+"Art" 140
+"History" 141

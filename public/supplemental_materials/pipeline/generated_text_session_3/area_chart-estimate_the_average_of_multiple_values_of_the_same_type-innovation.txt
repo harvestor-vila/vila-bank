@@ -1,0 +1,7 @@
+part 1: Estimate the average number of innovations per year over the 20-year period shown in the area chart.
+part 2: 
+  (A) 92.5
+  (B) 126.5
+  (C) 75.5
+  (D) 109.5
+part 3: (D) 109.5

@@ -1,0 +1,11 @@
+part 1: What is the highest percentage value in the tree map and which category does it belong to?
+
+part 2: 
+  (A) Age_Group, 5%
+  (B) Education_Level, 6%
+  (C) Employment_Status, 6%
+  (D) Education_Level, 5%
+
+part 3: (B) Education_Level, 6%
+
+The new correct answer is (B) Education_Level, 6%, which is the highest percentage value and is associated with the correct category. The other options are either incorrect percentages or incorrect categories.

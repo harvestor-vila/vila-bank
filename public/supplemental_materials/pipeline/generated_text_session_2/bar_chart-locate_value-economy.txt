@@ -1,0 +1,9 @@
+part 1: Which sector has the minimum GDP contribution?
+
+part 2: 
+  (A) Agriculture
+  (B) Manufacturing
+  (C) Energy
+  (D) Technology
+
+part 3: (B) Manufacturing

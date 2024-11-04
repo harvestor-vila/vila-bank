@@ -1,0 +1,7 @@
+part 1: What are the labels for the x and y axes in the histogram of Energy Consumption?
+    part 2: 
+    (A) x: Frequency, y: Energy Consumption (MWh)
+    (B) x: Energy Consumption (MWh), y: Frequency
+    (C) x: Energy Consumption (kWh), y: Number of Observations
+    (D) x: Number of Observations, y: Energy Consumption (MWh)
+    part 3: (B) x: Energy Consumption (MWh), y: Frequency

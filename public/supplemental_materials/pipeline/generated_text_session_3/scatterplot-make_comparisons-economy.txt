@@ -1,0 +1,11 @@
+part 1: the question stem of the original item
+Which is higher, the Unemployment Rate at a GDP of 1500 billion or at a GDP of 1900 billion?
+
+part 2: options of the original item
+(A) The Unemployment Rate is higher at a GDP of 1500 billion.
+(B) The Unemployment Rate is higher at a GDP of 1900 billion.
+(C) The Unemployment Rates are the same at GDPs of 1500 and 1900 billion.
+(D) The question cannot be answered with the given information.
+
+part 3: the correct answer of the original item
+(A) The Unemployment Rate is higher at a GDP of 1500 billion.

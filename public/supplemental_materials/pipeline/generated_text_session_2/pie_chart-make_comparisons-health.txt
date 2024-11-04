@@ -1,0 +1,9 @@
+part 1: Which health-related activity has a greater percentage allocation, Diet or Hydration?
+
+part 2: 
+  (A) Diet has a greater percentage allocation than Hydration.
+  (B) Hydration has a greater percentage allocation than Diet.
+  (C) Diet and Hydration have equal percentage allocations.
+  (D) Neither Diet nor Hydration has a percentage allocation.
+
+part 3: (A) Diet has a greater percentage allocation than Hydration.

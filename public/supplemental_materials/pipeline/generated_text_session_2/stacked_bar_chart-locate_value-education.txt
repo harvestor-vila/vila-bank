@@ -1,0 +1,9 @@
+part 1: Which school and grade combination has the maximum number of students?
+
+part 2: 
+(A) School A, Grade 9
+(B) School C, Grade 10
+(C) School C, Grade 9
+(D) School H, Grade 12
+
+part 3: (C) School C, Grade 9

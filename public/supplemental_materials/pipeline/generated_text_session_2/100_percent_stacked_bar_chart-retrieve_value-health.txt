@@ -1,0 +1,9 @@
+part 1: What percentage of the health focus area for Seniors is dedicated to Stress Management?
+
+part 2: 
+  (A) 0%
+  (B) 3%
+  (C) 18%
+  (D) 35%
+
+part 3: (B) 3%
