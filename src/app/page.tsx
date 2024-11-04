@@ -1,6 +1,5 @@
 'use client';
 import Carousel from '@/app/item-carousel';
-import CategorizedCarousels from './blue-matrix';
 import { ChartType, VisualizationTask, VisualizationContext } from '@/app/types';
 
 export default function Home() {
