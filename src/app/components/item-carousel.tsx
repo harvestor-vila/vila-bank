@@ -1,6 +1,6 @@
 'use client';
 import { useState } from 'react';
-import Item from '@/app/item';
+import Item from './item';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { ChartType, VisualizationTask, VisualizationContext } from '@/app/types';
 
