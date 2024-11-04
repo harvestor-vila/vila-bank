@@ -1,5 +1,5 @@
 import Image from "next/image";
-import BlueMatrix from "./components/BlueMatrix";
+import BlueMatrix from "./components/blue-matrix";
 
 export default function Home() {
   return (
