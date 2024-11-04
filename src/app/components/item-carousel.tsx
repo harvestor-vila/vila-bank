@@ -10,27 +10,40 @@ interface CarouselProps {
     task: VisualizationTask;
     context: VisualizationContext;
   }>;
+  initialIndex?: number;
+  onBackClick?: () => void;
 }
 
 const formatCategoryName = (chartType: string, task: string) => {
-  const chartName = chartType
-    .split('_')
-    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ');
-    
-  const taskName = task
-    .split('_')
-    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ');
-    
+  const chartName = chartType.split('_').map(word => 
+    word.charAt(0).toUpperCase() + word.slice(1)
+  ).join(' ');
+  
+  const taskName = task.split('_').map(word => 
+    word.charAt(0).toUpperCase() + word.slice(1)
+  ).join(' ');
+  
   return `${chartName} - ${taskName}`;
 };
 
-const Carousel = ({ items }: CarouselProps) => {
-  const [currentIndex, setCurrentIndex] = useState(0);
+const Carousel = ({ items, initialIndex = 0, onBackClick }: CarouselProps) => {
+  const [currentIndex, setCurrentIndex] = useState(initialIndex);
+  const chartType = items[currentIndex].chartType;
+  const task = items[currentIndex].task;
 
-  // Check if items array is empty before accessing elements
-  if (!items || items.length === 0) {
+  const goToPrevious = () => {
+    setCurrentIndex((prevIndex) => 
+      prevIndex === 0 ? items.length - 1 : prevIndex - 1
+    );
+  };
+
+  const goToNext = () => {
+    setCurrentIndex((prevIndex) => 
+      prevIndex === items.length - 1 ? 0 : prevIndex + 1
+    );
+  };
+
+  if (!items.length) {
     return (
       <div className="flex items-center justify-center h-96 bg-gray-50">
         <p className="text-gray-500">No items to display</p>
@@ -38,23 +51,12 @@ const Carousel = ({ items }: CarouselProps) => {
     );
   }
 
-  const chartType = items[currentIndex]?.chartType;
-  const task = items[currentIndex]?.task;
-
-  const goToPrevious = () => {
-    setCurrentIndex((prevIndex) => (prevIndex === 0 ? items.length - 1 : prevIndex - 1));
-  };
-
-  const goToNext = () => {
-    setCurrentIndex((prevIndex) => (prevIndex === items.length - 1 ? 0 : prevIndex + 1));
-  };
-
   return (
     <div className="relative max-w-4xl mx-auto">
       <h2 className="text-2xl font-bold mb-6">
         {formatCategoryName(chartType, task)}
       </h2>
-
+      
       {/* Current Item */}
       <div className="overflow-hidden bg-white rounded-lg shadow-lg">
         <Item {...items[currentIndex]} />
