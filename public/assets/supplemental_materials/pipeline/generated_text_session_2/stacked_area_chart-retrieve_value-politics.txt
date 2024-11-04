@@ -1,9 +1,0 @@
-part 1: How many votes did the Green Party receive in the year 2019?
-
-part 2: 
-(A) 800
-(B) 917
-(C) 1050
-(D) 1200
-
-part 3: (B) 917

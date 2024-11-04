@@ -1,9 +1,0 @@
-part 1: What pattern does the histogram of Daily Average Temperatures show?
-
-part 2: 
-(A) The temperatures show a strong positive correlation.
-(B) The temperatures show a strong negative correlation.
-(C) The temperatures are uniformly distributed across the range.
-(D) The temperatures are normally distributed around the mean.
-
-part 3: (D) The temperatures are normally distributed around the mean.

@@ -1,9 +1,0 @@
-part 1: What trend or correlation is observed between Energy Consumption and Carbon Emission in the scatterplot?
-
-part 2: 
-(A) Strong positive correlation
-(B) Strong negative correlation
-(C) No correlation
-(D) Moderate positive correlation
-
-part 3: (A) Strong positive correlation

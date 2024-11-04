@@ -1,7 +1,0 @@
-part 1: What are the labels for the x-axis, y-axis, and the legend in the health trends stacked area chart?
-    part 2: 
-    (A) x-axis: Number of Cases, y-axis: Year, legend: Condition
-    (B) x-axis: Condition, y-axis: Value, legend: Year
-    (C) x-axis: Year, y-axis: Group, legend: Number of Cases
-    (D) x-axis: Year, y-axis: Number of Cases, legend: Condition
-    part 3: (D) x-axis: Year, y-axis: Number of Cases, legend: Condition

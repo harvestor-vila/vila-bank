@@ -1,7 +1,0 @@
-part 1: What is the difference in innovation scores between Virginia and Texas?
-part 2: 
-(A) 90
-(B) 114
-(C) 130
-(D) 150
-part 3: (B) 114

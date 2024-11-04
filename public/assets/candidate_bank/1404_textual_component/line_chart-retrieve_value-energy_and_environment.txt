@@ -1,7 +1,0 @@
-part 1: What is the Energy Consumption (GWh) at Time 10?
-    part 2: 
-      (A) 96
-      (B) 113
-      (C) 130
-      (D) 150
-    part 3: (B) 113

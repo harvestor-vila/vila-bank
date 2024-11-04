@@ -1,3 +1,0 @@
-part 1: Estimate the difference between the highest and lowest Innovation Scores.
-    part 2: (A) 79 (B) 94 (C) 110 (D) 125
-    part 3: (B) 94

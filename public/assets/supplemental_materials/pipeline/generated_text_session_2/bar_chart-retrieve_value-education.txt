@@ -1,9 +1,0 @@
-part 1: How many graduates are there from the Medicine program?
-
-part 2: 
-  (A) 50
-  (B) 118
-  (C) 139
-  (D) 200
-
-part 3: (C) 139

@@ -1,9 +1,0 @@
-part 1: What is the topic of the visualization?
-
-part 2: 
-(A) The relationship between a country's GDP and its population growth
-(B) The correlation between energy consumption and carbon emissions
-(C) The impact of renewable energy on wildlife populations
-(D) The comparison of annual rainfall to agricultural yields
-
-part 3: (B) The correlation between energy consumption and carbon emissions

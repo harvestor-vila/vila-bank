@@ -1,7 +1,0 @@
-part 1: Which category does the subcategory "Textiles" belong to in the tree map?
-    part 2: 
-      (A) Services
-      (B) Agriculture
-      (C) Manufacturing
-      (D) Technology
-    part 3: (C) Manufacturing

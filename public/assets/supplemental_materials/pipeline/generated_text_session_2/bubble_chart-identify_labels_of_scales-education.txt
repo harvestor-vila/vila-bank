@@ -1,9 +1,0 @@
-part 1: What does the size of the bubbles in the bubble chart represent?
-
-part 2: 
-  (A) Number of Teachers
-  (B) School Funding
-  (C) Average Test Score
-  (D) Number of Classrooms
-
-part 3: (B) School Funding

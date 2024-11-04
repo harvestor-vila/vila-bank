@@ -1,7 +1,0 @@
-part 1: What is the ratio of the percentage of Product Innovation to the percentage of Marketing Innovation?
-    part 2: 
-      (A) 1.0
-      (B) 1.2
-      (C) 1.4
-      (D) 2.3
-    part 3: (C) 1.4

@@ -1,9 +1,0 @@
-part 1: What is the topic of the visualization?
-
-part 2: 
-(A) The growth rate of different types of trees over three years
-(B) The distribution of food and agriculture categories over three years
-(C) The annual rainfall measurements in various regions for three years
-(D) The market share of tech companies over three years
-
-part 3: (B) The distribution of food and agriculture categories over three years

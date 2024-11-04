@@ -1,7 +1,0 @@
-part 1: Which clinic has the highest number of patients for the Flexibility category?
-    part 2: 
-    (A) Clinic 1
-    (B) Clinic 7
-    (C) Clinic 3
-    (D) Clinic 8
-    part 3: (B) Clinic 7

@@ -1,7 +1,0 @@
-part 1: What is the average number of students per grade across all schools?
-  part 2: 
-  (A) 126.0
-  (B) 145
-  (C) 107
-  (D) 164
-  part 3: (A) 126.0

@@ -1,9 +1,0 @@
-part 1: What pattern can be observed in the distribution of percentages across educational categories and subcategories?
-
-part 2: 
-(A) Mathematics has a decreasing trend in percentage from Algebra to Geometry.
-(B) Each Category has subcategories with equal percentages.
-(C) Science subcategories show a strong positive correlation between the complexity of the subject and the percentage.
-(D) Humanities and Languages have subcategories with higher percentages than those in Science and Mathematics.
-
-part 3: (A) Mathematics has a decreasing trend in percentage from Algebra to Geometry.

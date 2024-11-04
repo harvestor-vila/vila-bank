@@ -1,9 +1,0 @@
-part 1: What task does the bar chart design best support?
-
-part 2: 
-(A) Comparing the number of cases across different diseases
-(B) Showing the geographic distribution of disease cases
-(C) Displaying the change in disease cases over time
-(D) Illustrating the age distribution of patients for each disease
-
-part 3: (A) Comparing the number of cases across different diseases

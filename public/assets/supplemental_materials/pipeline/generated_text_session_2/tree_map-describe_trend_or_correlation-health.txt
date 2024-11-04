@@ -1,9 +1,0 @@
-part 1: What pattern can be observed in the distribution of health subcategories across different medical categories?
-
-part 2: 
-(A) Cardiology has the most subcategories with the highest percentages.
-(B) Each medical category has an equal number of subcategories.
-(C) Neurology has the largest combined percentage of subcategories.
-(D) No single medical category dominates the distribution in terms of the number of subcategories or their percentages.
-
-part 3: (D) No single medical category dominates the distribution in terms of the number of subcategories or their percentages.

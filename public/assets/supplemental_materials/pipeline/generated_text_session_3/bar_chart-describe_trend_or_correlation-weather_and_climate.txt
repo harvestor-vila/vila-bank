@@ -1,7 +1,0 @@
-part 1: What pattern does the bar chart of average temperatures by city reveal?
-    part 2: 
-      (A) There is a strong positive correlation between city number and average temperature.
-      (B) There is a strong negative correlation between city number and average temperature.
-      (C) There is no clear trend or correlation between city number and average temperature.
-      (D) The average temperature decreases as the city number increases.
-    part 3: (C) There is no clear trend or correlation between city number and average temperature.

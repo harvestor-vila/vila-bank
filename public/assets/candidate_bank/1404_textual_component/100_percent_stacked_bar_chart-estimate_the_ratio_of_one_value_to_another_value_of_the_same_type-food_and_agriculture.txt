@@ -1,7 +1,0 @@
-part 1: What is the ratio of the percentage of Vegetables to the percentage of Fruits in 2021?
-    part 2: 
-    (A) 1.2
-    (B) 3.2
-    (C) 0.2
-    (D) 2.2
-    part 3: (D) 2.2

@@ -1,7 +1,0 @@
-part 1: Which US state or district has the smallest population as represented in the choropleth map?
-    part 2: 
-    (A) Colorado
-    (B) Nevada
-    (C) District of Columbia
-    (D) Idaho
-    part 3: (B) Nevada

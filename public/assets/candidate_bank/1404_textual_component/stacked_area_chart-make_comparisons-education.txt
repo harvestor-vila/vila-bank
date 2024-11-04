@@ -1,7 +1,0 @@
-part 1: Which education level had a higher enrollment in 2000, Elementary or College?
-    part 2: 
-    (A) Elementary
-    (B) College
-    (C) Enrollments were equal
-    (D) Data for 2000 is not available
-    part 3: (A) Elementary

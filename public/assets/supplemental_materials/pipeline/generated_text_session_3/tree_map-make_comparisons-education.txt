@@ -1,7 +1,0 @@
-part 1: Which category occupies a larger area on the tree map, Mathematics or Humanities?
-    part 2: 
-    (A) Mathematics
-    (B) Humanities
-    (C) Both are equal
-    (D) Cannot be determined from the tree map
-    part 3: (A) Mathematics

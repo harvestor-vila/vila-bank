@@ -1,9 +1,0 @@
-part 1: What is the average percentage value for the "Age_Group" category in the tree map?
-
-part 2:
-(A) 2.6
-(B) 3.6
-(C) 4.6
-(D) 5.6
-
-part 3: (B) 3.6

@@ -1,7 +1,0 @@
-part 1: What is the range of percentage values for the population distribution by age group and gender?
-    part 2: 
-      (A) [0%, 15%]
-      (B) [2%, 36%]
-      (C) [0%, 50%]
-      (D) [-5%, 41%]
-    part 3: (B) [2%, 36%]

@@ -1,7 +1,0 @@
-part 1: How would a pie chart represent the data from the stacked bar chart showing the innovation landscape by sector?
-    part 2: 
-    (A) A pie chart would show each sector as a slice with varying thickness based on the number of innovations, and different colors within a slice would represent different innovation types.
-    (B) A pie chart would display each innovation type as a separate slice, with the size of each slice representing the total number of innovations across all sectors.
-    (C) A pie chart would use concentric circles to represent each sector, with the radius of each circle corresponding to the number of innovations.
-    (D) A pie chart would allocate a separate ring for each sector, with the thickness of each ring representing the proportion of each innovation type within that sector.
-    part 3: (B) A pie chart would display each innovation type as a separate slice, with the size of each slice representing the total number of innovations across all sectors.

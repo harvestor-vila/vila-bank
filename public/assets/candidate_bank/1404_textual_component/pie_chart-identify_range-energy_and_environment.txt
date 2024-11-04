@@ -1,7 +1,0 @@
-part 1: What is the range of energy source percentages depicted in the pie chart?
-    part 2: 
-      (A) [8, 29]
-      (B) [10, 25]
-      (C) [6, 33]
-      (D) [4, 37]
-    part 3: (B) [10, 25]

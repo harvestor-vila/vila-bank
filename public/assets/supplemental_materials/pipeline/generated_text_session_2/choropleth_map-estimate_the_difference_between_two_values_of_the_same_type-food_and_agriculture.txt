@@ -1,9 +1,0 @@
-part 1: What is the difference in production units between Texas and Illinois?
-
-part 2: 
-(A) 500
-(B) 530
-(C) 560
-(D) 590
-
-part 3: (B) 530

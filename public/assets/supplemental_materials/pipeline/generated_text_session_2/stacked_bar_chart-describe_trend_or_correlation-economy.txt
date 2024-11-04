@@ -1,9 +1,0 @@
-part 1: What pattern does the stacked bar chart show in the annual income across different sectors from 2015 to 2022?
-
-part 2: 
-(A) A consistent upward trend in income for all sectors throughout the years.
-(B) The Services sector shows a consistent decrease in income every year.
-(C) No clear trend or correlation in income across sectors over the years.
-(D) The Technology sector has the highest income every year.
-
-part 3: (C) No clear trend or correlation in income across sectors over the years.

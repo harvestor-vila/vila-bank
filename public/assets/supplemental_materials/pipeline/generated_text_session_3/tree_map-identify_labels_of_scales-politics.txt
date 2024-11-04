@@ -1,7 +1,0 @@
-part 1: What does the legend label represent in the tree map visualization titled "Political Policy Distribution"?
-    part 2: 
-      (A) Subcategories of policies
-      (B) Percentage of each policy
-      (C) Policy areas
-      (D) Number of policies
-    part 3: (C) Policy areas

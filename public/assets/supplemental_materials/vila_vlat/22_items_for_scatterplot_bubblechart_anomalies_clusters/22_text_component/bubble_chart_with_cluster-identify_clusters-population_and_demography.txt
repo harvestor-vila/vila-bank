@@ -1,7 +1,0 @@
-part 1: Which group of cities forms a cluster on the bubble chart with similar Population and Birth Rate values?
-    part 2: 
-    (A) City 5, City 6, and City 7
-    (B) City 1, City 2, City 3, and City 4
-    (C) City 2, City 3, and City 4
-    (D) No visible cluster
-    part 3: (B) City 1, City 2, City 3, and City 4

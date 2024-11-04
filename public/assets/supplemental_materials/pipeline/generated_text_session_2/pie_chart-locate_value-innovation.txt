@@ -1,9 +1,0 @@
-part 1: Which category has the highest percentage of innovation?
-
-part 2: 
-  (A) Product Innovation
-  (B) Process Innovation
-  (C) Marketing Innovation
-  (D) Organizational Innovation
-
-part 3: (B) Process Innovation

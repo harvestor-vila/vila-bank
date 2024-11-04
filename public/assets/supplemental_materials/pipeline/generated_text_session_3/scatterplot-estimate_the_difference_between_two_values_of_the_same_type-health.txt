@@ -1,7 +1,0 @@
-part 1: Estimate the difference in height (cm) between the tallest and shortest individuals represented in the scatterplot.
-part 2: 
-  (A) 51 cm
-  (B) 61 cm
-  (C) 71 cm
-  (D) 81 cm
-part 3: (B) 61 cm

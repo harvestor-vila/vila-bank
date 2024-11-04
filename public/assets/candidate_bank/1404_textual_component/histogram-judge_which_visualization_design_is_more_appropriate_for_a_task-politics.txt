@@ -1,7 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to compare the central tendency and dispersion of the given vote counts?
-part 2:
-(A) A pie chart with sections representing different ranges of vote counts.
-(B) A scatter plot with each vote count represented as a point on the horizontal axis.
-(C) A box plot to visualize the median, quartiles, and potential outliers in the vote counts.
-(D) A line graph showing the trend of vote counts over time.
-part 3: (C) A box plot to visualize the median, quartiles, and potential outliers in the vote counts.

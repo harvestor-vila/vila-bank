@@ -1,9 +1,0 @@
-part 1: What is the topic of the visualization?
-
-part 2: 
-(A) Comparison of average temperatures across different states
-(B) Distribution of political party preferences by state
-(C) Allocation of government funding to various scientific research fields
-(D) Voter support for different political issues across states
-
-part 3: (D) Voter support for different political issues across states

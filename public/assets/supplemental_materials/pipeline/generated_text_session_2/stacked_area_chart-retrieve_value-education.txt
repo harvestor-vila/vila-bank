@@ -1,9 +1,0 @@
-part 1: What was the enrollment number for Middle School in the year 2010?
-
-part 2: 
-  (A) 350
-  (B) 431
-  (C) 500
-  (D) 600
-
-part 3: (B) 431

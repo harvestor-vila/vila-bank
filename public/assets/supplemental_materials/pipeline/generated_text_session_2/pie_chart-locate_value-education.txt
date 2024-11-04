@@ -1,9 +1,0 @@
-part 1: Which education level has the smallest percentage of individuals?
-
-part 2: 
-(A) Elementary
-(B) Middle School
-(C) High School
-(D) Postgraduate
-
-part 3: (D) Postgraduate

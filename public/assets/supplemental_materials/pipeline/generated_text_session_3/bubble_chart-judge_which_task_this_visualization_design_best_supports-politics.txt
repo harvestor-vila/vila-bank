@@ -1,7 +1,0 @@
-part 1: What task does this bubble chart design best support?
-    part 2: 
-      (A) Comparing the exact amount of funding between political parties
-      (B) Showing the distribution of votes across different regions
-      (C) Illustrating the relationship between votes, seats, and funding among political parties
-      (D) Displaying the chronological order in which political parties were founded
-    part 3: (C) Illustrating the relationship between votes, seats, and funding among political parties

@@ -1,9 +1,0 @@
-part 1: What is the subject of the histogram?
-
-part 2: 
-(A) The age distribution of participants in a study
-(B) The distribution of innovation scores among a group of companies
-(C) The frequency of bird species observed in a nature reserve
-(D) The monthly rainfall measurements in a given city
-
-part 3: (B) The distribution of innovation scores among a group of companies

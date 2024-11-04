@@ -1,7 +1,0 @@
-part 1: What pattern can be observed in the energy production from different sources across the countries?
-    part 2: 
-    (A) All countries have the highest production from Solar energy.
-    (B) There is no consistent trend in energy production from different sources across the countries.
-    (C) Nuclear energy production is the lowest across all countries.
-    (D) Hydro energy production consistently increases from Country A to Country H.
-    part 3: (B) There is no consistent trend in energy production from different sources across the countries.

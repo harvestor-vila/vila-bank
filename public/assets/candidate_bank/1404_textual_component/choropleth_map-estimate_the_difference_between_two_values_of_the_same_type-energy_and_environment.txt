@@ -1,7 +1,0 @@
-part 1: What is the difference in energy units between Texas and Louisiana?
-    part 2: 
-    (A) 533
-    (B) 350
-    (C) 700
-    (D) 610
-    part 3: (A) 533

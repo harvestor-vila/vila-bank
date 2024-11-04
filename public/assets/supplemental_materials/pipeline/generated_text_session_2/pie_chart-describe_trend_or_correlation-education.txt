@@ -1,9 +1,0 @@
-part 1: What pattern does the pie chart reveal about the distribution of education levels?
-
-part 2: 
-  (A) A steady increase in percentage from Elementary to Postgraduate
-  (B) A steady decrease in percentage from Elementary to Postgraduate
-  (C) No clear trend or correlation in the distribution of percentages across education levels
-  (D) Higher percentages for Undergraduate and Postgraduate levels compared to Elementary, Middle School, and High School
-
-part 3: (C) No clear trend or correlation in the distribution of percentages across education levels

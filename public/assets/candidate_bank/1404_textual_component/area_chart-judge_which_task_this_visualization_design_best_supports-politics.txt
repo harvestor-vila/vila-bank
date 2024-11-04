@@ -1,7 +1,0 @@
-    part 1: What task does the area chart design best support?
-    part 2: 
-      (A) Comparing the exact number of votes between individual years
-      (B) Showing the trend of votes over time
-      (C) Displaying the distribution of votes across different political parties
-      (D) Identifying the year with the highest voter turnout
-    part 3: (B) Showing the trend of votes over time

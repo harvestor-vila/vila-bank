@@ -1,7 +1,0 @@
-part 1: What are the labels for the x-axis, y-axis, and the legend titled "color" in the bubble chart?
-    part 2: 
-      (A) x-axis: Research Budget, y-axis: Market Impact, color: Innovation Score
-      (B) x-axis: Innovation Score, y-axis: Research Budget (in thousands), color: Market Impact
-      (C) x-axis: Innovation Score, y-axis: Research Budget (in thousands), color: Innovation Score
-      (D) x-axis: Market Impact, y-axis: Innovation Score, color: Research Budget
-    part 3: (C) x-axis: Innovation Score, y-axis: Research Budget (in thousands), color: Innovation Score

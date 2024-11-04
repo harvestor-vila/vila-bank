@@ -1,7 +1,0 @@
-part 1: Estimate the average energy consumption (in TWh) for the countries represented in the bubble chart.
-  part 2: 
-  (A) 145.9
-  (B) 167.9
-  (C) 123.9
-  (D) 189.9
-  part 3: (A) 145.9

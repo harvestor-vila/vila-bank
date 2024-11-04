@@ -1,7 +1,0 @@
-part 1: What is the energy production from wind sources in Country F?
-    part 2: 
-      (A) 550 GWh
-      (B) 701 GWh
-      (C) 850 GWh
-      (D) 1050 GWh
-    part 3: (B) 701 GWh

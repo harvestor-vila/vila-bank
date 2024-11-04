@@ -1,9 +1,0 @@
-part 1: What trend or correlation is observed between age and systolic blood pressure in the health data bubble chart?
-
-part 2: 
-(A) As age increases, systolic blood pressure also increases.
-(B) As age increases, systolic blood pressure decreases.
-(C) There is no clear trend or correlation between age and systolic blood pressure.
-(D) As age increases, cholesterol level increases.
-
-part 3: (B) As age increases, systolic blood pressure decreases.

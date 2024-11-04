@@ -1,9 +1,0 @@
-part 1: Estimate the difference in Solar energy production between Country F and Country G.
-
-part 2: 
-  (A) 595 GWh
-  (B) 700 GWh
-  (C) 805 GWh
-  (D) 910 GWh
-
-part 3: (B) 700 GWh

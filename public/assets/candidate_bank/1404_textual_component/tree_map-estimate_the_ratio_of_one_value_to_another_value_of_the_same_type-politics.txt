@@ -1,9 +1,0 @@
-part 1: What is the ratio of the percentage allocated to Education to that allocated to Healthcare within the Domestic Policy category?
-
-part 2: 
-(A) 0.5
-(B) 2.5
-(C) 0.3
-(D) 1.5
-
-part 3: (D) 1.5

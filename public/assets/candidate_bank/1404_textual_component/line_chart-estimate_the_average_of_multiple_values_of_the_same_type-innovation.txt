@@ -1,8 +1,0 @@
-
-    part 1: What is the average Innovation Score over the years shown in the line chart?
-    part 2: 
-      (A) 528
-      (B) 721
-      (C) 820
-      (D) 627
-    part 3: (D) 627

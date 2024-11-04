@@ -1,9 +1,0 @@
-part 1: What is the ratio of Precipitation at Location B to Precipitation at Location C?
-
-part 2: 
-  (A) 1.3
-  (B) 2.3
-  (C) 3.3
-  (D) 4.3
-
-part 3: (B) 2.3

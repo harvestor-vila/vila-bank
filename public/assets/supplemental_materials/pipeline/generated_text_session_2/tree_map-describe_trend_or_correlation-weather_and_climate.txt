@@ -1,9 +1,0 @@
-part 1: What pattern can be observed in the tree map regarding the distribution of percentages across the weather and climate categories and subcategories?
-
-part 2: 
-  (A) The "Wind" category has the highest overall percentage.
-  (B) The "Moderate" subcategory has the highest percentage within each weather and climate category.
-  (C) The "High" subcategory has a consistent percentage across all categories.
-  (D) No clear trend or correlation can be observed in the distribution of percentages.
-
-part 3: (B) The "Moderate" subcategory has the highest percentage within each weather and climate category.

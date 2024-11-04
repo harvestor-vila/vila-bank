@@ -1,7 +1,0 @@
-part 1: What task does the histogram of Daily Average Temperatures best support?
-    part 2: 
-      (A) Identifying the exact daily average temperature on a specific day
-      (B) Comparing the mean temperature of two different months
-      (C) Understanding the distribution of daily average temperatures
-      (D) Determining the trend of temperature change over the course of a year
-    part 3: (C) Understanding the distribution of daily average temperatures

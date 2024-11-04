@@ -1,9 +1,0 @@
-part 1: What is the difference in the number of cases between Heart Disease and Hypertension?
-
-part 2: 
-(A) 11
-(B) 89
-(C) 207
-(D) 324
-
-part 3: (A) 11

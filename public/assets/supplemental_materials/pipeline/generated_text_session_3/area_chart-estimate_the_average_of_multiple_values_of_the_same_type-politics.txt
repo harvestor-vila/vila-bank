@@ -1,7 +1,0 @@
-part 1: What is the average number of votes received per year over the 20-year period shown in the area chart?
-    part 2: 
-    (A) 210 votes
-    (B) 256 votes
-    (C) 302 votes
-    (D) 348 votes
-    part 3: (C) 302 votes

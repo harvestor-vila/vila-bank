@@ -1,9 +1,0 @@
-part 1: What was the average temperature on Day 10?
-
-part 2: 
-  (A) 80
-  (B) 97
-  (C) 115
-  (D) 60
-
-part 3: (B) 97

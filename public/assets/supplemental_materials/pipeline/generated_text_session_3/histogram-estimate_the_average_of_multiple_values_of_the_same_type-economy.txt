@@ -1,6 +1,0 @@
-part 1: What is the average income (in USD) represented in the histogram?
-part 2: (A) $44200 (B) $52000.2 (C) $59800 (D) $67000
-part 3: $52000.2
-```
-
-Please note that in a real-world scenario, you would need to execute the R code to perform the actual calculations and verify the results.

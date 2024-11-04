@@ -1,9 +1,0 @@
-part 1: What percentage of health-related activities does "Diet" represent?
-
-part 2: 
-  (A) 10%
-  (B) 25%
-  (C) 40%
-  (D) 55%
-
-part 3: (B) 25%

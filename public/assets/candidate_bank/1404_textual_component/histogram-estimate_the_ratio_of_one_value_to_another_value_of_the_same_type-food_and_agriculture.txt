@@ -1,7 +1,0 @@
-part 1: What is the ratio of the number of yields per acre that are exactly 0 to the number of yields per acre that are exactly 1?
-part 2: 
-  (A) 0.0
-  (B) 1.0
-  (C) 2.0
-  (D) 3.0
-part 3: (B) 1.0

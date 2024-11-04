@@ -1,7 +1,0 @@
-part 1: Which data point on the scatterplot represents an outlier in the relationship between temperature and humidity?
-    part 2: 
-      (A) Temperature at 70°F and Humidity at 47%
-      (B) Temperature at 100°F and Humidity at 71%
-      (C) Temperature at 109°F and Humidity at 96%
-      (D) Temperature at 52°F and Humidity at 37%
-    part 3: (C) Temperature at 109°F and Humidity at 96%

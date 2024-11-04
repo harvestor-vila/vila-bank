@@ -1,7 +1,0 @@
-part 1: Which age group has a higher percentage focus on Exercise, Young Adults or Seniors?
-    part 2: 
-      (A) Young Adults
-      (B) Seniors
-      (C) Both have the same percentage focus on Exercise
-      (D) The visualization does not include information on Exercise
-    part 3: (A) Young Adults

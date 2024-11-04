@@ -1,7 +1,0 @@
-part 1: What trend or correlation does the scatterplot of Population vs Median Age show?
-    part 2: 
-    (A) A positive correlation between population size and median age.
-    (B) A negative correlation between population size and median age.
-    (C) No correlation between population size and median age.
-    (D) A cyclical pattern between population size and median age.
-    part 3: (B) A negative correlation between population size and median age.

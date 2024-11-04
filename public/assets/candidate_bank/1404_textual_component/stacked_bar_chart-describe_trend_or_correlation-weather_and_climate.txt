@@ -1,7 +1,0 @@
-part 1: What trend can be observed in the stacked bar chart regarding the climate factors across different cities?
-    part 2: 
-    (A) Cities with higher precipitation tend to have lower temperatures.
-    (B) Cities with higher humidity also have higher wind speeds.
-    (C) There is no clear trend or correlation between climate factors and cities.
-    (D) Sunshine levels are consistently high across all cities.
-    part 3: (C) There is no clear trend or correlation between climate factors and cities.

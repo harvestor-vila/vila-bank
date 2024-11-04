@@ -1,7 +1,0 @@
-part 1: What is the range of percentage values represented in the tree map of the economy sectors?
-    part 2: 
-      (A) [0, 25]
-      (B) [5, 20]
-      (C) [4, 23]
-      (D) [4, 35]
-    part 3: (B) [5, 20]

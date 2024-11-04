@@ -1,7 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the bar chart?
-    part 2: 
-      (A) Horizontal: Population, Vertical: Age Group
-      (B) Horizontal: Age Group, Vertical: Population
-      (C) Horizontal: Age Range, Vertical: Number of People
-      (D) Horizontal: Demographic, Vertical: Population Size
-    part 3: (B) Horizontal: Age Group, Vertical: Population

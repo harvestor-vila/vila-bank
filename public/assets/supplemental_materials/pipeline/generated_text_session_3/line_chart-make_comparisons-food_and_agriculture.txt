@@ -1,7 +1,0 @@
-part 1: How does the agricultural production in 2000 compare to the production in 2019?
-    part 2: 
-    (A) The production in 2000 is slightly higher than in 2019.
-    (B) The production in 2000 is the same as in 2019.
-    (C) The production in 2000 is slightly lower than in 2019.
-    (D) The production in 2000 is much higher than in 2019.
-    part 3: (D) The production in 2000 is much higher than in 2019.

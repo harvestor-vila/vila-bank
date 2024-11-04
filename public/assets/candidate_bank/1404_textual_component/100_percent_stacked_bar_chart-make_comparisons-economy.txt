@@ -1,7 +1,0 @@
-part 1: Which sector had a larger share of the economy in 2020, Manufacturing or Technology?
-    part 2: 
-    (A) Manufacturing
-    (B) Technology
-    (C) Both had the same share
-    (D) It is not possible to determine from the visualization
-    part 3: (A) Manufacturing

@@ -1,7 +1,0 @@
-part 1: Which condition showed a greater number of cases in 2019, Cardiovascular or Neurological?
-    part 2: 
-      (A) Cardiovascular
-      (B) Neurological
-      (C) Both showed the same number of cases
-      (D) The visualization does not provide this information
-    part 3: (A) Cardiovascular

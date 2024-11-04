@@ -1,7 +1,0 @@
-part 1: What is the average number of patients for the "Cardio" category across all clinics?
-    part 2: 
-      (A) 98.3
-      (B) 134.3
-      (C) 80.3
-      (D) 116.3
-    part 3: (D) 116.3

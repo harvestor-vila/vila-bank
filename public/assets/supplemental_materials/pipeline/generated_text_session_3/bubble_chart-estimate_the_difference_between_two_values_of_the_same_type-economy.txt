@@ -1,7 +1,0 @@
-part 1: Estimate the difference in GDP (in billions of USD) between Boravia and Gloria.
-    part 2: 
-      (A) 139.0
-      (B) 164.0
-      (C) 189.0
-      (D) 214.0
-    part 3: (B) 164.0

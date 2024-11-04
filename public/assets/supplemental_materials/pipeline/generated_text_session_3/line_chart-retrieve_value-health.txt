@@ -1,7 +1,0 @@
-part 1: What is the heart rate measurement (in bpm) for Day 10?
-    part 2: 
-      (A) 50
-      (B) 64
-      (C) 80
-      (D) 95
-    part 3: (B) 64

@@ -1,7 +1,0 @@
-part 1: Estimate the difference between the highest and lowest test scores shown in the histogram.
-    part 2: 
-      (A) 28.0
-      (B) 34.0
-      (C) 40.0
-      (D) 46.0
-    part 3: (B) 34.0

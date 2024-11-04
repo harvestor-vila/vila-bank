@@ -1,7 +1,0 @@
-part 1: Which patient has a higher Systolic Blood Pressure, the one aged 33 years or the one aged 61 years?
-    part 2: 
-      (A) The patient aged 33 years
-      (B) The patient aged 61 years
-      (C) Both have the same Systolic Blood Pressure
-      (D) Cannot be determined from the given information
-    part 3: (A) The patient aged 33 years

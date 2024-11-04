@@ -1,9 +1,0 @@
-part 1: What task does the choropleth map visualization design best support?
-
-part 2: 
-  (A) Comparing the exact innovation scores between individual states
-  (B) Identifying trends in innovation scores across different regions
-  (C) Showing the distribution of innovation scores using a box plot
-  (D) Presenting the time series analysis of innovation scores over years
-
-part 3: (B) Identifying trends in innovation scores across different regions

@@ -1,9 +1,0 @@
-part 1: What is the average GDP Per Capita (in USD) for the cities shown in the bubble chart?
-
-part 2: 
-(A) $68,754
-(B) $93,022
-(C) $56,620
-(D) $80,888.3
-
-part 3: (D) $80,888.3

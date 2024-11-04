@@ -1,7 +1,0 @@
-part 1: Which has a higher average Innovation Score, investments below 50 million or above 50 million?
-    part 2: 
-      (A) Below 50 million
-      (B) Above 50 million
-      (C) They are equal
-      (D) Cannot be determined from the scatterplot
-    part 3: (B) Above 50 million

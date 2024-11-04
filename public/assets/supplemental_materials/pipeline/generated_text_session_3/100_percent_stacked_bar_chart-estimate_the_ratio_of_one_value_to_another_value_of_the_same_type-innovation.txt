@@ -1,7 +1,0 @@
-part 1: What is the ratio of the percentage of Service Innovation to Product Development for Company A?
-    part 2: 
-    (A) 2.3
-    (B) 3.3
-    (C) 4.3
-    (D) 5.3
-    part 3: (B) 3.3

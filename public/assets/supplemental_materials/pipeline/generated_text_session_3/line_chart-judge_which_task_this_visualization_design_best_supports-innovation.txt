@@ -1,7 +1,0 @@
-part 1: Which task does the line chart design best support?
-    part 2: 
-      (A) Comparing the innovation scores between different years
-      (B) Identifying the distribution of innovation scores across categories
-      (C) Showing the correlation between innovation scores and a separate categorical variable
-      (D) Displaying the hierarchical structure of innovation scores
-    part 3: (A) Comparing the innovation scores between different years

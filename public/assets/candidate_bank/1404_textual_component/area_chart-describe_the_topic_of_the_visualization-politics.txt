@@ -1,7 +1,0 @@
-part 1: What is the topic of the area chart?
-    part 2: 
-      (A) Temperature changes over two decades
-      (B) Political party votes over a series of years
-      (C) Population growth in a city from 2000 to 2019
-      (D) Annual rainfall measurements over 20 years
-    part 3: (B) Political party votes over a series of years

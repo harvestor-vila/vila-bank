@@ -1,7 +1,0 @@
-part 1: Estimate the difference in percentage between "Wind" and "Hydro" energy subcategories.
-    part 2: 
-      (A) 3.0
-      (B) 5.0
-      (C) 7.0
-      (D) 10.0
-    part 3: (B) 5.0

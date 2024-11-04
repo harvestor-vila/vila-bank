@@ -1,9 +1,0 @@
-part 1: If the choropleth map showing "Average Temperature by State" were to be represented as a bar chart, which of the following characteristics would it most likely have?
-
-part 2: 
-(A) A bar chart with each bar representing a different country and their corresponding average temperature.
-(B) A bar chart with each bar representing a different state, with the height of the bar proportional to the state's average temperature.
-(C) A bar chart with uniform bar heights, using color to indicate the average temperature of each state.
-(D) A pie chart with slices representing the proportion of states within specific temperature ranges.
-
-part 3: (B) A bar chart with each bar representing a different state, with the height of the bar proportional to the state's average temperature.

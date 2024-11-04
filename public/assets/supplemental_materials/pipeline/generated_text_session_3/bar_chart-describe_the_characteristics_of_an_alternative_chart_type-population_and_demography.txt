@@ -1,7 +1,0 @@
-part 1: If the population distribution by age group were to be displayed using a pie chart instead of a bar chart, which of the following would be an accurate description of the pie chart's characteristics?
-    part 2: 
-    (A) Each age group would be represented by a slice, with the slice size proportional to the age group's share of the total population.
-    (B) The pie chart would show a series of concentric circles, each representing an age group with its radius corresponding to the population size.
-    (C) Age groups would be displayed as individual points plotted along a common scale, with the distance from the center indicating population size.
-    (D) The pie chart would consist of stacked horizontal bars, with each bar's length representing the population size of an age group.
-    part 3: (A) Each age group would be represented by a slice, with the slice size proportional to the age group's share of the total population.

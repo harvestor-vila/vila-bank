@@ -1,7 +1,0 @@
-part 1: What is the difference in enrollment between Elementary and High School in the year 2019?
-    part 2: 
-      (A) 89
-      (B) 105
-      (C) 121
-      (D) 137
-    part 3: (B) 105

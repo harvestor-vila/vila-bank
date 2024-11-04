@@ -1,7 +1,0 @@
-part 1: What is the range of patient counts across all health categories and clinics?
-    part 2:
-    (A) [47, 221]
-    (B) [56, 192]
-    (C) [38, 250]
-    (D) [29, 279]
-    part 3: (B) [56, 192]

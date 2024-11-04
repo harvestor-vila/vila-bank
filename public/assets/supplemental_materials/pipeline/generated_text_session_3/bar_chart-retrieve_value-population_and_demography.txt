@@ -1,7 +1,0 @@
-part 1: What is the population size for the age group "25-44"?
-    part 2: 
-      (A) 2743
-      (B) 3226
-      (C) 3709
-      (D) 4500
-    part 3: (B) 3226

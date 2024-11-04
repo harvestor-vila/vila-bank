@@ -1,7 +1,0 @@
-part 1: Which country has the smallest CO2 emissions value on the bubble chart?
-    part 2: 
-    (A) Cyprum
-    (B) Hestoria
-    (C) Grevia
-    (D) Ephoria
-    part 3: (B) Hestoria

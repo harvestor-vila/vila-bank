@@ -1,7 +1,0 @@
-part 1: What is the ratio of the agricultural production in the year 2000 to the production in the year 2019?
-    part 2: 
-    (A) 5.0
-    (B) 4.0
-    (C) 7.0
-    (D) 9.0
-    part 3: (C) 7.0

@@ -1,7 +1,0 @@
-part 1: What does the x-axis of the histogram represent?
-part 2: 
-(A) Age of Individuals (in years)
-(B) Income (in USD)
-(C) Number of Households
-(D) Unemployment Rate (%)
-part 3: (B) Income (in USD)

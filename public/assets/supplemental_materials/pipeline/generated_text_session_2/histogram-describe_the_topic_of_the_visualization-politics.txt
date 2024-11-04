@@ -1,9 +1,0 @@
-part 1: What is the topic of the histogram?
-
-part 2: 
-(A) The age distribution of participants in a marathon
-(B) The distribution of votes in a hypothetical primary election
-(C) The frequency of different species observed in a wildlife reserve
-(D) The number of pages in various books at a library
-
-part 3: (B) The distribution of votes in a hypothetical primary election

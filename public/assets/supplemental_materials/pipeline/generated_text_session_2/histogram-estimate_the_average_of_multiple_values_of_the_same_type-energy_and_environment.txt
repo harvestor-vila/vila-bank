@@ -1,9 +1,0 @@
-part 1: Estimate the average energy consumption (MWh).
-  part 2: 
-  (A) 20.3
-  (B) 23.0
-  (C) 17.0
-  (D) 25.0
-  part 3: 20.3
-
-Please note that the actual values for the options may differ based on the precise calculations. The values provided here are placeholders and should be replaced with the actual calculated values.

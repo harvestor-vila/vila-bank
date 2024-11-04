@@ -1,9 +1,0 @@
-part 1: If the number of graduates over the years were to be displayed using a bar chart instead of an area chart, which of the following characteristics would accurately describe the bar chart?
-
-part 2: 
-(A) Each year would be represented by a separate bar, with the height of the bar proportional to the number of graduates in that year.
-(B) The bar chart would show a continuous line connecting the tops of the bars to indicate the trend over time.
-(C) The bars would overlap each other, with the most recent year's bar in the front, to show the cumulative count of graduates.
-(D) The bar chart would display a single bar representing the total number of graduates over the entire period.
-
-part 3: (A) Each year would be represented by a separate bar, with the height of the bar proportional to the number of graduates in that year.

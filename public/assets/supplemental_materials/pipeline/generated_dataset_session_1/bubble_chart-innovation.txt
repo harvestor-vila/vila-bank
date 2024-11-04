@@ -1,8 +1,0 @@
-"InnovationScore" "ResearchBudget" "MarketImpact"
-89 95 46
-70 117 20
-94 110 12
-97 77 23
-52 164 48
-76 116 46
-95 61 38

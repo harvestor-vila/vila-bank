@@ -1,7 +1,0 @@
-part 1: What pattern can be observed in the investments across different innovation sectors?
-part 2: 
-(A) Investments in technology sectors decrease as we move from AI to Renewable Energy.
-(B) Investments in Blockchain and VR/AR are significantly higher than in other sectors.
-(C) There is no clear trend or correlation in investment amounts across the sectors.
-(D) Investments in Biotech show a steady increase with each subsequent sector.
-part 3: (C) There is no clear trend or correlation in investment amounts across the sectors.

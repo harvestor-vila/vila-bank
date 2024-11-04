@@ -1,7 +1,0 @@
-part 1: What is the average percentage value for the "Technology" category in the tree map visualization?
-part 2: 
-(A) 10.5
-(B) 14.5
-(C) 16.5
-(D) 12.5
-part 3: (D) 12.5

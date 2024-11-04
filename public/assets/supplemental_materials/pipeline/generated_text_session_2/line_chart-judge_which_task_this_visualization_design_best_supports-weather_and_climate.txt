@@ -1,9 +1,0 @@
-part 1: What task does the line chart design best support?
-
-part 2: 
-  (A) Comparing the total temperature values across multiple years
-  (B) Tracking changes in average daily temperature over a 20-day period
-  (C) Identifying the correlation between temperature and precipitation
-  (D) Displaying the distribution of temperatures throughout a single day
-
-part 3: (B) Tracking changes in average daily temperature over a 20-day period

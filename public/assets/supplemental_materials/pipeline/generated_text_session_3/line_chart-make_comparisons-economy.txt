@@ -1,7 +1,0 @@
-part 1: Which period experienced a higher GDP growth rate, 2002-2003 or 2010-2011?
-    part 2: 
-      (A) 2002-2003
-      (B) 2010-2011
-      (C) Both periods had the same growth rate
-      (D) The visualization does not provide enough information to determine
-    part 3: (B) 2010-2011

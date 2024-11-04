@@ -1,7 +1,0 @@
-part 1: Estimate the average daily temperature over the 20-day period.
-part 2: 
-  (A) 80 °F
-  (B) 92 °F
-  (C) 110 °F
-  (D) 95 °F
-part 3: (D) 95 °F

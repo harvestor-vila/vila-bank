@@ -1,7 +1,0 @@
-part 1: What does the Y-axis of the bar chart represent?
-    part 2: 
-    (A) Number of students in each school
-    (B) Percentage of each subject area within a school
-    (C) Total score of each subject by school
-    (D) School budget allocation for each subject
-    part 3: (B) Percentage of each subject area within a school

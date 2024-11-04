@@ -1,7 +1,0 @@
-part 1: What is the highest Cholesterol Level recorded in the dataset?
-    part 2: 
-      (A) 188
-      (B) 222
-      (C) 256
-      (D) 257
-    part 3: (B) 222

@@ -1,7 +1,0 @@
-part 1: Estimate the ratio of the total Temperature to the total Humidity.
-part 2:
-(A) 0.3
-(B) 1.4
-(C) 2.5
-(D) 3.5
-part 3: (B) 1.4

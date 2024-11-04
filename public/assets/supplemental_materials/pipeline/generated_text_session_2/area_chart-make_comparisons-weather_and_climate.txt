@@ -1,9 +1,0 @@
-part 1: How does the average temperature on Day 10 compare to that on Day 5?
-
-part 2: 
-(A) The average temperature on Day 10 is higher than on Day 5.
-(B) The average temperature on Day 10 is lower than on Day 5.
-(C) The average temperature on Day 10 is the same as on Day 1.
-(D) The average temperature on Day 10 is the same as on Day 5.
-
-part 3: (D) The average temperature on Day 10 is the same as on Day 5.

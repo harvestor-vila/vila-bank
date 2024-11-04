@@ -1,7 +1,0 @@
-part 1: If the agricultural production data were to be displayed using a line chart instead of an area chart, which of the following would be an accurate description of that chart type?
-    part 2: 
-    (A) A line chart would use vertical bars to represent production values, making it easy to compare individual years.
-    (B) A line chart would consist of a series of dots connected by lines, highlighting trends in production over time.
-    (C) A line chart would display production values as slices of a pie, showing the proportion of each year's production to the total.
-    (D) A line chart would stack segments on top of each other to represent production values, allowing for part-to-whole comparisons over time.
-    part 3: (B) A line chart would consist of a series of dots connected by lines, highlighting trends in production over time.

@@ -1,9 +1,0 @@
-part 1:  Which visualization design would be most appropriate for comparing the relative profitability of different crops, taking into account their production and yield? The visualization above is only a demonstration of the relevant data.
-
-part 2:
-(A) A pie chart with slices representing the profit of each crop.
-(B) A bubble chart with crop production on the x-axis, yield on the y-axis, and bubble size representing profit.
-(C) A line graph showing the change in profit over time for each crop.
-(D) A bar chart with bars representing the average temperature suitable for each crop's growth.
-
-part 3:   (B) A bubble chart with crop production on the x-axis, yield on the y-axis, and bubble size representing profit.

@@ -1,7 +1,0 @@
-part 1: What are the labels for the x-axis and y-axis in the given stacked bar chart?
-    part 2: 
-    (A) x-axis: Sector, y-axis: Year
-    (B) x-axis: Year, y-axis: Percentage
-    (C) x-axis: Percentage, y-axis: Sector
-    (D) x-axis: Economy, y-axis: Contribution
-    part 3: (B) x-axis: Year, y-axis: Percentage

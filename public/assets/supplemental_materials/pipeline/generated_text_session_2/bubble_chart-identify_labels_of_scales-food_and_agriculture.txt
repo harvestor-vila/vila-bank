@@ -1,9 +1,0 @@
-part 1: What does the size of the bubbles in the bubble chart represent?
-
-part 2: 
-  (A) Yield (thousands of tonnes per hectare)
-  (B) Crop variety
-  (C) Profit (thousands of dollars)
-  (D) Production (thousands of tonnes)
-
-part 3: (C) Profit (thousands of dollars)

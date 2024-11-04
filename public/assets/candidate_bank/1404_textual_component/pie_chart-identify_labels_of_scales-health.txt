@@ -1,7 +1,0 @@
-part 1: What does the label "Category" in the pie chart refer to?
-    part 2: 
-      (A) The numerical values representing the size of each slice
-      (B) The colors used to differentiate slices of the pie chart
-      (C) The names of the health-related activities
-      (D) The percentage of people who prefer each activity
-    part 3: (C) The names of the health-related activities

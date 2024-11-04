@@ -1,9 +1,0 @@
-part 1: What does the legend label represent in the tree map of Food and Agriculture Categories?
-
-part 2: 
-(A) Subcategory names
-(B) Percentage values
-(C) Category names
-(D) Quantity of items
-
-part 3: (C) Category names

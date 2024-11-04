@@ -1,9 +1,0 @@
-part 1: What is the average percentage of Product Development innovation across all companies?
-
-part 2: 
-(A) 20.0%
-(B) 30.0%
-(C) 40.0%
-(D) 50.0%
-
-part 3: (B) 30.0%

@@ -1,7 +1,0 @@
-part 1: What is the Research Budget (in thousands) for the company with an Innovation Score of 94?
-    part 2: 
-      (A) 93
-      (B) 127
-      (C) 85
-      (D) 150
-    part 3: (B) 127

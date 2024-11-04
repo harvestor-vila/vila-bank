@@ -1,9 +1,0 @@
-part 1: What are the labels for the x and y axes in the scatterplot?
-
-part 2: 
-  (A) x-axis: Carbon Emission (metric tons), y-axis: Energy Consumption (MWh)
-  (B) x-axis: Energy Consumption (MWh), y-axis: Carbon Emission (metric tons)
-  (C) x-axis: Energy Production (MWh), y-axis: Carbon Footprint (metric tons)
-  (D) x-axis: Energy Usage (kWh), y-axis: CO2 Emissions (metric tons)
-
-part 3: (B) x-axis: Energy Consumption (MWh), y-axis: Carbon Emission (metric tons)

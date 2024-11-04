@@ -1,9 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the histogram of agricultural yield per acre?
-
-part 2: 
-(A) Horizontal: Frequency, Vertical: Yield per Acre (in whole numbers)
-(B) Horizontal: Yield per Acre (in whole numbers), Vertical: Frequency
-(C) Horizontal: Count, Vertical: Yield per Acre (in whole numbers)
-(D) Horizontal: Yield per Acre (in whole numbers), Vertical: Count
-
-part 3: (B) Horizontal: Yield per Acre (in whole numbers), Vertical: Frequency

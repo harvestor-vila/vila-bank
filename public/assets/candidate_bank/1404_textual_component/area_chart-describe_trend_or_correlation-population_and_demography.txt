@@ -1,7 +1,0 @@
-part 1: What trend does the area chart depicting population from 2000 to 2019 show?
-    part 2: 
-      (A) The population has increased steadily over the years.
-      (B) The population has fluctuated without a clear trend.
-      (C) The population has remained constant throughout the years.
-      (D) The population has decreased steadily over the years.
-    part 3: (D) The population has decreased steadily over the years.

@@ -1,9 +1,0 @@
-part 1: What is the range of values for the number of innovations across all sectors and innovation types?
-
-part 2: 
-(A) [35, 221]
-(B) [50, 186]
-(C) [43, 201]
-(D) [48, 195]
-
-part 3: (B) [50, 186]

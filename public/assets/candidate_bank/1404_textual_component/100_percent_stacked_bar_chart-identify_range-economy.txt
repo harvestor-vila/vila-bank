@@ -1,7 +1,0 @@
-part 1: What is the range of sector percentage contributions to the economy over the years displayed in the bar chart?
-part 2: 
-(A) [-1, 42]
-(B) [0, 43]
-(C) [2, 36]
-(D) [-2, 44]
-part 3: (C) [2, 36]

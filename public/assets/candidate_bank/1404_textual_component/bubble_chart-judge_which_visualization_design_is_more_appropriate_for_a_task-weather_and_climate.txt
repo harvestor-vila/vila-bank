@@ -1,7 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relationship between temperature, humidity, and precipitation across multiple locations?
-part 2:
-(A) A pie chart with slices representing different locations and their respective temperatures.
-(B) A bubble chart with temperature on the x-axis, humidity on the y-axis, and bubble size representing precipitation, colored by location.
-(C) A line graph with time on the x-axis and temperature on the y-axis, with multiple lines representing different locations.
-(D) A bar chart with locations on the x-axis and stacked bars representing temperature, humidity, and precipitation.
-part 3: (B) A bubble chart with temperature on the x-axis, humidity on the y-axis, and bubble size representing precipitation, colored by location.

@@ -1,9 +1,0 @@
-part 1: What task does the stacked bar chart design best support?
-
-part 2: 
-(A) Comparing the total number of votes for political issues across multiple states
-(B) Analyzing the trend of votes for a single political issue over time
-(C) Identifying the distribution of political party preferences within a single state
-(D) Estimating the correlation between different political issues and their impact on party success
-
-part 3: (A) Comparing the total number of votes for political issues across multiple states

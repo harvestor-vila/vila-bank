@@ -1,7 +1,0 @@
-part 1: Estimate the average number of "Research" innovations across all sectors.
-part 2: 
-(A) 111.6
-(B) 151.6
-(C) 171.6
-(D) 131.6
-part 3: (D) 131.6

@@ -1,9 +1,0 @@
-part 1: What is the difference in percentage points between the Youth and Senior categories?
-
-part 2: 
-  (A) 10
-  (B) 20
-  (C) 25
-  (D) 30
-
-part 3: (B) 20

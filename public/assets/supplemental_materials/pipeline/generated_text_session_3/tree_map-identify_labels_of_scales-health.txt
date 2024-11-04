@@ -1,7 +1,0 @@
-part 1: What does the legend label represent in the tree map visualization of health subcategories distribution?
-    part 2: 
-      (A) Subcategory names
-      (B) Percentage values
-      (C) Category names
-      (D) Number of cases
-    part 3: (C) Category names

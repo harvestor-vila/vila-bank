@@ -1,9 +1,0 @@
-part 1: Which task does this stacked bar chart design best support?
-
-part 2: 
-  (A) Comparing the total number of patients across different clinics
-  (B) Identifying trends over time for patient visits to each clinic
-  (C) Assessing the correlation between patient numbers and clinic size
-  (D) Evaluating the performance of individual staff members at each clinic
-
-part 3: (A) Comparing the total number of patients across different clinics

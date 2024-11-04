@@ -1,7 +1,0 @@
-part 1: Which political party received more votes, the Socialist or the Libertarian?
-    part 2: 
-      (A) Socialist
-      (B) Libertarian
-      (C) Votes are equal
-      (D) Cannot be determined from the visualization
-    part 3: (A) Socialist

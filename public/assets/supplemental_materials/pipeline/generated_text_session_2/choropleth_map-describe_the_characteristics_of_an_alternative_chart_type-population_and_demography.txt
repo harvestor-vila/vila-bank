@@ -1,9 +1,0 @@
-part 1: If the population data of US states and the District of Columbia were displayed using a bar chart instead of a choropleth map, which of the following would be an accurate description of the bar chart's characteristics?
-
-part 2: 
-(A) Each state would be represented by a slice of a pie, with the size of the slice corresponding to the state's population.
-(B) States would be represented by points plotted on a grid, where the position of each point is determined by the state's population and another variable.
-(C) Bars would be arranged in descending order of population, with each state's population represented by the height of its respective bar.
-(D) Lines would connect data points in the order of the states' population, creating a continuous line that may cross over itself.
-
-part 3: (C) Bars would be arranged in descending order of population, with each state's population represented by the height of its respective bar.

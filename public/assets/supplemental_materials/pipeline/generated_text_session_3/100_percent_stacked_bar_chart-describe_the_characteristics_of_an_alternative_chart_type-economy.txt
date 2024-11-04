@@ -1,7 +1,0 @@
-part 1: How would a 100 percent stacked bar chart represent the sector contributions to the economy for a given year?
-part 2:
-(A) A 100 percent stacked bar chart would show each sector's contribution as a segment of a bar, with the length of each segment representing the sector's percentage contribution to the total for that year, and each bar's total length representing 100% of the economy for that year.
-(B) A 100 percent stacked bar chart would display each sector's contribution as a separate bar, with the length of the bar representing the sector's growth over time.
-(C) A 100 percent stacked bar chart would depict each sector's contribution as a point on a line, with the position of the point reflecting the sector's market share.
-(D) A 100 percent stacked bar chart would illustrate each sector's contribution as a stacked area, with the cumulative area representing the total economic output.
-part 3: (A) A 100 percent stacked bar chart would show each sector's contribution as a segment of a bar, with the length of each segment representing the sector's percentage contribution to the total for that year, and each bar's total length representing 100% of the economy for that year.

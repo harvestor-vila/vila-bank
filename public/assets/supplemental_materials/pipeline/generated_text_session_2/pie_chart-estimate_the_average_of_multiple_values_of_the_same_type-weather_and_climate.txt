@@ -1,9 +1,0 @@
-part 1: What is the average percentage of the climate categories shown in the pie chart?
-
-part 2: 
-  (A) 10%
-  (B) 15%
-  (C) 20%
-  (D) 25%
-
-part 3: (C) 20%

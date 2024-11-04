@@ -1,7 +1,0 @@
-part 1: What is the range of votes received by any party in a given year as depicted in the stacked area chart?
-part 2:
-  (A) [96, 1116]
-  (B) [79, 1262]
-  (C) [62, 1408]
-  (D) [113, 970]
-part 3: (D) [113, 970]

@@ -1,7 +1,0 @@
-part 1: What is the range of percentage values for energy sources from 2019 to 2021?
-    part 2: 
-    (A) [1%, 42%]
-    (B) [2%, 36%]
-    (C) [0%, 48%]
-    (D) [-1%, 54%]
-    part 3: (B) [2%, 36%]

@@ -1,7 +1,0 @@
-part 1: Which health subcategory has the highest percentage allocation in the tree map?
-    part 2: 
-    (A) Pediatrics: Vaccination
-    (B) Cardiology: Hypertension
-    (C) Oncology: Brain Cancer
-    (D) Neurology: Alzheimer's
-    part 3: (B) Cardiology: Hypertension

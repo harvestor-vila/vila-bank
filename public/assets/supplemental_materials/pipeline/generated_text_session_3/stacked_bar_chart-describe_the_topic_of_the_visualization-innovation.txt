@@ -1,7 +1,0 @@
-part 1: What is the topic of the visualization?
-    part 2: 
-    (A) Comparison of agricultural crop yields by type
-    (B) Distribution of innovation activities across different sectors
-    (C) Trends in global temperatures over the past century
-    (D) Analysis of internet usage demographics
-    part 3: (B) Distribution of innovation activities across different sectors

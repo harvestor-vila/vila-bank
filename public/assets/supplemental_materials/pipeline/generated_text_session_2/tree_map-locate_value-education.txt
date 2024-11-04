@@ -1,9 +1,0 @@
-part 1: Which subcategory represents the largest percentage of educational content?
-
-part 2: 
-  (A) Algebra
-  (B) Biology
-  (C) History
-  (D) English
-
-part 3: (B) Biology

@@ -1,9 +1,0 @@
-part 1: If the stacked area chart showing innovation trends over time were to be represented as a line chart, which of the following would best describe its characteristics?
-
-part 2: 
-(A) A line chart would overlay lines for each category, making it difficult to compare cumulative totals but easier to follow individual category trends over time.
-(B) A line chart would stack lines on top of each other, preserving the ability to compare cumulative totals across categories.
-(C) A line chart would display bars for each category side by side for each year, emphasizing the comparison between categories within each year.
-(D) A line chart would use shading between lines to represent the volume of innovations, with darker shades indicating higher values.
-
-part 3: (A) A line chart would overlay lines for each category, making it difficult to compare cumulative totals but easier to follow individual category trends over time.

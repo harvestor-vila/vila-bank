@@ -1,7 +1,0 @@
-part 1: What task does the stacked area chart best support?
-    part 2: 
-      (A) Comparing exact values across individual age groups for each year
-      (B) Tracking changes in the total population over time
-      (C) Identifying correlations between different age groups
-      (D) Analyzing the distribution of population within each age group for a single year
-    part 3: (B) Tracking changes in the total population over time

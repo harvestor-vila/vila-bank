@@ -1,7 +1,0 @@
-part 1: Estimate the difference in Sunshine values between CityA and CityE.
-part 2: 
-  (A) 23.0
-  (B) 29.0
-  (C) 35.0
-  (D) 47.0
-part 3: (C) 35.0

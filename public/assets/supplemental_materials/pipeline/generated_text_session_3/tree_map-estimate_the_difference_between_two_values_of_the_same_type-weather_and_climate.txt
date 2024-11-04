@@ -1,7 +1,0 @@
-part 1: Estimate the difference in percentage between the "High" subcategory of "Precipitation" and the "Moderate" subcategory of "Temperature".
-part 2: 
-  (A) -3%
-  (B) -1%
-  (C) -4%
-  (D) 0%
-part 3: (A) -3%

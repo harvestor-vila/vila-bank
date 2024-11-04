@@ -1,7 +1,0 @@
-part 1: What trend is observed in the population distribution by age group over the years 2000 to 2019?
-    part 2: 
-    (A) The population of all age groups consistently increased over time.
-    (B) The population of the "65+" age group showed a consistent decline over the years.
-    (C) No clear trend in population changes is observed across all age groups.
-    (D) The "0-14" age group had the highest population throughout the years 2000 to 2019.
-    part 3: (C) No clear trend in population changes is observed across all age groups.

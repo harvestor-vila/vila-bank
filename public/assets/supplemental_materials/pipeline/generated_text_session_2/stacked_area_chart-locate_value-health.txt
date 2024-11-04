@@ -1,9 +1,0 @@
-part 1: In which year did Neurological conditions have the highest number of cases?
-
-part 2: 
-(A) 2001
-(B) 2012
-(C) 2008
-(D) 2017
-
-part 3: (B) 2012

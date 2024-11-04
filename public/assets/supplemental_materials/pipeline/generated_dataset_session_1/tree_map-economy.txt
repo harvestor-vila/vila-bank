@@ -1,9 +1,0 @@
-"Category"	"Subcategory"	"Percentage"
-"Agriculture"	"Crops"	10
-"Agriculture"	"Livestock"	5
-"Manufacturing"	"Textiles"	15
-"Manufacturing"	"Machinery"	10
-"Services"	"Retail"	20
-"Services"	"Finance"	15
-"Technology"	"Software"	15
-"Technology"	"Hardware"	10

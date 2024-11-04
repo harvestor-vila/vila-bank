@@ -1,7 +1,0 @@
-part 1: What is the highest GDP value and its corresponding Unemployment Rate in the scatterplot?
-    part 2: 
-    (A) GDP: 1500, Unemployment Rate: 2
-    (B) GDP: 1991, Unemployment Rate: 0
-    (C) GDP: 1600, Unemployment Rate: 2
-    (D) GDP: 1400, Unemployment Rate: 3
-    part 3: (B) GDP: 1991, Unemployment Rate: 0

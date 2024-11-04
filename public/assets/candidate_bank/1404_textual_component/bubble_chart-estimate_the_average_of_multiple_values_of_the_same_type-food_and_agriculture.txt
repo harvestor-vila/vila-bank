@@ -1,3 +1,0 @@
-part 1: Estimate the average profit (in thousands of dollars) per crop.
-    part 2: (A) 73.1 (B) 86.1 (C) 99.1 (D) 112.1
-    part 3: (B) 86.1

@@ -1,7 +1,0 @@
-part 1: Which region represents an outlier in terms of population size on the bubble chart?
-    part 2: 
-    (A) Northland
-    (B) Southville
-    (C) Easthaven
-    (D) Outlands
-    part 3: (D) Outlands

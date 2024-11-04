@@ -1,9 +1,0 @@
-part 1: What is the production value (GWh) for Biomass energy?
-
-part 2: 
-  (A) 150
-  (B) 328
-  (C) 500
-  (D) 378
-
-part 3: (B) 328

@@ -1,7 +1,0 @@
-part 1: What is the difference in education value between New York and Minnesota?
-    part 2: 
-    (A) 845
-    (B) 700
-    (C) 972
-    (D) 600
-    part 3: (A) 845

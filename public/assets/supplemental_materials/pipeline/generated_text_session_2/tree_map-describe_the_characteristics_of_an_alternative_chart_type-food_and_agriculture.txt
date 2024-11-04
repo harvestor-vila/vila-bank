@@ -1,9 +1,0 @@
-part 1: If the tree map of Food and Agriculture Categories were to be represented as a pie chart, which of the following descriptions would be accurate?
-
-part 2: 
-(A) Each slice of the pie chart would represent a different subcategory, with the size of each slice corresponding to the relative GDP of each category.
-(B) The pie chart would have equal-sized slices for each subcategory to emphasize the number of subcategories rather than their percentages.
-(C) The pie chart would show slices of varying sizes, each representing a subcategory, with the size of each slice proportional to the percentage value of that subcategory.
-(D) The pie chart would be divided into three large slices, one for each main category, with no distinction between the subcategories.
-
-part 3: (C) The pie chart would show slices of varying sizes, each representing a subcategory, with the size of each slice proportional to the percentage value of that subcategory.

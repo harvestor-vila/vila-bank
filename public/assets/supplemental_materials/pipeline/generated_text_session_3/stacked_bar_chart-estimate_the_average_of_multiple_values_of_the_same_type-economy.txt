@@ -1,7 +1,0 @@
-part 1: What is the average annual income (in millions) for the Technology sector from 2015 to 2022?
-    part 2: 
-      (A) 263.8
-      (B) 357.8
-      (C) 216.8
-      (D) 310.8
-    part 3: (D) 310.8

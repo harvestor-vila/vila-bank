@@ -1,7 +1,0 @@
-part 1: What is the maximum innovation score observed in the dataset?
-    part 2: 
-      (A) 15
-      (B) 23
-      (C) 28
-      (D) 18
-    part 3: (C) 28

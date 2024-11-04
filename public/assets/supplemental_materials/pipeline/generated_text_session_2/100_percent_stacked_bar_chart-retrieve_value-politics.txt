@@ -1,9 +1,0 @@
-part 1: What percentage of the focus on Defense is represented by Party_C?
-
-part 2: 
-(A) 38%
-(B) 20%
-(C) 55%
-(D) 70%
-
-part 3: (A) 38%

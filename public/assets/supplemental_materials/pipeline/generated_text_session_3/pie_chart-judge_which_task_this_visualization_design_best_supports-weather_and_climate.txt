@@ -1,7 +1,0 @@
-part 1: What task does this pie chart design best support?
-    part 2: 
-      (A) Comparing exact values across multiple categories
-      (B) Showing the distribution of parts to a whole
-      (C) Displaying trends over time
-      (D) Visualizing geographical data
-    part 3: (B) Showing the distribution of parts to a whole

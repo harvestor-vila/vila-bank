@@ -1,5 +1,0 @@
-part 1: What is the average temperature (°F) depicted in the scatterplot?
-    part 2: (A) 76.3 (B) 88.0 (C) 64.6 (D) 98.2
-    part 3: (A) 76.3
-
-If a mistake is found, I will provide the corrected item in the specified format.

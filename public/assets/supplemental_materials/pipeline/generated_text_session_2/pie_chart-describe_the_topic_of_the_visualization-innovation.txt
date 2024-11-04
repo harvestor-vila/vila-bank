@@ -1,9 +1,0 @@
-part 1: What is the topic of the pie chart?
-
-part 2: 
-  (A) The distribution of global climate temperatures
-  (B) The distribution of innovation categories within a company
-  (C) The market share of different smartphone manufacturers
-  (D) The percentage of different species in a rainforest ecosystem
-
-part 3: (B) The distribution of innovation categories within a company

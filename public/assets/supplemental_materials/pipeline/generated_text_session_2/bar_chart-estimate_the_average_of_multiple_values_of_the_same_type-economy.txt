@@ -1,9 +1,0 @@
-part 1: What is the average GDP Contribution (in billions) by sector?
-  
-  part 2: 
-  (A) 248
-  (B) 336
-  (C) 200
-  (D) 350
-  
-  part 3: (A) 248

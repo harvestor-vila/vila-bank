@@ -1,8 +1,0 @@
-part 1: What is the average number of graduates per year over the period shown?
-part 2: options
-  (A) 4517
-  (B) 5315
-  (C) 6113
-  (D) 6911
-part 3: the correct answer
-  (B) 5315

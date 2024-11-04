@@ -1,7 +1,0 @@
-part 1: What is the value associated with the state of Michigan in the choropleth map of Food and Agriculture Production by State?
-    part 2: 
-      (A) 739
-      (B) 939
-      (C) 1139
-      (D) 400
-    part 3: (B) 939

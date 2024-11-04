@@ -1,7 +1,0 @@
-part 1: What does the legend in the tree map visualization indicate?
-    part 2: 
-    (A) Subcategory percentages
-    (B) Category names
-    (C) Subcategory names
-    (D) Size of the market
-    part 3: (B) Category names

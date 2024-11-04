@@ -1,9 +1,0 @@
-part 1: What trend is observed in the enrollment numbers over the academic years from 2001 to 2020?
-
-part 2: 
-(A) A consistent upward trend in enrollment numbers.
-(B) A consistent downward trend in enrollment numbers.
-(C) Fluctuations in enrollment numbers without a clear upward or downward trend.
-(D) Enrollment numbers doubled over the period.
-
-part 3: (C) Fluctuations in enrollment numbers without a clear upward or downward trend.

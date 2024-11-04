@@ -1,9 +1,0 @@
-part 1: What does the size of the bubbles in the bubble chart represent?
-
-part 2: 
-  (A) Patient's weight in kilograms
-  (B) Cholesterol Level in mg/dL
-  (C) Patient's height in centimeters
-  (D) Heart rate in beats per minute
-
-part 3: (B) Cholesterol Level in mg/dL

@@ -1,9 +1,0 @@
-part 1: How would a bar chart represent the relationship between schools and their average test scores?
-
-part 2: 
-(A) A bar chart would display a single bar for each school with varying heights proportional to the number of students at each school.
-(B) A bar chart would show a series of bars, each representing a different school, with bar lengths proportional to the average test scores of the schools.
-(C) A bar chart would depict circles for each school, where the diameter of each circle corresponds to the school's funding.
-(D) A bar chart would use varying shades of color to indicate the different average test scores for each school, with no bars.
-
-part 3: (B) A bar chart would show a series of bars, each representing a different school, with bar lengths proportional to the average test scores of the schools.

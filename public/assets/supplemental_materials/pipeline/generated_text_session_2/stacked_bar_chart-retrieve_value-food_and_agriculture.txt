@@ -1,9 +1,0 @@
-part 1: What is the production quantity (in tons) for Soybeans in the West region?
-
-part 2: 
-(A) 500
-(B) 689
-(C) 850
-(D) 1000
-
-part 3: (B) 689

@@ -1,9 +1,0 @@
-part 1: Which state has a higher education value, Colorado or Texas?
-
-part 2: 
-(A) Colorado
-(B) Texas
-(C) Both have the same value
-(D) The visualization does not provide this information
-
-part 3: (A) Colorado

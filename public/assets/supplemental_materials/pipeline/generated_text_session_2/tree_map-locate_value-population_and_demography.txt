@@ -1,9 +1,0 @@
-part 1: What is the highest percentage value in the tree map and which subcategory does it belong to?
-
-part 2: 
-  (A) 15-64, 5%
-  (B) Employed, 6%
-  (C) High School, 4%
-  (D) 0-14, 5%
-
-part 3: (D) 0-14, 5%

@@ -1,3 +1,0 @@
-part 1: What is the average population size per age group represented in the bar chart?
-    part 2: (A) 2195.4 (B) 2583.4 (C) 2971.4 (D) 3359.4
-    part 3: (B) 2583.4

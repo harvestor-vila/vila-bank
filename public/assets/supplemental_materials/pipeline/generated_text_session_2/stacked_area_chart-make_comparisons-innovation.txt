@@ -1,9 +1,0 @@
-part 1: Which category showed a greater increase in the number of innovations from 2000 to 2019, Tech Advancements or New Startups?
-
-part 2: 
-(A) Tech Advancements
-(B) New Startups
-(C) Both increased equally
-(D) Neither category showed an increase
-
-part 3: (B) New Startups

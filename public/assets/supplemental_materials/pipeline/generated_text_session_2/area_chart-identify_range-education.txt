@@ -1,9 +1,0 @@
-part 1: What is the range of the number of graduates over the years shown in the area chart?
-
-part 2: 
-(A) [150, 12000]
-(B) [323, 11468]
-(C) [100, 13000]
-(D) [200, 11500]
-
-part 3: (B) [323, 11468]

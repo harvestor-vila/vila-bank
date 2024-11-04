@@ -1,9 +1,0 @@
-part 1: What task does the choropleth map visualization design best support?
-
-part 2: 
-  (A) Comparing the exact population sizes of different states
-  (B) Identifying trends in health index across regions
-  (C) Analyzing the distribution of a categorical variable across states
-  (D) Assessing the correlation between health index and state area
-
-part 3: (B) Identifying trends in health index across regions

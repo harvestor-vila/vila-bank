@@ -1,7 +1,0 @@
-part 1: What is the relationship between two variables depicted in the scatterplot?
-    part 2: 
-      (A) The relationship between a country's GDP and its population growth rate
-      (B) The correlation between age and internet usage among adults
-      (C) The association between voter turnout and opposition support in an election
-      (D) The link between hours of study and final exam scores for students
-    part 3: (C) The association between voter turnout and opposition support in an election

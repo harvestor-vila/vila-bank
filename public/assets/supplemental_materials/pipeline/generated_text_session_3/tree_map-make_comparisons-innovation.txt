@@ -1,9 +1,0 @@
-part 1: Which sector has an equal combined presence in the innovation sectors tree map, Technology or Healthcare?
-
-part 2: 
-  (A) Technology
-  (B) Healthcare
-  (C) Both Technology and Healthcare
-  (D) Neither Technology nor Healthcare
-
-part 3: (C) Both Technology and Healthcare

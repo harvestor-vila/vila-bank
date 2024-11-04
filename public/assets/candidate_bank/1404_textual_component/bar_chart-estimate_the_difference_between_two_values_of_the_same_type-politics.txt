@@ -1,7 +1,0 @@
-part 1: Estimate the difference in the number of votes between the Communist and Socialist parties.
-    part 2: 
-    (A) 500 votes
-    (B) 616 votes
-    (C) 730 votes
-    (D) 850 votes
-    part 3: (B) 616 votes

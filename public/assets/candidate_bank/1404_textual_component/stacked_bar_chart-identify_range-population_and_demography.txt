@@ -1,7 +1,0 @@
-part 1: What is the range of population values across all regions and age groups?
-    part 2:
-    (A) [8534, 57379]
-    (B) [7028, 64864]
-    (C) [5522, 72349]
-    (D) [10040, 49894]
-    part 3:  (D) [10040, 49894]

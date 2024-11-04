@@ -1,9 +1,0 @@
-part 1: Which task does this pie chart design best support?
-
-part 2: 
-  (A) Comparing the exact numerical values of health-related activities
-  (B) Showing the distribution of time spent on various health-related activities
-  (C) Displaying the trend of health-related activities over time
-  (D) Identifying the correlation between different health-related activities
-
-part 3: (B) Showing the distribution of time spent on various health-related activities

@@ -1,9 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the line chart?
-
-part 2: 
-  (A) Horizontal: Number of Students, Vertical: Academic Year
-  (B) Horizontal: Enrollment, Vertical: Year
-  (C) Horizontal: Academic Year, Vertical: Number of Students
-  (D) Horizontal: Year, Vertical: Enrollment
-
-part 3: (C) Horizontal: Academic Year, Vertical: Number of Students

@@ -1,9 +1,0 @@
-part 1: What trend is observed in the number of innovations across the categories from 2000 to 2019?
-
-part 2: 
-(A) All categories show a consistent upward trend.
-(B) No clear trend or correlation is observed across the categories.
-(C) Tech Advancements have consistently higher innovation counts than other categories.
-(D) Research Development shows a sharp decline in the number of innovations over time.
-
-part 3: (B) No clear trend or correlation is observed across the categories.

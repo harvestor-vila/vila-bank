@@ -1,7 +1,0 @@
-part 1: How much investment, in millions, did the Biotech sector receive?
-    part 2: 
-    (A) 100
-    (B) 217
-    (C) 350
-    (D) 500
-    part 3: (B) 217

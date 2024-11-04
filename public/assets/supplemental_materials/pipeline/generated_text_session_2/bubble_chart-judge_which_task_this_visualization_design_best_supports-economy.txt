@@ -1,9 +1,0 @@
-part 1: What task does this bubble chart design best support?
-
-part 2: 
-  (A) Comparing the exact GDP values between countries
-  (B) Understanding the relationship between GDP, Unemployment Rate, and Population across countries
-  (C) Tracking changes in GDP and Unemployment Rate over time for a single country
-  (D) Identifying the country with the median GDP
-
-part 3: (B) Understanding the relationship between GDP, Unemployment Rate, and Population across countries

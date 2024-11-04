@@ -1,7 +1,0 @@
-part 1: If the political policy distribution data were to be displayed using a pie chart, which of the following statements would correctly describe its characteristics?
-    part 2: 
-    (A) Each policy area would be represented by a bar, and the length of the bar would correspond to the percentage of that policy area.
-    (B) Policy areas would be represented by points plotted on a grid, where the position of the point is determined by the percentage of that policy area.
-    (C) The chart would consist of a circle divided into slices, where each slice's size represents the percentage of the corresponding policy area.
-    (D) Policy areas would be represented by lines that connect data points, showing the trend in policy percentage over time.
-    part 3: (C) The chart would consist of a circle divided into slices, where each slice's size represents the percentage of the corresponding policy area.

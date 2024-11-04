@@ -1,7 +1,0 @@
-part 1: What is the subject of the tree map visualization?
-    part 2: 
-      (A) The distribution of land areas across different climate zones
-      (B) The popularity of various political leaders
-      (C) The distribution of policy focus areas in politics
-      (D) The market share of different technology companies
-    part 3: (C) The distribution of policy focus areas in politics

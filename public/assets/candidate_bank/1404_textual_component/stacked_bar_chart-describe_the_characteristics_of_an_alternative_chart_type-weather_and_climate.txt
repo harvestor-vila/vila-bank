@@ -1,7 +1,0 @@
-part 1: If the stacked bar chart showing weather and climate factors by city were to be represented as a line chart, which of the following descriptions would be accurate?
-    part 2: 
-    (A) Each city would be represented by a single line, with different climate factors distinguished by various markers along the line.
-    (B) Each climate factor would be represented by a separate pie chart, with slices corresponding to the values for each city.
-    (C) The line chart would consist of a single line, aggregating the values of all climate factors for each city.
-    (D) The line chart would display a cumulative frequency of the climate factors, with lines stacking on top of each other to show total values.
-    part 3: (A) Each city would be represented by a single line, with different climate factors distinguished by various markers along the line.

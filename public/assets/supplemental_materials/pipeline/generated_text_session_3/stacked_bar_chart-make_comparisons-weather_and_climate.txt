@@ -1,7 +1,0 @@
-part 1: Which city has a higher combined value for 'Humidity' and 'Sunshine' factors, CityA or CityD?
-part 2: 
-  (A) CityA
-  (B) CityD
-  (C) The values are equal
-  (D) Cannot be determined from the given information
-part 3: (A) CityA

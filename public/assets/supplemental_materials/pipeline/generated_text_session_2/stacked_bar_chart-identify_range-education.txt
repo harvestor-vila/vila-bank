@@ -1,9 +1,0 @@
-part 1: What is the range of the number of students across all grades and schools?
-
-part 2: 
-(A) [35, 221]
-(B) [50, 201]
-(C) [45, 206]
-(D) [50, 186]
-
-part 3: (D) [50, 186]

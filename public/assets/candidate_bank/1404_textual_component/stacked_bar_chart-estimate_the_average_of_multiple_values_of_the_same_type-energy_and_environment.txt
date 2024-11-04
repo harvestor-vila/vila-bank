@@ -1,7 +1,0 @@
-part 1: What is the average Solar energy production (in GWh) across all countries?
-    part 2: 
-    (A) 403.6
-    (B) 547.6
-    (C) 259.6
-    (D) 475.6
-    part 3: (D) 475.6

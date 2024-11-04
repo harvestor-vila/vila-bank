@@ -1,9 +1,0 @@
-part 1: What pattern does the pie chart of political party distribution suggest?
-
-part 2: 
-(A) The Conservative party has a smaller percentage than the Socialist and Green parties combined.
-(B) The Liberal and Libertarian parties together make up half of the pie chart.
-(C) No single party has a majority percentage.
-(D) The Socialist party has the largest percentage of all parties.
-
-part 3: (C) No single party has a majority percentage.

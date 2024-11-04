@@ -1,7 +1,0 @@
-part 1: Which region and age group combination has the smallest population size?
-    part 2: 
-    (A) Region E, Age Group 0-14
-    (B) Region G, Age Group 25-54
-    (C) Region A, Age Group 55-74
-    (D) Region H, Age Group 15-24
-    part 3: (B) Region G, Age Group 25-54

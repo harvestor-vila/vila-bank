@@ -1,9 +1,0 @@
-part 1: Estimate the average daily temperature (in °F) represented in the histogram.
-  part 2: 
-  (A) 68
-  (B) 71.6
-  (C) 75
-  (D) 78
-  part 3: 71.6
-
-Please note that the actual values for the options may vary depending on the precise correct answer calculated from the dataset. The values provided here are placeholders and should be replaced with the actual calculated values after running the R code.

@@ -1,6 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to understand the correlation between students' study hours and their average grades?
-    part 2: (A) A pie chart showing the proportion of students falling into different grade ranges.
-            (B) A scatterplot with 'Study Hours per Week' on the x-axis and 'Average Grade' on the y-axis, with points representing individual students.
-            (C) A bar graph showing the total study hours accumulated by all students for each grade.
-            (D) A line graph showing the trend of average grades over the sequence of student IDs.
-    part 3: (B) A scatterplot with 'Study Hours per Week' on the x-axis and 'Average Grade' on the y-axis, with points representing individual students.

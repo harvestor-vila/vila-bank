@@ -1,7 +1,0 @@
-part 1: How does the number of graduates in 2005 compare to the number of graduates in 2010?
-    part 2: 
-      (A) The number of graduates in 2005 is higher than in 2010.
-      (B) The number of graduates in 2005 is the same as in 2010.
-      (C) The number of graduates in 2005 is lower than in 2010.
-      (D) The number of graduates in 2010 is half the number of graduates in 2005.
-    part 3: (C) The number of graduates in 2005 is lower than in 2010.

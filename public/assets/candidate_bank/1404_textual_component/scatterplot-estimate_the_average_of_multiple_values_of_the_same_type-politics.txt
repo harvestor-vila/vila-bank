@@ -1,7 +1,0 @@
-part 1: Estimate the average Opposition Support (%) from the scatterplot.
-part 2:
-(A) 24.6
-(B) 34.6
-(C) 39.6
-(D) 29.6
-part 3: (D) 29.6

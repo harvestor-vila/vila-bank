@@ -1,9 +1,0 @@
-part 1: What task does the area chart design best support?
-
-part 2: 
-  (A) Comparing the average temperature between non-consecutive days
-  (B) Showing the distribution of temperatures over a period
-  (C) Tracking the change in average temperature over a series of days
-  (D) Identifying the mode of the temperature data
-
-part 3: (C) Tracking the change in average temperature over a series of days

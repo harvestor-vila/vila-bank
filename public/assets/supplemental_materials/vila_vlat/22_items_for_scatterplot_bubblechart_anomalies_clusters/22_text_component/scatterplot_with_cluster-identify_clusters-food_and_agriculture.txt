@@ -1,7 +1,0 @@
-part 1: Where is the cluster of data points located on the scatterplot of Crop Yield versus Fertilizer Use?
-    part 2: 
-      (A) Around 100 quintals per hectare of Crop Yield and 300 kg per hectare of Fertilizer Use
-      (B) Around 50 quintals per hectare of Crop Yield and 200 kg per hectare of Fertilizer Use
-      (C) Around 150 quintals per hectare of Crop Yield and 400 kg per hectare of Fertilizer Use
-      (D) No visible cluster on the scatterplot
-    part 3: (A) Around 100 quintals per hectare of Crop Yield and 300 kg per hectare of Fertilizer Use

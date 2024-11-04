@@ -1,7 +1,0 @@
-part 1: What task does the bubble chart design best support?
-    part 2: 
-    (A) Comparing the exact values of energy consumption and CO2 emissions between countries
-    (B) Identifying the relationship between energy consumption and CO2 emissions while considering the proportion of renewable energy
-    (C) Tracking changes in CO2 emissions over time for individual countries
-    (D) Showing the distribution of energy consumption across different continents
-    part 3: (B) Identifying the relationship between energy consumption and CO2 emissions while considering the proportion of renewable energy

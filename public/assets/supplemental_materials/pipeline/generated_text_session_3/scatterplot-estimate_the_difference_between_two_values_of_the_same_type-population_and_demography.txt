@@ -1,7 +1,0 @@
-part 1: What is the estimated difference in median age between the populations of 2000 and 4000?
-    part 2: 
-      (A) 18.0
-      (B) 33.0
-      (C) 28.0
-      (D) 38.0
-    part 3: (C) 28.0

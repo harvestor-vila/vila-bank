@@ -1,9 +1,0 @@
-part 1: What is the fertilizer use in kilograms per hectare for a crop yield of 4864 kg/ha?
-
-part 2: 
-  (A) 100
-  (B) 254
-  (C) 450
-  (D) 700
-
-part 3: (B) 254

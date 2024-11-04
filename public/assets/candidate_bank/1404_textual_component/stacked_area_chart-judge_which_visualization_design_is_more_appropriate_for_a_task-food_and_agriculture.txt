@@ -1,7 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which visualization design is most appropriate for comparing the total production of each crop over the entire period?
-part 2:
-(A) A pie chart showing the proportion of each crop's production for a single year.
-(B) A stacked area chart showing the cumulative production of each crop over the years.
-(C) A line chart with multiple lines representing each crop's production trends over the years.
-(D) A scatter plot with individual data points representing each year's production for all crops.
-part 3: (B) A stacked area chart showing the cumulative production of each crop over the years.

@@ -1,7 +1,0 @@
-part 1: Which data point on the scatterplot represents an outlier in the relationship between Political Support and Opposition?
-    part 2: 
-      (A) Political Support at 30 and Opposition at 73
-      (B) Political Support at 51 and Opposition at 150
-      (C) Political Support at 68 and Opposition at 40
-      (D) Political Support at 66 and Opposition at 28
-    part 3: (B) Political Support at 51 and Opposition at 150

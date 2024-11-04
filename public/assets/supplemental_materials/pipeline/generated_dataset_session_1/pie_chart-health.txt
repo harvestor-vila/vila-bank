@@ -1,6 +1,0 @@
-"Category"	"Percentage"
-"Exercise"	30
-"Diet"	25
-"Sleep"	20
-"Hydration"	15
-"Stress Management"	10

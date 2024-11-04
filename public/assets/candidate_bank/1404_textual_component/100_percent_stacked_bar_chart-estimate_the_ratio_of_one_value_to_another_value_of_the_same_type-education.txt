@@ -1,7 +1,0 @@
-part 1: What is the ratio of the percentage of Math to Science scores at Lakeside High?
-part 2: 
-(A) 0.0
-(B) 0.8
-(C) 1.7
-(D) 1.9
-part 3: (B) 0.8

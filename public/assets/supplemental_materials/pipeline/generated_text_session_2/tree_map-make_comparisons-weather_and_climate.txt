@@ -1,9 +1,0 @@
-part 1: Which category has a higher representation in the tree map, "Temperature" or "Wind"?
-
-part 2: 
-(A) Temperature
-(B) Wind
-(C) Both are represented equally
-(D) Cannot be determined from the tree map
-
-part 3: (A) Temperature

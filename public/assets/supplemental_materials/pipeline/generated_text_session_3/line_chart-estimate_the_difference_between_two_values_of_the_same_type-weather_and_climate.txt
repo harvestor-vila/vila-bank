@@ -1,3 +1,0 @@
-part 1: Estimate the difference in temperature (°F) between Day 5 and Day 20.
-    part 2: (A) 2.0°F (B) 3.0°F (C) 4.0°F (D) 1.0°F
-    part 3: (D) 1.0°F

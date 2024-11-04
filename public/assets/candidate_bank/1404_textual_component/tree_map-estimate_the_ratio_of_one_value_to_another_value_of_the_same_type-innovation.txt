@@ -1,9 +1,0 @@
-part 1: What is the ratio of the percentage value for "AI" to the percentage value for "Robotics" in the Technology category?
-
-part 2: 
-(A) 0.5
-(B) 0.8
-(C) 2.0
-(D) 1.5
-
-part 3: (D) 1.5

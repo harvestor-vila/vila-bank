@@ -1,9 +1,0 @@
-part 1: What percentage of the data is represented by Moderate Precipitation?
-
-part 2: 
-  (A) 5%
-  (B) 19%
-  (C) 34%
-  (D) 50%
-
-part 3: (B) 19%

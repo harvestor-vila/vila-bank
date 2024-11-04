@@ -1,7 +1,0 @@
-part 1: Which crop's production was consistently higher over the years, Wheat or Rice?
-part 2: 
-(A) Wheat
-(B) Rice
-(C) They were the same.
-(D) It varied by year.
-part 3: (D) It varied by year.

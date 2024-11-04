@@ -1,7 +1,0 @@
-part 1: Estimate the difference in Unemployment Rate between the highest and lowest GDP values.
-part 2: 
-  (A) 5.0
-  (B) 7.0
-  (C) 9.0
-  (D) 11.0
-part 3: (B) 7.0

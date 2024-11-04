@@ -1,7 +1,0 @@
-part 1: In which years did the economy have the maximum GDP as shown in the area chart?
-part 2: 
-  (A) Only in 2001
-  (B) Only in 2011
-  (C) Every year from 2001 to 2020
-  (D) Only in 2020
-part 3: (C) Every year from 2001 to 2020

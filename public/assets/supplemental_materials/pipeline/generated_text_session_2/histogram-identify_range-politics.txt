@@ -1,9 +1,0 @@
-part 1: What is the range of the number of votes represented in the histogram?
-
-part 2:
-(A) [0, 36]
-(B) [-10, 36]
-(C) [0, 46]
-(D) [-20, 56]
-
-part 3: (A) [0, 36]

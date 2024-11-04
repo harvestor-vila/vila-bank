@@ -1,6 +1,0 @@
-"Sector"	"Percentage"
-"Agriculture"	15
-"Manufacturing"	25
-"Services"	40
-"Construction"	10
-"Technology"	10

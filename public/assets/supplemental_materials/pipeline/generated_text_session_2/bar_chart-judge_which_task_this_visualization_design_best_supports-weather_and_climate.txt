@@ -1,9 +1,0 @@
-part 1: What task does the bar chart design best support?
-
-part 2: 
-(A) Comparing the average temperature between multiple cities
-(B) Displaying the distribution of temperatures within a single city
-(C) Showing the change in average temperature for one city over time
-(D) Illustrating the correlation between temperature and precipitation in each city
-
-part 3: (A) Comparing the average temperature between multiple cities

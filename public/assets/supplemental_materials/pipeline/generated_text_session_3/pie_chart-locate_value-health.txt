@@ -1,7 +1,0 @@
-part 1: Which category has the highest percentage of health-related activities?
-    part 2: 
-      (A) Diet
-      (B) Sleep
-      (C) Hydration
-      (D) Exercise
-    part 3: (D) Exercise

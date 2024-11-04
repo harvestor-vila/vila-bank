@@ -1,9 +1,0 @@
-part 1: What is the range of the number of cases for any condition over the observed years?
-
-part 2: 
-  (A) [85, 538]
-  (B) [100, 500]
-  (C) [90, 515]
-  (D) [95, 525]
-
-part 3: (B) [100, 500]

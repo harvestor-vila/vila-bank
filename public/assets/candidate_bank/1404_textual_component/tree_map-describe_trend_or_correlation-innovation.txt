@@ -1,7 +1,0 @@
-part 1: What pattern does the tree map visualization reveal about the distribution of percentages across different subsectors within the innovation sectors?
-    part 2: 
-      (A) The Healthcare sector has a decreasing trend in percentage from Biotech to Pharma.
-      (B) The Technology sector shows a higher percentage in Robotics than in AI.
-      (C) The Energy sector has a consistent percentage distribution across Renewables and Oil & Gas.
-      (D) Education and Technology sectors have the same total percentage.
-    part 3: (A) The Healthcare sector has a decreasing trend in percentage from Biotech to Pharma.

@@ -1,7 +1,0 @@
-part 1: Which food item has a higher production, Soybeans or Corn?
-    part 2: 
-      (A) Soybeans
-      (B) Corn
-      (C) They have the same production
-      (D) The production of Soybeans is half that of Corn
-    part 3: (A) Soybeans

@@ -1,7 +1,0 @@
-part 1: What is the population of California as depicted on the choropleth map of US States and District of Columbia?
-    part 2: 
-    (A) 4414694
-    (B) 6000000
-    (C) 5191993
-    (D) 3000000
-    part 3: (C) 5191993

@@ -1,7 +1,0 @@
-part 1: Where is the cluster of data points located on the scatterplot of Innovation Score versus Success Rate?
-    part 2: 
-    (A) Around the center at (50, 50)
-    (B) In the top left corner near (10, 90)
-    (C) In the bottom right corner near (90, 10)
-    (D) No visible cluster
-    part 3: (A) Around the center at (50, 50)

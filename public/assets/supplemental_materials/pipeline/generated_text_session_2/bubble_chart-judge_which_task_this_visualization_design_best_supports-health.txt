@@ -1,9 +1,0 @@
-part 1: What task does this bubble chart design best support?
-
-part 2: 
-  (A) Comparing the total number of patients in different age groups
-  (B) Identifying trends between age and systolic blood pressure while considering cholesterol levels
-  (C) Analyzing the distribution of cholesterol levels across different patient IDs
-  (D) Estimating the average cholesterol level for a specific systolic blood pressure range
-
-part 3: (B) Identifying trends between age and systolic blood pressure while considering cholesterol levels

@@ -1,9 +1,0 @@
-part 1: Which label correctly identifies a sector on the pie chart?
-
-part 2: 
-  (A) X-axis
-  (B) Y-axis
-  (C) Legend
-  (D) Title
-
-part 3: (C) Legend

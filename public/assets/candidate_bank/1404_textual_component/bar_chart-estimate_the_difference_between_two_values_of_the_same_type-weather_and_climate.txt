@@ -1,7 +1,0 @@
-part 1: What is the difference in average temperature between City3 and City5?
-    part 2: 
-    (A) 38 degrees
-    (B) 56 degrees
-    (C) 48 degrees
-    (D) 62 degrees
-    part 3: (C) 48 degrees

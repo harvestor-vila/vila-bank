@@ -1,7 +1,0 @@
-part 1: Where is the cluster of data points located on the scatterplot of Weight vs. Height?
-    part 2: 
-    (A) Around 75 kg Weight and 175 cm Height
-    (B) Around 50 kg Weight and 150 cm Height
-    (C) Around 100 kg Weight and 200 cm Height
-    (D) No visible cluster
-    part 3: (A) Around 75 kg Weight and 175 cm Height

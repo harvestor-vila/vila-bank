@@ -1,7 +1,0 @@
-part 1: What is the range of votes for the political issues across all states?
-    part 2: 
-    (A) [122, 970]
-    (B) [100, 1050]
-    (C) [50, 1100]
-    (D) [0, 1200]
-    part 3: (A) [122, 970]

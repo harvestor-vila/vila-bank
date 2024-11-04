@@ -1,7 +1,0 @@
-part 1: How would a pie chart represent the student distribution for "School A" across all grades?
-part 2: 
-(A) A pie chart would show four equal slices, one for each grade, since the student numbers are the same.
-(B) A pie chart would show four slices of different sizes, with "Grade 9" having the smallest slice and "Grade 12" the largest, representing the number of students in each grade.
-(C) A pie chart would display a single slice representing the total number of students in "School A" without distinguishing between grades.
-(D) A pie chart would show four slices with "Grade 9" and "Grade 11" having the same size, and "Grade 10" and "Grade 12" being the smallest and largest, respectively.
-part 3: (B) A pie chart would show four slices of different sizes, with "Grade 9" having the smallest slice and "Grade 12" the largest, representing the number of students in each grade.

@@ -1,7 +1,0 @@
-part 1: If the trend shown in the line chart were to be displayed using a bar chart, which of the following characteristics would accurately describe the bar chart?
-    part 2: 
-    (A) Each bar would represent a year, with bar height increasing from 2000 to 2019.
-    (B) Each bar would represent a year, with bar height remaining constant across all years.
-    (C) Each bar would represent a year, with bar height decreasing from 2000 to 2019.
-    (D) Each bar would represent a year, with colors of the bars representing different innovation scores.
-    part 3: (C) Each bar would represent a year, with bar height decreasing from 2000 to 2019.

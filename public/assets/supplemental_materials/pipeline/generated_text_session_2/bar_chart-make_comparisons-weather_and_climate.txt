@@ -1,9 +1,0 @@
-part 1: Which city has a higher average temperature, City3 or City7?
-
-part 2: 
-  (A) City3
-  (B) City7
-  (C) Both have the same average temperature
-  (D) The visualization does not provide this information
-
-part 3: (A) City3

@@ -1,7 +1,0 @@
-part 1: What task does this choropleth map design best support?
-    part 2: 
-    (A) Comparing the exact value differences between regions
-    (B) Identifying trends and patterns across regions
-    (C) Displaying hierarchical relationships between regions
-    (D) Showing the distribution of a single variable over time
-    part 3: (B) Identifying trends and patterns across regions

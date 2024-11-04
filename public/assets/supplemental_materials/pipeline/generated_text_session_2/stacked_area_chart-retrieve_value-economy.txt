@@ -1,9 +1,0 @@
-part 1: What was the value (in millions) for the Services sector in the year 2011?
-
-part 2: 
-  (A) 300
-  (B) 452
-  (C) 520
-  (D) 600
-
-part 3: (B) 452

@@ -1,9 +1,0 @@
-part 1: What pattern can be observed in the energy production by source?
-
-part 2: 
-(A) Energy production increases as we move from Solar to Geothermal.
-(B) Energy production is highest for Solar and decreases for each subsequent source.
-(C) There is no clear trend in energy production across the different sources.
-(D) Energy production is consistently above 300 GWh for all sources.
-
-part 3: (C) There is no clear trend in energy production across the different sources.

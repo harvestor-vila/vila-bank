@@ -1,9 +1,0 @@
-part 1: What trend or correlation does the scatterplot of Study Hours per Week and Average Grade of Students show?
-
-part 2: 
-(A) As Study Hours increase, Average Grade decreases.
-(B) There is no clear trend or correlation between Study Hours and Average Grade.
-(C) As Study Hours increase, Average Grade also increases.
-(D) Average Grade is consistently high regardless of Study Hours.
-
-part 3: (B) There is no clear trend or correlation between Study Hours and Average Grade.

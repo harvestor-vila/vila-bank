@@ -1,9 +1,0 @@
-part 1: What pattern does the choropleth map of the US States and District of Columbia reveal about the population distribution?
-
-part 2: 
-(A) The most populous states are predominantly in the Midwest.
-(B) There is a clear trend of increasing population from the East Coast to the West Coast.
-(C) No clear trend or correlation in population distribution is evident across the states.
-(D) States with smaller land areas have higher populations.
-
-part 3: (C) No clear trend or correlation in population distribution is evident across the states.

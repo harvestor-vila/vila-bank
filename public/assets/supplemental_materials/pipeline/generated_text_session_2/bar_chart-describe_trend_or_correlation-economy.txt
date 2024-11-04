@@ -1,9 +1,0 @@
-part 1: What pattern does the bar chart of GDP Contribution by Sector reveal?
-
-part 2: 
-(A) There is a strong positive correlation between sectors arranged alphabetically and their GDP contribution.
-(B) The sectors with the highest GDP contributions are Agriculture and Services.
-(C) Healthcare, Construction, and Retail are the top three sectors by GDP contribution.
-(D) There is a consistent increase in GDP contribution from Agriculture to Government.
-
-part 3: (C) Healthcare, Construction, and Retail are the top three sectors by GDP contribution.

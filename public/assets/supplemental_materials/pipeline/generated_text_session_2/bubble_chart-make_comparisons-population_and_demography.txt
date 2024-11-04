@@ -1,9 +1,0 @@
-part 1: Which city has a larger population, Metropolis or Gotham?
-
-part 2: 
-  (A) Metropolis
-  (B) Gotham
-  (C) Both have the same population
-  (D) Cannot be determined from the visualization
-
-part 3: (A) Metropolis

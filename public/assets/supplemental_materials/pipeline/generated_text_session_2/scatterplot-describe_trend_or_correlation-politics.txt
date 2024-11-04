@@ -1,9 +1,0 @@
-part 1: What pattern does the scatterplot show between Voter Turnout and Opposition Support?
-
-part 2: 
-(A) As Voter Turnout increases, Opposition Support also increases.
-(B) As Voter Turnout increases, Opposition Support decreases.
-(C) There is no clear trend or correlation between Voter Turnout and Opposition Support.
-(D) Voter Turnout and Opposition Support are perfectly negatively correlated.
-
-part 3: (B) As Voter Turnout increases, Opposition Support decreases.

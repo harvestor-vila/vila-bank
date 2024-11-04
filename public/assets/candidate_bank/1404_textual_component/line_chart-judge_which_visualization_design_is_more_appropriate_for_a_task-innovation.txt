@@ -1,9 +1,0 @@
-part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to display the trend of innovation scores over the years?
-
-part 2:
-(A) A pie chart showing the proportion of each year's innovation score to the total sum of scores.
-(B) A line chart with years on the x-axis and innovation scores on the y-axis, with points marking each year's score.
-(C) A bar chart with different colors for each year, arranged alphabetically by year.
-(D) A scatter plot with innovation scores on the x-axis and years on the y-axis, without connecting lines.
-
-part 3:   (B) A line chart with years on the x-axis and innovation scores on the y-axis, with points marking each year's score.

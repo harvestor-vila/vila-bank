@@ -1,9 +1,0 @@
-part 1:  Which disease has more reported cases, Asthma or Tuberculosis?
-
-part 2:
-(A) Asthma has more reported cases than Tuberculosis.
-(B) Tuberculosis has more reported cases than Asthma.
-(C) Asthma and Tuberculosis have the same number of reported cases.
-(D) Neither disease has reported cases.
-
-part 3:   (B) Tuberculosis has more reported cases than Asthma.

@@ -1,7 +1,0 @@
-part 1: What is the average percentage of time spent on "Exercise" across all age groups?
-part 2: 
-  (A) 16.3
-  (B) 20.3
-  (C) 12.3
-  (D) 25.3
-part 3: (B) 20.3

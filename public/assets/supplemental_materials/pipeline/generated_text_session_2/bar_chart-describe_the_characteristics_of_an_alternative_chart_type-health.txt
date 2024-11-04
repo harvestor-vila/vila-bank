@@ -1,9 +1,0 @@
-part 1: If the number of cases by disease were displayed using a pie chart instead of a bar chart, which of the following would be an accurate description of this alternative chart type?
-
-part 2: 
-(A) Each disease would be represented by a point on a line that trends upward or downward based on the number of cases.
-(B) Diseases would be represented by slices of the pie, with each slice's size proportional to the frequency of cases for that disease.
-(C) The pie chart would display a single slice representing the sum of all cases, without distinguishing between diseases.
-(D) Each disease would be represented by a slice, with the color intensity of each slice indicating the number of cases.
-
-part 3: (B) Diseases would be represented by slices of the pie, with each slice's size proportional to the frequency of cases for that disease.

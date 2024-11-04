@@ -1,9 +1,0 @@
-part 1: Estimate the difference in Profit (in thousands of dollars) between Soybean and Barley.
-
-part 2: 
-  (A) 31.0
-  (B) 37.0
-  (C) 43.0
-  (D) 49.0
-
-part 3: (B) 37.0

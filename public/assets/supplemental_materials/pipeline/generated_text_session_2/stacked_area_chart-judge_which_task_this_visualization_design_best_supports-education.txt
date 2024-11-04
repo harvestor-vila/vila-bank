@@ -1,9 +1,0 @@
-part 1: What task does the stacked area chart best support?
-
-part 2: 
-(A) Comparing exact enrollment numbers between different education levels for a given year
-(B) Showing the distribution of total enrollment among different education levels over time
-(C) Identifying the education level with the highest enrollment for each individual year
-(D) Tracking the change in enrollment for a single education level across multiple years
-
-part 3: (B) Showing the distribution of total enrollment among different education levels over time

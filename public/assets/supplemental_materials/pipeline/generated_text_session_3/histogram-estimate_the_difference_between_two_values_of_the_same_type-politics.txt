@@ -1,7 +1,0 @@
-part 1: Estimate the difference between the maximum and minimum number of votes.
-part 2: 
-(A) 30 votes
-(B) 36 votes
-(C) 42 votes
-(D) 48 votes
-part 3: (B) 36 votes

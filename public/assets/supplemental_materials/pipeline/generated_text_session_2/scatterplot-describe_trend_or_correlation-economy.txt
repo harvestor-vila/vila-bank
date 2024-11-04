@@ -1,9 +1,0 @@
-part 1: What is the trend between GDP and Unemployment Rate as shown in the scatterplot?
-
-part 2: 
-(A) As GDP increases, Unemployment Rate increases.
-(B) As GDP increases, Unemployment Rate decreases.
-(C) There is no discernible trend between GDP and Unemployment Rate.
-(D) As GDP decreases, Unemployment Rate decreases.
-
-part 3: (B) As GDP increases, Unemployment Rate decreases.

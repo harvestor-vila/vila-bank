@@ -1,7 +1,0 @@
-part 1: What was the population in the year 2010?
-    part 2: 
-      (A) 2500
-      (B) 3112
-      (C) 3700
-      (D) 4100
-    part 3: (B) 3112

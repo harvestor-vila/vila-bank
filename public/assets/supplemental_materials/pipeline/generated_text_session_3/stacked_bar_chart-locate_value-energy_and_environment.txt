@@ -1,7 +1,0 @@
-part 1: Which country and energy source combination has the highest energy production?
-    part 2: 
-      (A) Country C - Hydro
-      (B) Country F - Hydro
-      (C) Country H - Nuclear
-      (D) Country B - Fossil
-    part 3: (C) Country H - Nuclear

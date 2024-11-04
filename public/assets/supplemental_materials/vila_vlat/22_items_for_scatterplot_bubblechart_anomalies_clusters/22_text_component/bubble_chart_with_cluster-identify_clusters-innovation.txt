@@ -1,7 +1,0 @@
-part 1: Which group of companies forms a cluster on the bubble chart with their data points close together in terms of Innovation Index and Research Spending?
-    part 2: 
-      (A) Company A, Company B, Company C, Company D
-      (B) Company E, Company F, Company G
-      (C) Company A, Company E, Company F
-      (D) No visible cluster
-    part 3: (A) Company A, Company B, Company C, Company D

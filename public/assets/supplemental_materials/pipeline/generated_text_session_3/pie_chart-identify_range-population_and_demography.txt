@@ -1,7 +1,0 @@
-part 1: What is the range of percentage values represented in the pie chart?
-    part 2: 
-      (A) [12, 58]
-      (B) [15, 50]
-      (C) [9, 66]
-      (D) [6, 74]
-    part 3: (B) [15, 50]

@@ -1,9 +1,0 @@
-part 1: What are the labels for the axes and legend in the stacked area chart depicting weather and climate data over a period of 20 days?
-
-part 2: 
-  (A) Axes: 'Day' and 'Value'; Legend: 'Variable'
-  (B) Axes: 'Time' and 'Measurement'; Legend: 'Type'
-  (C) Axes: 'Date' and 'Magnitude'; Legend: 'Category'
-  (D) Axes: 'Period' and 'Level'; Legend: 'Factor'
-
-part 3: (A) Axes: 'Day' and 'Value'; Legend: 'Variable'

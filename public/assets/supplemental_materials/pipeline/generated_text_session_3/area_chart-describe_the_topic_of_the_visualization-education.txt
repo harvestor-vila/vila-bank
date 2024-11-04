@@ -1,7 +1,0 @@
-part 1: What is the topic of the visualization?
-    part 2: 
-      (A) The fluctuation of stock market prices over two decades
-      (B) The trend in the number of graduates from 2000 to 2019
-      (C) The annual rainfall measurements in a region from 2000 to 2019
-      (D) The population growth of a city over 20 years
-    part 3: (B) The trend in the number of graduates from 2000 to 2019

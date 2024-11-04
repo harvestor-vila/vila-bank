@@ -1,9 +1,0 @@
-part 1: What trend or correlation does the scatterplot suggest between Crop Yield and Fertilizer Use?
-
-part 2: 
-(A) A strong positive correlation
-(B) A strong negative correlation
-(C) No correlation
-(D) A moderate positive correlation
-
-part 3: (B) A strong negative correlation

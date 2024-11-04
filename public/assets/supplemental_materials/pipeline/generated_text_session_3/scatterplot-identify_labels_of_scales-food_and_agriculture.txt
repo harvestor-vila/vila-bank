@@ -1,7 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the scatterplot?
-    part 2: 
-      (A) Horizontal: Fertilizer Use (kg/ha), Vertical: Crop Yield (kg/ha)
-      (B) Horizontal: Crop Yield (kg/ha), Vertical: Fertilizer Use (kg/ha)
-      (C) Horizontal: Crop Production (tons/ha), Vertical: Pesticide Use (kg/ha)
-      (D) Horizontal: Soil Moisture (%), Vertical: Seed Density (seeds/m²)
-    part 3: (B) Horizontal: Crop Yield (kg/ha), Vertical: Fertilizer Use (kg/ha)

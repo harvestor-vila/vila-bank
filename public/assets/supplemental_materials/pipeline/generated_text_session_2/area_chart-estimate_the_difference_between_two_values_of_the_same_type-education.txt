@@ -1,9 +1,0 @@
-part 1: Estimate the difference in the number of graduates between the years 2000 and 2019.
-
-part 2: 
-  (A) 9473
-  (B) 12817
-  (C) 7801
-  (D) 11145
-
-part 3: (D) 11145

@@ -1,9 +1,0 @@
-part 1: What is the number of individuals with an income of $54,000?
-
-part 2:
-(A) 52000
-(B) 54000
-(C) 68000
-(D) 32000
-
-part 3: (B) 54000

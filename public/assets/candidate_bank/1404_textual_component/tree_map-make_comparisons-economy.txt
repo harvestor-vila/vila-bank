@@ -1,8 +1,0 @@
-part 1: Which sector has a larger share in the economy, Manufacturing or Technology, or are they the same?
-part 2: 
-(A) Manufacturing
-(B) Technology
-(C) They have the same share
-(D) Cannot be determined from the data provided
-
-part 3: (C) They have the same share

@@ -1,7 +1,0 @@
-part 1: What does the legend in the pie chart represent?
-    part 2: 
-      (A) Age groups
-      (B) Country names
-      (C) City populations
-      (D) Income levels
-    part 3: (A) Age groups

@@ -1,7 +1,0 @@
-part 1: What is the average percentage of Math scores across all schools?
-    part 2: 
-      (A) 25.0
-      (B) 35.0
-      (C) 40.0
-      (D) 30.0
-    part 3: (D) 30.0

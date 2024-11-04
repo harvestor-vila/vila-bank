@@ -1,7 +1,0 @@
-part 1: How does the number of patients recovered by Day 10 compare to the number of patients recovered by Day 15?
-    part 2: 
-    (A) The number of patients recovered by Day 10 is greater than by Day 15.
-    (B) The number of patients recovered by Day 10 is less than by Day 15.
-    (C) The number of patients recovered by Day 10 is the same as by Day 15.
-    (D) The number of patients recovered by Day 15 is twice the number by Day 10.
-    part 3: (B) The number of patients recovered by Day 10 is less than by Day 15.

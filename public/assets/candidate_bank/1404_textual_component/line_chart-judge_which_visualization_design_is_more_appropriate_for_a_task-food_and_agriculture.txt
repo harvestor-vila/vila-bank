@@ -1,9 +1,0 @@
-part 1:  Given the task of analyzing the trend of agricultural production over a period of 20 years, which visualization design would be most appropriate? The visualization above is only a demonstration of the relevant data.
-
-part 2:
-(A) A pie chart showing the proportion of production for each year.
-(B) A scatter plot with a trend line to depict the change in production over the years.
-(C) A bar chart with each bar representing a different category of agricultural products.
-(D) A heatmap representing the production volume across different regions for each year.
-
-part 3:   (B) A scatter plot with a trend line to depict the change in production over the years.

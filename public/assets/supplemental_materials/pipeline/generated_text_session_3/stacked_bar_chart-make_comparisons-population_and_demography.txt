@@ -1,7 +1,0 @@
-part 1: Which region has a larger population in the "55-74" age group, Region C or Region F?
-    part 2: 
-      (A) Region C
-      (B) Region F
-      (C) Both regions have the same population in the "55-74" age group.
-      (D) The visualization does not provide this information.
-    part 3: (B) Region F

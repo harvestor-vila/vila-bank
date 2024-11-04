@@ -1,7 +1,0 @@
-part 1: Estimate the difference in Humidity percentage between the highest and lowest recorded values.
-    part 2: 
-      (A) 26.0%
-      (B) 31.0%
-      (C) 36.0%
-      (D) 41.0%
-    part 3: (B) 31.0%

@@ -1,9 +1,0 @@
-part 1: What is the study hours per week for the student with the highest average grade?
-
-part 2: 
-(A) 5 hours
-(B) 15 hours
-(C) 10 hours
-(D) 20 hours
-
-part 3: (B) 15 hours

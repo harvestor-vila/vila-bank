@@ -1,9 +1,0 @@
-part 1: What task does the bar chart design best support?
-
-part 2: 
-(A) Comparing the number of graduates across different educational programs
-(B) Showing the geographical distribution of educational programs
-(C) Displaying the change in the number of graduates over time for each program
-(D) Illustrating the correlation between the cost of education and the number of graduates
-
-part 3: (A) Comparing the number of graduates across different educational programs

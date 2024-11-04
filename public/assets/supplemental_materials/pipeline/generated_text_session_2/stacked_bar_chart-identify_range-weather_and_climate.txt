@@ -1,9 +1,0 @@
-part 1: What is the range of values for the climate factors across all cities?
-
-part 2: 
-(A) [5, 115]
-(B) [20, 100]
-(C) [10, 110]
-(D) [15, 105]
-
-part 3: (B) [20, 100]

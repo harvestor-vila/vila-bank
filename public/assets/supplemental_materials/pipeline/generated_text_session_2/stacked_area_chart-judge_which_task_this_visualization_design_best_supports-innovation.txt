@@ -1,9 +1,0 @@
-part 1: What task does the stacked area chart best support?
-
-part 2: 
-  (A) Comparing exact values across multiple categories at specific points in time
-  (B) Showing the distribution of a whole into parts over time
-  (C) Identifying precise trends for individual categories
-  (D) Displaying hierarchical relationships between categories
-
-part 3: (B) Showing the distribution of a whole into parts over time

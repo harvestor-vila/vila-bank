@@ -1,7 +1,0 @@
-part 1: Which task does the histogram of agricultural yield per acre best support?
-    part 2: 
-      (A) Identifying the average yield per acre
-      (B) Comparing the yield per acre across different farms
-      (C) Understanding the distribution of yield per acre
-      (D) Determining the exact number of farms with a specific yield per acre
-    part 3: (C) Understanding the distribution of yield per acre

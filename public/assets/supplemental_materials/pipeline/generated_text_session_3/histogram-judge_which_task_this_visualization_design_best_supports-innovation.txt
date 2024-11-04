@@ -1,7 +1,0 @@
-part 1: What task does the histogram of Innovation Scores best support?
-    part 2: 
-      (A) Comparing the mean Innovation Scores between different groups
-      (B) Identifying the distribution of Innovation Scores within the group
-      (C) Showing the change in Innovation Scores over time
-      (D) Illustrating the geographical variation in Innovation Scores
-    part 3: (B) Identifying the distribution of Innovation Scores within the group

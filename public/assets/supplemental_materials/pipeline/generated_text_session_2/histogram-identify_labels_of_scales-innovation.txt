@@ -1,9 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the histogram of Innovation Scores?
-
-part 2: 
-(A) Horizontal: Number of Observations, Vertical: Innovation Score
-(B) Horizontal: Innovation Score, Vertical: Number of Observations
-(C) Horizontal: Frequency, Vertical: Score
-(D) Horizontal: Score, Vertical: Frequency
-
-part 3: (B) Horizontal: Innovation Score, Vertical: Number of Observations

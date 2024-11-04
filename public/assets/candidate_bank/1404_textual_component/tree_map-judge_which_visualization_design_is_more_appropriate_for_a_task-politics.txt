@@ -1,9 +1,0 @@
-part 1:      The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relative sizes of the policy areas and their respective subcategories?
-
-    part 2:
-    (A) A line chart with policy areas on the x-axis and percentage values on the y-axis.
-    (B) A treemap with each policy area and subcategory represented as rectangles sized proportionally to their percentage values.
-    (C) A scatter plot with policy areas on the x-axis and percentage values on the y-axis.
-    (D) A pie chart with separate slices for each subcategory without distinguishing between policy areas.
-
-    part 3:       (B) A treemap with each policy area and subcategory represented as rectangles sized proportionally to their percentage values.

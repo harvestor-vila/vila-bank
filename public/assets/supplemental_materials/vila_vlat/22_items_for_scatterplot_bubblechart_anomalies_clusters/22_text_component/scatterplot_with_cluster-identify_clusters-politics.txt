@@ -1,7 +1,0 @@
-part 1: Where is the cluster of data points located on the scatterplot of Political Support vs Opposition Rates?
-    part 2: 
-    (A) Around the (25%, 75%) mark
-    (B) Around the (50%, 50%) mark
-    (C) Around the (75%, 25%) mark
-    (D) No visible cluster
-    part 3: (B) Around the (50%, 50%) mark

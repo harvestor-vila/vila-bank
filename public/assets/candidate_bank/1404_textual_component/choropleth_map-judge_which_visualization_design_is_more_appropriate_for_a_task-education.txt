@@ -1,7 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the education values across all states to identify regional patterns and outliers?
-part 2:
-(A) A pie chart with slices representing the education values for each state.
-(B) A choropleth map with states colored according to their education values.
-(C) A line graph with time on the x-axis and education values on the y-axis.
-(D) A bar chart with each state's name on the x-axis and their corresponding education values on the y-axis.
-part 3:   (B) A choropleth map with states colored according to their education values.

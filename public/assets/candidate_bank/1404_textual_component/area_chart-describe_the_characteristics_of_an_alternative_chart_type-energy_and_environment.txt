@@ -1,7 +1,0 @@
-part 1: If the energy consumption data from 2000 to 2019 were to be displayed using a line chart instead of an area chart, which of the following would best describe its characteristics?
-    part 2: 
-    (A) A line chart would show individual data points connected by straight lines, without a filled area beneath the line, emphasizing the change in energy consumption over time.
-    (B) A line chart would stack segments on top of each other, with each segment representing energy consumption for a year, to show the cumulative total over time.
-    (C) A line chart would display bars for each year with varying heights to represent energy consumption, arranged in chronological order.
-    (D) A line chart would use pie slices to represent the proportion of energy consumption for each year relative to the total consumption over the 20-year period.
-    part 3: (A) A line chart would show individual data points connected by straight lines, without a filled area beneath the line, emphasizing the change in energy consumption over time.

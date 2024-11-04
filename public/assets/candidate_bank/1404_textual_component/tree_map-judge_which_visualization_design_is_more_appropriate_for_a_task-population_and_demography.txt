@@ -1,9 +1,0 @@
-part 1:  Considering the dataset's categorical nature with hierarchical relationships and proportions, judge which visualization design is more appropriate for displaying this information. The visualization above is only a demonstration of the relevant data.
-
-part 2:
-(A) A pie chart with separate sections for each subcategory, without clear distinctions between different categories.
-(B) A stacked bar chart with each bar representing a category and segments within the bars representing subcategories.
-(C) A line graph with time on the x-axis and percentage on the y-axis, with different lines for each subcategory.
-(D) A treemap with areas proportional to the percentage values, grouped by category and labeled by subcategory.
-
-part 3:   (D) A treemap with areas proportional to the percentage values, grouped by category and labeled by subcategory.

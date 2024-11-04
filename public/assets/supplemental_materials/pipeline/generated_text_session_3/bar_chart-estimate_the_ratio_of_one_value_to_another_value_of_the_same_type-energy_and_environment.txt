@@ -1,7 +1,0 @@
-part 1: What is the ratio of Solar energy production to Coal energy production?
-part 2: 
-  (A) 1.3
-  (B) 2.3
-  (C) 0.3
-  (D) 3.3
-part 3: (A) 1.3

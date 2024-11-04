@@ -1,3 +1,0 @@
-part 1: What is the average test score?
-    part 2: (A) 76.1 (B) 90.1 (C) 104.1 (D) 118.1
-    part 3: (B) 90.1

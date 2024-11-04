@@ -1,9 +1,0 @@
-part 1: What is the average percentage of the innovation categories shown?
-
-part 2: 
-(A) 15%
-(B) 35%
-(C) 25%
-(D) 50%
-
-part 3: (C) 25%

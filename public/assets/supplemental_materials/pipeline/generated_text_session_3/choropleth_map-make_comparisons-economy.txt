@@ -1,7 +1,0 @@
-part 1: Which state has a higher economic value, Texas or Florida?
-    part 2: 
-      (A) Texas
-      (B) Florida
-      (C) Both have the same value
-      (D) Cannot be determined from the visualization
-    part 3: (B) Florida

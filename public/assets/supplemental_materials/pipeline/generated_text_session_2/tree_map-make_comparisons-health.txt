@@ -1,9 +1,0 @@
-part 1: Which health subcategory has a larger representation in the tree map, "Stroke" or "Bone Fracture"?
-
-part 2: 
-  (A) Stroke
-  (B) Bone Fracture
-  (C) Both are represented equally
-  (D) Cannot be determined from the tree map
-
-part 3: (C) Both are represented equally

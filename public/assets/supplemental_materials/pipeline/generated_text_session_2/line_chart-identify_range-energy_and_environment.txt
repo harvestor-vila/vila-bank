@@ -1,9 +1,0 @@
-part 1: What is the range of Energy Consumption values shown in the line chart?
-
-part 2: 
-  (A) [93, 228]
-  (B) [108, 200]
-  (C) [85, 215]
-  (D) [98, 223]
-
-part 3: (B) [108, 200]

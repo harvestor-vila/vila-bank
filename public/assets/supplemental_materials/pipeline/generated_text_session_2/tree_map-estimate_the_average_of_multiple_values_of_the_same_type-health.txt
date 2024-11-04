@@ -1,9 +1,0 @@
-part 1: What is the average percentage for the "Cardiology" category depicted in the tree map?
-
-part 2: 
-  (A) 6.8
-  (B) 8.8
-  (C) 10.8
-  (D) 12.8
-
-part 3: (B) 8.8

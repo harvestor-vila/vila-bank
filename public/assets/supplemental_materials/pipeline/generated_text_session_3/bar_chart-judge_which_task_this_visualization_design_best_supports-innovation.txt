@@ -1,7 +1,0 @@
-part 1: What task does the bar chart design best support?
-    part 2: 
-      (A) Comparing the relative investments across different innovation sectors
-      (B) Showing the geographic distribution of investments in innovation sectors
-      (C) Displaying the change in investments over time for a single innovation sector
-      (D) Illustrating the correlation between investments in innovation sectors and market share
-    part 3: (A) Comparing the relative investments across different innovation sectors

@@ -1,3 +1,0 @@
-part 1: What is the value for Sunshine in CityE?
-    part 2: (A) 35 (B) 51 (C) 85 (D) 120
-    part 3: (B) 51

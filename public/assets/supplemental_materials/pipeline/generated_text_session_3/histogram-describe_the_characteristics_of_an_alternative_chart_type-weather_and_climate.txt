@@ -1,7 +1,0 @@
-part 1: If the histogram of Daily Average Temperatures were to be displayed as a boxplot, which of the following would best describe its characteristics?
-    part 2: 
-    (A) The boxplot would show multiple peaks, indicating a multimodal distribution of temperatures.
-    (B) The boxplot would display a skewed distribution with a longer tail extending towards higher temperatures.
-    (C) The boxplot would have a long tail extending towards lower temperatures, suggesting a left-skewed distribution.
-    (D) The boxplot would have a central rectangle spanning the interquartile range, with a line (whisker) extending to the minimum and maximum temperature values within 1.5 times the interquartile range from the lower and upper quartiles, respectively.
-    part 3: (D) The boxplot would have a central rectangle spanning the interquartile range, with a line (whisker) extending to the minimum and maximum temperature values within 1.5 times the interquartile range from the lower and upper quartiles, respectively.

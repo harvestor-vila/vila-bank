@@ -1,7 +1,0 @@
-part 1: What is the range of percentage values for the categories displayed in the tree map?
-    part 2: 
-    (A) [1, 22]
-    (B) [0, 25]
-    (C) [-1, 28]
-    (D) [2, 19]
-    part 3: (D) [2, 19]

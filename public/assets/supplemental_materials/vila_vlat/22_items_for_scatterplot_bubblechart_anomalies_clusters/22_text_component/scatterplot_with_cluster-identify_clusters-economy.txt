@@ -1,7 +1,0 @@
-part 1: Where is the cluster of data points located on the scatterplot of GDP versus Unemployment Rate?
-    part 2: 
-    (A) Around GDP of 200 and Unemployment Rate of 15
-    (B) Around GDP of 300 and Unemployment Rate of 12
-    (C) Around GDP of 400 and Unemployment Rate of 10
-    (D) No visible cluster
-    part 3: (B) Around GDP of 300 and Unemployment Rate of 12

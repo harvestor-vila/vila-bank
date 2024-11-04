@@ -1,9 +1,0 @@
-part 1: What is the range of GDP Growth (%) values shown in the line chart for the annual GDP growth rates?
-
-part 2: 
-  (A) [0, 12]
-  (B) [1, 11]
-  (C) [2, 10]
-  (D) [3, 9]
-
-part 3: (C) [2, 10]

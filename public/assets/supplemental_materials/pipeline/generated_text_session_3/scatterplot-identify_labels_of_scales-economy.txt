@@ -1,7 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the scatterplot?
-    part 2: 
-    (A) Horizontal: UnemploymentRate, Vertical: GDP
-    (B) Horizontal: GDP, Vertical: UnemploymentRate
-    (C) Horizontal: Population, Vertical: InflationRate
-    (D) Horizontal: Time, Vertical: EconomicGrowth
-    part 3: (B) Horizontal: GDP, Vertical: UnemploymentRate

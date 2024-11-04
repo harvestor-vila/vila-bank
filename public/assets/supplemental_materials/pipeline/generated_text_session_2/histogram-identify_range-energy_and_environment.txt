@@ -1,9 +1,0 @@
-part 1: What is the range of Energy Consumption (MWh) values represented in the histogram?
-
-part 2: 
-(A) [-5, 73]
-(B) [-10, 78]
-(C) [-15, 83]
-(D) [0, 63]
-
-part 3: (D) [0, 63]

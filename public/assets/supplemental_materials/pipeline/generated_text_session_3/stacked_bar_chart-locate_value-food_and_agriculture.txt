@@ -1,7 +1,0 @@
-part 1: What is the maximum production value for any product and region combination?
-    part 2: 
-    (A) Wheat in the East with 808 tons
-    (B) Oats in the North with 917 tons
-    (C) Millet in the West with 970 tons
-    (D) Rice in the West with 865 tons
-    part 3: (C) Millet in the West with 970 tons

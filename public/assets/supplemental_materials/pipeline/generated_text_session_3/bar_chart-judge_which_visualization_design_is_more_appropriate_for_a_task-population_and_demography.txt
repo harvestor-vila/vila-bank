@@ -1,6 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relative population sizes across different age groups?
-part 2: (A) A pie chart with distinct colors representing each age group and labeled slices showing the percentage of the total population.
-(B) A line graph with age groups on the x-axis and population on the y-axis, connected by a line to show population trends.
-(C) A scatter plot with age groups on the x-axis and population on the y-axis, with each age group represented by a single point.
-(D) A 3D bar chart with multiple bars for each age group to show different demographic variables in addition to population.
-part 3: (A) A pie chart with distinct colors representing each age group and labeled slices showing the percentage of the total population.

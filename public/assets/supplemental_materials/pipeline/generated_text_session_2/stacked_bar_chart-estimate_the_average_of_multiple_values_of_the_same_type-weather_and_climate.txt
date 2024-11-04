@@ -1,9 +1,0 @@
-part 1: Estimate the average temperature value across all cities.
-
-part 2: 
-  (A) 47.6
-  (B) 56.6
-  (C) 65.6
-  (D) 74.6
-
-part 3: (B) 56.6

@@ -1,7 +1,0 @@
-part 1: What task does the tree map visualization design best support?
-    part 2: 
-      (A) Comparing the exact numerical values between different subcategories
-      (B) Identifying trends over time within the economy sectors
-      (C) Showing the hierarchical structure of economy sectors and their relative sizes
-      (D) Displaying the geographic distribution of economic activities
-    part 3: (C) Showing the hierarchical structure of economy sectors and their relative sizes

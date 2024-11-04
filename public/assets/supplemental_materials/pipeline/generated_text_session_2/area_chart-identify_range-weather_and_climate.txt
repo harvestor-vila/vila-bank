@@ -1,9 +1,0 @@
-part 1: What is the range of average daily temperatures over the 20-day period depicted in the area chart?
-
-part 2: 
-  (A) [49, 113]
-  (B) [64, 98]
-  (C) [55, 108]
-  (D) [60, 103]
-
-part 3: (B) [64, 98]

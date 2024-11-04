@@ -1,9 +1,0 @@
-part 1: What pattern does the pie chart of the economic sector distribution suggest?
-
-part 2: 
-(A) The Services sector is the smallest portion of the economy.
-(B) The Agriculture and Technology sectors contribute equally to the economy.
-(C) The Manufacturing sector is twice as large as the Construction sector.
-(D) There is a decreasing trend in sector size from Agriculture to Technology.
-
-part 3: (B) The Agriculture and Technology sectors contribute equally to the economy.

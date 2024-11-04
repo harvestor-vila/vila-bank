@@ -1,9 +1,0 @@
-part 1: What pattern does the choropleth map of the synthetic political context data reveal about the values across the United States?
-
-part 2: 
-(A) There is a clear increasing trend from the West Coast to the East Coast.
-(B) States in the Midwest have significantly higher values than the rest of the country.
-(C) There is no discernible regional trend or correlation in the values across the states.
-(D) Coastal states have lower values than landlocked states.
-
-part 3: (C) There is no discernible regional trend or correlation in the values across the states.

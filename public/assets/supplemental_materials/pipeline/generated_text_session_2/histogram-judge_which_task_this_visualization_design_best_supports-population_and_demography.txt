@@ -1,9 +1,0 @@
-part 1: Which task does the histogram of population ages best support?
-
-part 2: 
-  (A) Identifying the median age of the population
-  (B) Comparing the average income across different age groups
-  (C) Showing the geographic distribution of the population
-  (D) Assessing the relationship between age and education level
-
-part 3: (A) Identifying the median age of the population

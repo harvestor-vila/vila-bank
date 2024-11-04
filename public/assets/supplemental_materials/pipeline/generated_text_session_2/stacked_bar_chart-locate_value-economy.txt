@@ -1,9 +1,0 @@
-part 1: What is the maximum annual income reported for any sector in the given years, and which sector does it belong to?
-
-part 2: 
-(A) 2015, Services, $447 million
-(B) 2018, Technology, $492 million
-(C) 2020, Construction, $472 million
-(D) 2016, Manufacturing, $473 million
-
-part 3: (B) 2018, Technology, $492 million

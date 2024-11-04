@@ -1,7 +1,0 @@
-part 1: What is the average median age depicted in the scatterplot?
-part 2: 
-  (A) 57.6
-  (B) 41.6
-  (C) 65.6
-  (D) 49.6
-part 3: (D) 49.6

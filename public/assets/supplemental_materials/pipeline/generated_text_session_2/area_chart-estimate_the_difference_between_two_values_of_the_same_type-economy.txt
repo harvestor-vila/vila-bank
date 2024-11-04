@@ -1,9 +1,0 @@
-part 1: Estimate the difference in GDP (in Billions) between the years 2010 and 2015.
-
-part 2: 
-  (A) 0
-  (B) 15
-  (C) 30
-  (D) 45
-
-part 3: (A) 0

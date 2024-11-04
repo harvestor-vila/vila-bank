@@ -1,7 +1,0 @@
-part 1: What task does the 100 percent stacked bar chart best support?
-part 2: 
-  (A) Comparing the exact population counts between different age groups and genders
-  (B) Showing the distribution of population percentages within each gender across different age groups
-  (C) Displaying the change in population distribution over time
-  (D) Illustrating the geographical distribution of the population by age group and gender
-part 3: (B) Showing the distribution of population percentages within each gender across different age groups

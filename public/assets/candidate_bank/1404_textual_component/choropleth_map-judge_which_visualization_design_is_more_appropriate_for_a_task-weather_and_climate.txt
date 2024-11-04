@@ -1,9 +1,0 @@
-part 1:      Given the task of displaying the average temperature for each state to facilitate a quick comparison and identify patterns across the country, which visualization design would be most appropriate? The visualization above is only a demonstration of the relevant data.
-
-    part 2:
-    (A) A pie chart with slices representing each state's average temperature.
-    (B) A choropleth map with states colored according to their average temperature.
-    (C) A line graph with time on the x-axis and average temperature on the y-axis.
-    (D) A scatter plot with states on the x-axis and average temperature on the y-axis.
-
-    part 3:       (B) A choropleth map with states colored according to their average temperature.

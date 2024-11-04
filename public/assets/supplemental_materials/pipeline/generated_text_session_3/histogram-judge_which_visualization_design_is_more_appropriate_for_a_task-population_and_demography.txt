@@ -1,6 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which of the following visualization designs would be most appropriate to assess the central tendency of the age distribution in the population?
-    part 2: (A) A pie chart with age ranges represented as slices to show the proportion of each age group.
-            (B) A scatter plot with each individual's age plotted on the y-axis and a corresponding unique identifier on the x-axis.
-            (C) A box plot to visualize the median, quartiles, and outliers of the age distribution.
-            (D) A line graph showing the trend of population count over the range of ages.
-    part 3: (C) A box plot to visualize the median, quartiles, and outliers of the age distribution.

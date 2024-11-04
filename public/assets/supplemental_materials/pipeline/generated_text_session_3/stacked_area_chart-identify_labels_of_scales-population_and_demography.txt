@@ -1,7 +1,0 @@
-part 1: What are the labels for the x-axis, y-axis, and the legend in the stacked area chart?
-    part 2: 
-    (A) x-axis: Age Group, y-axis: Year, legend: Population
-    (B) x-axis: Year, y-axis: Age Group, legend: Population
-    (C) x-axis: Population, y-axis: Year, legend: Age Group
-    (D) x-axis: Year, y-axis: Population, legend: Age Group
-    part 3: (D) x-axis: Year, y-axis: Population, legend: Age Group

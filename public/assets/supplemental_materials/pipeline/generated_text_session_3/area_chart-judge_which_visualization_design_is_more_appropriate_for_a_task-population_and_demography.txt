@@ -1,6 +1,0 @@
-part 1: Considering the trend of population change over the years, which type of visualization would best allow a viewer to assess the rate of population decline? The visualization above is only a demonstration of the relevant data.
-part 2: (A) A pie chart showing the proportion of the population for each year.
-(B) A line chart with the years on the x-axis and population on the y-axis, highlighting the trend over time.
-(C) A bar chart with separate bars for each year's population, arranged in descending order.
-(D) A scatter plot with each year's population represented as an individual point.
-part 3: (B) A line chart with the years on the x-axis and population on the y-axis, highlighting the trend over time.

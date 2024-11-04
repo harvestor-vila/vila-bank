@@ -1,7 +1,0 @@
-part 1: Which task does the visualization design best support?
-    part 2: 
-      (A) Comparing the exact number of students enrolled in each subject across schools
-      (B) Showing the distribution of subject focus within each school
-      (C) Displaying the change in subject popularity over time at each school
-      (D) Illustrating the ranking of schools based on overall academic performance
-    part 3: (B) Showing the distribution of subject focus within each school

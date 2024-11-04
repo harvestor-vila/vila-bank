@@ -1,7 +1,0 @@
-part 1: What is the average population from 2000 to 2019?
-    part 2: 
-      (A) 55,831,129
-      (B) 65,683,682
-      (C) 75,536,235
-      (D) 85,388,788
-    part 3: (B) 65,683,682

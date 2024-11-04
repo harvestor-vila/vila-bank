@@ -1,7 +1,0 @@
-part 1: What labels are used for the axes and legend in the bar chart?
-    part 2: 
-    (A) X-axis: Innovation Category, Y-axis: Company, Legend: Percentage
-    (B) X-axis: Company, Y-axis: Percentage, Legend: Innovation Category
-    (C) X-axis: Percentage, Y-axis: Innovation Category, Legend: Company
-    (D) X-axis: Category, Y-axis: Company, Legend: Product Type
-    part 3: (B) X-axis: Company, Y-axis: Percentage, Legend: Innovation Category

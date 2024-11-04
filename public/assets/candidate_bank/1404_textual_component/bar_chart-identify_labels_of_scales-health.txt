@@ -1,8 +1,0 @@
-
-    part 1: What are the labels for the x and y axes in the bar chart?
-    part 2: 
-      (A) x-axis: Number of Cases, y-axis: Disease
-      (B) x-axis: Disease, y-axis: Number of Cases
-      (C) x-axis: Disease Type, y-axis: Case Count
-      (D) x-axis: Health Condition, y-axis: Patients
-    part 3: (B) x-axis: Disease, y-axis: Number of Cases

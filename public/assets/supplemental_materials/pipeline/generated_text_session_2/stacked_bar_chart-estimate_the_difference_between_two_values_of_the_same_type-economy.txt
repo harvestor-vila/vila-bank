@@ -1,9 +1,0 @@
-part 1: Estimate the difference in income between the Technology sector and the Agriculture sector in 2018.
-
-part 2: 
-  (A) 73
-  (B) 101
-  (C) 57
-  (D) 87
-
-part 3: (D) 87

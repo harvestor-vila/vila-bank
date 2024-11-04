@@ -1,9 +1,0 @@
-part 1: What was the number of innovations for New Startups in the year 2010?
-
-part 2: 
-  (A) 100
-  (B) 191
-  (C) 220
-  (D) 300
-
-part 3: (B) 191

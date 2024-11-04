@@ -1,9 +1,0 @@
-part 1: What is the average percentage allocated to the subcategories within the "Domestic Policy" category?
-
-part 2: 
-  (A) 8%
-  (B) 15%
-  (C) 18%
-  (D) 22%
-
-part 3: (B) 15%

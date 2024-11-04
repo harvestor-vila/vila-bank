@@ -1,9 +1,0 @@
-part 1: Estimate the difference between the minimum and maximum income values depicted in the histogram.
-
-part 2:
-(A) $51,000.0
-(B) $60,000.0
-(C) $69,000.0
-(D) $78,000.0
-
-part 3: (B) $60,000.0

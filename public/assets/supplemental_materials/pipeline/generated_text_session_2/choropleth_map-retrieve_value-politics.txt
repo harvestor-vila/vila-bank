@@ -1,9 +1,0 @@
-part 1: What is the value associated with the state of Michigan in the choropleth map?
-
-part 2: 
-(A) 750
-(B) 1080
-(C) 500
-(D) 939
-
-part 3: (D) 939

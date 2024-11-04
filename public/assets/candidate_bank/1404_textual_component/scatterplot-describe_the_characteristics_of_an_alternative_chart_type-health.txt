@@ -1,7 +1,0 @@
-part 1: If the scatterplot showing the relationship between Weight and Height were to be replaced with a box plot, which of the following would best describe its characteristics?
-    part 2: 
-    (A) The box plot would show the distribution of Weight and Height on a single axis, with individual data points represented as dots.
-    (B) The box plot would display the mean Weight and Height values with error bars indicating the range of the data.
-    (C) The box plot would illustrate the central tendency and variability of Weight and Height separately, using boxes to represent the interquartile range and whiskers for the total range.
-    (D) The box plot would provide a pie chart representation of the proportion of Weight to Height for each individual data point.
-    part 3: (C) The box plot would illustrate the central tendency and variability of Weight and Height separately, using boxes to represent the interquartile range and whiskers for the total range.

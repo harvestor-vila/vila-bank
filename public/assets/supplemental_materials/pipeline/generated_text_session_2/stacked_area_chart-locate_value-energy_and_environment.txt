@@ -1,9 +1,0 @@
-part 1: In which year did Hydro energy production reach its maximum value?
-
-part 2: 
-(A) 2000
-(B) 2005
-(C) 2010
-(D) 2019
-
-part 3: (B) 2005

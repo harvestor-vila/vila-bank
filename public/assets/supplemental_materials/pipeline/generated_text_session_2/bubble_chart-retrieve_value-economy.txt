@@ -1,9 +1,0 @@
-part 1: What is the population size (in millions) of the country with a GDP of 398 billion USD?
-
-part 2: 
-(A) 2 million
-(B) 7 million
-(C) 12 million
-(D) 15 million
-
-part 3: (B) 7 million

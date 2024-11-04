@@ -1,7 +1,0 @@
-part 1: What pattern does the tree map visualization reveal about the distribution of percentages across different categories and subcategories?
-    part 2: 
-    (A) The "Employment_Status" category has a consistent increase in percentage from "Employed" to "Unemployed" to "Inactive".
-    (B) The "Education_Level" category shows a decreasing trend in percentage from "No_Schooling" to "High_School" to "Bachelor_and_Above".
-    (C) No clear trend or correlation is observed in the distribution of percentages within each category.
-    (D) The "Age_Group" category demonstrates a clear upward trend in percentage from "0-14" to "15-64" to "65+".
-    part 3: (C) No clear trend or correlation is observed in the distribution of percentages within each category.

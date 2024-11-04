@@ -1,7 +1,0 @@
-    part 1: What is the relationship between two demographic variables depicted in the scatterplot?
-    part 2: 
-    (A) The relationship between average income and education level in various cities
-    (B) The relationship between population size and median age in different regions
-    (C) The relationship between unemployment rate and median household income across counties
-    (D) The relationship between birth rate and median age in different countries
-    part 3: (B) The relationship between population size and median age in different regions

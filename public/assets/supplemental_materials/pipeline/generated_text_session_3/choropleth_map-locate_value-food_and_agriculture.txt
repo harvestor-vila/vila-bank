@@ -1,7 +1,0 @@
-part 1: Which state has the highest value of Food and Agriculture Production?
-    part 2: 
-    (A) California
-    (B) Texas
-    (C) New York
-    (D) Alaska
-    part 3: (C) New York

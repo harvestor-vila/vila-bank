@@ -1,9 +1,0 @@
-part 1: If the daily average temperature data over 20 days were to be displayed using a histogram, which of the following best describes its characteristics?
-
-part 2: 
-(A) The histogram would show the distribution of days across different temperature ranges, with each bar representing a unique day and its corresponding temperature.
-(B) The histogram would display a pie chart with slices representing the proportion of days within certain temperature ranges.
-(C) The histogram would consist of bars that represent the frequency of temperature ranges, with the height of each bar indicating how many days fell into each temperature range.
-(D) The histogram would connect points representing daily temperatures with lines, showing the trend of temperature change over the 20-day period.
-
-part 3: (C) The histogram would consist of bars that represent the frequency of temperature ranges, with the height of each bar indicating how many days fell into each temperature range.

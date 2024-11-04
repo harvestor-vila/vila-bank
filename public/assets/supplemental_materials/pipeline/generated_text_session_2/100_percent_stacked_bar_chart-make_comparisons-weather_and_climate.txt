@@ -1,9 +1,0 @@
-part 1: Which weather type has a greater percentage in Location_A compared to Location_B?
-
-part 2: 
-(A) Sunny
-(B) Cloudy
-(C) Rainy
-(D) Windy
-
-part 3: (B) Cloudy

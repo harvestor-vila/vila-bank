@@ -1,7 +1,0 @@
-part 1: If the GDP Contribution by Sector data were to be displayed using a pie chart instead of a bar chart, which of the following would be a correct characteristic of the pie chart?
-    part 2: 
-    (A) Each sector's contribution to GDP would be represented by a slice, with the angle of each slice corresponding to the sector's relative percentage of the total GDP.
-    (B) Sectors with higher GDP contributions would be represented by slices closer to the center of the pie, while those with lower contributions would be on the outer edge.
-    (C) The pie chart would display each sector's GDP contribution as equal-sized slices, with color intensity indicating the contribution amount.
-    (D) The pie chart would arrange sectors alphabetically in a clockwise direction, with the size of each slice representing the absolute GDP contribution value.
-    part 3: (A) Each sector's contribution to GDP would be represented by a slice, with the angle of each slice corresponding to the sector's relative percentage of the total GDP.

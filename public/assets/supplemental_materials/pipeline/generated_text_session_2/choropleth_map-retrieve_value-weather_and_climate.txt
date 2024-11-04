@@ -1,9 +1,0 @@
-part 1: What is the average temperature value for Arizona as shown on the choropleth map?
-
-part 2: 
-  (A) 85
-  (B) 115
-  (C) 130
-  (D) 100
-
-part 3: (D) 100

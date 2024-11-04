@@ -1,9 +1,0 @@
-part 1: What is the range of annual income across all sectors from 2015 to 2022?
-
-part 2: 
-  (A) [85, 577]
-  (B) [100, 500]
-  (C) [90, 515]
-  (D) [95, 520]
-
-part 3: (B) [100, 500]

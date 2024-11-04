@@ -1,9 +1,0 @@
-part 1: Which temperature range has a higher frequency in the dataset, 60-70°F or 80-90°F?
-
-part 2: 
-(A) 60-70°F
-(B) 80-90°F
-(C) Both ranges have the same frequency
-(D) The visualization does not provide this information
-
-part 3: (A) 60-70°F

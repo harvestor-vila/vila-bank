@@ -1,9 +1,0 @@
-part 1: What trend is observed in the political party votes over the years 2000 to 2019?
-
-part 2: 
-(A) All parties show a consistent increase in votes over the years.
-(B) No clear trend or correlation in votes is observed across the parties over the years.
-(C) The Conservative party received the most votes every year.
-(D) Votes for the Green party surpassed all other parties in the final year.
-
-part 3: (B) No clear trend or correlation in votes is observed across the parties over the years.

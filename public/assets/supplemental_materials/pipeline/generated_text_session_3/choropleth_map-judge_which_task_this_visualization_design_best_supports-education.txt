@@ -1,7 +1,0 @@
-part 1: What task does this choropleth map design best support?
-    part 2: 
-    (A) Comparing the exact value differences between states
-    (B) Identifying trends in education data across regions
-    (C) Displaying the distribution of a single variable over time
-    (D) Showing the relationship between two quantitative variables
-    part 3: (B) Identifying trends in education data across regions

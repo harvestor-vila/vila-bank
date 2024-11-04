@@ -1,9 +1,0 @@
-part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for analyzing the trend of votes over time?
-
-part 2:
-(A) A pie chart showing the proportion of votes for each year.
-(B) An area chart with the years on the x-axis and the number of votes on the y-axis.
-(C) A scatter plot with each year's votes represented by a differently colored dot.
-(D) A bar chart with different bars for each political party's votes each year.
-
-part 3:   (B) An area chart with the years on the x-axis and the number of votes on the y-axis.

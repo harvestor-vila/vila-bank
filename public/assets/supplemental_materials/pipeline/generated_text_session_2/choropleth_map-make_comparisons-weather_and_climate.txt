@@ -1,9 +1,0 @@
-part 1: Which state has a higher average temperature, Florida or New York?
-
-part 2: 
-(A) Florida
-(B) New York
-(C) Both have the same average temperature
-(D) Cannot be determined from the map
-
-part 3: (A) Florida

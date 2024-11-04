@@ -1,7 +1,0 @@
-part 1: What was the energy production (GWh) from Wind sources in the year 2019?
-    part 2: 
-    (A) 200 GWh
-    (B) 312 GWh
-    (C) 450 GWh
-    (D) 600 GWh
-    part 3: (B) 312 GWh

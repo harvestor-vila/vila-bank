@@ -1,9 +1,0 @@
-part 1: What percentage of the male population falls within the "55-74" age group?
-
-part 2: 
-  (A) 22%
-  (B) 27%
-  (C) 42%
-  (D) 12%
-
-part 3: (B) 27%

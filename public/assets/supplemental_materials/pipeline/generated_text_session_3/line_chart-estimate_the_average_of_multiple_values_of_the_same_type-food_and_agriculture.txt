@@ -1,7 +1,0 @@
-part 1: What is the average annual production (in tons) over the observed period?
-part 2: 
-  (A) 531
-  (B) 719
-  (C) 400
-  (D) 625
-part 3: (D) 625

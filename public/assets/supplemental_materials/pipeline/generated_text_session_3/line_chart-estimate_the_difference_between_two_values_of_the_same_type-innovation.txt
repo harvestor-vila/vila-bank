@@ -1,7 +1,0 @@
-part 1: Estimate the difference in Innovation Score between the years 2000 and 2019.
-    part 2: 
-      (A) 699
-      (B) 823
-      (C) 947
-      (D) 1071
-    part 3: (B) 823

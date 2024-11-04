@@ -1,9 +1,0 @@
-part 1: How would a line chart represent the energy production data by source over time?
-
-part 2: 
-(A) A line chart would display each energy source as a separate bar, with bar height representing production values for each year.
-(B) A line chart would show a cumulative curve for each energy source, with the area under the curve filled with different colors.
-(C) A line chart would depict each energy source as a distinct line, with points plotted for each year's production value and connected by lines.
-(D) A line chart would use pie slices to represent the proportion of each energy source's production for individual years.
-
-part 3: (C) A line chart would depict each energy source as a distinct line, with points plotted for each year's production value and connected by lines.

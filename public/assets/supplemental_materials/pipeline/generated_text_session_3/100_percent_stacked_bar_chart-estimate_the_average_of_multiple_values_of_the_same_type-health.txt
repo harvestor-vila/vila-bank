@@ -1,9 +1,0 @@
-part 1: What is the average percentage of time spent on "Exercise" across all age groups?
-part 2: 
-  (A) 16.3
-  (B) 20.3
-  (C) 12.3
-  (D) 25.3
-part 3: (B) 20.3
-
-Note: Option (D) has been changed from 28.3 to 25.3 to ensure it is exactly 4 units away from the correct answer, satisfying the min_distance requirement. Options (A) and (C) are already more than 4 units away from the correct answer, so they remain unchanged.

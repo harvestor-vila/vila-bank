@@ -1,9 +1,0 @@
-part 1: What is the topic of the visualization?
-
-part 2: 
-(A) The average temperature of US states and the District of Columbia
-(B) The population distribution across US states and the District of Columbia
-(C) The gross domestic product (GDP) by US state
-(D) The percentage of urban versus rural population in US states
-
-part 3: (B) The population distribution across US states and the District of Columbia

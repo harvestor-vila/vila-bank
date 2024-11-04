@@ -1,7 +1,0 @@
-part 1: If the number of graduates by program were displayed using a pie chart instead of a bar chart, which of the following would be an accurate description of this alternative chart type?
-    part 2: 
-    (A) The pie chart would show each program's proportion of total graduates with equal-sized slices since the number of graduates is evenly distributed.
-    (B) The pie chart would use different shades of blue to represent each program, with darker shades indicating more graduates.
-    (C) The pie chart would have slices of different sizes, with larger slices representing programs with more graduates.
-    (D) The pie chart would display the exact number of graduates for each program as numerical labels on the outer edge of the chart, without visual representation of proportions.
-    part 3: (C) The pie chart would have slices of different sizes, with larger slices representing programs with more graduates.

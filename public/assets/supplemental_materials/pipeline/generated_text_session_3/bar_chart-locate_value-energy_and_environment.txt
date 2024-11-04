@@ -1,7 +1,0 @@
-part 1: Which energy source has the highest production value?
-    part 2: 
-      (A) Solar
-      (B) Wind
-      (C) Nuclear
-      (D) Biomass
-    part 3: (C) Nuclear

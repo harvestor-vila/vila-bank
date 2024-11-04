@@ -1,7 +1,0 @@
-part 1: Which category does the subcategory "Geometry" belong to in the tree map?
-    part 2: 
-    (A) Science
-    (B) Humanities
-    (C) Languages
-    (D) Mathematics
-    part 3: (D) Mathematics

@@ -1,7 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which of the following visualization designs would be most appropriate to compare the cumulative energy production from different sources over the entire time period?
-part 2:
-(A) A pie chart showing the proportion of each energy source's production for a single year.
-(B) A stacked area chart showing the cumulative energy production from different sources over time.
-(C) A line chart with multiple lines, each representing the yearly energy production of a different source.
-(D) A scatter plot with points representing the energy production of each source for each year.
-part 3: (B) A stacked area chart showing the cumulative energy production from different sources over time.

@@ -1,9 +1,0 @@
-part 1: What pattern does the choropleth map of the Health Index by State reveal?
-
-part 2: 
-(A) States in the Northeast have consistently higher Health Index values than those in the South.
-(B) There is a clear east-west gradient with eastern states having higher Health Index values.
-(C) Coastal states have lower Health Index values than landlocked states.
-(D) No clear trend or correlation is evident in the Health Index values across states.
-
-part 3: (D) No clear trend or correlation is evident in the Health Index values across states.

@@ -1,7 +1,0 @@
-part 1: Estimate the difference in production (in tons) between Wheat and Barley in the East region.
-part 2: 
-(A) 60 tons
-(B) 70 tons
-(C) 50 tons
-(D) 80 tons
-part 3: (A) 60 tons

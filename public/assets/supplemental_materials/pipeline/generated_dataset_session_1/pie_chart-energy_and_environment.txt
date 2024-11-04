@@ -1,7 +1,0 @@
-"Source"	"Percentage"
-"Solar"	20
-"Wind"	25
-"Hydro"	15
-"Nuclear"	10
-"Coal"	20
-"Natural Gas"	10

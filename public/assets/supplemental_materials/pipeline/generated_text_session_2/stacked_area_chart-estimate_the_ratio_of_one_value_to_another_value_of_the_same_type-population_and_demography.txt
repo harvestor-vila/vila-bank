@@ -1,7 +1,0 @@
-part 1: What is the ratio of the population in the "0-14" age group to the "65+" age group in the year 2000?
-part 2: 
-  (A) 0.2
-  (B) 0.6
-  (C) 0.9
-  (D) 0.4
-part 3: (D) 0.4

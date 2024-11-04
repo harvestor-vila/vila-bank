@@ -1,9 +1,0 @@
-part 1: What task does this bubble chart design best support?
-
-part 2: 
-(A) Comparing the average temperature across multiple locations
-(B) Showing the relationship between temperature, humidity, and precipitation at various locations
-(C) Displaying the distribution of precipitation amounts over a period of time
-(D) Illustrating the change in temperature over the course of a year at a single location
-
-part 3: (B) Showing the relationship between temperature, humidity, and precipitation at various locations

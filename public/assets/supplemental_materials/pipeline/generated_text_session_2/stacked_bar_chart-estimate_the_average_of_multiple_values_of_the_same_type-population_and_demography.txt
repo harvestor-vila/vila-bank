@@ -1,9 +1,0 @@
-part 1: Estimate the average population for the "75+" age group across all regions.
-
-part 2:
-(A) 22879
-(B) 30955
-(C) 18841
-(D) 34993
-
-part 3: (A) 22879

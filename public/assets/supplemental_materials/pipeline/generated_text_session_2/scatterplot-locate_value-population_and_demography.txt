@@ -1,9 +1,0 @@
-part 1: What is the population size of the city with the highest median age?
-
-part 2: 
-(A) Population: 2252
-(B) Population: 4003
-(C) Population: 1194
-(D) Population: 4692
-
-part 3: (B) Population: 4003

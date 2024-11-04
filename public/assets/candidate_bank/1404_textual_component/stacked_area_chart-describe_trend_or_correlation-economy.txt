@@ -1,7 +1,0 @@
-part 1: Which sector showed the largest increase in value from 2000 to 2019?
-part 2: 
-  (A) Agriculture
-  (B) Manufacturing
-  (C) Services
-  (D) Construction
-part 3: (D) Construction

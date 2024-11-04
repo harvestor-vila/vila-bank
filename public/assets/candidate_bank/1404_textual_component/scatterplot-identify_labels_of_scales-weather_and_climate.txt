@@ -1,7 +1,0 @@
-part 1: What are the labels for the x-axis and y-axis in the scatterplot?
-    part 2: 
-      (A) x-axis: Humidity (%), y-axis: Temperature (°F)
-      (B) x-axis: Temperature (°F), y-axis: Humidity (%)
-      (C) x-axis: Precipitation (inches), y-axis: Wind Speed (mph)
-      (D) x-axis: Temperature (°C), y-axis: Humidity (g/m³)
-    part 3: (B) x-axis: Temperature (°F), y-axis: Humidity (%)

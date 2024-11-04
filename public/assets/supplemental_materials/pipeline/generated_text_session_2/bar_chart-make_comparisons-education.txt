@@ -1,9 +1,0 @@
-part 1: Which program has more graduates, Engineering or Computer Science?
-
-part 2: 
-  (A) Engineering has more graduates.
-  (B) Computer Science has more graduates.
-  (C) Both programs have the same number of graduates.
-  (D) The visualization does not provide this information.
-
-part 3: (C) Both programs have the same number of graduates.

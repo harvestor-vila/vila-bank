@@ -1,9 +1,0 @@
-part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the total population of each region across all age groups?
-
-part 2:
-(A) A pie chart with different slices representing each region's total population.
-(B) A stacked bar chart with different colors representing various age groups within each region.
-(C) A line graph with different lines representing the population trends over time for each region.
-(D) A scatter plot with each point representing a region's population for a specific age group.
-
-part 3:   (B) A stacked bar chart with different colors representing various age groups within each region.

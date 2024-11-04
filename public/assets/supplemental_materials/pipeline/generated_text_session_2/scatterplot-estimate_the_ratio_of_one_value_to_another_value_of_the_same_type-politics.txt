@@ -1,9 +1,0 @@
-part 1: Estimate the ratio of the maximum Voter Turnout to the maximum Opposition Support.
-
-part 2: 
-  (A) 5.5
-  (B) 7.5
-  (C) 9.5
-  (D) 11.5
-
-part 3: (B) 7.5

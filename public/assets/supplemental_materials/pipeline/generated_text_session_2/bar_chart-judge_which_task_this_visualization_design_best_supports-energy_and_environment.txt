@@ -1,9 +1,0 @@
-part 1: What task does this bar chart design best support?
-
-part 2: 
-(A) Comparing the production values across different energy sources
-(B) Showing the geographic distribution of energy sources
-(C) Illustrating the change in energy production over time
-(D) Demonstrating the percentage contribution of each energy source to overall carbon emissions
-
-part 3: (A) Comparing the production values across different energy sources

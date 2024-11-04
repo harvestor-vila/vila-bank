@@ -1,7 +1,0 @@
-part 1: What is the ratio of the population in the 45-64 age group to the population in the 25-44 age group?
-    part 2: 
-      (A) 0.5
-      (B) 0.3
-      (C) 0.7
-      (D) 2.1
-    part 3: (A) 0.5

@@ -1,7 +1,0 @@
-part 1: Estimate the difference in votes for the issue of "Economy" between State 1 and State 2.
-    part 2: 
-      (A) 79 votes
-      (B) 93 votes
-      (C) 107 votes
-      (D) 121 votes
-    part 3: (B) 93 votes

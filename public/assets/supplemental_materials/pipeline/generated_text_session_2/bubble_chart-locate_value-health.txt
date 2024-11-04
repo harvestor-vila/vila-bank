@@ -1,9 +1,0 @@
-part 1: Which patient is represented by the largest bubble with the highest Systolic Blood Pressure on the bubble chart?
-
-part 2: 
-(A) Patient 1
-(B) Patient 2
-(C) Patient 3
-(D) Patient 4
-
-part 3: (D) Patient 4

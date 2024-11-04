@@ -1,7 +1,0 @@
-part 1: What trend is observed in the enrollment numbers across different education levels from 2000 to 2019?
-    part 2: 
-    (A) Enrollment numbers have steadily increased for all education levels.
-    (B) Enrollment numbers have steadily decreased for all education levels.
-    (C) Enrollment numbers show no clear trend and fluctuate for all education levels.
-    (D) Enrollment numbers have remained constant for all education levels.
-    part 3: (C) Enrollment numbers show no clear trend and fluctuate for all education levels.

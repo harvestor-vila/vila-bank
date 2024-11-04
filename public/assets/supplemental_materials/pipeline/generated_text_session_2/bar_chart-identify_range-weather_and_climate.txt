@@ -1,9 +1,0 @@
-part 1: What is the range of average temperatures across the cities represented in the bar chart?
-
-part 2: 
-(A) [37, 115]
-(B) [52, 100]
-(C) [40, 118]
-(D) [45, 112]
-
-part 3: (B) [52, 100]

@@ -1,9 +1,0 @@
-part 1: What is the ratio of energy consumption in California to that in Texas?
-
-part 2: 
-(A) 0.2
-(B) 2.2
-(C) 2.3
-(D) 1.2
-
-part 3: (D) 1.2

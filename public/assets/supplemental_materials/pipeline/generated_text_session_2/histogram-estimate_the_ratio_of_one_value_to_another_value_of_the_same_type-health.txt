@@ -1,9 +1,0 @@
-part 1: What is the ratio of the number of people with a cholesterol level of 150 to those with a level of 160?
-
-part 2: 
-(A) 0.9
-(B) 2.9
-(C) 3.9
-(D) 1.9
-
-part 3: (D) 1.9

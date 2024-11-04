@@ -1,7 +1,0 @@
-part 1: What is the voter turnout percentage for the data point with the highest opposition support?
-    part 2: 
-      (A) Voter Turnout at 90%
-      (B) Voter Turnout at 52%
-      (C) Voter Turnout at 56%
-      (D) Voter Turnout at 88%
-    part 3: (C) Voter Turnout at 56%

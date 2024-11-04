@@ -1,7 +1,0 @@
-part 1: What is the average percentage of the age groups for males?
-    part 2:
-    (A) 17
-    (B) 20
-    (C) 23
-    (D) 26
-    part 3: (B) 20

@@ -1,9 +1,0 @@
-part 1: Which energy source's share decreased more from 2019 to 2020, Solar or Fossil Fuels?
-
-part 2: 
-  (A) Solar
-  (B) Fossil Fuels
-  (C) Both decreased equally
-  (D) Neither decreased
-
-part 3: (A) Solar

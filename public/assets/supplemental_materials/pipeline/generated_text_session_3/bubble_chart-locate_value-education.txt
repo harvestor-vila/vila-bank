@@ -1,7 +1,0 @@
-part 1: Which school has the highest number of students?
-    part 2: 
-    (A) School A
-    (B) School C
-    (C) School F
-    (D) School H
-    part 3: (B) School C

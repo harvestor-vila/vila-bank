@@ -1,7 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would best allow a viewer to compare the total enrollment trends over time across different education levels?
-part 2:
-(A) A pie chart with different colors representing each education level and slices showing the proportion of enrollments for each year.
-(B) A stacked area chart with different colors representing each education level and areas showing the trend of enrollments over time.
-(C) A single bar chart with bars representing total enrollments for all education levels combined for each year.
-(D) A scatter plot with points representing individual enrollment values for each education level per year.
-part 3: (B) A stacked area chart with different colors representing each education level and areas showing the trend of enrollments over time.

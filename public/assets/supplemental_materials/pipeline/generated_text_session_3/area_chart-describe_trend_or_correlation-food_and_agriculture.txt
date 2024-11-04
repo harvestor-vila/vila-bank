@@ -1,7 +1,0 @@
-part 1: What trend is observed in the agricultural production from the year 2000 to 2019?
-    part 2: 
-      (A) Production consistently decreased over the years.
-      (B) Production showed no clear trend and remained stable.
-      (C) Production consistently increased over the years.
-      (D) Production fluctuated with no consistent trend.
-    part 3: (D) Production fluctuated with no consistent trend.

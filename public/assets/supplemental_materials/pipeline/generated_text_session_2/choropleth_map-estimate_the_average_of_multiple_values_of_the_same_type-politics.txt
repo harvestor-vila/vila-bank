@@ -1,9 +1,0 @@
-part 1: What is the average value represented on the choropleth map?
-
-part 2:
-(A) 491.0
-(B) 578.0
-(C) 665.0
-(D) 752.0
-
-part 3: (B) 578.0

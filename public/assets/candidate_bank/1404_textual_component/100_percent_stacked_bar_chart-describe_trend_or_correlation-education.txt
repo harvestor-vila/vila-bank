@@ -1,7 +1,0 @@
-part 1: What pattern can be observed in the distribution of subjects across the three schools?
-    part 2: 
-      (A) Greenwood Elementary has a higher percentage of Arts than Lakeside High and Hilltop Middle.
-      (B) Each school has a different subject with the highest percentage.
-      (C) History has the highest percentage across all schools.
-      (D) The percentage of English is consistently increasing from Greenwood Elementary to Hilltop Middle.
-    part 3: (B) Each school has a different subject with the highest percentage.

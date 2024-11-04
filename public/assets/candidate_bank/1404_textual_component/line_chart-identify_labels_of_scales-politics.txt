@@ -1,7 +1,0 @@
-part 1: What are the labels for the x-axis and y-axis in the line chart?
-    part 2: 
-      (A) x-axis: Approval Rating (%), y-axis: Year
-      (B) x-axis: Year, y-axis: Approval Rating (%)
-      (C) x-axis: Political Party, y-axis: Votes
-      (D) x-axis: Population, y-axis: Year
-    part 3: (B) x-axis: Year, y-axis: Approval Rating (%)

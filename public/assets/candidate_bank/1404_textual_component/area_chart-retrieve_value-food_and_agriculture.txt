@@ -1,7 +1,0 @@
-part 1: What was the agricultural production (in tons) in the year 2016?
-    part 2: 
-      (A) 162
-      (B) 191
-      (C) 220
-      (D) 150
-    part 3: (B) 191

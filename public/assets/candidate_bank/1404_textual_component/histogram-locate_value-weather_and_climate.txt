@@ -1,7 +1,0 @@
-part 1: What is the maximum Daily Average Temperature recorded in the dataset?
-    part 2: 
-    (A) 50°F
-    (B) 90°F
-    (C) 55°F
-    (D) 65°F
-    part 3: (B) 90°F

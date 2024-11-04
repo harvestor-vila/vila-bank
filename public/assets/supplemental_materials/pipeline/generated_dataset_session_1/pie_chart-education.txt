@@ -1,6 +1,0 @@
-"Category"	"Percentage"
-"Elementary"	25
-"Middle School"	20
-"High School"	30
-"Undergraduate"	15
-"Postgraduate"	10

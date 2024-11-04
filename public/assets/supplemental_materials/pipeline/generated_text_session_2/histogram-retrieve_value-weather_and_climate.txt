@@ -1,9 +1,0 @@
-part 1: What is the frequency of the daily average temperature being exactly 70°F?
-
-part 2: 
-(A) 40
-(B) 60
-(C) 85
-(D) 100
-
-part 3: (A) 40

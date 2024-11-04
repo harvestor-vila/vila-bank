@@ -1,9 +1,0 @@
-part 1: If the data from the choropleth map were to be displayed in a bar chart, what characteristic would you expect to see?
-
-part 2: 
-(A) Each state would be represented by a pie slice with size proportional to its value.
-(B) Lines would connect data points in the order of the states' names, creating a zigzag pattern.
-(C) States would be represented by bars, with the length of each bar corresponding to the state's value.
-(D) Points would be plotted on a grid, with the position of each point corresponding to a state's value.
-
-part 3: (C) States would be represented by bars, with the length of each bar corresponding to the state's value.

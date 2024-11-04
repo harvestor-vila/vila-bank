@@ -1,7 +1,0 @@
-part 1: Identify the outlier in the scatterplot showing the relationship between Fertilizer Use and Crop Yield.
-    part 2: 
-      (A) Crop Yield: 95 quintals/ha, Fertilizer Use: 181 kg/ha
-      (B) Crop Yield: 120 quintals/ha, Fertilizer Use: 250 kg/ha
-      (C) Crop Yield: 70 quintals/ha, Fertilizer Use: 144 kg/ha
-      (D) Crop Yield: 52 quintals/ha, Fertilizer Use: 156 kg/ha
-    part 3: (B) Crop Yield: 120 quintals/ha, Fertilizer Use: 250 kg/ha

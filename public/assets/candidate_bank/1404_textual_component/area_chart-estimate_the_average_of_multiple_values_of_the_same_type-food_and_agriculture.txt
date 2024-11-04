@@ -1,9 +1,0 @@
-part 1: What is the average agricultural production (in tons) per year over the period shown?
-
-part 2:
-  (A) 135.6
-  (B) 159.6
-  (C) 183.6
-  (D) 207.6
-
-part 3: (B) 159.6

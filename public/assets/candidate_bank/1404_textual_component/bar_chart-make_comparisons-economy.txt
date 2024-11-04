@@ -1,7 +1,0 @@
-part 1: Which sector has a higher GDP contribution, Retail or Finance?
-    part 2: 
-      (A) Retail
-      (B) Finance
-      (C) They contribute equally
-      (D) The visualization does not provide this information
-    part 3: (A) Retail

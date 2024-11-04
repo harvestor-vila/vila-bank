@@ -1,9 +1,0 @@
-part 1: What pattern does the pie chart of the food and agriculture sectors' distribution show?
-
-part 2: 
-(A) The percentage of each category increases as we move from Grains to Dairy.
-(B) Each category represents an equal share of the food and agriculture sectors.
-(C) The percentage of each category decreases as we move from Grains to Dairy.
-(D) There is no discernible pattern in the distribution of the food and agriculture sectors.
-
-part 3: (C) The percentage of each category decreases as we move from Grains to Dairy.

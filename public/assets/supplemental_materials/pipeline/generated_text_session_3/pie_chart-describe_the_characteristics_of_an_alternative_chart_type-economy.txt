@@ -1,7 +1,0 @@
-part 1: If the economic sector distribution data were to be displayed using a stacked bar chart instead of a pie chart, which of the following would be a characteristic of that chart?
-    part 2: 
-    (A) Each sector would be represented by a separate bar, with bar lengths proportional to the sector's percentage of the economy.
-    (B) The chart would consist of concentric circles, each representing a different sector, with the circle sizes proportional to their percentages.
-    (C) Sectors would be represented by points plotted on a grid, with the position of each point corresponding to its percentage value.
-    (D) Sectors would be represented by segments of a single horizontal bar, stacked side by side, with segment lengths proportional to the sector's percentage.
-    part 3: (D) Sectors would be represented by segments of a single horizontal bar, stacked side by side, with segment lengths proportional to the sector's percentage.

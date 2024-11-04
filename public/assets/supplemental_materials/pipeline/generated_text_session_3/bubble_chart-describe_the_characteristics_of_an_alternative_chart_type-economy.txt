@@ -1,7 +1,0 @@
-part 1: If the bubble chart displaying GDP, Unemployment Rate, and Population by Country were to be converted into a bar chart, which of the following characteristics would accurately describe the bar chart?
-    part 2: 
-    (A) The bar chart would use bars of varying width to represent Population, with the height of each bar corresponding to GDP and color indicating Unemployment Rate.
-    (B) The bar chart would show a single bar for each country, with the height of the bar representing GDP and the color of the bar representing Population.
-    (C) The bar chart would display multiple bars for each country, with each bar's height representing Unemployment Rate and separate bars for different Population brackets.
-    (D) The bar chart would have bars representing each country's GDP, with color used to differentiate the countries and bar height proportional to the Unemployment Rate.
-    part 3: (B) The bar chart would show a single bar for each country, with the height of the bar representing GDP and the color of the bar representing Population.

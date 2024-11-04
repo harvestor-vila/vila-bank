@@ -1,7 +1,0 @@
-part 1: What task does the scatterplot of GDP versus Unemployment Rate best support?
-    part 2: 
-    (A) Identifying the distribution of GDP values
-    (B) Comparing the total GDP across different countries
-    (C) Understanding the relationship between GDP and Unemployment Rate
-    (D) Tracking changes in Unemployment Rate over time
-    part 3: (C) Understanding the relationship between GDP and Unemployment Rate

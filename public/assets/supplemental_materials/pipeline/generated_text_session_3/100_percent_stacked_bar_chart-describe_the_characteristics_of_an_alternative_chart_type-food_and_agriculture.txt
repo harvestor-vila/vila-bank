@@ -1,7 +1,0 @@
-part 1: If the 100 percent stacked bar chart were to be replaced with a pie chart for each year, which of the following would be an accurate description of this alternative chart type?
-part 2: 
-(A) A pie chart for each year would show each category as a slice, with slice sizes representing the proportion of each category within that year only.
-(B) A pie chart would combine all years into a single representation, with slices indicating the cumulative percentage of each category over all years.
-(C) Each pie chart would represent the categories as slices with equal sizes, regardless of their actual percentages, to emphasize the categorical distribution over time.
-(D) A pie chart for each year would display the categories as concentric rings, with the thickness of each ring representing the percentage of that category for the respective year.
-part 3: (A) A pie chart for each year would show each category as a slice, with slice sizes representing the proportion of each category within that year only.

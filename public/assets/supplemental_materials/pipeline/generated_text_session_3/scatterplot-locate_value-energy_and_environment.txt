@@ -1,7 +1,0 @@
-part 1: What is the value of Energy Consumption (MWh) at the point with the maximum Carbon Emission (metric tons)?
-    part 2: 
-    (A) 405 MWh
-    (B) 355 MWh
-    (C) 278 MWh
-    (D) 492 MWh
-    part 3: (B) 355 MWh

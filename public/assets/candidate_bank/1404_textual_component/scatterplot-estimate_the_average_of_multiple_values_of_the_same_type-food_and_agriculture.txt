@@ -1,4 +1,0 @@
-part 1: Estimate the average fertilizer use (kg/ha) from the scatterplot showing the relationship between crop yield and fertilizer use.
-    part 2: (A) 510 kg/ha (B) 600 kg/ha (C) 690 kg/ha (D) 800 kg/ha
-    part 3: (B) 600 kg/ha
-

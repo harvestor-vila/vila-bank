@@ -1,7 +1,0 @@
-part 1: Which range of innovation scores contains more observations, 5-10 or 15-20?
-    part 2:
-     (A) 5-10 contains more observations.
-            (B) 15-20 contains more observations.
-            (C) Both ranges contain the same number of observations.
-            (D) It is not possible to determine which range contains more observations from the histogram.
-    part 3: (A) 5-10 contains more observations.

@@ -1,9 +1,0 @@
-part 1: What pattern does the histogram of the hypothetical primary election votes distribution show?
-
-part 2: 
-(A) The distribution shows a strong positive correlation between the number of candidates and votes.
-(B) The distribution is approximately normally distributed with no skewness.
-(C) The distribution is left-skewed, with a majority of candidates receiving a higher number of votes.
-(D) The distribution shows a clear trend of decreasing number of candidates as the number of votes increases.
-
-part 3: (C) The distribution is left-skewed, with a majority of candidates receiving a higher number of votes.

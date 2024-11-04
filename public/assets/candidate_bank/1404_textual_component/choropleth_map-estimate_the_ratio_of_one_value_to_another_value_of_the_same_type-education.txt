@@ -1,7 +1,0 @@
-part 1: What is the ratio of the education value for California to that of Texas?
-    part 2: 
-    (A) 0.8
-    (B) 1.3
-    (C) 2.5
-    (D) 1.8
-    part 3: (B) 1.3

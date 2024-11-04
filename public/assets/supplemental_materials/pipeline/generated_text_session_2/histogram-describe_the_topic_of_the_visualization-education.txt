@@ -1,9 +1,0 @@
-part 1: What is the subject of the histogram?
-
-part 2: 
-(A) The age distribution of residents in a city
-(B) The distribution of standardized test scores among students
-(C) The height distribution of adult males in a population
-(D) The annual rainfall measurements in different regions
-
-part 3: (B) The distribution of standardized test scores among students

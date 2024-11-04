@@ -1,7 +1,0 @@
-part 1: What was the number of Neurological cases reported in the year 2010?
-    part 2: 
-    (A) 239
-    (B) 339
-    (C) 439
-    (D) 539
-    part 3: (B) 339

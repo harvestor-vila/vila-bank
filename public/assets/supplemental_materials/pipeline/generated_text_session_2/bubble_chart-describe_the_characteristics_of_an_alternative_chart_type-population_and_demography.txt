@@ -1,9 +1,0 @@
-part 1: If the bubble chart displaying the relationship between GDP Per Capita, Population, and Median Age for various cities were to be represented as a bar chart, which of the following descriptions would be accurate?
-
-part 2: 
-(A) A bar chart with bars colored according to Median Age, where the height of each bar represents the Population, and bars are ordered by City names.
-(B) A bar chart with bars representing each city, where the height of the bars indicates the GDP Per Capita, and the color of the bars corresponds to the Population size.
-(C) A bar chart with horizontal bars representing each city, where the length of the bars indicates the Median Age, and the color of the bars shows the GDP Per Capita.
-(D) A bar chart with bars representing each city, where the height of the bars indicates the GDP Per Capita, and the color of the bars corresponds to the Median Age.
-
-part 3: (D) A bar chart with bars representing each city, where the height of the bars indicates the GDP Per Capita, and the color of the bars corresponds to the Median Age.

@@ -1,9 +1,0 @@
-part 1: In which year did New Startups have the highest number of innovations?
-
-part 2: 
-(A) 2000
-(B) 2012
-(C) 2010
-(D) 2006
-
-part 3: (B) 2012

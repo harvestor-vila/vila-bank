@@ -1,7 +1,0 @@
-part 1: What task does this bar chart design best support?
-    part 2: 
-      (A) Comparing the GDP contribution of different sectors
-      (B) Showing the geographic distribution of sectoral GDP contributions
-      (C) Displaying the change in GDP contribution over time for each sector
-      (D) Illustrating the percentage of total GDP made up by each sector
-    part 3: (A) Comparing the GDP contribution of different sectors

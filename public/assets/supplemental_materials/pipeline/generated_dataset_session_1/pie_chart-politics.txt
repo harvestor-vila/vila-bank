@@ -1,6 +1,0 @@
-"Party"	"Percentage"
-"Conservative"	35
-"Liberal"	30
-"Socialist"	15
-"Green"	10
-"Libertarian"	10

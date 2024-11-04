@@ -1,7 +1,0 @@
-part 1: What task does the scatterplot of Study Hours vs Average Grade best support?
-    part 2: 
-      (A) Comparing the total number of study hours against the total number of students
-      (B) Identifying trends between study hours and average grades
-      (C) Summarizing the distribution of study hours across different grade levels
-      (D) Ranking students by their average grades
-    part 3: (B) Identifying trends between study hours and average grades

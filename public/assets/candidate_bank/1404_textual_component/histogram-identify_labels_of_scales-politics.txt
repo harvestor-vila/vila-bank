@@ -1,7 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the histogram of votes?
-    part 2: 
-    (A) Horizontal: Frequency of Candidates, Vertical: Number of Votes
-    (B) Horizontal: Number of Votes, Vertical: Frequency of Candidates
-    (C) Horizontal: Candidates' Names, Vertical: Percentage of Votes
-    (D) Horizontal: Percentage of Votes, Vertical: Candidates' Names
-    part 3: (B) Horizontal: Number of Votes, Vertical: Frequency of Candidates

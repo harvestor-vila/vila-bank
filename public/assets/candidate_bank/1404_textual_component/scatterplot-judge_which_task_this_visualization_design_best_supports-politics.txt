@@ -1,7 +1,0 @@
-part 1: What task does the scatterplot of Voter Turnout vs Opposition Support best support?
-    part 2: 
-      (A) Identifying the correlation between voter turnout and opposition support
-      (B) Comparing the total number of votes for multiple candidates
-      (C) Tracking changes in voter turnout over time
-      (D) Displaying the distribution of voter turnout across different age groups
-    part 3: (A) Identifying the correlation between voter turnout and opposition support

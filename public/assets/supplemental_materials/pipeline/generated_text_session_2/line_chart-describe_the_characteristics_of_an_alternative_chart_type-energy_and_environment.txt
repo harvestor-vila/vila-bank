@@ -1,9 +1,0 @@
-part 1: If the Energy Consumption Over Time data were to be displayed using a bar chart, which of the following characteristics would it most likely have?
-
-part 2: 
-(A) Each time point would be represented by a pie slice, with the size of the slice proportional to the energy consumption at that time.
-(B) Time points would be represented along the horizontal axis, and individual bars would extend vertically to indicate energy consumption values.
-(C) Energy consumption values would be plotted along a continuous curve, with peaks representing higher values.
-(D) Bars would be stacked on top of each other for each time point, with the total height representing cumulative energy consumption.
-
-part 3: (B) Time points would be represented along the horizontal axis, and individual bars would extend vertically to indicate energy consumption values.

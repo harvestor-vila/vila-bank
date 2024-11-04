@@ -1,9 +1,0 @@
-part 1: Which task does the stacked area chart design best support?
-
-part 2: 
-  (A) Comparing the exact values of temperature, precipitation, and wind speed for each day
-  (B) Showing the distribution of temperature, precipitation, and wind speed values over a period of time
-  (C) Identifying the correlation between temperature, precipitation, and wind speed
-  (D) Displaying the hierarchical relationship between temperature, precipitation, and wind speed
-
-part 3: (B) Showing the distribution of temperature, precipitation, and wind speed values over a period of time

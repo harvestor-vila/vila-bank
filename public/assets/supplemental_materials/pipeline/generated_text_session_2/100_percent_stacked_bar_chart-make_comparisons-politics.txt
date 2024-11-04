@@ -1,9 +1,0 @@
-part 1: Which party has a greater focus on the Environment issue compared to the Economy issue?
-
-part 2: 
-(A) Party_A
-(B) Party_B
-(C) Party_C
-(D) Party_D
-
-part 3: (D) Party_D

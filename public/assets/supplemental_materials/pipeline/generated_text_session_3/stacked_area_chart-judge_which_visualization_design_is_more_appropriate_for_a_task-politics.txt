@@ -1,6 +1,0 @@
-part 1: Which visualization design is most appropriate for showing the distribution of votes among political parties over time? The visualization above is only a demonstration of the relevant data.
-part 2: (A) A pie chart with different colors representing each political party and slices showing the proportion of votes for each year.
-(B) A stacked area chart with time on the horizontal axis, cumulative votes on the vertical axis, and different colors representing each political party.
-(C) A single bar chart with bars representing the total votes for all parties for each year.
-(D) A scatter plot with individual years on the x-axis and vote counts on the y-axis, colored by political party.
-part 3: (B) A stacked area chart with time on the horizontal axis, cumulative votes on the vertical axis, and different colors representing each political party.

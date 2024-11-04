@@ -1,3 +1,0 @@
-part 1: What is the difference in the percentage of focus on "Exercise" between "Young Adults" and "Seniors"?
-    part 2: (A) 6.0 (B) 8.0 (C) 10.0 (D) 12.0
-    part 3: (B) 8.0

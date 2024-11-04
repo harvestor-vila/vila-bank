@@ -1,9 +1,0 @@
-part 1: What year and sector combination had the highest value?
-
-part 2: 
-(A) 2003, Services
-(B) 2011, Construction
-(C) 2009, Agriculture
-(D) 2015, Manufacturing
-
-part 3: (C) 2009, Agriculture

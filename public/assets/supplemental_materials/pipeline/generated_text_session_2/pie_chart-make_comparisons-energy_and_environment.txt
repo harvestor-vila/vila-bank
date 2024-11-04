@@ -1,9 +1,0 @@
-part 1: Which energy source has a larger share in the distribution, Solar or Nuclear?
-
-part 2: 
-  (A) Solar
-  (B) Nuclear
-  (C) They have the same share
-  (D) The chart does not include these energy sources
-
-part 3: (A) Solar

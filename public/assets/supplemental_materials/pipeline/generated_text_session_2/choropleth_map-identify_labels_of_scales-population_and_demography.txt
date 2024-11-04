@@ -1,9 +1,0 @@
-part 1: What is the label of the color scale in the choropleth map showing the population of US states and the District of Columbia?
-
-part 2: 
-  (A) Median Income
-  (B) Population Density
-  (C) Population
-  (D) Unemployment Rate
-
-part 3: (C) Population

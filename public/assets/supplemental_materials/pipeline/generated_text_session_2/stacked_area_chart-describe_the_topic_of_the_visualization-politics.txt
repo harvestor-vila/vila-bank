@@ -1,9 +1,0 @@
-part 1: What is the visualization depicting?
-
-part 2: 
-(A) The growth of a technology company's stock value over time
-(B) The change in average global temperatures from 2000 to 2019
-(C) The distribution of votes among political parties over a 20-year period
-(D) The annual sales figures for four different car manufacturers
-
-part 3: (C) The distribution of votes among political parties over a 20-year period

@@ -1,7 +1,0 @@
-part 1: What is the ratio of Socialist Party's funding to its number of seats?
-part 2: 
-(A) 303.9
-(B) 200.0
-(C) 100.0
-(D) 400.0
-part 3: (A) 303.9

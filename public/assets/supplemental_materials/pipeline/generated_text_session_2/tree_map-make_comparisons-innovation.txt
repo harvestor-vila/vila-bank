@@ -1,9 +1,0 @@
-part 1: Which sector has a larger combined presence in the innovation sectors tree map, Technology or Healthcare?
-
-part 2: 
-  (A) Technology
-  (B) Healthcare
-  (C) Energy
-  (D) Education
-
-part 3: (A) Technology

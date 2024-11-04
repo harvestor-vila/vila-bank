@@ -1,7 +1,0 @@
-part 1: What is the average heart rate (in bpm) over the observed period?
-  part 2: 
-  (A) 66.8
-  (B) 90.8
-  (C) 54.8
-  (D) 78.8
-  part 3: (D) 78.8

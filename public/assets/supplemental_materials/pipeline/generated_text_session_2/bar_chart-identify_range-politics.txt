@@ -1,9 +1,0 @@
-part 1: What is the range of votes received by the political parties?
-
-part 2: 
-(A) [2000, 10500]
-(B) [1000, 11000]
-(C) [2562, 9918]
-(D) [1500, 12000]
-
-part 3: (C) [2562, 9918]

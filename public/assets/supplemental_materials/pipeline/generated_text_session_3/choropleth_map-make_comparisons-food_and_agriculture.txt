@@ -1,7 +1,0 @@
-part 1: Which state has a higher value of Food and Agriculture Production, Texas or Hawaii?
-part 2: 
-(A) Texas
-(B) Hawaii
-(C) Both have the same value
-(D) Cannot be determined from the visualization
-part 3: (A) Texas

@@ -1,7 +1,0 @@
-part 1: Estimate the ratio of the total Crop Yield to the total Fertilizer Use.
-  part 2: 
-  (A) 5.2
-  (B) 9.2
-  (C) 3.2
-  (D) 11.2
-  part 3: (A) 7.2

@@ -1,7 +1,0 @@
-part 1: What is the topic of the visualization?
-    part 2: 
-      (A) Comparison of average rainfall across different regions
-      (B) Distribution of political party preferences on various issues
-      (C) Market share of technology companies in the last quarter
-      (D) Trends in global temperatures over the past century
-    part 3: (B) Distribution of political party preferences on various issues

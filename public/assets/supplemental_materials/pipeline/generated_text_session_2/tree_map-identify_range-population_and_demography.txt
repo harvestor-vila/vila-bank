@@ -1,9 +1,0 @@
-part 1: What is the range of percentage values represented in the tree map?
-
-part 2: 
-(A) [1, 7]
-(B) [2, 6]
-(C) [0, 8]
-(D) [2, 6]
-
-part 3: (B) [2, 6]

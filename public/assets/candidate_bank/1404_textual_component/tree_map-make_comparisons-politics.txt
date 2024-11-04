@@ -1,7 +1,0 @@
-part 1: Which policy area has a larger combined percentage, Domestic Policy or Foreign Policy?
-    part 2: 
-    (A) Domestic Policy
-    (B) Foreign Policy
-    (C) Economic Policy
-    (D) They are equal
-    part 3: (A) Domestic Policy

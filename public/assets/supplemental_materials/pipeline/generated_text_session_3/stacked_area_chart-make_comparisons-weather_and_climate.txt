@@ -1,7 +1,0 @@
-part 1: Which variable had a higher total value over the 20-day period, Temperature or Precipitation?
-    part 2: 
-    (A) Temperature had a higher total value.
-    (B) Precipitation had a higher total value.
-    (C) Both had the same total value.
-    (D) The data does not provide enough information to determine the answer.
-    part 3: (A) Temperature had a higher total value.

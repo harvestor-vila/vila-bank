@@ -1,9 +1,0 @@
-part 1: What is the average energy consumption (in GWh) over the observed time period?
-
-part 2: 
-  (A) 137
-  (B) 161.6
-  (C) 187
-  (D) 212
-
-part 3: (B) 161.6

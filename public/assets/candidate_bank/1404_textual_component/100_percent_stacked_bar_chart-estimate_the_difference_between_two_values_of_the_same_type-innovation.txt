@@ -1,7 +1,0 @@
-part 1: Estimate the difference in the percentage of Product Development between Company A and Company B.
-part 2: 
-  (A) 21.9%
-  (B) 25.9%
-  (C) 29.9%
-  (D) 33.9%
-part 3: (B) 25.9%

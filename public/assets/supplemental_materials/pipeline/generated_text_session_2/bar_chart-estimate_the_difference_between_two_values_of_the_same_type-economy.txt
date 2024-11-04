@@ -1,9 +1,0 @@
-part 1: Estimate the difference in GDP Contribution (in billions) between the Healthcare and Manufacturing sectors.
-
-part 2: 
-  (A) 252
-  (B) 306
-  (C) 360
-  (D) 468
-
-part 3: (C) 360

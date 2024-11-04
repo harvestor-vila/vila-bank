@@ -1,9 +1,0 @@
-part 1: If the health data showing Age, Systolic Blood Pressure, and Cholesterol Level were to be displayed using a bubble chart, which of the following would best describe its characteristics?
-
-part 2: 
-(A) A bubble chart with bubbles representing each PatientID, where the position of the bubble is determined by the patient's Age and Cholesterol Level.
-(B) A bubble chart with bubbles placed on a plot of Age versus Systolic Blood Pressure, where the size of each bubble is proportional to the patient's Cholesterol Level.
-(C) A bubble chart with bubbles of different colors for each Age group, where the size of the bubble indicates the average Systolic Blood Pressure.
-(D) A bubble chart where bubbles are stacked on top of each other to show the total Cholesterol Level for each Age group.
-
-part 3: (B) A bubble chart with bubbles placed on a plot of Age versus Systolic Blood Pressure, where the size of each bubble is proportional to the patient's Cholesterol Level.

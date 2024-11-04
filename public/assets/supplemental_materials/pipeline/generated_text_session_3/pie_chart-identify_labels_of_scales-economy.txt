@@ -1,7 +1,0 @@
-part 1: Which label correctly identifies a sector on the pie chart?
-    part 2: 
-      (A) Sector Name
-      (B) Percentage Value
-      (C) Legend
-      (D) Title
-    part 3: (A) Sector Name

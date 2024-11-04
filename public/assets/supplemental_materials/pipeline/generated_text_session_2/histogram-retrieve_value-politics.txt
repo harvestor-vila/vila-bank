@@ -1,9 +1,0 @@
-part 1: What is the smallest number of votes received by any candidate in the histogram of votes in a hypothetical primary election?
-
-part 2: 
-(A) 11
-(B) 17
-(C) 20
-(D) 14
-
-part 3: (D) 14

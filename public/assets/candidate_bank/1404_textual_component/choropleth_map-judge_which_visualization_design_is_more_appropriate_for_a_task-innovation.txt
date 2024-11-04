@@ -1,7 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the innovation scores across all states to identify regional patterns and outliers?
-    part 2:
-    (A) A pie chart with slices representing the proportion of total innovation score for each state.
-           (B) A choropleth map with states colored according to their innovation scores.
-           (C) A line graph showing the innovation score trend over time for each state.
-           (D) A bar chart with alphabetical listing of states on the x-axis and innovation scores on the y-axis.
-    part 3: (B) A choropleth map with states colored according to their innovation scores.

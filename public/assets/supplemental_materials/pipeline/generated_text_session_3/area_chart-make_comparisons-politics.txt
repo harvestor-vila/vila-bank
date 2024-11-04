@@ -1,7 +1,0 @@
-part 1: How do the number of votes in 2000 compare to the number of votes in 2008?
-    part 2: 
-      (A) The number of votes in 2000 was higher.
-      (B) The number of votes in 2000 was lower.
-      (C) The number of votes was the same in both years.
-      (D) The number of votes in 2008 was twice as many as in 2000.
-    part 3: (A) The number of votes in 2000 was higher.

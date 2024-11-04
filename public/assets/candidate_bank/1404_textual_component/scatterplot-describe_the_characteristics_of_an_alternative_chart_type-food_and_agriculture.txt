@@ -1,7 +1,0 @@
-part 1: If the relationship between Crop Yield and Fertilizer Use were to be displayed using a box plot instead of a scatterplot, which of the following would be an accurate description of the box plot's characteristics?
-    part 2: 
-    (A) The box plot would show the distribution of Crop Yield and Fertilizer Use side by side, with boxes representing the interquartile range and whiskers extending to the minimum and maximum values.
-    (B) The box plot would display a single box representing the combined range of both Crop Yield and Fertilizer Use, with a line inside the box indicating the mean value.
-    (C) The box plot would illustrate the average Crop Yield and Fertilizer Use as adjacent bars, with the height of each bar representing the mean value of each variable.
-    (D) The box plot would depict the correlation between Crop Yield and Fertilizer Use as a curved line, with shading indicating the density of data points.
-    part 3: (A) The box plot would show the distribution of Crop Yield and Fertilizer Use side by side, with boxes representing the interquartile range and whiskers extending to the minimum and maximum values.

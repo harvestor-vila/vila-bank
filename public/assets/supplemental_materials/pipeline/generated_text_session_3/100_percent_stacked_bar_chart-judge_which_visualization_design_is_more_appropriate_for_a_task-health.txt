@@ -1,6 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to compare the proportional distribution of health focus areas within each age group?
-part 2: (A) A pie chart for each health focus area showing the distribution of age groups.
-(B) A 100 percent stacked bar chart with each bar representing an age group and segments showing the proportion of each health focus area.
-(C) A line graph with age groups on the x-axis and percentage on the y-axis, with separate lines for each health focus area.
-(D) A scatter plot with health focus areas on the x-axis and percentage on the y-axis, with separate points for each age group.
-part 3: (B) A 100 percent stacked bar chart with each bar representing an age group and segments showing the proportion of each health focus area.

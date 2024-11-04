@@ -1,9 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the area chart of Energy Consumption Over Time?
-
-part 2: 
-  (A) Horizontal: Energy Consumption (GWh), Vertical: Year
-  (B) Horizontal: Year, Vertical: Energy Consumption (GWh)
-  (C) Horizontal: Time (Years), Vertical: Consumption (Units)
-  (D) Horizontal: Date, Vertical: Power Usage (GWh)
-
-part 3: (B) Horizontal: Year, Vertical: Energy Consumption (GWh)

@@ -1,9 +1,0 @@
-part 1: Estimate the average height (in cm) represented in the scatterplot.
-part 2:
-(A) 123.4
-(B) 142.4
-(C) 104.4
-(D) 85.4
-part 3: (A) 123.4
-
-If the provided correct answer matches the calculated correct answer, then there is no mistake in the item. If there is a discrepancy, I would provide the corrected item with an explanation of the mistake.

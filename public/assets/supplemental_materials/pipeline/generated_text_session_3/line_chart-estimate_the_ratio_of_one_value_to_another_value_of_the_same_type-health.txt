@@ -1,7 +1,0 @@
-part 1: Estimate the ratio of the Heart Rate on Day 5 to that on Day 10.
-    part 2: 
-      (A) 1.2
-      (B) 1.5
-      (C) 1.8
-      (D) 0.9
-    part 3: (B) 1.5

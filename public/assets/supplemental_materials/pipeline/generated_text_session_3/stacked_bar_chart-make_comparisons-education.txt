@@ -1,7 +1,0 @@
-part 1: Which school has a greater number of students in Grade 9 compared to Grade 12?
-    part 2: 
-    (A) School A
-    (B) School B
-    (C) School C
-    (D) School D
-    part 3: (B) School B

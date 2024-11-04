@@ -1,9 +1,0 @@
-part 1: What is the weight of the lightest individual represented in the scatterplot?
-
-part 2: 
-  (A) 70 kg
-  (B) 51 kg
-  (C) 80 kg
-  (D) 95 kg
-
-part 3: (B) 51 kg

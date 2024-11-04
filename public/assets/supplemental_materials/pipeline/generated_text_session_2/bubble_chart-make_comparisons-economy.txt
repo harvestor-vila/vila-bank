@@ -1,9 +1,0 @@
-part 1: Which country has a larger population size, the one with higher GDP or the one with lower unemployment rate?
-
-part 2: 
-  (A) The country with higher GDP has a larger population.
-  (B) The country with lower unemployment rate has a larger population.
-  (C) Both countries have the same population size.
-  (D) The visualization does not provide enough information to determine the answer.
-
-part 3: (B) The country with lower unemployment rate has a larger population.

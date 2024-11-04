@@ -1,7 +1,0 @@
-part 1: What is the ratio of Soybean's Profit to its Production?
-    part 2: 
-      (A) 0.8
-      (B) 1.2
-      (C) 0.2
-      (D) 2.2
-    part 3: (B) 1.2

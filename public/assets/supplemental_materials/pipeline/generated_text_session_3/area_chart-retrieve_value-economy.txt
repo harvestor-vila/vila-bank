@@ -1,7 +1,0 @@
-part 1: What is the value of GDP (in billions) for the year 2011 as shown in the area chart?
-    part 2: 
-      (A) 961
-      (B) 1106
-      (C) 816
-      (D) 1107
-    part 3: (A) 961

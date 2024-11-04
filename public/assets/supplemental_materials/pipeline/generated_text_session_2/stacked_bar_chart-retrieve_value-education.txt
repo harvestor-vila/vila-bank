@@ -1,9 +1,0 @@
-part 1: How many students are there in Grade 11 at School G?
-
-part 2: 
-  (A) 92
-  (B) 192
-  (C) 250
-  (D) 300
-
-part 3: (B) 192

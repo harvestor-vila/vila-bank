@@ -1,3 +1,0 @@
-part 1: What is the range of production values (in tonnes) for the crops shown in the stacked area chart?
-    part 2: (A) [42, 230] (B) [34, 260] (C) [26, 290] (D) [50, 200]
-    part 3: (D) [50, 200]

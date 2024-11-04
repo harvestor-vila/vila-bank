@@ -1,7 +1,0 @@
-part 1: If the distribution of Innovation Scores were to be displayed using a box plot, which of the following would be an accurate description of its characteristics?
-    part 2: 
-    (A) The box plot would show a normal distribution with equal quartiles and no outliers.
-    (B) The box plot would show a symmetrical distribution with the median centered in the box and few outliers.
-    (C) The box plot would likely show a right-skewed distribution with the median closer to the first quartile and several high-value outliers.
-    (D) The box plot would display a uniform distribution with all Innovation Scores equally spread across the quartiles.
-    part 3: (C) The box plot would likely show a right-skewed distribution with the median closer to the first quartile and several high-value outliers.

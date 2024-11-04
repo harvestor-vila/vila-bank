@@ -1,7 +1,0 @@
-part 1: Estimate the difference in Energy Consumption (GWh) between Time 5 and Time 15.
-    part 2: 
-      (A) 20.0 GWh
-      (B) 24.0 GWh
-      (C) 28.0 GWh
-      (D) 32.0 GWh
-    part 3: (B) 24.0 GWh

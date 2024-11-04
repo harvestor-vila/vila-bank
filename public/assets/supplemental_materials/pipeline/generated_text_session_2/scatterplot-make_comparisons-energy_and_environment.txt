@@ -1,9 +1,0 @@
-part 1: Which is greater, the number of data points with Energy Consumption over 400 MWh or the number of data points with Carbon Emission over 900 metric tons?
-
-part 2: 
-  (A) Energy Consumption over 400 MWh
-  (B) Carbon Emission over 900 metric tons
-  (C) Both are equal
-  (D) Cannot be determined from the visualization
-
-part 3: (A) Energy Consumption over 400 MWh

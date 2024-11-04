@@ -1,9 +1,0 @@
-part 1: What are the labels for the horizontal axis and the legend in the stacked bar chart of weather and climate factors by city?
-
-part 2: 
-  (A) Horizontal axis: Climate Factor, Legend: City
-  (B) Horizontal axis: Value, Legend: Climate Factor
-  (C) Horizontal axis: City, Legend: Climate Factor
-  (D) Horizontal axis: Value, Legend: City
-
-part 3: (C) Horizontal axis: City, Legend: Climate Factor

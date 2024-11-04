@@ -1,9 +1,0 @@
-part 1: What task does the bar chart design best support?
-
-part 2: 
-  (A) Comparing the number of votes received by different political parties
-  (B) Showing the geographic distribution of political party support
-  (C) Illustrating the change in votes for political parties over time
-  (D) Demonstrating the demographic breakdown of political party members
-
-part 3: (A) Comparing the number of votes received by different political parties

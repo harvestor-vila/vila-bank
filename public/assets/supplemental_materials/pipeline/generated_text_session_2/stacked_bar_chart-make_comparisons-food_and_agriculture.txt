@@ -1,9 +1,0 @@
-part 1: Which product has a higher total production in the South region compared to the West region?
-
-part 2: 
-(A) Wheat
-(B) Soybeans
-(C) Oats
-(D) Rye
-
-part 3: (B) Soybeans

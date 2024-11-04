@@ -1,9 +1,0 @@
-part 1: What is the average percentage of Solar energy usage over the years 2019 to 2021?
-
-part 2: 
-  (A) 12%
-  (B) 15%
-  (C) 18%
-  (D) 21%
-
-part 3: (B) 15%

@@ -1,9 +1,0 @@
-part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would best allow a viewer to compare the total number of votes for each issue across all states?
-
-part 2:
-(A) A pie chart with different slices representing each issue's total votes across all states.
-(B) A stacked bar chart with states on the x-axis, total votes on the y-axis, and issues represented by different colors.
-(C) A line graph with states on the x-axis, total votes on the y-axis, and separate lines for each issue.
-(D) A scatter plot with each state-issue pair as a point, positioned by the number of votes on the x-axis and the state on the y-axis.
-
-part 3:   (B) A stacked bar chart with states on the x-axis, total votes on the y-axis, and issues represented by different colors.

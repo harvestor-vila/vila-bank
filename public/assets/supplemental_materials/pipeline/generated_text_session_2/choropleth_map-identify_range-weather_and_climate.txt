@@ -1,9 +1,0 @@
-part 1: What is the range of the average temperature values represented on the choropleth map?
-
-part 2: 
-(A) [45, 115]
-(B) [50, 105]
-(C) [52, 100]
-(D) [40, 110]
-
-part 3: (C) [52, 100]

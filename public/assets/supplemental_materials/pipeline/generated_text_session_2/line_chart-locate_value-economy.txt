@@ -1,9 +1,0 @@
-part 1: In which year did the economy experience the lowest GDP growth rate?
-
-part 2: 
-  (A) 2003
-  (B) 2010
-  (C) 2015
-  (D) 2018
-
-part 3: (A) 2003

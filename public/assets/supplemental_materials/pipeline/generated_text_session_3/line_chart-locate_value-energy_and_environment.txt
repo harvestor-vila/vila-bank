@@ -1,7 +1,0 @@
-part 1: What is the time point at which the Energy Consumption reaches its maximum value?
-    part 2: 
-      (A) Time 5
-      (B) Time 9
-      (C) Time 15
-      (D) Time 20
-    part 3: (B) Time 9

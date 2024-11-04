@@ -1,7 +1,0 @@
-part 1: What pattern does the tree map visualization reveal about the distribution of values across energy and environmental subcategories?
-part 2: 
-  (A) Renewable Energy subcategories have the highest individual values.
-  (B) Non-Renewable Energy subcategories dominate the tree map with the largest combined value.
-  (C) Pollution Control and Conservation Efforts have equal total values.
-  (D) There is an equal distribution of values across all subcategories.
-part 3: (B) Non-Renewable Energy subcategories dominate the tree map with the largest combined value.

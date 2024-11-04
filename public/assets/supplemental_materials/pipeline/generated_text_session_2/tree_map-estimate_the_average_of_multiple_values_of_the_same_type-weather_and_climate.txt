@@ -1,9 +1,0 @@
-part 1: What is the average percentage for the "Temperature" category in the tree map visualization?
-
-part 2:
-  (A) 9.7
-  (B) 11.7
-  (C) 13.7
-  (D) 15.7
-
-part 3: (B) 11.7

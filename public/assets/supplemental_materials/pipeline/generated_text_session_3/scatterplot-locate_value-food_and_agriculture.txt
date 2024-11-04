@@ -1,7 +1,0 @@
-part 1: What is the value of Fertilizer Use (kg/ha) for the lowest Crop Yield (kg/ha) observed in the scatterplot?
-part 2: 
-(A) 300 kg/ha
-(B) 783 kg/ha
-(C) 5 kg/ha
-(D) 966 kg/ha
-part 3: (B) 783 kg/ha

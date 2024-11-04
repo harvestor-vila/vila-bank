@@ -1,9 +1,0 @@
-part 1: If the agricultural production data were to be displayed in a bar chart instead of a line chart, which of the following characteristics would be accurate?
-
-part 2: 
-(A) Each year would be represented by a pie slice, with the size of the slice proportional to the production value.
-(B) The chart would show a series of connected points, with each point representing the production value for a given year.
-(C) Each year would be represented by a horizontal bar, with the length of the bar proportional to the production value.
-(D) The chart would consist of a single line with a shaded area underneath, representing the cumulative production over the years.
-
-part 3: (C) Each year would be represented by a horizontal bar, with the length of the bar proportional to the production value.

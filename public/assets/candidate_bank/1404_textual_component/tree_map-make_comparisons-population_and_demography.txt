@@ -1,7 +1,0 @@
-part 1: Which category has a larger combined percentage, "Education_Level" or "Employment_Status"?
-    part 2: 
-      (A) Education_Level
-      (B) Employment_Status
-      (C) They are equal
-      (D) Cannot be determined from the visualization
-    part 3: (A) Education_Level

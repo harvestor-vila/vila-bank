@@ -1,9 +1,0 @@
-part 1:  The visualization above is only a demonstration of the relevant data. Which of the following visualization designs is most appropriate for showing the relative contribution of each economic sector to the total value over time?
-
-part 2:
-(A) A pie chart showing the proportion of each sector's value for a single year.
-(B) A stacked area chart displaying the cumulative value of all sectors over time.
-(C) A line chart with a single line representing the sum of values from all sectors over time.
-(D) A scatter plot with individual data points for each sector's value per year.
-
-part 3:   (B) A stacked area chart displaying the cumulative value of all sectors over time.

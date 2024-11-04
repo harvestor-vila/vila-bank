@@ -1,7 +1,0 @@
-part 1: Which weather type shows a clear trend of increasing percentage from Location A to Location D?
-    part 2: 
-      (A) Sunny
-      (B) Cloudy
-      (C) Rainy
-      (D) Windy
-    part 3: (C) Rainy

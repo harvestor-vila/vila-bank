@@ -1,9 +1,0 @@
-part 1: If the stacked bar chart titled "Political Issues by State" were to be converted into a pie chart, which of the following descriptions would be accurate?
-
-part 2: 
-(A) The pie chart would show each state as a separate pie, with slices representing different parties and their corresponding proportion of votes for each issue.
-(B) The pie chart would display a single pie for all states combined, with slices representing the sum of votes for each issue across all states.
-(C) The pie chart would represent each issue as a separate pie, with slices indicating the number of states that voted for each party on that issue.
-(D) The pie chart would have slices corresponding to each state, color-coded by the party with the most votes, regardless of the issue.
-
-part 3: (A) The pie chart would show each state as a separate pie, with slices representing different parties and their corresponding proportion of votes for each issue.

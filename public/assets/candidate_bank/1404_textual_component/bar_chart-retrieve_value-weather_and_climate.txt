@@ -1,7 +1,0 @@
-part 1: What is the average temperature for City3?
-    part 2: 
-      (A) 85
-      (B) 115
-      (C) 100
-      (D) 70
-    part 3: (C) 100

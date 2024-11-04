@@ -1,7 +1,0 @@
-part 1: If the votes per political party were displayed using a pie chart instead of a bar chart, which of the following would be a correct description of this alternative chart?
-    part 2: 
-    (A) Each political party would be represented by a slice of the pie chart, with the size of each slice corresponding to the party's percentage of the total votes.
-    (B) The pie chart would display each political party's votes as equally sized slices, with different colors indicating the number of votes.
-    (C) The pie chart would have slices of the same color, with the angle of each slice representing the ranking of parties based on votes.
-    (D) The pie chart would show a single slice representing the sum of all votes, with annotations for each political party.
-    part 3: (A) Each political party would be represented by a slice of the pie chart, with the size of each slice corresponding to the party's percentage of the total votes.

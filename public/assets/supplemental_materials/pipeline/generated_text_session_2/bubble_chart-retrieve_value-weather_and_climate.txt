@@ -1,9 +1,0 @@
-part 1: What is the size of the bubble representing precipitation in millimeters for Location D?
-
-part 2: 
-  (A) 0 mm
-  (B) 10 mm
-  (C) 2 mm
-  (D) 20 mm
-
-part 3: (C) 2 mm

@@ -1,7 +1,0 @@
-part 1: What is the ratio of Cholesterol Level for Patient 2 to that of Patient 4?
-    part 2: 
-    (A) 0.8
-    (B) 1.2
-    (C) 1.6
-    (D) 2.4
-    part 3: (B) 1.2

@@ -1,9 +1,0 @@
-part 1: In which category and year combination is the percentage of food and agriculture distribution the lowest?
-
-part 2: 
-(A) Vegetables in 2019
-(B) Dairy in 2021
-(C) Vegetables in 2020
-(D) Meat in 2020
-
-part 3: (C) Vegetables in 2020

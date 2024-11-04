@@ -1,9 +1,0 @@
-part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design is most appropriate for comparing the relative values of food and agriculture production across different states?
-
-part 2:
-(A) A pie chart with different slices representing each state's production units.
-(B) A choropleth map with varying colors representing the production units across states.
-(C) A line graph with time on the x-axis and production units on the y-axis.
-(D) A scatter plot with states on the x-axis and production units on the y-axis.
-
-part 3:   (B) A choropleth map with varying colors representing the production units across states.

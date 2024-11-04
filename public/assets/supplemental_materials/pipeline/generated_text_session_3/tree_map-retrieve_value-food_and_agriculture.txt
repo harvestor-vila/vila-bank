@@ -1,7 +1,0 @@
-part 1: What percentage of the food and agriculture categories does "Carrots" represent?
-    part 2: 
-    (A) 5%
-    (B) 17%
-    (C) 32%
-    (D) 40%
-    part 3: (B) 17%

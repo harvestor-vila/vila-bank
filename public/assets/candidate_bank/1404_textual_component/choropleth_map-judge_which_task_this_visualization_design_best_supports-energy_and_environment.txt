@@ -1,7 +1,0 @@
-part 1: What task does the choropleth map design best support?
-    part 2: 
-    (A) Comparing the exact energy consumption values between individual states
-    (B) Identifying trends in energy consumption across different regions
-    (C) Displaying the distribution of a categorical variable across states
-    (D) Showing the change in energy consumption over time for each state
-    part 3: (B) Identifying trends in energy consumption across different regions

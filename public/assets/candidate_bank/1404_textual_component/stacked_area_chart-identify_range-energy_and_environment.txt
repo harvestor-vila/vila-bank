@@ -1,9 +1,0 @@
-part 1: What is the range of total energy production values represented in the stacked area chart for each year?
-
-part 2: 
-(A) [1446, 2214]
-(B) [1190, 2493]
-(C) [934, 2772]
-(D) [1702, 1925]
-
-part 3: (D) [1702, 1925]

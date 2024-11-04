@@ -1,7 +1,0 @@
-part 1: How much funding did the Green Party receive?
-    part 2: 
-      (A) 2000000
-      (B) 3214790
-      (C) 4500000
-      (D) 3700000
-    part 3: (B) 3214790

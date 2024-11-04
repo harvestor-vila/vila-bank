@@ -1,9 +1,0 @@
-part 1: Which category had a larger share in 2021, Vegetables or Dairy?
-
-part 2: 
-(A) Vegetables
-(B) Dairy
-(C) Both had the same share
-(D) Cannot be determined from the visualization
-
-part 3: (A) Vegetables

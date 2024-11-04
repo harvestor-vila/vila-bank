@@ -1,6 +1,0 @@
-"Category" "Percentage"
-"Grains" 30
-"Vegetables" 25
-"Fruits" 20
-"Meats" 15
-"Dairy" 10

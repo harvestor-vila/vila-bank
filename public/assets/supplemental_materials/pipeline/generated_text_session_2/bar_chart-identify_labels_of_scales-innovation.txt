@@ -1,9 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the bar chart of investments in innovation sectors?
-
-part 2: 
-  (A) Horizontal: Investment (in millions), Vertical: Sector
-  (B) Horizontal: Sector, Vertical: Investment (in millions)
-  (C) Horizontal: Innovation, Vertical: Investments
-  (D) Horizontal: Investments, Vertical: Innovation
-
-part 3: (B) Horizontal: Sector, Vertical: Investment (in millions)

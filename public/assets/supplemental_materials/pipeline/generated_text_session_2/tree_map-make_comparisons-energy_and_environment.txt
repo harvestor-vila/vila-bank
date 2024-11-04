@@ -1,9 +1,0 @@
-part 1: Which category has a larger combined value, "Renewable Energy" or "Pollution Control"?
-
-part 2: 
-(A) Renewable Energy
-(B) Pollution Control
-(C) Non-Renewable Energy
-(D) Conservation Efforts
-
-part 3: (B) Pollution Control

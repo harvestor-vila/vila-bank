@@ -1,8 +1,0 @@
-part 1: Estimate the average number of votes per political party shown in the bar chart.
-part 2: options
-(A) 4288
-(B) 5802
-(C) 5045
-(D) 4000
-part 3: the correct answer
-(C) 5045

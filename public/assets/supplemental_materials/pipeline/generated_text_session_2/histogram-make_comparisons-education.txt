@@ -1,9 +1,0 @@
-part 1: Which range of test scores contains more students, 80-84 or 95-99?
-
-part 2: 
-(A) 80-84
-(B) 95-99
-(C) Both ranges contain the same number of students
-(D) Cannot be determined from the histogram
-
-part 3: (A) 80-84

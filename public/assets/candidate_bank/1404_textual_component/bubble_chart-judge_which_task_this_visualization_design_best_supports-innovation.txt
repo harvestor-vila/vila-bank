@@ -1,7 +1,0 @@
-part 1: Which task does this visualization design best support?
-    part 2: 
-      (A) Comparing the total number of innovations across different research budgets
-      (B) Identifying the relationship between innovation score and research budget, with an additional dimension of market impact
-      (C) Tracking changes in market impact over time
-      (D) Displaying the distribution of research budgets within fixed innovation score intervals
-    part 3: (B) Identifying the relationship between innovation score and research budget, with an additional dimension of market impact

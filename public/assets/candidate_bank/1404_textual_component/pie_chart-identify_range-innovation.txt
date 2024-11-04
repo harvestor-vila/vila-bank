@@ -1,7 +1,0 @@
-part 1: What is the range of percentage values represented in the pie chart for the different innovation categories?
-    part 2: 
-      (A) [10, 45]
-      (B) [15, 40]
-      (C) [5, 50]
-      (D) [20, 30]
-    part 3: (D) [20, 30]

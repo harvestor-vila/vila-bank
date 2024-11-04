@@ -1,9 +1,0 @@
-part 1: What is the Research Investment (in millions) for the highest Innovation Score?
-
-part 2: 
-(A) Research Investment of 4 million
-(B) Research Investment of 38 million
-(C) Research Investment of 6 million
-(D) Research Investment of 99 million
-
-part 3: (B) Research Investment of 38 million

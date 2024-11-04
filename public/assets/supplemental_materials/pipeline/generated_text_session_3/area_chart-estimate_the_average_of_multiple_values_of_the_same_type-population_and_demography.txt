@@ -1,9 +1,0 @@
-part 1: What is the average population from 2000 to 2019?
-part 2: 
-  (A) 2877
-  (B) 3385
-  (C) 3893
-  (D) 4401
-part 3: (B) 3385
-
-If the provided correct answer does not match the calculated rounded_average_population, or the incorrect options are not at the correct distance, I will indicate that there was a mistake and provide a new item with the correct information.

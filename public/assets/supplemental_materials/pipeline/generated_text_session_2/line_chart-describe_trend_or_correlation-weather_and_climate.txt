@@ -1,9 +1,0 @@
-part 1: What pattern does the line chart of daily average temperatures over 20 days primarily display?
-
-part 2: 
-(A) A consistent upward trend in temperature.
-(B) A consistent downward trend in temperature.
-(C) Temperatures fluctuate without a clear trend.
-(D) Temperatures remain constant throughout the period.
-
-part 3: (C) Temperatures fluctuate without a clear trend.

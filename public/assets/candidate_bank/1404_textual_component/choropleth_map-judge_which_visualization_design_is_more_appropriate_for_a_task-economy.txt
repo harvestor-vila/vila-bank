@@ -1,9 +1,0 @@
-part 1:  Given the task of comparing economic values across different states, which visualization design would be most appropriate? The visualization above is only a demonstration of the relevant data.
-
-    part 2:
-(A) A pie chart with slices representing the economic values of each state.
-(B) A choropleth map with states colored according to their economic values.
-(C) A line graph showing the economic values of each state over time.
-(D) A bar chart with alphabetical labels for each state and bars representing average temperatures.
-
-    part 3:   (B) A choropleth map with states colored according to their economic values.

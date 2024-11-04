@@ -1,9 +1,0 @@
-part 1:      What is the ratio of the number of patients recovered on Day 20 to the number of patients recovered on Day 10?
-
-    part 2:
-    (A) 1.2
-    (B) 2.2
-    (C) 3.2
-    (D) 4.2
-
-    part 3: (B) 2.2

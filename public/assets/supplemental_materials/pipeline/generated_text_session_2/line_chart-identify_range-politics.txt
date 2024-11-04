@@ -1,9 +1,0 @@
-part 1: What is the range of approval ratings over the years shown in the line chart?
-
-part 2: 
-  (A) [17, 83]
-  (B) [20, 85]
-  (C) [32, 68]
-  (D) [10, 90]
-
-part 3: (C) [32, 68]

@@ -1,9 +1,0 @@
-part 1: What percentage of the energy distribution is represented by Solar power?
-
-part 2: 
-  (A) 5%
-  (B) 20%
-  (C) 35%
-  (D) 50%
-
-part 3: (B) 20%

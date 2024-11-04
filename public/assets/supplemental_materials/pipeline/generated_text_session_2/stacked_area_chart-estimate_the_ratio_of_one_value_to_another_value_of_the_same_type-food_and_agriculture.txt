@@ -1,9 +1,0 @@
-part 1: What is the ratio of Wheat production in 2019 to that in 2000?
-
-part 2:
-(A) 1.4
-(B) 2.4
-(C) 3.4
-(D) 4.4
-
-part 3: (B) 2.4

@@ -1,5 +1,0 @@
-part 1: Estimate the difference in percentage between the "Renewables" and "Oil & Gas" subcategories within the "Energy" category.
-
-part 2: (A) 5.0 (B) 4.0 (C) 6.0 (D) 3.0
-
-part 3: (B) 4.0

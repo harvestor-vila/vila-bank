@@ -1,9 +1,0 @@
-part 1: Which state has a higher innovation score, Texas or Florida?
-
-part 2: 
-(A) Texas
-(B) Florida
-(C) Both have the same score
-(D) The visualization does not include these states
-
-part 3: (A) Texas

@@ -1,9 +1,0 @@
-part 1: What is the ratio of the number of graduates in 2019 to the number of graduates in 2000?
-
-part 2:
-(A) 29.5
-(B) 35.5
-(C) 41.5
-(D) 47.5
-
-part 3: (B) 35.5

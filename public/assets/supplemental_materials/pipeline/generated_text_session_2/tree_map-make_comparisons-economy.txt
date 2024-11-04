@@ -1,9 +1,0 @@
-part 1: Which sector has a larger share in the economy, Manufacturing or Technology?
-
-part 2: 
-(A) Manufacturing
-(B) Technology
-(C) Services
-(D) Agriculture
-
-part 3: (A) Manufacturing

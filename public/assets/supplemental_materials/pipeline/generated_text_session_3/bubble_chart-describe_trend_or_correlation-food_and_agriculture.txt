@@ -1,7 +1,0 @@
-part 1: What trend or correlation is observed between crop production and profit?
-    part 2: 
-    (A) As production increases, profit consistently decreases.
-    (B) There is no clear trend or correlation between production and profit.
-    (C) As production increases, profit also increases.
-    (D) Crops with the highest production always have the highest profit.
-    part 3: (B) There is no clear trend or correlation between production and profit.

@@ -1,7 +1,0 @@
-part 1: Which category does the subcategory 'Bananas' belong to in the tree map?
-    part 2: 
-    (A) Grains
-    (B) Vegetables
-    (C) Fruits
-    (D) Dairy
-    part 3: (C) Fruits

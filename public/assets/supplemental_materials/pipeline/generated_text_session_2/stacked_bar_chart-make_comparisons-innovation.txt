@@ -1,9 +1,0 @@
-part 1: Which sector has a higher number of innovations in Research compared to Startups?
-
-part 2: 
-(A) Tech
-(B) Health
-(C) Energy
-(D) Agriculture
-
-part 3: (B) Health

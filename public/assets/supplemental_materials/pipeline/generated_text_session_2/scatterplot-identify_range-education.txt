@@ -1,9 +1,0 @@
-part 1: What is the range of Study Hours per week for the students?
-
-part 2: 
-(A) [0, 25]
-(B) [1, 20]
-(C) [-3, 23]
-(D) [2, 22]
-
-part 3: (B) [1, 20]

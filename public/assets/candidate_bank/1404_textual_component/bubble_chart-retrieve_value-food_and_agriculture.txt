@@ -1,7 +1,0 @@
-part 1: What is the profit in thousands of dollars for Soybean production?
-part 2: 
-  (A) 89
-  (B) 109
-  (C) 130
-  (D) 150
-part 3: (B) 109

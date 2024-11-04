@@ -1,7 +1,0 @@
-part 1: What pattern does the stacked bar chart reveal about the agricultural production across different regions?
-    part 2: 
-    (A) The production of all products is highest in the South region.
-    (B) The production of each product is consistent across all regions.
-    (C) The East region has the highest production for Oats, while the West region has the highest for Millet.
-    (D) The North region consistently has the lowest production for all products.
-    part 3: (C) The East region has the highest production for Oats, while the West region has the highest for Millet.

@@ -1,7 +1,0 @@
-part 1: Which data point is an outlier in the scatterplot of Innovation Index vs. Patent Count?
-    part 2: 
-      (A) Innovation Index of 100 and Patent Count of 13
-      (B) Innovation Index of 150 and Patent Count of 30
-      (C) Innovation Index of 63 and Patent Count of 18
-      (D) Innovation Index of 52 and Patent Count of 1
-    part 3: (B) Innovation Index of 150 and Patent Count of 30

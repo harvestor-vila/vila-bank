@@ -1,9 +1,0 @@
-part 1: Which age group has the lowest percentage focus on Stress Management?
-
-part 2: 
-(A) Young Adults
-(B) Adults
-(C) Seniors
-(D) Exercise
-
-part 3: (C) Seniors

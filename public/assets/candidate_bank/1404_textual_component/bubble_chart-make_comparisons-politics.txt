@@ -1,9 +1,0 @@
-part 1: Which political party has fewer seats but more funding compared to the Libertarian party?
-
-part 2: 
-(A) Green
-(B) Conservative
-(C) Socialist
-(D) Progressive
-
-part 3: (C) Socialist

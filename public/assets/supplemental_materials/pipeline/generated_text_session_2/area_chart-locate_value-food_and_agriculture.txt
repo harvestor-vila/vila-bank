@@ -1,9 +1,0 @@
-part 1: In which year did agricultural production reach its maximum?
-
-part 2: 
-  (A) 2005
-  (B) 2010
-  (C) 2016
-  (D) 2019
-
-part 3: (D) 2019

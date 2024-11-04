@@ -1,9 +1,0 @@
-part 1: What pattern does the choropleth map of education data by state reveal?
-
-part 2: 
-(A) A clear increasing trend in education values from the West Coast to the East Coast.
-(B) Higher education values are predominantly found in the Midwest region.
-(C) No clear trend or regional correlation in education values across states.
-(D) Southern states have significantly higher education values than northern states.
-
-part 3: (C) No clear trend or regional correlation in education values across states.

@@ -1,7 +1,0 @@
-part 1: What trend does the area chart of GDP over the years indicate?
-    part 2: 
-      (A) The GDP shows a consistent upward trend over the years.
-      (B) The GDP shows a consistent downward trend over the years.
-      (C) The GDP remains constant over the years.
-      (D) The GDP fluctuates significantly from year to year.
-    part 3: (C) The GDP remains constant over the years.

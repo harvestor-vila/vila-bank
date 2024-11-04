@@ -1,7 +1,0 @@
-part 1: If the average temperatures for the 20 cities were displayed using a box plot instead of a bar chart, which of the following would be an accurate description of the box plot's characteristics?
-    part 2: 
-    (A) The box plot would show individual data points for each city, with lines connecting the points in ascending order of temperature.
-    (B) The box plot would display the distribution of temperatures across cities, with a box representing the interquartile range and whiskers extending to the minimum and maximum values.
-    (C) The box plot would consist of 20 separate boxes, each representing the average temperature of a city, without any indication of variability or distribution.
-    (D) The box plot would have a single box representing the combined average temperature of all cities, with no differentiation between individual cities.
-    part 3: (B) The box plot would display the distribution of temperatures across cities, with a box representing the interquartile range and whiskers extending to the minimum and maximum values.

@@ -1,7 +1,0 @@
-part 1: What is the topic of the visualization?
-    part 2: 
-      (A) The fluctuation of average global temperatures from 2000 to 2019
-      (B) The trend of a population over the years 2000 to 2019
-      (C) The annual number of tourists visiting a city from 2000 to 2019
-      (D) The progression of technology adoption rates from 2000 to 2019
-    part 3: (B) The trend of a population over the years 2000 to 2019

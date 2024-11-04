@@ -1,6 +1,0 @@
-"Climate_Category" "Percentage"
-"Tropical" 20
-"Arid" 15
-"Temperate" 30
-"Cold" 25
-"Polar" 10

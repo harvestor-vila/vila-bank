@@ -1,6 +1,0 @@
-part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would best allow a viewer to compare the total number of patients across all health categories for each clinic?
-part 2: (A) A pie chart with different slices representing each health category's total number of patients for all clinics combined.
-(B) A stacked bar chart with clinics on the x-axis, number of patients on the y-axis, and different colors representing each health category.
-(C) A line graph with clinics on the x-axis and the number of patients on the y-axis, with a separate line for each health category.
-(D) A scatter plot with each point representing a clinic and health category, with the position on the y-axis showing the number of patients.
-part 3: (B) A stacked bar chart with clinics on the x-axis, number of patients on the y-axis, and different colors representing each health category.

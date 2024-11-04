@@ -1,7 +1,0 @@
-part 1: If the population distribution by age group over time were to be displayed using a line chart instead of a stacked area chart, which of the following would be an accurate description of the line chart's characteristics?
-part 2: 
-(A) Each age group would be represented by a line that overlaps with others, making it difficult to discern individual trends.
-(B) The line chart would show cumulative population totals for each year with lines stacked on top of one another.
-(C) The line chart would display separate, non-overlapping lines for each age group, allowing for comparison of trends over time.
-(D) The line chart would use shading between lines to represent the proportion of each age group within the total population for each year.
-part 3: (C) The line chart would display separate, non-overlapping lines for each age group, allowing for comparison of trends over time.

@@ -1,9 +1,0 @@
-part 1: What pattern does the pie chart of energy sources distribution show in terms of energy production percentages?
-
-part 2: 
-  (A) Solar energy production is half of wind energy production.
-  (B) Hydro and nuclear combined have a larger share than coal.
-  (C) Wind energy has the largest percentage of production among the sources.
-  (D) Natural gas and coal each contribute to 50% of the energy production.
-
-part 3: (C) Wind energy has the largest percentage of production among the sources.

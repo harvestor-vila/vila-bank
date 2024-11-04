@@ -1,9 +1,0 @@
-part 1: What is the ratio of the value for "Wind" to the value for "Solar" in the category of "Renewable Energy"?
-
-part 2: 
-(A) 1.6
-(B) 0.4
-(C) 2.8
-(D) 3.2
-
-part 3: (A) 1.6

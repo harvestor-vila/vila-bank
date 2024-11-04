@@ -1,7 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the histogram of the population age distribution?
-    part 2: 
-      (A) Horizontal: Number of People, Vertical: Age
-      (B) Horizontal: Age, Vertical: Number of People
-      (C) Horizontal: Population, Vertical: Frequency
-      (D) Horizontal: Frequency, Vertical: Population
-    part 3: (B) Horizontal: Age, Vertical: Number of People

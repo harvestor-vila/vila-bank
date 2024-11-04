@@ -1,9 +1,0 @@
-part 1: How does the population growth from 2000 to 2001 compare to the growth from 2018 to 2019?
-
-part 2: 
-  (A) The growth from 2000 to 2001 was larger.
-  (B) The growth from 2018 to 2019 was larger.
-  (C) The growth was the same for both periods.
-  (D) There was no growth in both periods.
-
-part 3: (B) The growth from 2018 to 2019 was larger.

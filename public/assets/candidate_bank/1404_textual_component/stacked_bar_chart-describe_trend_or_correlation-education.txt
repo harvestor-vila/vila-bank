@@ -1,7 +1,0 @@
-part 1: What pattern does the stacked bar chart reveal about the distribution of students across grades in the various schools?
-    part 2: 
-      (A) All schools have a consistent increase in student numbers from Grade 9 to Grade 12.
-      (B) School C consistently has the highest number of students across all grades.
-      (C) There is no consistent trend in student numbers across grades for all schools.
-      (D) The number of students decreases as the grade level increases for each school.
-    part 3: (C) There is no consistent trend in student numbers across grades for all schools.

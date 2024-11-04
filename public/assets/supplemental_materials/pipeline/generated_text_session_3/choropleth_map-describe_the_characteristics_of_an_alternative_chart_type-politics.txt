@@ -1,7 +1,0 @@
-part 1: If the choropleth map were to be replaced with a bar chart, which of the following would best describe its characteristics?
-part 2: 
-(A) A bar chart would display each state's value as a separate line, with the length of the line representing the magnitude of the value.
-(B) A bar chart would show a pie slice for each state, with the size of the slice proportional to the state's value.
-(C) A bar chart would represent each state's value with a bubble, where the bubble's size indicates the value's magnitude.
-(D) A bar chart would represent each state's value with a vertical bar, with the height of the bar corresponding to the value's magnitude.
-part 3: (D) A bar chart would represent each state's value with a vertical bar, with the height of the bar corresponding to the value's magnitude.

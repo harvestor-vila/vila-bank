@@ -1,9 +1,0 @@
-part 1: If the population distribution by region and age group were to be displayed using a pie chart instead of a stacked bar chart, which of the following would be a characteristic of the pie chart?
-
-part 2: 
-(A) Each region would be represented by a separate pie chart, with slices proportional to the age group populations within that region.
-(B) The pie chart would have slices representing each region, with the size of each slice proportional to the total population across all age groups.
-(C) The pie chart would show a single slice for each age group, with the size of the slice representing the average population of that group across all regions.
-(D) The pie chart would have slices representing each age group, with the size of each slice proportional to the population of that group within a single region.
-
-part 3: (A) Each region would be represented by a separate pie chart, with slices proportional to the age group populations within that region.

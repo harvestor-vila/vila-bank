@@ -1,9 +1,0 @@
-part 1: Which clinic has a greater number of patients in the Cardio category compared to the Strength category?
-
-part 2: 
-  (A) Clinic 1
-  (B) Clinic 2
-  (C) Clinic 6
-  (D) Clinic 7
-
-part 3: (B) Clinic 2

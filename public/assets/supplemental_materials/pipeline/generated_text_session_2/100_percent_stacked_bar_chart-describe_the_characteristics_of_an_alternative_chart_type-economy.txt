@@ -1,9 +1,0 @@
-part 1: How would a pie chart represent the sector contributions to the economy for a given year?
-
-part 2: 
-(A) A pie chart would show each sector's contribution as a separate slice, with the size of each slice corresponding to the sector's revenue.
-(B) A pie chart would display each sector's contribution as a separate bar, with the length of the bar representing the sector's growth over time.
-(C) A pie chart would depict each sector's contribution as a point on a line, with the position of the point reflecting the sector's market share.
-(D) A pie chart would illustrate each sector's contribution as a stacked area, with the cumulative area representing the total economic output.
-
-part 3: (A) A pie chart would show each sector's contribution as a separate slice, with the size of each slice corresponding to the sector's revenue.

@@ -1,9 +1,0 @@
-part 1: Which city has the highest average temperature?
-
-part 2: 
-  (A) City5
-  (B) City3
-  (C) City14
-  (D) City8
-
-part 3: (B) City3

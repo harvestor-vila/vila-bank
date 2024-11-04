@@ -1,9 +1,0 @@
-part 1: What task does the tree map visualization design best support?
-
-part 2: 
-  (A) Comparing exact values across multiple categories and subcategories
-  (B) Showing the hierarchical structure of educational categories and their relative sizes
-  (C) Displaying time-series data for educational subcategories
-  (D) Illustrating the geographic distribution of educational categories
-
-part 3: (B) Showing the hierarchical structure of educational categories and their relative sizes

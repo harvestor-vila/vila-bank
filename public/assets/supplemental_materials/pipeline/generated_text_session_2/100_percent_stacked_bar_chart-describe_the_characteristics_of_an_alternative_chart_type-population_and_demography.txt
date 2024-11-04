@@ -1,9 +1,0 @@
-part 1: If the population distribution by age group and gender were to be displayed using a pie chart instead of a 100 percent stacked bar chart, which of the following statements would correctly describe its characteristics?
-
-part 2: 
-(A) Each pie slice would represent a different gender, with the size of the slice proportional to the sum of percentages across all age groups for that gender.
-(B) The pie chart would have ten equally sized slices, each representing an age group and gender combination.
-(C) Each pie slice would represent a different age group, with the size of the slice proportional to the total percentage of that age group across both genders.
-(D) The pie chart would consist of two separate pies, one for each gender, with slices representing the percentage distribution across age groups.
-
-part 3: (D) The pie chart would consist of two separate pies, one for each gender, with slices representing the percentage distribution across age groups.

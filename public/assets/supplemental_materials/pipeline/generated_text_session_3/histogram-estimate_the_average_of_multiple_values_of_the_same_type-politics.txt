@@ -1,7 +1,0 @@
-part 1: What is the average number of votes received by the candidates in the hypothetical primary election?
-part 2:
-  (A) 30.0
-  (B) 35.0
-  (C) 25.0
-  (D) 40.0
-part 3: 30.0

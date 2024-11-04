@@ -1,9 +1,0 @@
-part 1: What is the average number of "Tech_Advancements" innovations per year from 2000 to 2019?
-
-part 2: 
-(A) 105
-(B) 143
-(C) 90
-(D) 124
-
-part 3: (D) 124

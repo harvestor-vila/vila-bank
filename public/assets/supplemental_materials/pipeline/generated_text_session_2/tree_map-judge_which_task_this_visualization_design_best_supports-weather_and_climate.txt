@@ -1,9 +1,0 @@
-part 1: What task does this tree map visualization design best support?
-
-part 2: 
-  (A) Comparing the exact numerical values across different categories and subcategories
-  (B) Identifying trends and patterns over time
-  (C) Showing hierarchical relationships and proportions within the weather and climate data
-  (D) Displaying geographic distribution of weather and climate data
-
-part 3: (C) Showing hierarchical relationships and proportions within the weather and climate data

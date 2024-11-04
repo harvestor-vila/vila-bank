@@ -1,9 +1,0 @@
-part 1: What is the range of GDP Contribution values across all sectors represented in the bar chart?
-
-part 2: 
-  (A) [98, 578]
-  (B) [113, 473]
-  (C) [88, 543]
-  (D) [95, 488]
-
-part 3: (B) [113, 473]

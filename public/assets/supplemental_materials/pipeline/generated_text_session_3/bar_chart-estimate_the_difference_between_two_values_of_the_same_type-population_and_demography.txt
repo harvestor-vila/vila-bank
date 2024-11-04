@@ -1,7 +1,0 @@
-part 1: What is the estimated difference in population between the age groups "0-14" and "65+"?
-    part 2: 
-      (A) 1900
-      (B) 2268
-      (C) 1900
-      (D) 2600
-    part 3: (B) 2268

@@ -1,9 +1,0 @@
-part 1: What percentage of the health subcategories distribution is attributed to Stroke within Neurology?
-
-part 2: 
-  (A) 2%
-  (B) 5%
-  (C) 20%
-  (D) 23%
-
-part 3: (B) 5%

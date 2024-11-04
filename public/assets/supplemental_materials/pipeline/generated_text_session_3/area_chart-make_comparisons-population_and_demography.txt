@@ -1,7 +1,0 @@
-part 1: How does the population in 2000 compare to the population in 2019?
-    part 2: 
-    (A) The population in 2000 is slightly less than in 2019.
-    (B) The population in 2000 is the same as in 2019.
-    (C) The population in 2000 is significantly greater than in 2019.
-    (D) The population in 2000 is slightly greater than in 2019.
-    part 3: (C) The population in 2000 is significantly greater than in 2019.

@@ -1,7 +1,0 @@
-part 1: In which year did the Libertarian party receive the maximum number of votes?
-    part 2: 
-    (A) 2000
-    (B) 2007
-    (C) 2013
-    (D) 2019
-    part 3: (B) 2007

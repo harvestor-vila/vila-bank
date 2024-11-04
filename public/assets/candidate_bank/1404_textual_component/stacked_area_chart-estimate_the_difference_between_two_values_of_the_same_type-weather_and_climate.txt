@@ -1,7 +1,0 @@
-part 1: Estimate the difference between the highest and lowest temperature values over the 20-day period.
-part 2: 
-  (A) 11.0
-  (B) 14.0
-  (C) 18.0
-  (D) 21.0
-part 3: (B) 14.0

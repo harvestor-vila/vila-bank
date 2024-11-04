@@ -1,9 +1,0 @@
-part 1: What trend is observed in the energy source distribution over the years 2019 to 2021?
-
-part 2: 
-  (A) A steady increase in the percentage of Solar energy used each year.
-  (B) A consistent decline in the use of Fossil Fuels over the three years.
-  (C) Nuclear energy remained the most dominant source throughout the years.
-  (D) Hydro energy usage peaked in 2020 but declined in 2021.
-
-part 3: (B) A consistent decline in the use of Fossil Fuels over the three years.

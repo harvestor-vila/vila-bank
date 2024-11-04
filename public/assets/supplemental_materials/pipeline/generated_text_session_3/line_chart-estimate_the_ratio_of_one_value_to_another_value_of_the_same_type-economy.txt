@@ -1,7 +1,0 @@
-part 1: What is the ratio of the GDP Growth rate in 2005 to that in 2019?
-part 2: 
-(A) 0.4
-(B) 1.4
-(C) 2.4
-(D) 3.4
-part 3: (B) 1.4

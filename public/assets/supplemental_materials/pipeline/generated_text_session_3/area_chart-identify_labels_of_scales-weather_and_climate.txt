@@ -1,7 +1,0 @@
-part 1: What are the labels for the x-axis and y-axis in the area chart depicting average daily temperature over a period of time?
-    part 2: 
-      (A) x-axis: Average Temperature (°F), y-axis: Day
-      (B) x-axis: Day, y-axis: Average Temperature (°F)
-      (C) x-axis: Time, y-axis: Temperature (°C)
-      (D) x-axis: Date, y-axis: Temperature (°F)
-    part 3: (B) x-axis: Day, y-axis: Average Temperature (°F)

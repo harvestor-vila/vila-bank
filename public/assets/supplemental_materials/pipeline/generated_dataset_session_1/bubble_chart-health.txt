@@ -1,8 +1,0 @@
-"Age"	"SystolicBP"	"CholesterolLevel"	"PatientID"
-22	178	230	"Patient 4"
-33	166	227	"Patient 3"
-34	152	156	"Patient 1"
-61	135	192	"Patient 5"
-69	134	252	"Patient 6"
-70	123	286	"Patient 2"
-73	118	266	"Patient 7"

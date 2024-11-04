@@ -1,9 +1,0 @@
-part 1:  The visualization above is only a demonstration of the relevant data. Which of the following visualization designs would be most appropriate for displaying the relationship between age and systolic blood pressure while also considering the cholesterol level for each patient?
-
-part 2:
-(A) A pie chart with slices representing different age groups and colors indicating the average systolic blood pressure, with the size of each slice proportional to the average cholesterol level.
-(B) A line graph with age on the x-axis and systolic blood pressure on the y-axis, with a separate line for each patient's cholesterol level.
-(C) A bubble chart with age on the x-axis, systolic blood pressure on the y-axis, and bubble size representing cholesterol level, with each bubble color-coded by patient ID.
-(D) A stacked bar chart with age groups on the x-axis, cumulative systolic blood pressure on the y-axis, and segments within each bar representing cholesterol levels.
-
-part 3:   (C) A bubble chart with age on the x-axis, systolic blood pressure on the y-axis, and bubble size representing cholesterol level, with each bubble color-coded by patient ID.

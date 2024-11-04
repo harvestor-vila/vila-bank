@@ -1,9 +1,0 @@
-part 1: What pattern is observed in the distribution of patients across different health categories among the clinics?
-
-part 2: 
-(A) Clinics show a consistent increase in patient numbers across all health categories.
-(B) Each clinic has a predominant health category with significantly more patients than the others.
-(C) No clear trend or correlation is observed in the distribution of patients across health categories.
-(D) The number of patients in the Cardio category is consistently the highest across all clinics.
-
-part 3: (C) No clear trend or correlation is observed in the distribution of patients across health categories.

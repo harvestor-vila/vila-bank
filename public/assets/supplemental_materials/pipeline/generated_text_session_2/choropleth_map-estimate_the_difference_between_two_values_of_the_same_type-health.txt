@@ -1,9 +1,0 @@
-part 1: Estimate the difference in the Health Index values between Texas and California.
-
-part 2: 
-(A) 1232.0
-(B) 1450.0
-(C) 1668.0
-(D) 1886.0
-
-part 3: (B) 1450.0

@@ -1,7 +1,0 @@
-part 1: What is the estimated difference in votes between the years 2003 and 2008?
-    part 2: 
-      (A) 200 votes
-      (B) 292 votes
-      (C) 350 votes
-      (D) 100 votes
-    part 3: (B) 292 votes

@@ -1,7 +1,0 @@
-part 1: What is the topic of the visualization?
-    part 2: 
-      (A) Global climate change trends over the past century
-      (B) Distribution of population and demographic characteristics
-      (C) Comparison of economic growth among different countries
-      (D) Analysis of internet usage patterns across age groups
-    part 3: (B) Distribution of population and demographic characteristics

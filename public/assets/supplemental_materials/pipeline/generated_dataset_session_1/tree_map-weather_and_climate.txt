@@ -1,9 +1,0 @@
-"Category"	"Subcategory"	"Percentage"
-"Temperature"	"High"	6
-"Precipitation"	"High"	16
-"Wind"	"High"	9
-"Temperature"	"Moderate"	18
-"Precipitation"	"Moderate"	19
-"Wind"	"Moderate"	2
-"Temperature"	"Low"	11
-"Precipitation"	"Low"	19

@@ -1,9 +1,0 @@
-part 1: What percentage of the total does Product Innovation represent in the Innovation Categories Distribution?
-
-part 2: 
-  (A) 10%
-  (B) 25%
-  (C) 40%
-  (D) 50%
-
-part 3: (B) 25%

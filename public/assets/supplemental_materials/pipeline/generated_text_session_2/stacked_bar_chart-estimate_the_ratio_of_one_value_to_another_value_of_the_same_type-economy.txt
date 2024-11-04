@@ -1,9 +1,0 @@
-part 1: What is the ratio of the Technology sector's income to the Agriculture sector's income in 2021?
-
-part 2:
-(A) 0.2
-(B) 2.2
-(C) 3.2
-(D) 1.2
-
-part 3: (D) 1.2

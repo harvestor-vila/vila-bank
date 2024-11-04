@@ -1,9 +1,0 @@
-part 1: What is the average number of votes for the Conservative party from 2000 to 2019?
-
-part 2: 
-  (A) 436
-  (B) 512
-  (C) 590
-  (D) 667
-
-part 3: (B) 512

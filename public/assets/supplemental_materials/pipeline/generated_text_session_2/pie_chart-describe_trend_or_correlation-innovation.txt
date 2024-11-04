@@ -1,9 +1,0 @@
-part 1: What pattern does the pie chart of Innovation Categories Distribution reveal about the percentage share of each innovation category?
-
-part 2: 
-  (A) Product Innovation has the highest percentage, followed by Organizational Innovation.
-  (B) Process Innovation has a significantly larger percentage than the other categories.
-  (C) All categories have an equal percentage distribution.
-  (D) Product and Organizational Innovation have equal percentages, which are both less than Process Innovation but more than Marketing Innovation.
-
-part 3: (D) Product and Organizational Innovation have equal percentages, which are both less than Process Innovation but more than Marketing Innovation.

@@ -1,9 +1,0 @@
-part 1: What is the label of the legend in the choropleth map displaying health index values across different states?
-
-part 2: 
-(A) Population Density
-(B) Health Index
-(C) Gross State Product
-(D) Average Temperature
-
-part 3: (B) Health Index

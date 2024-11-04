@@ -1,9 +1,0 @@
-part 1: What pattern does the histogram of agricultural yield per acre display?
-
-part 2: 
-(A) The data shows a strong positive correlation between yield per acre and frequency.
-(B) The histogram displays a right-skewed distribution with most data points clustered at the lower end of yield per acre.
-(C) The histogram shows a uniform distribution with all yield per acre values occurring equally.
-(D) The data indicates a bell-shaped, normal distribution centered around a mean yield per acre.
-
-part 3: (B) The histogram displays a right-skewed distribution with most data points clustered at the lower end of yield per acre.

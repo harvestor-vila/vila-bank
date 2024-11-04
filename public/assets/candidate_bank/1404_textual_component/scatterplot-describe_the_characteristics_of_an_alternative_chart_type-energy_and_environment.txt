@@ -1,7 +1,0 @@
-part 1: If the scatterplot showing Energy Consumption vs. Carbon Emission were to be represented as a boxplot, which of the following descriptions would accurately characterize this alternative chart type?
-    part 2: 
-    (A) A boxplot would show the distribution of Energy Consumption and Carbon Emission separately, with boxes indicating the interquartile range and whiskers extending to the minimum and maximum values.
-    (B) A boxplot would display the average Energy Consumption and Carbon Emission as single points, with error bars representing standard deviation.
-    (C) A boxplot would connect median values of Energy Consumption and Carbon Emission, forming a line chart within a box.
-    (D) A boxplot would illustrate the cumulative frequency of Energy Consumption and Carbon Emission data points as a step function.
-    part 3: (A) A boxplot would show the distribution of Energy Consumption and Carbon Emission separately, with boxes indicating the interquartile range and whiskers extending to the minimum and maximum values.

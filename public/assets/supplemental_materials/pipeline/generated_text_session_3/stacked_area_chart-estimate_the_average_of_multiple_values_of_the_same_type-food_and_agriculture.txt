@@ -1,7 +1,0 @@
-part 1: What is the average production (in tonnes) of Wheat per year over the period shown?
-    part 2: 
-      (A) 125
-      (B) 106
-      (C) 144
-      (D) 163
-    part 3: (A) 125

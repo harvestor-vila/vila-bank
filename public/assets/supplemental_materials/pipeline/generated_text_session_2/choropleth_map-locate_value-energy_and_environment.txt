@@ -1,9 +1,0 @@
-part 1: Which state has the lowest energy consumption value?
-
-part 2: 
-(A) Maryland
-(B) Texas
-(C) California
-(D) New York
-
-part 3: (A) Maryland

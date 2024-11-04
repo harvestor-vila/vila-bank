@@ -1,9 +1,0 @@
-part 1: What is the range of Income values depicted in the histogram?
-
-part 2: 
-  (A) [18700, 94300]
-  (B) [15400, 106600]
-  (C) [12100, 118900]
-  (D) [22000, 82000]
-
-part 3: (D) [22000, 82000]

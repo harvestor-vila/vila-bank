@@ -1,9 +1,0 @@
-part 1: Which sector has a larger share of the economy, Agriculture or Construction?
-
-part 2: 
-  (A) Agriculture
-  (B) Construction
-  (C) Both are equal
-  (D) The visualization does not provide this information
-
-part 3: (A) Agriculture

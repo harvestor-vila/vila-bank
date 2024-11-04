@@ -1,9 +1,0 @@
-part 1:  What is the range of Cholesterol Level values represented in the histogram?
-
-part 2:
-(A) [127, 256]
-(B) [117, 266]
-(C) [107, 276]
-(D) [150, 222]
-
-part 3:   (D) [150, 222]

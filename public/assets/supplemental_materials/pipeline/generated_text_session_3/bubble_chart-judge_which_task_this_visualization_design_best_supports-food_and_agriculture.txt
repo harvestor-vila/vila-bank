@@ -1,7 +1,0 @@
-part 1: Which task does this bubble chart design best support?
-    part 2: 
-      (A) Comparing the total number of crops produced
-      (B) Identifying the relationship between crop production, yield, and profit
-      (C) Ranking crops based solely on yield
-      (D) Showing the geographic distribution of crop production
-    part 3: (B) Identifying the relationship between crop production, yield, and profit

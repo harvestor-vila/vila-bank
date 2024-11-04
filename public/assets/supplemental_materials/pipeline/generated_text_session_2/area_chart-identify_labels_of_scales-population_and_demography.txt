@@ -1,9 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the area chart depicting population trends?
-
-part 2: 
-  (A) Horizontal: Population, Vertical: Year
-  (B) Horizontal: Year, Vertical: Population
-  (C) Horizontal: Time, Vertical: Number of People
-  (D) Horizontal: Date, Vertical: Residents
-
-part 3: (B) Horizontal: Year, Vertical: Population

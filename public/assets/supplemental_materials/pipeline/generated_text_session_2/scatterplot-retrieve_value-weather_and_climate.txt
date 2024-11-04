@@ -1,9 +1,0 @@
-part 1: What is the humidity percentage when the temperature is 100°F?
-
-part 2: 
-  (A) 57%
-  (B) 72%
-  (C) 85%
-  (D) 97%
-
-part 3: (B) 72%

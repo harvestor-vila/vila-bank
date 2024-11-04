@@ -1,9 +1,0 @@
-part 1: Which economic sector has the smallest share of the distribution?
-
-part 2: 
-(A) Agriculture
-(B) Construction
-(C) Services
-(D) Technology
-
-part 3: (B) Construction

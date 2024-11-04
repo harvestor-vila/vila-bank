@@ -1,9 +1,0 @@
-part 1: If the scatterplot showing Population vs Median Age were to be represented as a line chart, which of the following would best describe its characteristics?
-
-part 2: 
-(A) The line chart would show a series of peaks and valleys with no discernible trend, as the data points are randomly distributed.
-(B) The line chart would show a horizontal line, indicating no change in median age across different population sizes.
-(C) The line chart would show a downward trend, indicating a negative correlation between population size and median age.
-(D) The line chart would show an upward trend, indicating that as the population size increases, the median age also increases.
-
-part 3: (C) The line chart would show a downward trend, indicating a negative correlation between population size and median age.

@@ -1,9 +1,0 @@
-part 1: If the distribution of standardized test scores were to be displayed using a box plot, which of the following would be an accurate description of its appearance?
-
-part 2: 
-(A) The box plot would show a symmetrical distribution with equal-length whiskers and a median line located centrally within the box.
-(B) The box plot would display a left-skewed distribution with the median line closer to the upper quartile and the lower whisker longer than the upper whisker.
-(C) The box plot would show a right-skewed distribution with the median line closer to the lower quartile and the upper whisker longer than the lower whisker.
-(D) The box plot would have no whiskers, indicating no variability in the test scores, with a median line at the score of 100.
-
-part 3: (C) The box plot would show a right-skewed distribution with the median line closer to the lower quartile and the upper whisker longer than the lower whisker.

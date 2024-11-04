@@ -1,7 +1,0 @@
-part 1: If the investments in innovation sectors were displayed using a pie chart instead of a bar chart, which of the following would be a characteristic of that chart?
-    part 2: 
-    (A) Each sector's investment would be represented by a point on a line, with the distance from the origin indicating the amount of investment.
-    (B) The chart would show a series of lines connecting data points for each sector, allowing trends over time to be observed.
-    (C) Sectors with larger investments would occupy larger arcs or slices of the pie, visually representing their proportion of the total investment.
-    (D) The chart would display a series of dots, with the position of each dot representing the investment amount for each sector.
-    part 3: (C) Sectors with larger investments would occupy larger arcs or slices of the pie, visually representing their proportion of the total investment.

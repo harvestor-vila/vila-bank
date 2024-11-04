@@ -1,9 +1,0 @@
-part 1: What is the average innovation score across all states?
-    part 2: 
-      (A) 255
-      (B) 300
-      (C) 345
-      (D) 390
-    part 3: (B) 300
-
-If a mistake is detected, you would need to provide the corrected item format as specified.

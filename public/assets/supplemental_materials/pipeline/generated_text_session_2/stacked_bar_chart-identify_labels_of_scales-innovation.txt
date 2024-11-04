@@ -1,9 +1,0 @@
-part 1: What are the labels for the x-axis and y-axis in the stacked bar chart of the innovation landscape by sector?
-
-part 2: 
-  (A) x-axis: Number of Innovations, y-axis: Sector
-  (B) x-axis: Sector, y-axis: Number of Innovations
-  (C) x-axis: InnovationType, y-axis: Value
-  (D) x-axis: Value, y-axis: Category
-
-part 3: (B) x-axis: Sector, y-axis: Number of Innovations

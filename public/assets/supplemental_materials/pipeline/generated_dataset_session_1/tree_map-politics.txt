@@ -1,9 +1,0 @@
-"Category" "Subcategory" "Percentage"
-"Domestic Policy" "Education" 15
-"Domestic Policy" "Healthcare" 10
-"Domestic Policy" "Defense" 20
-"Foreign Policy" "Diplomacy" 15
-"Foreign Policy" "Trade" 10
-"Economic Policy" "Taxation" 10
-"Economic Policy" "Labor" 10
-"Economic Policy" "Environment" 10

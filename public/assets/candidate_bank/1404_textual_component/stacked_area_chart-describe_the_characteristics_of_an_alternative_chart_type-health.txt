@@ -1,7 +1,0 @@
-part 1: If the health trends data were to be displayed using a line chart instead of a stacked area chart, which of the following would be an accurate description of this alternative chart type?
-    part 2: 
-    (A) A line chart would overlay lines for each condition, potentially making it difficult to compare the cumulative trends over time.
-    (B) A line chart would stack lines on top of each other, representing cumulative values for each condition, preserving the total area under the lines.
-    (C) A line chart would display bars for each condition side by side for each year, making it easy to compare individual values.
-    (D) A line chart would use pie slices to represent each condition's proportion of the total cases for each year.
-    part 3: (A) A line chart would overlay lines for each condition, potentially making it difficult to compare the cumulative trends over time.

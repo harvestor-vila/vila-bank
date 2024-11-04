@@ -1,7 +1,0 @@
-part 1: If the production data for crops over the years were to be displayed using a line chart instead of a stacked area chart, which of the following would be a characteristic of the line chart?
-    part 2: 
-    (A) The line chart would show the cumulative production of all crops combined, with each crop's contribution indistinguishable from the others.
-    (B) The line chart would overlay lines for each crop type, allowing for comparison of individual crop production trends over time.
-    (C) The line chart would stack lines on top of each other, representing the total production for each year.
-    (D) The line chart would display bars for each crop type side by side for each year, making it difficult to track changes over time.
-    part 3: (B) The line chart would overlay lines for each crop type, allowing for comparison of individual crop production trends over time.

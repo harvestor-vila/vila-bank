@@ -1,7 +1,0 @@
-part 1: What is the range of percentages represented in the tree map of Food and Agriculture Categories?
-    part 2: 
-    (A) [0, 20]
-    (B) [1, 17]
-    (C) [-2, 20]
-    (D) [0, 22]
-    part 3: (B) [1, 17]

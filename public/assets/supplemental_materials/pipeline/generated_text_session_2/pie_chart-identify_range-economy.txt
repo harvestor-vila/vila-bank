@@ -1,9 +1,0 @@
-part 1: What is the range of sector percentages depicted in the pie chart?
-
-part 2: 
-  (A) [5, 55]
-  (B) [10, 45]
-  (C) [15, 40]
-  (D) [0, 50]
-
-part 3: (C) [15, 40]

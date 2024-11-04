@@ -1,3 +1,0 @@
-part 1: What percentage of Company C's innovation is dedicated to Process Innovation?
-    part 2: (A) 44% (B) 29% (C) 59% (D) 26%
-    part 3: (A) 44%

@@ -1,9 +1,0 @@
-part 1: What task does the stacked area chart best support?
-
-part 2: 
-  (A) Comparing the exact production values of each crop in a single year
-  (B) Showing the distribution of production values among different crops over multiple years
-  (C) Identifying the correlation between the production values of different crops
-  (D) Displaying the hierarchical relationship between different crops' production values
-
-part 3: (B) Showing the distribution of production values among different crops over multiple years

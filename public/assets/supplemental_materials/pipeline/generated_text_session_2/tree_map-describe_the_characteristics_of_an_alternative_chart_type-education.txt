@@ -1,9 +1,0 @@
-part 1: If the educational categories and subcategories data were to be displayed in a pie chart, which of the following descriptions would be accurate?
-
-part 2: 
-(A) The pie chart would show each subcategory as a separate slice, with slice sizes representing the number of subcategories in each category.
-(B) The pie chart would show each category with equal-sized slices, regardless of the percentage values.
-(C) The pie chart would show each subcategory as a separate slice, with slice sizes proportional to their respective percentages.
-(D) The pie chart would display only the main categories, with colors used to differentiate between subcategories within each slice.
-
-part 3: (C) The pie chart would show each subcategory as a separate slice, with slice sizes proportional to their respective percentages.

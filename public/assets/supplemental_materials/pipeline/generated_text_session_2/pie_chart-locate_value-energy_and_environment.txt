@@ -1,9 +1,0 @@
-part 1: Which energy source has the highest percentage in the pie chart?
-
-part 2: 
-  (A) Solar
-  (B) Wind
-  (C) Hydro
-  (D) Coal
-
-part 3: (B) Wind

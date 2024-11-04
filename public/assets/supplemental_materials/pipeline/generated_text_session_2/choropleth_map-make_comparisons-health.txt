@@ -1,9 +1,0 @@
-part 1: Which state has a higher Health Index, Colorado or Michigan?
-
-part 2: 
-(A) Colorado
-(B) Michigan
-(C) Both have the same Health Index
-(D) The visualization does not include these states
-
-part 3: (A) Colorado

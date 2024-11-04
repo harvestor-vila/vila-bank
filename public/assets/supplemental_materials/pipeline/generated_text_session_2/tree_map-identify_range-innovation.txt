@@ -1,9 +1,0 @@
-part 1: What is the range of percentage values represented in the innovation sectors and subsectors tree map?
-
-part 2: 
-(A) [3, 23]
-(B) [5, 20]
-(C) [0, 25]
-(D) [2, 22]
-
-part 3: (B) [5, 20]

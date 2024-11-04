@@ -1,9 +1,0 @@
-part 1: Which task does the tree map visualization design best support?
-
-part 2: 
-  (A) Comparing exact values across multiple categories and subcategories
-  (B) Identifying trends over time within categories
-  (C) Displaying hierarchical relationships and proportions within a dataset
-  (D) Mapping geographical data to physical locations on a map
-
-part 3: (C) Displaying hierarchical relationships and proportions within a dataset

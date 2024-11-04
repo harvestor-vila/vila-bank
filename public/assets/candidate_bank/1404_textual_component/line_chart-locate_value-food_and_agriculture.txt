@@ -1,7 +1,0 @@
-part 1: In which year was the agricultural production exactly 508 tons?
-    part 2: 
-    (A) 2010
-    (B) 2012
-    (C) 2015
-    (D) 2017
-    part 3: (B) 2012

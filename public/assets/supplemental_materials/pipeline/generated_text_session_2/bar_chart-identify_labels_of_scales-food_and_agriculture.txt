@@ -1,9 +1,0 @@
-part 1: What are the labels for the horizontal and vertical axes in the bar chart of food and agriculture production?
-
-part 2: 
-  (A) Horizontal: Production (in tonnes), Vertical: Food Item
-  (B) Horizontal: Food Item, Vertical: Production (in tonnes)
-  (C) Horizontal: Quantity, Vertical: Crop Type
-  (D) Horizontal: Type of Food, Vertical: Quantity Harvested
-
-part 3: (B) Horizontal: Food Item, Vertical: Production (in tonnes)
