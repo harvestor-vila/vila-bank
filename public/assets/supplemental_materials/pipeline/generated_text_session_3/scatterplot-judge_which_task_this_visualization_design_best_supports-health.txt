@@ -1,0 +1,7 @@
+part 1: What task does the scatterplot of Weight versus Height best support?
+    part 2: 
+      (A) Comparing the sum of weights across different height ranges
+      (B) Identifying the relationship between weight and height
+      (C) Showing the distribution of heights as a histogram
+      (D) Ranking individuals by weight
+    part 3: (B) Identifying the relationship between weight and height

@@ -1,0 +1,7 @@
+part 1: What is the trend or correlation between Weight and Height as depicted in the scatterplot?
+    part 2: 
+    (A) A strong positive correlation between Weight and Height.
+    (B) A strong negative correlation between Weight and Height.
+    (C) No correlation between Weight and Height.
+    (D) A moderate positive correlation between Weight and Height.
+    part 3: (B) A strong negative correlation between Weight and Height.

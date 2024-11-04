@@ -1,0 +1,9 @@
+part 1: If the economic sectors growth data were to be displayed using a line chart instead of a stacked area chart, which of the following would best describe its characteristics?
+
+part 2: 
+(A) A line chart would show cumulative values of each sector over time, with the areas between lines filled with different colors.
+(B) A line chart would represent each sector with a distinct line, allowing for comparison of trends over time without showing cumulative values.
+(C) A line chart would stack lines on top of each other to represent the total value of all sectors combined for each year.
+(D) A line chart would display only the sector with the highest value for each year, with the line thickness indicating the value.
+
+part 3: (B) A line chart would represent each sector with a distinct line, allowing for comparison of trends over time without showing cumulative values.

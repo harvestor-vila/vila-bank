@@ -1,0 +1,7 @@
+part 1: Estimate the difference in the number of votes between the Conservative and Liberal parties in the year 2019.
+part 2: 
+(A) 140
+(B) 165
+(C) 190
+(D) 215
+part 3: (B) 165

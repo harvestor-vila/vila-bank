@@ -1,0 +1,7 @@
+part 1: What percentage of the food and agriculture sectors is made up by Dairy?
+    part 2: 
+      (A) 5%
+      (B) 10%
+      (C) 25%
+      (D) 40%
+    part 3: (B) 10%

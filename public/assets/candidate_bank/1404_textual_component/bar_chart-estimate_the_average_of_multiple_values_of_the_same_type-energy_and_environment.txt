@@ -1,0 +1,7 @@
+part 1: Estimate the average energy production (in GWh) per source.
+part 2: 
+(A) 297
+(B) 252
+(C) 207
+(D) 382
+part 3: (A) 297

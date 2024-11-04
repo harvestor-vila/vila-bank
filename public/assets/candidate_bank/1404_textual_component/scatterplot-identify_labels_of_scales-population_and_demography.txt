@@ -1,0 +1,7 @@
+part 1: What are the labels for the horizontal and vertical axes in the scatterplot?
+    part 2: 
+    (A) Horizontal: Median Age, Vertical: Population
+    (B) Horizontal: Population, Vertical: Median Age
+    (C) Horizontal: Age Group, Vertical: Number of People
+    (D) Horizontal: Number of People, Vertical: Age Group
+    part 3: (B) Horizontal: Population, Vertical: Median Age

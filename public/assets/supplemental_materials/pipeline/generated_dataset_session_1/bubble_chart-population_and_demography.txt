@@ -1,0 +1,9 @@
+"City"	"Population"	"GDP_Per_Capita"	"Median_Age"
+"Metropolis"	288941	75403	39
+"Gotham"	234057	95160	34
+"Star City"	224021	76434	37
+"Central City"	785284	39641	31
+"Coast City"	326317	89133	33
+"Midway City"	465208	82131	41
+"Ivy Town"	748794	44182	44
+"Keystone City"	293626	45179	42

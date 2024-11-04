@@ -1,0 +1,7 @@
+part 1: What are the labels for the horizontal and vertical axes in the bar chart?
+    part 2: 
+      (A) Horizontal: Number of Votes, Vertical: Political Party
+      (B) Horizontal: Political Party, Vertical: Number of Votes
+      (C) Horizontal: Percentage of Votes, Vertical: Political Ideology
+      (D) Horizontal: Political Affiliation, Vertical: Total Votes
+    part 3: (B) Horizontal: Political Party, Vertical: Number of Votes

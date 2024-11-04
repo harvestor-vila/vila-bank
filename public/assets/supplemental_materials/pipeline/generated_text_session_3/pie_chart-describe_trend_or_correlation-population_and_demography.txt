@@ -1,0 +1,7 @@
+part 1: What pattern does the pie chart reveal about the population distribution by category?
+    part 2: 
+      (A) Seniors make up the largest percentage of the population.
+      (B) Adults, Youth, and Seniors each make up one-third of the population.
+      (C) Adults constitute the majority of the population, followed by Youth and then Seniors.
+      (D) Youth make up the smallest percentage of the population.
+    part 3: (C) Adults constitute the majority of the population, followed by Youth and then Seniors.

@@ -1,0 +1,9 @@
+part 1: What task does the tree map visualization design best support?
+
+part 2: 
+(A) Comparing the exact numerical values of different categories and subcategories
+(B) Understanding the hierarchical structure of innovation sectors and their relative sizes
+(C) Tracking changes in innovation sector percentages over time
+(D) Identifying correlations between different innovation sectors
+
+part 3: (B) Understanding the hierarchical structure of innovation sectors and their relative sizes

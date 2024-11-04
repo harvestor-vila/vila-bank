@@ -1,0 +1,9 @@
+part 1: Which climate category occupies the largest percentage in the pie chart?
+
+part 2: 
+  (A) Tropical
+  (B) Arid
+  (C) Temperate
+  (D) Cold
+
+part 3: (C) Temperate

@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for understanding the distribution of daily average temperatures?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart showing the proportion of days within specific temperature ranges.
+(B) A scatter plot with each day's temperature plotted against the sequence of days.
+(C) A histogram with appropriate bin widths to show the frequency distribution of temperatures.
+(D) A line graph showing temperature trends over the sequence of days.
+
+part 3: the correct answer
+(C) A histogram with appropriate bin widths to show the frequency distribution of temperatures.

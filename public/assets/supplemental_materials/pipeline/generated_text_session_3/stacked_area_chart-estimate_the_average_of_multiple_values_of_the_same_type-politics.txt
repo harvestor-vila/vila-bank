@@ -1,0 +1,14 @@
+part 1: What is the average number of votes for the Conservative party from 2000 to 2019?
+part 2: (A) 436, (B) 512, (C) 590, (D) 667
+part 3: (B) 512
+
+The correct answer provided in the original item is 512, which does not match the precise correct answer of 512.85, nor the rounded correct answer of 512.9. Therefore, the item contains a mistake. The correct answer should be rounded to one decimal place, which is 512.9, and the options should be generated based on this value.
+
+I will now create a new item with the correct answer and options:
+
+part 0: "THIS ITEM HAD A MISTAKE SO IT WAS REMADE. The original correct answer was not rounded to one decimal place as required by the visualization task instructions."
+part 1: What is the average number of votes for the Conservative party from 2000 to 2019?
+part 2: (A) 436, (B) 513, (C) 590, (D) 667
+part 3: (B) 513
+
+The new correct answer is 513, which is the rounded value of 512.9 to the nearest whole number, as the options should be whole numbers. The incorrect options are at least 77 votes away from the correct answer, satisfying the min_distance requirement.

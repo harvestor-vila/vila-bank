@@ -1,0 +1,9 @@
+part 1: If the choropleth map displaying the Health Index by State were to be represented as a bar chart, which of the following characteristics would accurately describe this alternative chart type?
+
+part 2: 
+(A) A bar chart would display each state's Health Index as individual lines, with line lengths proportional to the values.
+(B) A bar chart would use varying shades of a single color to represent the Health Index values, with darker shades indicating higher values.
+(C) A bar chart would represent each state's Health Index with circular markers positioned along a common baseline, with marker size corresponding to the values.
+(D) A bar chart would show horizontal or vertical bars for each state, with bar lengths proportional to the Health Index values.
+
+part 3: (D) A bar chart would show horizontal or vertical bars for each state, with bar lengths proportional to the Health Index values.

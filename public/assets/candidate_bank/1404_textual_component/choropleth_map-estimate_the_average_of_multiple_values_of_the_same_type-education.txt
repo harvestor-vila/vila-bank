@@ -1,0 +1,7 @@
+part 1: What is the average education value across all states as represented in the choropleth map?
+    part 2: 
+    (A) 486.7
+    (B) 572.7
+    (C) 658.7
+    (D) 744.7
+    part 3: (B) 572.7

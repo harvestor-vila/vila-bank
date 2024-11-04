@@ -1,0 +1,7 @@
+part 1: What is the height in cm of an individual weighing 85 kg?
+    part 2: 
+    (A) 95 cm
+    (B) 117 cm
+    (C) 140 cm
+    (D) 160 cm
+    part 3: (B) 117 cm

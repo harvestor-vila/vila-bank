@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relative values across different states?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart with slices representing each state's value.
+(B) A choropleth map with states colored according to their value.
+(C) A line graph with time on the x-axis and value on the y-axis.
+(D) A scatter plot with states on the x-axis and value on the y-axis.
+
+part 3: the correct answer
+(B) A choropleth map with states colored according to their value.

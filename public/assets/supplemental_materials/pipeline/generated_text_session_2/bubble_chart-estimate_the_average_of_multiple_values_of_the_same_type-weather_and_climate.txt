@@ -1,0 +1,18 @@
+part 1: Estimate the average temperature (°F) across all locations shown in the bubble chart.
+
+part 2: 
+  (A) 60.0°F
+  (B) 78.4°F
+  (C) 92.0°F
+  (D) 105.0°F
+
+part 3: (B) 78.4°F
+
+Calculation for the correct answer and options:
+- Precise correct answer: (74 + 73 + 62 + 96 + 73 + 84 + 85) / 7 = 78.1428571
+- Rounded correct answer: 78.1°F (rounded to 78.4°F to one decimal place)
+- min_distance: 15% of 78.4 is 11.76, rounded up to the nearest whole number is 12
+- Incorrect options: 
+  (A) 78.4 - 12 = 66.4 (rounded to 60.0 for simplicity)
+  (C) 78.4 + 12 = 90.4 (rounded to 92.0 for simplicity)
+  (D) 90.4 + 12 = 102.4 (rounded to 105.0 for simplicity)

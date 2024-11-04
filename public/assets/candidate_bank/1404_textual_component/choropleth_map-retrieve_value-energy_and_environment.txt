@@ -1,0 +1,7 @@
+part 1: What is the value of energy consumption for the state of Texas?
+part 2: 
+(A) 600
+(B) 945
+(C) 818
+(D) 1100
+part 3: (C) 818

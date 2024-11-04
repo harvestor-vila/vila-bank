@@ -1,0 +1,11 @@
+part 1: the question stem
+"What is the highest yield per acre (in whole numbers) observed in the histogram?"
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) 18
+(B) 22
+(C) 26
+(D) 30
+
+part 3: the correct answer
+(B) 22

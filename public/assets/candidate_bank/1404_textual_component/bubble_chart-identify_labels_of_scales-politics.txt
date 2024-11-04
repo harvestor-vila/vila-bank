@@ -1,0 +1,7 @@
+part 1: What do the labels on the x-axis, y-axis, and the size of the bubbles in the bubble chart represent?
+    part 2: 
+      (A) x-axis: Funding, y-axis: Votes, bubble size: Seats
+      (B) x-axis: Votes, y-axis: Seats, bubble size: Funding
+      (C) x-axis: Seats, y-axis: Funding, bubble size: Votes
+      (D) x-axis: Party, y-axis: Funding, bubble size: Votes
+    part 3: (B) x-axis: Votes, y-axis: Seats, bubble size: Funding

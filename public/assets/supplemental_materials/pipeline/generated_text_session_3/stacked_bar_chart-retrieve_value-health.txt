@@ -1,0 +1,7 @@
+part 1: How many patients are there in the "Strength" category at "Clinic 4"?
+    part 2: 
+      (A) 50
+      (B) 148
+      (C) 250
+      (D) 300
+    part 3: (B) 148

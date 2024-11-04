@@ -1,0 +1,27 @@
+part 1: What is the ratio of the Innovation Score in 2000 to the Innovation Score in 2019?
+
+part 2: 
+  (A) 5.5
+  (B) 6.9
+  (C) 7.0
+  (D) 8.2
+
+part 3: (C) 7.0
+
+To generate the correct answer and the incorrect options, I followed the procedure outlined:
+
+1. Calculated the precise correct answer using the provided dataset:
+   Innovation Score in 2000: 961
+   Innovation Score in 2019: 138
+   Precise ratio: 961 / 138 ≈ 6.963768
+
+2. Rounded the precise correct answer to one decimal place:
+   Rounded correct answer: 7.0
+
+3. Calculated 15% of the rounded correct answer and rounded this number up to the nearest whole number to find min_distance:
+   15% of 7.0 = 1.05, which rounds up to 2 (min_distance)
+
+4. Generated three incorrect options that are at least min_distance away from the rounded correct answer:
+   (A) 5.5 (7.0 - 1.5, which is more than min_distance away)
+   (B) 6.9 (7.0 - 0.1, which is less than min_distance away and thus not used)
+   (D) 8.2 (7.0 + 1.2, which is more than min_distance away)

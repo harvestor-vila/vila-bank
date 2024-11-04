@@ -1,0 +1,9 @@
+part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for analyzing the trend in agricultural production over the years?
+
+part 2:
+(A) A pie chart showing the proportion of production for each year.
+(B) An area chart with the years on the x-axis and production values on the y-axis, shaded beneath the line.
+(C) A scatter plot with individual years on the x-axis and corresponding production values as unconnected points.
+(D) A bar chart with different colors for each year to represent categorical differences in production.
+
+part 3:   (B) An area chart with the years on the x-axis and production values on the y-axis, shaded beneath the line.

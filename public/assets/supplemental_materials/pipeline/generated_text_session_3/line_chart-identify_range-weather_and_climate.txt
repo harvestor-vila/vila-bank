@@ -1,0 +1,7 @@
+part 1: What is the range of the daily average temperature over the 20-day period shown in the line chart?
+part 2: 
+  (A) [44, 113]
+  (B) [52, 98]
+  (C) [43, 114]
+  (D) [42, 115]
+part 3: (B) [52, 98]

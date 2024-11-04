@@ -1,0 +1,7 @@
+part 1: How many patients had recovered by Day 10?
+    part 2: 
+      (A) 84
+      (B) 99
+      (C) 114
+      (D) 119
+    part 3: (B) 99

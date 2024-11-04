@@ -1,0 +1,9 @@
+part 1: What is the frequency of the Energy Consumption value of 50 MWh as shown in the histogram?
+
+part 2: 
+  (A) 5
+  (B) 20
+  (C) 35
+  (D) 1
+
+part 3: (A) 5

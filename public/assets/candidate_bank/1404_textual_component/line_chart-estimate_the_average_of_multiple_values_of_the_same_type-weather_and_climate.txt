@@ -1,0 +1,7 @@
+part 1: Estimate the average daily temperature over the 20-day period.
+    part 2: 
+      (A) 66
+      (B) 78
+      (C) 90
+      (D) 102
+    part 3: (B) 78

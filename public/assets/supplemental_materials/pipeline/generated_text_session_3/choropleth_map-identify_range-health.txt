@@ -1,0 +1,6 @@
+part 1: What is the range of health index values represented on the choropleth map?
+    part 2: (A) [106, 2294]
+            (B) [87, 2594]
+            (C) [68, 2894]
+            (D) [125, 1994]
+    part 3: (D) [125, 1994]

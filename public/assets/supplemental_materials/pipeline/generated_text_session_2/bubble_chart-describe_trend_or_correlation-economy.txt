@@ -1,0 +1,9 @@
+part 1: What trend or correlation does the bubble chart of economy indicators suggest between GDP and Unemployment Rate?
+
+part 2: 
+  (A) Higher GDP is associated with higher Unemployment Rate.
+  (B) Higher GDP is associated with lower Unemployment Rate.
+  (C) There is no clear trend or correlation between GDP and Unemployment Rate.
+  (D) Unemployment Rate is constant across different GDP levels.
+
+part 3: (C) There is no clear trend or correlation between GDP and Unemployment Rate.

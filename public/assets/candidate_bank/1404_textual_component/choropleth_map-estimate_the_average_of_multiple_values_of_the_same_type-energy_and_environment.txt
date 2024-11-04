@@ -1,0 +1,8 @@
+
+    part 1: What is the average energy consumption value across all states as depicted in the choropleth map?
+    part 2:
+    (A) 521
+    (B) 705
+    (C) 797
+    (D) 613
+    part 3: (D) 613

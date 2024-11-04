@@ -1,0 +1,7 @@
+part 1: What trend does the line chart depicting Innovation Scores from 2000 to 2019 show?
+    part 2: 
+      (A) The Innovation Scores show a consistent upward trend over the years.
+      (B) The Innovation Scores remain constant throughout the years.
+      (C) The Innovation Scores show a decreasing trend over the years.
+      (D) The Innovation Scores fluctuate significantly from year to year.
+    part 3: (C) The Innovation Scores show a decreasing trend over the years.

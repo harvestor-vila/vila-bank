@@ -1,0 +1,9 @@
+part 1: What was the GDP growth rate (%) in 2005?
+
+part 2: 
+  (A) 5
+  (B) 15
+  (C) 22
+  (D) 10
+
+part 3: (D) 10

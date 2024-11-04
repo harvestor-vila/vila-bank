@@ -1,0 +1,7 @@
+part 1: If the relationship between GDP and Unemployment Rate were to be displayed using a line graph instead of a scatterplot, which of the following would best describe its characteristics?
+part 2: 
+(A) The line graph would show a series of bars with heights proportional to the Unemployment Rate values.
+(B) The line graph would display a pie chart with slices representing the proportion of GDP to Unemployment Rate.
+(C) The line graph would depict a smooth or jagged line that trends downward as GDP increases, indicating a negative correlation.
+(D) The line graph would consist of a heatmap with colors representing the frequency of data points at the intersection of GDP and Unemployment Rate values.
+part 3: (C) The line graph would depict a smooth or jagged line that trends downward as GDP increases, indicating a negative correlation.

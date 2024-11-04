@@ -1,0 +1,9 @@
+part 1: If the distribution of food and agriculture sectors were to be displayed using a stacked bar chart instead of a pie chart, which of the following would be a correct description of its characteristics?
+
+part 2: 
+(A) Each category would be represented by a separate bar, with lengths proportional to the percentage values, all aligned horizontally.
+(B) Categories would be represented by concentric circles with varying radii corresponding to their percentage values.
+(C) Categories would be represented by segments of a circle, with the angle of each segment corresponding to its frequency in the dataset.
+(D) Each category would be represented by a segment of a bar, with lengths proportional to the percentage values, stacked one after the other in a single bar.
+
+part 3: (D) Each category would be represented by a segment of a bar, with lengths proportional to the percentage values, stacked one after the other in a single bar.

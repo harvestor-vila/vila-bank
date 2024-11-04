@@ -1,0 +1,9 @@
+part 1: What is the average GDP (in billions USD) across the countries shown in the bubble chart?
+
+part 2:
+(A) 349.7
+(B) 411.7
+(C) 473.7
+(D) 535.7
+
+part 3: (B) 411.7

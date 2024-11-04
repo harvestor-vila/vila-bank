@@ -1,0 +1,7 @@
+part 1: What task does the scatterplot of Temperature vs Humidity best support?
+    part 2: 
+      (A) Identifying the mean temperature and humidity
+      (B) Comparing the frequency of temperature ranges
+      (C) Examining the relationship between temperature and humidity
+      (D) Assessing the distribution of humidity across different seasons
+    part 3: (C) Examining the relationship between temperature and humidity

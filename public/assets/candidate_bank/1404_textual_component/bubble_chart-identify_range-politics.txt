@@ -1,0 +1,7 @@
+part 1: What is the range of total votes received by the political parties represented in the bubble chart?
+    part 2:
+    (A) [200,000, 470,000]
+            (B) [224,021, 465,208]
+            (C) [210,000, 480,000]
+            (D) [220,000, 460,000]
+    part 3: (B) [224,021, 465,208]

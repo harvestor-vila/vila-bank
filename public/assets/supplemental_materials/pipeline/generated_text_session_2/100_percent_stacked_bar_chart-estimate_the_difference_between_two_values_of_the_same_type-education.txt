@@ -1,0 +1,9 @@
+part 1: Estimate the difference in Math scores as a percentage between Greenwood Elementary and Lakeside High.
+
+part 2: 
+  (A) 4.0%
+  (B) 5.0%
+  (C) 6.0%
+  (D) 7.0%
+
+part 3: (B) 5.0%

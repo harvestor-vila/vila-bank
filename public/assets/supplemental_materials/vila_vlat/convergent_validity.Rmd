@@ -1,0 +1,51 @@
+---
+title: "Convergent Validity for VILA-VLAT"
+output: html_notebook
+---
+
+# Load libraries 
+```{r}
+library(dplyr)
+library(tidyverse)
+```
+
+# Load anonymized, cleaned data
+```{r}
+vlat_response_87 <- read.csv("data/anonymized_data_on_87_VLAT.csv") 
+vilavlat_response_87 <- read.csv("data/anonymized_data_on_87_VILAVLAT.csv") 
+```
+
+# Compute correctness for every item
+```{r}
+vlat_correctness <- vlat_response_87 %>% 
+  mutate(correct = ifelse(answer == correctAnswer, 1, 0))
+
+vilavlat_correctness <- vilavlat_response_87 %>% 
+  mutate(correct = ifelse(answer == correctAnswer, 1, 0))
+```
+
+# Compute score (correctness percentage) for each participant
+```{r}
+pid_raw_correctness_vlat <- vlat_correctness %>% 
+  group_by(pid) %>% 
+  summarize(vlat_raw_correctness = mean(correct))
+
+pid_raw_correctness_vilavlat <- vilavlat_correctness %>% 
+  group_by(pid) %>% 
+  summarize(vilavlat_raw_correctness = mean(correct))
+
+df_vlat_vilavlat <- pid_raw_correctness_vlat %>% 
+  left_join(pid_raw_correctness_vilavlat, by = c("pid" = "pid")) 
+```
+
+# Compute correlation coefficient for convergent validity 
+```{r}
+cor.test(df_vlat_vilavlat$vlat_raw_correctness, df_vlat_vilavlat$vilavlat_raw_correctness)
+```
+
+# Compute mean score (correctness percentage) of patrticipants on VLAT and VILA-VLAT
+```{r}
+print(mean(df_vlat_vilavlat$vlat_raw_correctness))
+print(mean(df_vlat_vilavlat$vilavlat_raw_correctness))
+```
+

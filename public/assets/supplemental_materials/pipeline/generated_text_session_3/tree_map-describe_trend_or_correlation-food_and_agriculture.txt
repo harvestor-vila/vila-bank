@@ -1,0 +1,7 @@
+part 1: What pattern can be observed in the tree map regarding the distribution of percentages across the food and agriculture categories?
+    part 2: 
+    (A) Fruits have a consistently higher percentage than Vegetables and Grains.
+    (B) Vegetables and Grains have similar distributions, with each subcategory having equal percentages.
+    (C) No single category or subcategory dominates the tree map; percentages are evenly distributed.
+    (D) Vegetables have the widest range in percentages among their subcategories.
+    part 3: (D) Vegetables have the widest range in percentages among their subcategories.

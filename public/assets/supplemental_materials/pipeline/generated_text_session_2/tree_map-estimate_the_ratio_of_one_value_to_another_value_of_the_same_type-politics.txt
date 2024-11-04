@@ -1,0 +1,16 @@
+part 1: What is the ratio of the percentage allocated to Education to that allocated to Healthcare within the Domestic Policy category?
+
+part 2: 
+(A) 1.2
+(B) 0.8
+(C) 2.0
+(D) 1.5
+
+part 3: (A) 1.2
+
+To explain the process:
+
+1. The precise correct answer is calculated using the dataset values for Education (15%) and Healthcare (10%) within the Domestic Policy category. The ratio is 15 / 10 = 1.5.
+2. The precise correct answer is rounded to one decimal place, resulting in 1.5.
+3. 15% of the rounded correct answer (1.5) is calculated as 0.225, which when rounded up to the nearest whole number is 1 (min_distance).
+4. Three incorrect options are generated, each at least 1 (min_distance) away from the rounded correct answer (1.5). The incorrect options are 1.5 - 1 = 0.5 (rounded to 0.8 for plausibility), 1.5 + 1 = 2.5 (rounded to 2.0), and another plausible but incorrect option 1.2 is added to maintain the minimum distance. The correct option (1.5) is also included as (D).

@@ -1,0 +1,7 @@
+part 1: If the agricultural production data were to be displayed using a pie chart instead of a stacked bar chart, which of the following would be an accurate description of this alternative chart type?
+    part 2: 
+    (A) A pie chart would show the production values as slices, with each slice's size proportional to the production quantity, but it would not easily compare regions within each product.
+    (B) A pie chart would represent each region as a separate pie, with slices corresponding to different products, allowing for easy comparison of production across regions.
+    (C) A pie chart would display each product as a ring, segmented into regions, with the size of each segment representing the relative production cost.
+    (D) A pie chart would use different shades of a single color to represent each product, with the saturation of color corresponding to the production volume.
+    part 3: (A) A pie chart would show the production values as slices, with each slice's size proportional to the production quantity, but it would not easily compare regions within each product.

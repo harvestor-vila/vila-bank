@@ -1,0 +1,7 @@
+part 1: What is the difference in percentage between the Vegetables and Meats sectors?
+    part 2: 
+      (A) 5%
+      (B) 10%
+      (C) 18%
+      (D) 25%
+    part 3: (B) 10%

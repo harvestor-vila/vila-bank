@@ -1,0 +1,14 @@
+part 1: What is the carbon emission value (in metric tons) for an energy consumption of 405 MWh?
+
+part 2: 
+(A) 476
+(B) 300
+(C) 650
+(D) 800
+
+part 3: (A) 476
+
+To clarify the process:
+- The correct answer is taken directly from the dataset, where the carbon emission value for an energy consumption of 405 MWh is 476 metric tons.
+- The min_distance is calculated as 15% of the correct answer, which is 71.4, and rounded up to the nearest whole number, which is 72.
+- The incorrect options (B), (C), and (D) are generated to be at least 72 units away from the correct answer, ensuring that they are unambiguously incorrect.

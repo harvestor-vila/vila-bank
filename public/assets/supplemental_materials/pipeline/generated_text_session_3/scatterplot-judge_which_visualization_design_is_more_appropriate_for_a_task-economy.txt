@@ -1,0 +1,11 @@
+part 1: the question stem of the original item
+The visualization above is only a demonstration of the relevant data. Which of the following visualization designs would be most appropriate to display the relationship between GDP and Unemployment Rate?
+
+part 2: options of the original item
+(A) A pie chart showing the proportion of countries within different ranges of GDP.
+(B) A scatterplot with GDP on the x-axis and Unemployment Rate on the y-axis, with points representing individual data points.
+(C) A bar graph showing the average Unemployment Rate for different categories of GDP.
+(D) A line graph showing the trend of GDP over time.
+
+part 3: the correct answer of the original item
+(B) A scatterplot with GDP on the x-axis and Unemployment Rate on the y-axis, with points representing individual data points.

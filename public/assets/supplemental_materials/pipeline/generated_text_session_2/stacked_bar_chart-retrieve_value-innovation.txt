@@ -1,0 +1,9 @@
+part 1: How many innovations in the "Energy" sector are categorized as "Startups"?
+
+part 2: 
+(A) 50
+(B) 92
+(C) 150
+(D) 210
+
+part 3: (B) 92

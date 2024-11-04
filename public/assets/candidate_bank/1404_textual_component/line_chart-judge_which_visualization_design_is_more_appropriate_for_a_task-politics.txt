@@ -1,0 +1,9 @@
+part 1:      Which visualization design is more appropriate for displaying the trend in approval ratings over a 20-year period? The visualization above is only a demonstration of the relevant data.
+
+    part 2:
+    (A) A pie chart showing the distribution of approval ratings across different years.
+    (B) A line chart with years on the x-axis and approval ratings on the y-axis, with points for each year's rating.
+    (C) A stacked bar chart with each bar representing a year and segments showing the proportion of approval ratings.
+    (D) A heatmap showing the intensity of approval ratings across different years.
+
+    part 3:       (B) A line chart with years on the x-axis and approval ratings on the y-axis, with points for each year's rating.

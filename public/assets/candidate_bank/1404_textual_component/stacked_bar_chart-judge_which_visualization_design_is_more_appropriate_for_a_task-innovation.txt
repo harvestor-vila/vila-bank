@@ -1,0 +1,9 @@
+part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would best allow a viewer to compare the total number of innovations across different sectors?
+
+part 2:
+(A) A pie chart with different slices representing each sector's total number of innovations.
+(B) A stacked bar chart with different colors representing various types of innovations within each sector.
+(C) A line graph with time on the x-axis and total number of innovations on the y-axis, with separate lines for each sector.
+(D) A sorted bar chart with each bar representing a sector's total number of innovations, ordered from highest to lowest.
+
+part 3:   (D) A sorted bar chart with each bar representing a sector's total number of innovations, ordered from highest to lowest.

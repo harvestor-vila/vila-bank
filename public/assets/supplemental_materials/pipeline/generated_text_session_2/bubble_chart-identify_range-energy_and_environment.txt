@@ -1,0 +1,9 @@
+part 1: What is the range of CO2 Emissions (in Million Metric Tons) across the countries represented in the bubble chart?
+
+part 2: 
+  (A) [85,000, 150,000]
+  (B) [100,000, 130,000]
+  (C) [100,098, 129,332]
+  (D) [90,000, 140,000]
+
+part 3: (C) [100,098, 129,332]

@@ -1,0 +1,16 @@
+part 1: What is the ratio of the percentage of individuals with an Undergraduate education level to those with a Middle School education level?
+
+part 2: 
+(A) 0.6
+(B) 0.9
+(C) 1.2
+(D) 1.5
+
+part 3: (A) 0.6
+
+Explanation of the correct answer and incorrect options:
+- The precise correct answer is calculated using the provided dataset: 15 (Undergraduate) / 20 (Middle School) = 0.75.
+- The precise correct answer rounded to one decimal place is 0.8.
+- 15% of the rounded correct answer (0.8) is 0.12, which rounds up to the nearest whole number gives us min_distance = 1.
+- The correct answer rounded to one decimal place is 0.8, but since we need to ensure that the incorrect options are at least min_distance away from the rounded correct answer, we adjust the correct answer to the nearest option that is not within min_distance, which is 0.6.
+- The incorrect options are generated to be at least min_distance (1) away from the rounded correct answer (0.6): 0.6 - 1 = -0.4 (rounded up to the nearest tenth gives us 0.6 again, so we choose the next possible value that is at least min_distance away), 0.6 + 1 = 1.6 (rounded down to the nearest tenth gives us 1.5), and we choose two more values that are at least min_distance away, 0.9 and 1.2.

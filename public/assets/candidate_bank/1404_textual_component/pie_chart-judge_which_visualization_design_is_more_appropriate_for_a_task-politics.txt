@@ -1,0 +1,9 @@
+part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relative proportions of political party preferences?
+
+    part 2:
+    (A) A line graph with time on the x-axis and percentage on the y-axis.
+    (B) A pie chart with different colors representing each political party and their respective percentages.
+    (C) A scatter plot with political parties on the x-axis and percentage on the y-axis.
+    (D) A bar chart with political parties on the x-axis and percentage on the y-axis, without any color distinction.
+
+    part 3:       (B) A pie chart with different colors representing each political party and their respective percentages.

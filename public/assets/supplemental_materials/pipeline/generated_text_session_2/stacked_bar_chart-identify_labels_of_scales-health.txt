@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal axis and the legend in the stacked bar chart?
+
+part 2: 
+(A) Horizontal axis: Number of Patients, Legend: Clinic
+(B) Horizontal axis: Health Category, Legend: Number of Patients
+(C) Horizontal axis: Clinic, Legend: Health Category
+(D) Horizontal axis: Health Category, Legend: Clinic
+
+part 3: (C) Horizontal axis: Clinic, Legend: Health Category

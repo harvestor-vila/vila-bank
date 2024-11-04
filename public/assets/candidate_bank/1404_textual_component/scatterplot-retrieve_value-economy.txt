@@ -1,0 +1,7 @@
+part 1: What is the Unemployment Rate when the GDP is 1911 billion?
+part 2: 
+(A) -1
+(B) 0
+(C) 15
+(D) 30
+part 3: (B) 0

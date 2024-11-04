@@ -1,0 +1,9 @@
+part 1: What is the label of the color scale used to represent the 'value' variable in the choropleth map?
+
+part 2: 
+(A) Population Density
+(B) Education Value
+(C) Median Income
+(D) Unemployment Rate
+
+part 3: (B) Education Value

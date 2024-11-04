@@ -1,0 +1,9 @@
+part 1: Estimate the average energy consumption (GWh) from the area chart for the period 2000 to 2019.
+
+part 2: 
+  (A) 524
+  (B) 617
+  (C) 710
+  (D) 803
+
+part 3: (B) 617

@@ -1,0 +1,9 @@
+"EnergySource"	"Production"
+"Solar"	278
+"Wind"	113
+"Hydro"	294
+"Nuclear"	405
+"Coal"	217
+"Natural Gas"	398
+"Biomass"	328
+"Geothermal"	343

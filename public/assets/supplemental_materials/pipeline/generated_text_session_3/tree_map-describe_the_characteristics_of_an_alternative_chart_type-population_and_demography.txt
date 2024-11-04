@@ -1,0 +1,7 @@
+part 1: How would the characteristics of a pie chart differ when visualizing the same data as the tree map?
+    part 2: 
+    (A) A pie chart would display each category as a separate ring, with subcategories represented as segments within those rings.
+    (B) A pie chart would show categories and subcategories as individual slices, with the size of each slice proportional to the percentage values.
+    (C) A pie chart would represent categories as colored bars, with the length of each bar corresponding to the percentage values.
+    (D) A pie chart would stack subcategories on top of each other within each category, with the overall height representing the total percentage.
+    part 3: (B) A pie chart would show categories and subcategories as individual slices, with the size of each slice proportional to the percentage values.

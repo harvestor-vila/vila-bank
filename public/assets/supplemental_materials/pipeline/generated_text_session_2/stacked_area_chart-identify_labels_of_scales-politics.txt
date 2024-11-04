@@ -1,0 +1,9 @@
+part 1: What are the labels for the x-axis, y-axis, and the legend in the stacked area chart?
+
+part 2: 
+(A) x-axis: Votes, y-axis: Year, legend: Party
+(B) x-axis: Year, y-axis: Party, legend: Votes
+(C) x-axis: Party, y-axis: Votes, legend: Year
+(D) x-axis: Year, y-axis: Votes, legend: Party
+
+part 3: (D) x-axis: Year, y-axis: Votes, legend: Party

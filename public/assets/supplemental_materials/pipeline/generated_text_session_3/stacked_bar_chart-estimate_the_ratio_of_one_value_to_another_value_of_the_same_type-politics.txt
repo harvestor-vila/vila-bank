@@ -1,0 +1,7 @@
+part 1: Estimate the ratio of votes for "Healthcare" by "Party_A" in State 2 to the votes for "Healthcare" by "Party_B" in State 5.
+    part 2: 
+      (A) 0.5
+      (B) 1.5
+      (C) 2.5
+      (D) 3.5
+    part 3: (B) 1.5

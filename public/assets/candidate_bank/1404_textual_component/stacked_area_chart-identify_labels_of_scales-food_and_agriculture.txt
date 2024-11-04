@@ -1,0 +1,7 @@
+part 1: What are the labels for the horizontal axis, vertical axis, and the legend in the stacked area chart?
+    part 2: 
+    (A) Horizontal: Year, Vertical: Crop, Legend: Production
+    (B) Horizontal: Production, Vertical: Year, Legend: Crop
+    (C) Horizontal: Crop, Vertical: Production, Legend: Year
+    (D) Horizontal: Year, Vertical: Production, Legend: Crop
+    part 3: (D) Horizontal: Year, Vertical: Production, Legend: Crop

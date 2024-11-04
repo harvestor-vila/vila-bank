@@ -1,0 +1,9 @@
+part 1: How does the enrollment in the year 2009 compare to the enrollment in the year 2010?
+
+part 2: 
+(A) The enrollment in 2009 was higher than in 2010.
+(B) The enrollment in 2009 was lower than in 2010.
+(C) The enrollment in 2009 and 2010 was the same.
+(D) The enrollment in 2009 was half of that in 2010.
+
+part 3: (A) The enrollment in 2009 was higher than in 2010.

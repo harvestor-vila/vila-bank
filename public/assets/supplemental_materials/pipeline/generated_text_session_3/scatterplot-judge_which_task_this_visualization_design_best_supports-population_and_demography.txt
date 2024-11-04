@@ -1,0 +1,7 @@
+part 1: What task does the scatterplot of Population vs Median Age best support?
+    part 2: 
+    (A) Identifying the distribution of median ages across different populations
+    (B) Comparing the total populations of different age groups
+    (C) Showing the geographical distribution of populations
+    (D) Illustrating the change in population size over time
+    part 3: (A) Identifying the distribution of median ages across different populations

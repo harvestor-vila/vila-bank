@@ -1,0 +1,7 @@
+part 1: Estimate the average yield per acre.
+    part 2: 
+      (A) 5.3
+      (B) 7.3
+      (C) 9.3
+      (D) 11.3
+    part 3: (B) 7.3

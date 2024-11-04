@@ -1,0 +1,7 @@
+part 1: Estimate the average Health Index value across all states.
+part 2:
+(A) 1002.4
+(B) 1153.4
+(C) 851.4
+(D) 1304.4
+part 3: (A) 1002.4

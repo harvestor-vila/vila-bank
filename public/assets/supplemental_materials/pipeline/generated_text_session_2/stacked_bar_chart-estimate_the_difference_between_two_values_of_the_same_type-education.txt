@@ -1,0 +1,9 @@
+part 1: Estimate the difference in the number of students between Grade 9 and Grade 12 at School C.
+
+part 2: 
+(A) 16
+(B) 22
+(C) 10
+(D) 28
+
+part 3: (A) 16

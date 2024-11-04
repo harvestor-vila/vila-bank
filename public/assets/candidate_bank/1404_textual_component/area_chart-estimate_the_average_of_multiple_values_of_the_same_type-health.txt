@@ -1,0 +1,7 @@
+part 1: Estimate the average number of patients recovered over the 20-day period.
+    part 2: 
+      (A) 8.9
+      (B) 10.9
+      (C) 13.9
+      (D) 16.9
+    part 3: (B) 10.9

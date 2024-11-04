@@ -1,0 +1,9 @@
+part 1: What task does the area chart best support?
+
+part 2: 
+  (A) Comparing individual yearly populations against each other
+  (B) Showing the distribution of population across different age groups
+  (C) Tracking the change in population over a period of time
+  (D) Identifying the exact population in a specific year
+
+part 3: (C) Tracking the change in population over a period of time

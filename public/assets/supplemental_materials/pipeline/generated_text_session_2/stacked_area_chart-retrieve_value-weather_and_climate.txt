@@ -1,0 +1,9 @@
+part 1: What is the value of precipitation on Day 10?
+
+part 2: 
+(A) 0
+(B) 5
+(C) 2
+(D) 17
+
+part 3: (C) 2

@@ -1,0 +1,9 @@
+part 1: Which energy source showed a greater increase in production from 2000 to 2019, Solar or Wind?
+
+part 2: 
+  (A) Solar increased more than Wind
+  (B) Wind increased more than Solar
+  (C) Both Solar and Wind increased by the same amount
+  (D) Neither Solar nor Wind showed any increase
+
+part 3: (A) Solar increased more than Wind

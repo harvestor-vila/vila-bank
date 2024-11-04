@@ -1,0 +1,7 @@
+part 1: What does the legend in the choropleth map indicate?
+    part 2: 
+      (A) Population density
+      (B) Median income
+      (C) Value
+      (D) Unemployment rate
+    part 3: (C) Value

@@ -1,0 +1,7 @@
+part 1: What is the average population of the US states and District of Columbia as estimated from the choropleth map?
+part 2:
+(A) rounded_correct_answer - min_distance
+(B) rounded_correct_answer + min_distance
+(C) rounded_correct_answer + 2 * min_distance
+(D) rounded_correct_answer
+part 3: (D) rounded_correct_answer

@@ -1,0 +1,11 @@
+part 1: Which political party has fewer seats but more funding compared to the Libertarian party?
+
+part 2: 
+(A) Green
+(B) Conservative
+(C) Socialist
+(D) Progressive
+
+part 3: (C) Socialist
+
+The Socialist party has more funding ($3,951,286) than the Libertarian party ($1,378,536) but fewer seats (13 for Socialist, 7 for Libertarian), which makes it the correct answer according to the dataset provided.

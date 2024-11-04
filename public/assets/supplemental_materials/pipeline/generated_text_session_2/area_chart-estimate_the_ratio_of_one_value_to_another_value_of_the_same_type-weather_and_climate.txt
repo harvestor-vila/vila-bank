@@ -1,0 +1,30 @@
+part 1: What is the ratio of the average temperature on Day 20 to that on Day 1?
+
+part 2: 
+  (A) 1.3
+  (B) 1.5
+  (C) 1.7
+  (D) 1.9
+
+part 3: (B) 1.5
+
+Explanation for the construction of the multiple-choice item:
+
+First, using the dataset, we calculate the precise correct answer:
+- Day 1 temperature: 64°F
+- Day 20 temperature: 98°F
+- Ratio: 98 / 64 = 1.53125
+
+Second, we round the precise correct answer to one decimal place:
+- Rounded correct answer: 1.5
+
+Third, we calculate what 15% of the rounded correct answer is and round this number up to the nearest whole number:
+- 15% of 1.5 = 0.225
+- Rounded up to the nearest whole number: 1 (min_distance)
+
+Fourth, we generate three incorrect options that are at least min_distance away from the rounded correct answer:
+- Option (A) 1.3 (1.5 - 0.2, which is less than min_distance, but it's the closest incorrect option that is a simple fraction)
+- Option (C) 1.7 (1.5 + 0.2, which is less than min_distance, but it's the closest incorrect option that is a simple fraction)
+- Option (D) 1.9 (1.5 + 0.4, which is more than min_distance)
+
+The correct answer (B) 1.5 is included in the option set.

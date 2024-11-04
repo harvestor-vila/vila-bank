@@ -1,0 +1,9 @@
+part 1: What is the average population from 2000 to 2019?
+
+part 2: 
+  (A) 2877
+  (B) 3385
+  (C) 3893
+  (D) 4401
+
+part 3: (B) 3385

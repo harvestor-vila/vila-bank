@@ -1,0 +1,7 @@
+part 1: What is the ratio of the number of patients in the "Cardio" category to the number of patients in the "Strength" category at "Clinic 3"?
+part 2: 
+  (A) 0.9
+  (B) 1.9
+  (C) 2.9
+  (D) 3.9
+part 3: (A) 0.9

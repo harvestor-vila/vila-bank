@@ -1,0 +1,7 @@
+part 1: If the Average Daily Temperature Over 20 Days were displayed using a line chart instead of an area chart, which of the following would best describe its characteristics?
+    part 2: 
+    (A) A line chart would show individual data points connected by straight lines, without a filled color below the line.
+    (B) A line chart would display bars for each day, with the height of the bars proportional to the average temperature.
+    (C) A line chart would consist of a pie divided into slices, each representing a day's share of the total temperature range.
+    (D) A line chart would use points plotted along an X and Y axis, with no lines connecting the data points.
+    part 3: (A) A line chart would show individual data points connected by straight lines, without a filled color below the line.

@@ -1,0 +1,7 @@
+part 1: In which year did the population reach its peak value?
+    part 2: 
+      (A) 2010
+      (B) 2000
+      (C) 2019
+      (D) 2005
+    part 3: (B) 2000

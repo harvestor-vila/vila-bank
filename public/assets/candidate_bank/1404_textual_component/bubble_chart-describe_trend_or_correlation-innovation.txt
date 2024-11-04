@@ -1,0 +1,7 @@
+part 1: What trend or correlation is observed between the Innovation Score and the Research Budget in the bubble chart?
+    part 2: 
+    (A) A strong positive correlation between Innovation Score and Research Budget.
+    (B) A strong negative correlation between Innovation Score and Research Budget.
+    (C) No clear trend or correlation between Innovation Score and Research Budget.
+    (D) A moderate positive correlation between Innovation Score and Research Budget.
+    part 3: (C) No clear trend or correlation between Innovation Score and Research Budget.

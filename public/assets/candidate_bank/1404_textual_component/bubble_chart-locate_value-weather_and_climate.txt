@@ -1,0 +1,7 @@
+part 1: Which location has the highest recorded humidity?
+    part 2: 
+      (A) Location A
+      (B) Location C
+      (C) Location F
+      (D) Location G
+    part 3: (B) Location C

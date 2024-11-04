@@ -1,0 +1,9 @@
+part 1: Which has a greater Market Impact, a project with an Innovation Score of 89 or one with an Innovation Score of 95?
+
+part 2: 
+  (A) Innovation Score of 89
+  (B) Innovation Score of 95
+  (C) Both have the same Market Impact
+  (D) Cannot be determined from the given information
+
+part 3: (A) Innovation Score of 89

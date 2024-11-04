@@ -1,0 +1,7 @@
+part 1: What pattern does the histogram of incomes in the economy display?
+    part 2: 
+    (A) The incomes are uniformly distributed across different ranges.
+    (B) The incomes show a strong positive correlation with the number of individuals.
+    (C) The incomes are normally distributed with most individuals earning around the mean.
+    (D) There is a strong negative trend, with higher incomes being less common.
+    part 3: (C) The incomes are normally distributed with most individuals earning around the mean.

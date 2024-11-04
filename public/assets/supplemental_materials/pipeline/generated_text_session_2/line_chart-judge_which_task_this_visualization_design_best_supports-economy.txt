@@ -1,0 +1,7 @@
+part 1: What task does the line chart best support?
+part 2: 
+  (A) Comparing GDP growth rates across multiple countries for a single year
+  (B) Tracking changes in GDP growth rates over a period of years
+  (C) Identifying the distribution of GDP growth rates for a given year
+  (D) Assessing the correlation between GDP growth and inflation rates
+part 3: (B) Tracking changes in GDP growth rates over a period of years

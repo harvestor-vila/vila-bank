@@ -1,0 +1,9 @@
+part 1:      The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relative sizes of the subcategories within each category?
+
+    part 2:
+    (A) A pie chart with different colors representing each subcategory.
+    (B) A line graph with time on the x-axis and value on the y-axis.
+    (C) A stacked bar chart with each category as a separate bar and subcategories stacked within each bar.
+    (D) A scatter plot with subcategories on the x-axis and value on the y-axis.
+
+    part 3:       (C) A stacked bar chart with each category as a separate bar and subcategories stacked within each bar.

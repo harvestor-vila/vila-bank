@@ -1,0 +1,11 @@
+part 1: the question stem of the original item
+Given the distribution of agricultural yield per acre as shown, which visualization design would best allow a viewer to compare the median yield to the mean yield? The visualization above is only a demonstration of the relevant data.
+
+part 2: options of the original item
+(A) A pie chart with slices representing the proportion of total yield per range of acres.
+(B) A scatter plot with each point representing the yield per acre for individual data points.
+(C) A box plot showing the median, quartiles, and potential outliers in the yield per acre.
+(D) A line graph showing the trend of yield per acre over a sequential time period.
+
+part 3: the correct answer of the original item
+(C) A box plot showing the median, quartiles, and potential outliers in the yield per acre.

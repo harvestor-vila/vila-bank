@@ -1,0 +1,9 @@
+part 1: Estimate the ratio of Carbon Emission (metric tons) to Energy Consumption (MWh) for the first data point in the scatterplot.
+
+part 2: 
+  (A) 3.3
+  (B) 4.3
+  (C) 2.3
+  (D) 5.3
+
+part 3: (A) 3.3

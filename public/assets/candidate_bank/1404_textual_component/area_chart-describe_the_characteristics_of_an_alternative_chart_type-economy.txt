@@ -1,0 +1,7 @@
+part 1: What characteristics would a line chart display if it were used to represent the same GDP data over the years?
+    part 2: 
+    (A) The line chart would show a series of peaks and valleys, reflecting the fluctuations in GDP over time.
+    (B) The line chart would display a horizontal line, indicating constant GDP values across different years.
+    (C) The line chart would depict a steady increase in GDP over the years, with each year showing higher GDP than the last.
+    (D) The line chart would show a downward trend, with GDP decreasing each subsequent year.
+    part 3: (B) The line chart would display a horizontal line, indicating constant GDP values across different years.

@@ -1,0 +1,7 @@
+part 1: Which category constitutes a larger portion of the population, Youth or Seniors?
+    part 2: 
+    (A) Youth
+    (B) Seniors
+    (C) Both are equal
+    (D) Cannot be determined from the visualization
+    part 3: (A) Youth

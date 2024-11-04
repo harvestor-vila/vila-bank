@@ -1,0 +1,9 @@
+part 1: Which task does the choropleth map design best support?
+
+part 2: 
+(A) Comparing the exact economic values between multiple states
+(B) Identifying trends in economic value across regions
+(C) Showing the distribution of a single state's economic value over time
+(D) Presenting the precise number of states above a certain economic threshold
+
+part 3: (B) Identifying trends in economic value across regions

@@ -1,0 +1,9 @@
+part 1: What pattern does the histogram of Innovation Scores most clearly show?
+
+part 2: 
+(A) The data shows a strong positive correlation between Innovation Scores and the number of observations.
+(B) The data shows a uniform distribution of Innovation Scores.
+(C) The data shows a right-skewed distribution of Innovation Scores.
+(D) The data shows a strong negative correlation between Innovation Scores and the number of observations.
+
+part 3: (C) The data shows a right-skewed distribution of Innovation Scores.

@@ -1,0 +1,7 @@
+part 1: Which crop shows a larger bubble size, indicating higher profit, between Wheat and Barley?
+part 2: 
+  (A) Wheat
+  (B) Barley
+  (C) They are the same size
+  (D) The visualization does not include these crops
+part 3: (B) Barley

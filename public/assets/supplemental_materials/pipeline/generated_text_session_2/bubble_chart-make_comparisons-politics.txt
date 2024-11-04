@@ -1,0 +1,9 @@
+part 1: Which political party has more seats but less funding compared to the Socialist party?
+
+part 2: 
+(A) Green
+(B) Conservative
+(C) Libertarian
+(D) Progressive
+
+part 3: (B) Conservative

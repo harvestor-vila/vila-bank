@@ -1,0 +1,7 @@
+part 1: What is the Research Budget value for the company with the highest Innovation Score?
+    part 2: 
+    (A) Research Budget: 95
+    (B) Research Budget: 164
+    (C) Research Budget: 77
+    (D) Research Budget: 61
+    part 3: (C) Research Budget: 77

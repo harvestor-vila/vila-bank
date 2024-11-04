@@ -1,0 +1,9 @@
+part 1: What task does the scatterplot of Energy Consumption vs. Carbon Emission best support?
+
+part 2: 
+  (A) Identifying the correlation between energy consumption and carbon emission
+  (B) Displaying the geographical distribution of energy consumption
+  (C) Showing the change in energy consumption over time
+  (D) Comparing the total energy consumption of different countries
+
+part 3: (A) Identifying the correlation between energy consumption and carbon emission

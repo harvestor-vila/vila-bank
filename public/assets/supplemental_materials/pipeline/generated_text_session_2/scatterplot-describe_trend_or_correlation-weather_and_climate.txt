@@ -1,0 +1,9 @@
+part 1: What pattern does the scatterplot of Temperature vs Humidity show?
+
+part 2: 
+(A) A strong negative correlation between temperature and humidity
+(B) No clear trend or correlation between temperature and humidity
+(C) A moderate positive correlation between temperature and humidity
+(D) A perfect positive correlation between temperature and humidity
+
+part 3: (C) A moderate positive correlation between temperature and humidity

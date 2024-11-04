@@ -1,0 +1,7 @@
+part 1: Estimate the difference in percentage between the subcategories "Hypertension" and "Stroke".
+part 2: 
+  (A) 5%
+  (B) 10%
+  (C) 15%
+  (D) 20%
+part 3: (B) 10%

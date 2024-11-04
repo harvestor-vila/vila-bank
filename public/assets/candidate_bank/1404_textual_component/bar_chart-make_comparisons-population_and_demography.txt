@@ -1,0 +1,7 @@
+part 1: Which age group has a larger population, "0-14" or "45-64"?
+    part 2: 
+      (A) "0-14" has a larger population than "45-64"
+      (B) "45-64" has a larger population than "0-14"
+      (C) Both age groups have the same population
+      (D) It is impossible to determine from the bar chart
+    part 3: (A) "0-14" has a larger population than "45-64"

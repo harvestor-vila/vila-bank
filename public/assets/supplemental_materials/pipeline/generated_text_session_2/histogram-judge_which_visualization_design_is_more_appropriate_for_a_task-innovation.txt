@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for understanding the central tendency and dispersion of the innovation scores?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart showing the proportion of scores in predefined ranges.
+(B) A scatter plot with innovation scores on the x-axis and a constant value on the y-axis.
+(C) A boxplot summarizing the median, quartiles, and outliers of the innovation scores.
+(D) A line graph showing the trend of innovation scores over time.
+
+part 3: the correct answer
+(C) A boxplot summarizing the median, quartiles, and outliers of the innovation scores.

@@ -1,0 +1,7 @@
+part 1: What pattern does the choropleth map indicate about the economic values across the states?
+    part 2: 
+    (A) States in the Midwest have the highest economic values.
+    (B) There is a clear increasing trend in economic values from the West to the East.
+    (C) No clear trend or correlation in economic values is evident across the states.
+    (D) Coastal states have significantly lower economic values than landlocked states.
+    part 3: (C) No clear trend or correlation in economic values is evident across the states.

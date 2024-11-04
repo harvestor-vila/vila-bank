@@ -1,0 +1,9 @@
+part 1: What is the temperature and humidity level at the highest humidity point in the scatterplot?
+
+part 2: 
+(A) Temperature 88°F, Humidity 59%
+(B) Temperature 100°F, Humidity 72%
+(C) Temperature 62°F, Humidity 44%
+(D) Temperature 74°F, Humidity 52%
+
+part 3: (B) Temperature 100°F, Humidity 72%

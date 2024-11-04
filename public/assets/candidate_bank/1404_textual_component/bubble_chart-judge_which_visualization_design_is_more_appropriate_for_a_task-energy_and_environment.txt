@@ -1,0 +1,9 @@
+part 1:  Considering the task of understanding the relationship between a country's energy consumption, CO2 emissions, and the percentage of renewable energy used, which visualization design would be most appropriate? The visualization above is only a demonstration of the relevant data.
+
+part 2:
+(A) A pie chart showing the proportion of renewable energy sources in each country's energy mix.
+(B) A bubble chart with energy consumption on the x-axis, CO2 emissions on the y-axis, and bubble size representing the percentage of renewable energy.
+(C) A line graph showing the trend of CO2 emissions over time for each country.
+(D) A bar chart showing the ranking of countries based on their total energy consumption.
+
+part 3:   (B) A bubble chart with energy consumption on the x-axis, CO2 emissions on the y-axis, and bubble size representing the percentage of renewable energy.

@@ -1,0 +1,276 @@
+Pid,trialName,q5,q3,reason,tentative decision
+expert_2,100_percent_stacked_bar_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,I'm skipping any remaining mental math Q's and just putting random answers.,Yes,only one (1/5) expert said no. the rating from the expert who didn't want to do any estimate value problems was removed since they provided random answers,"q3: Y
+keep"
+expert_7,100_percent_stacked_bar_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,,Yes,,
+expert_8,100_percent_stacked_bar_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,,Yes,,
+expert_10,100_percent_stacked_bar_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,,No,,
+author1,100_percent_stacked_bar_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,,Yes,,
+author2,100_percent_stacked_bar_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,,Yes,,
+expert_2,100_percent_stacked_bar_chart-make_comparisons-politics,This is a very poor vis for this task. It would make more sense to organize the chart by party rather than by issue. It's not even clear what a 100% total for a given issue means when broken down by party. It is an illogical chart. It is impossible to accurately answer the question with the information given.,No,direct comparisons between two segments of different bars on a 100% bar chart can be problematic.,"q3: N
+remove"
+expert_7,100_percent_stacked_bar_chart-make_comparisons-politics,,Yes,,
+expert_9,100_percent_stacked_bar_chart-make_comparisons-politics,,Yes,,
+expert_10,100_percent_stacked_bar_chart-make_comparisons-politics,"Party A does have a bigger percentage in the Environment column than the Economy column (which I think is the intended takeaway), but because these stacked bars are scaled to the relative percentage of attention WITHIN EACH TOPIC, direct comparisons between sections of different topics cannot be made without an understanding of the relative sizes of each ""Issue"".",No,,
+author1,100_percent_stacked_bar_chart-make_comparisons-politics,,Yes,,
+author2,100_percent_stacked_bar_chart-make_comparisons-politics,,Yes,,
+expert_2,area_chart-estimate_the_average_of_multiple_values_of_the_same_type-innovation,need an average line,Yes,only one expert said no but majority said yes,"q3: Y
+keep"
+expert_7,area_chart-estimate_the_average_of_multiple_values_of_the_same_type-innovation,cannot tell between (A) and (D),Yes,,
+expert_9,area_chart-estimate_the_average_of_multiple_values_of_the_same_type-innovation,,Yes,,
+expert_10,area_chart-estimate_the_average_of_multiple_values_of_the_same_type-innovation,,No,,
+author1,area_chart-estimate_the_average_of_multiple_values_of_the_same_type-innovation,,Yes,,
+author2,area_chart-estimate_the_average_of_multiple_values_of_the_same_type-innovation,,Yes,,
+expert_2,bar_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,You want me to do mental math? Forget it.,No,only one expert said no and this expert didn't want to do any estimate value problems,"q3: Y
+keep"
+expert_7,bar_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,,Yes,,
+expert_9,bar_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,,Yes,,
+expert_10,bar_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,"For estimation questions, I would recommend rounding all values",Yes,,
+author1,bar_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,,Yes,,
+author2,bar_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,"two options are the same, which is probably not ideal as part of MC",Yes,,
+expert_1,bubble_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,"Multiple ways to create an alternative bar chart. But within the choices, the answer seems right.",Yes,"bubble chart is hard to replace in the ""describe the characteristics of an alternative chart type"" task
+
+only one person said no and the majority said yes","q3: Y
+keep"
+expert_5,bubble_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,,Yes,,
+expert_9,bubble_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,,Yes,,
+author1,bubble_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,bubble chart is hard to show in a different chart type,Yes,,
+author2,bubble_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,either the question should clarify the relevant variables or somehow include all variables in the bubble chart? ,No,,
+expert_3,bubble_chart-estimate_the_average_of_multiple_values_of_the_same_type-population_and_demography,,Yes,only one expert said no but majority said yes,"q3: Y
+keep"
+expert_7,bubble_chart-estimate_the_average_of_multiple_values_of_the_same_type-population_and_demography,,Yes,,
+expert_8,bubble_chart-estimate_the_average_of_multiple_values_of_the_same_type-population_and_demography,It's too hard to tell,No,,
+expert_10,bubble_chart-estimate_the_average_of_multiple_values_of_the_same_type-population_and_demography,,Yes,,
+author1,bubble_chart-estimate_the_average_of_multiple_values_of_the_same_type-population_and_demography,"seems like it should be around 70,000",Yes,,
+author2,bubble_chart-estimate_the_average_of_multiple_values_of_the_same_type-population_and_demography,,Yes,,
+expert_2,bubble_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,"Again, not gonna do the mental math here",No,only two experts said no but majority said yes,"q3: Y
+keep"
+expert_5,bubble_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,,Yes,,
+expert_9,bubble_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,,Yes,,
+expert_10,bubble_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,The need to translate units make this a poor stimulus to test a person's ability to estimate the difference between two values,No,,
+author1,bubble_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,,Yes,,
+author2,bubble_chart-estimate_the_difference_between_two_values_of_the_same_type-population_and_demography,,Yes,,
+expert_2,bubble_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,Still not doing the mental math.,No,"size of bubbles can be hard to compare in estimate value problems.
+
+more people said yes than no","q3: Y
+keep"
+expert_7,bubble_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,,Yes,,
+expert_9,bubble_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,,Yes,,
+expert_10,bubble_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,"Overall comment: why rely so heavily on legends? The Locations could easily be labeled directly, which would focus the user's attention on the actual comparison task.",No,,
+author1,bubble_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,size can be hard to compare (aggregation),Yes,,
+author2,bubble_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,,Yes,,
+expert_2,bubble_chart-identify_range-health,,No,"bubble size is not suitable for ""identify range"" items because sizes are hard to estimate
+
+if range is about size, then remove","q3: N
+remove"
+expert_7,bubble_chart-identify_range-health,,No,,
+expert_8,bubble_chart-identify_range-health,"We know that it's bad to map values to glyph sizes, so is it reasonable to use a chart with bad encodings to evaluate vis literacy?",Yes,,
+expert_10,bubble_chart-identify_range-health,"Color is distracting / causes visual artifacts (maybe labels instead?) and the legend suggests that this is a discrete mapping, when it is actually an interpolation",Yes,,
+author1,bubble_chart-identify_range-health,,Yes,,
+author2,bubble_chart-identify_range-health,,Yes,,
+expert_2,bubble_chart-make_comparisons-economy,The question focuses on two countries but it isn't at all clear which two are referred to.,No,"question is unclear, making it not answerable","q3: N
+remove"
+expert_5,bubble_chart-make_comparisons-economy,"The language of the question supposes there are two countries, but there are seven.",No,,
+expert_9,bubble_chart-make_comparisons-economy,,Yes,,
+expert_10,bubble_chart-make_comparisons-economy,"""the one with the higher GDP"" and ""the one with the lower unemployment rate"" are relative questions, but it isn't clear which two I am supposed to be comparing.
+
+Did you mean ""-est"" instead of ""-er""?",Yes,,
+author1,bubble_chart-make_comparisons-economy,unclear question,No,,
+author2,bubble_chart-make_comparisons-economy,which 2 countries?,No,,
+expert_2,bubble_chart-retrieve_value-politics,Hard to retrieve a value with this visual encoding,No,only one expert said no but majority said yes,"q3: Y
+keep"
+expert_7,bubble_chart-retrieve_value-politics,Both (B) and (D) could be correct.,Yes,,
+expert_9,bubble_chart-retrieve_value-politics,,Yes,,
+expert_10,bubble_chart-retrieve_value-politics,The options should be place-value justified,Yes,,
+author1,bubble_chart-retrieve_value-politics,,Yes,,
+author2,bubble_chart-retrieve_value-politics,,Yes,,
+expert_3,choropleth_map-estimate_the_average_of_multiple_values_of_the_same_type-economy,,Yes,"
+estimate average is very hard in choropleth map because of aggregation
+
+only one expert said no but majority said yes","q3: N
+remove"
+expert_6,choropleth_map-estimate_the_average_of_multiple_values_of_the_same_type-economy,,Yes,,
+expert_7,choropleth_map-estimate_the_average_of_multiple_values_of_the_same_type-economy,,Yes,,
+expert_8,choropleth_map-estimate_the_average_of_multiple_values_of_the_same_type-economy,"There should be an option for ""can't tell from the graph""",No,,
+author1,choropleth_map-estimate_the_average_of_multiple_values_of_the_same_type-economy,too hard to estimate... aggregation,Yes,,
+author2,choropleth_map-estimate_the_average_of_multiple_values_of_the_same_type-economy,,Yes,,
+expert_3,choropleth_map-estimate_the_difference_between_two_values_of_the_same_type-economy,"Read this as ""What's the difference in Texas and Oklahoma?"" Texas is great, while Oklahoma is just OK.
+I'm not sure how to estimate the difference: given [A,B) and [B, C), would we take B - A or C - B? And those are ranges so any answer won't be exact.",No,"
+estimate difference is very hard in choropleth map because of aggregation
+
+","q3: N
+remove"
+expert_6,choropleth_map-estimate_the_difference_between_two_values_of_the_same_type-economy,"For estimation, the extreme level of precisions does not seem necessary and the color bucketing adds additional ambiguity. ",Yes,,
+expert_7,choropleth_map-estimate_the_difference_between_two_values_of_the_same_type-economy,,Yes,,
+expert_8,choropleth_map-estimate_the_difference_between_two_values_of_the_same_type-economy,I can't estimate the difference with color encoding,No,,
+author1,choropleth_map-estimate_the_difference_between_two_values_of_the_same_type-economy,aggregation problem,Yes,,
+author2,choropleth_map-estimate_the_difference_between_two_values_of_the_same_type-economy,,Yes,,
+expert_3,choropleth_map-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,"The bins are different sizes in the legend. The first difference is 437, then 139, then 330, etc. If they were equally sized, then it would be easier to estimate the ratios.",Yes,"
+estimate ratio is very hard in choropleth map because of aggregation
+
+only one expert said no but majority said yes","q3: Y
+keep"
+expert_4,choropleth_map-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,,No,,
+expert_6,choropleth_map-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,,Yes,,
+expert_11,choropleth_map-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,,Yes,,
+author1,choropleth_map-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,this one is ok but in general aggregation make things hard or impossible unless options are easy,Yes,,
+author2,choropleth_map-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-health,,Yes,,
+expert_1,choropleth_map-judge_which_visualization_design_is_more_appropriate_for_a_task-weather_and_climate,"If the pattern we are looking for is geographic by nature, the answers make sense. But we might be looking at patterns of states by other factors that are not geographic.",Yes,only one expert said no but majority said yes,"q3: Y
+keep"
+expert_2,choropleth_map-judge_which_visualization_design_is_more_appropriate_for_a_task-weather_and_climate,,Yes,,
+expert_5,choropleth_map-judge_which_visualization_design_is_more_appropriate_for_a_task-weather_and_climate,,Yes,,
+expert_9,choropleth_map-judge_which_visualization_design_is_more_appropriate_for_a_task-weather_and_climate,,No,,
+author1,choropleth_map-judge_which_visualization_design_is_more_appropriate_for_a_task-weather_and_climate,,Yes,,
+author2,choropleth_map-judge_which_visualization_design_is_more_appropriate_for_a_task-weather_and_climate,,Yes,,
+expert_1,histogram-describe_trend_or_correlation-food_and_agriculture,,Yes,only one expert said no but majority said yes,"q3: Y
+keep"
+expert_4,histogram-describe_trend_or_correlation-food_and_agriculture,,Yes,,
+expert_5,histogram-describe_trend_or_correlation-food_and_agriculture,,No,,
+author1,histogram-describe_trend_or_correlation-food_and_agriculture,,Yes,,
+author2,histogram-describe_trend_or_correlation-food_and_agriculture,,Yes,,
+expert_1,histogram-estimate_the_difference_between_two_values_of_the_same_type-innovation,,Yes,only one expert said no but majority said yes,"q3: Y
+keep"
+expert_2,histogram-estimate_the_difference_between_two_values_of_the_same_type-innovation,,No,,
+expert_5,histogram-estimate_the_difference_between_two_values_of_the_same_type-innovation,,Yes,,
+expert_9,histogram-estimate_the_difference_between_two_values_of_the_same_type-innovation,,Yes,,
+author1,histogram-estimate_the_difference_between_two_values_of_the_same_type-innovation,a bit strange,Yes,,
+author2,histogram-estimate_the_difference_between_two_values_of_the_same_type-innovation,,Yes,,
+expert_3,histogram-identify_range-health,,Yes,only one expert said no but majority said yes,"q3: Y
+keep"
+expert_4,histogram-identify_range-health,It's a little hard to tell which option is correct.,No,,
+expert_6,histogram-identify_range-health,,Yes,,
+expert_11,histogram-identify_range-health,,Yes,,
+author1,histogram-identify_range-health,,Yes,,
+author2,histogram-identify_range-health,,Yes,,
+expert_3,histogram-locate_value-economy,,Yes,"
+
+only one expert said no but majority said yes","q3: Y
+keep"
+expert_6,histogram-locate_value-economy,,Yes,,
+expert_8,histogram-locate_value-economy,,No,,
+expert_11,histogram-locate_value-economy,,Yes,,
+author1,histogram-locate_value-economy,,Yes,,
+author2,histogram-locate_value-economy,,Yes,,
+expert_2,histogram-retrieve_value-health,only the x axis is needed; someone not paying attention might default to reading a value off the (incorrect) y axis,No,"aggregation issues with histogram when it comes to ""retrieve value""
+
+","q3: N
+remove"
+expert_5,histogram-retrieve_value-health,,Yes,,
+expert_9,histogram-retrieve_value-health,,No,,
+expert_10,histogram-retrieve_value-health,"This is a histogram, which shows bins (so it is impossible to determine the exact maximum). The largest *bin* is centered at 225.",No,,
+author1,histogram-retrieve_value-health,,Yes,,
+author2,histogram-retrieve_value-health,,Yes,,
+expert_2,line_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-energy_and_environment,Uck more mental math,No,"
+
+only one expert said no but majority said yes","q3: Y
+keep"
+expert_5,line_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-energy_and_environment,,Yes,,
+expert_9,line_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-energy_and_environment,,Yes,,
+expert_10,line_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-energy_and_environment,,Yes,,
+author1,line_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-energy_and_environment,,Yes,,
+author2,line_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-energy_and_environment,,Yes,,
+expert_3,line_chart-judge_which_task_this_visualization_design_best_supports-politics,,Yes,more people said yes than no,"q3: Y
+keep"
+expert_7,line_chart-judge_which_task_this_visualization_design_best_supports-politics,,Yes,,
+expert_8,line_chart-judge_which_task_this_visualization_design_best_supports-politics,A and B both look reasonable. Hard to argue which one is better ,Yes,,
+expert_10,line_chart-judge_which_task_this_visualization_design_best_supports-politics,,No,,
+author1,line_chart-judge_which_task_this_visualization_design_best_supports-politics,,Yes,,
+author2,line_chart-judge_which_task_this_visualization_design_best_supports-politics,,No,,
+expert_3,pie_chart-estimate_the_difference_between_two_values_of_the_same_type-education,,Yes,"
+estimate difference can be hard for pie chart
+only one expert said no but majority said yes","q3: Y
+keep"
+expert_6,pie_chart-estimate_the_difference_between_two_values_of_the_same_type-education,"Perhaps a shorter question would be more clear; I initially overlooked the ""percentage points"" part of the question, and noted that the ""value"" version of the question would be hard to answer. ",Yes,,
+expert_8,pie_chart-estimate_the_difference_between_two_values_of_the_same_type-education,A pie is even worse than stacked bars for this task,No,,
+expert_11,pie_chart-estimate_the_difference_between_two_values_of_the_same_type-education,,Yes,,
+author1,pie_chart-estimate_the_difference_between_two_values_of_the_same_type-education,a bit hard,Yes,,
+author2,pie_chart-estimate_the_difference_between_two_values_of_the_same_type-education,,Yes,,
+expert_4,pie_chart-identify_labels_of_scales-energy_and_environment,,Yes,special error: all pie charts don't have legend,"q3: N
+remove"
+expert_6,pie_chart-identify_labels_of_scales-energy_and_environment,"There is no legend on this visualization; if there was, perhaps this question would be clear and reasonable.",Yes,,
+expert_11,pie_chart-identify_labels_of_scales-energy_and_environment,there is no legend,Yes,,
+author1,pie_chart-identify_labels_of_scales-energy_and_environment,legend not displayed ,No,,
+author2,pie_chart-identify_labels_of_scales-energy_and_environment,,Yes,,
+expert_4,stacked_area_chart-estimate_the_average_of_multiple_values_of_the_same_type-health,Cannot tell which answer is correct.,No,only one expert said no but majority said yes,"q3: Y
+keep"
+expert_6,stacked_area_chart-estimate_the_average_of_multiple_values_of_the_same_type-health,,Yes,,
+expert_11,stacked_area_chart-estimate_the_average_of_multiple_values_of_the_same_type-health,,Yes,,
+author1,stacked_area_chart-estimate_the_average_of_multiple_values_of_the_same_type-health,very hard especially bottom not aligned,Yes,,
+author2,stacked_area_chart-estimate_the_average_of_multiple_values_of_the_same_type-health,on the harder side,Yes,,
+expert_3,stacked_area_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,,No,"stacked area chart has conceptual error, which causes confusion on the task","q3: No
+remove"
+expert_7,stacked_area_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,,Yes,,
+expert_8,stacked_area_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,"Not sure what ""total temperature"" etc means. We can't just sum up temperature and divide it by the sum of speed? I guess the point is to compare the colored areas but this question doesn't make physical sense",No,,
+expert_10,stacked_area_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,I have no idea what this questions is asking,No,,
+author1,stacked_area_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,vis is a bit strange ,Yes,,
+author2,stacked_area_chart-estimate_the_ratio_of_one_value_to_another_value_of_the_same_type-weather_and_climate,,Yes,,
+expert_1,stacked_area_chart-identify_range-innovation,"The way I understand the question, it's asking for total number of innovations for all categories combined. The answers seem to show the range for each category. This chart i fine for making an estimate for all categories, but would be really hard for the the maximum range of innovation from within.",No,more people said yes than no,"q3: Y
+keep"
+expert_5,stacked_area_chart-identify_range-innovation,,No,,
+expert_9,stacked_area_chart-identify_range-innovation,,Yes,,
+author1,stacked_area_chart-identify_range-innovation,,Yes,,
+author2,stacked_area_chart-identify_range-innovation,,Yes,,
+expert_1,stacked_area_chart-locate_value-economy,,No,only one expert said no but majority said yes,"q3: Y
+keep"
+expert_4,stacked_area_chart-locate_value-economy,,Yes,,
+expert_5,stacked_area_chart-locate_value-economy,,Yes,,
+author1,stacked_area_chart-locate_value-economy,strange wording,Yes,,
+author2,stacked_area_chart-locate_value-economy,,Yes,,
+expert_3,stacked_area_chart-make_comparisons-energy_and_environment,,Yes,"
+
+only one expert said no but majority said yes","q3: Y
+keep"
+expert_6,stacked_area_chart-make_comparisons-energy_and_environment,"This chart does not seem like the ideal choice to answer this question, which makes it seem less relevant. Direct comparison of the users or visualization of the trend between them may be more effective.",Yes,,
+expert_8,stacked_area_chart-make_comparisons-energy_and_environment,"I can't really tell what the values are for solar/wind, let alone increase/decrease",No,,
+expert_11,stacked_area_chart-make_comparisons-energy_and_environment,,Yes,,
+author1,stacked_area_chart-make_comparisons-energy_and_environment,,Yes,,
+author2,stacked_area_chart-make_comparisons-energy_and_environment,,Yes,,
+expert_3,stacked_bar_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,,No,"for ""describe the characteristics of an alternative chart type"", GPT sometimes selects unsuitable chart types. Also, certain chart types are very hard to replace.
+stacked bar chart also hard to change to an alternative","q3: N
+remove"
+expert_7,stacked_bar_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,,Yes,,
+expert_8,stacked_bar_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,,Yes,,
+expert_10,stacked_bar_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,This would be an inappropriate use of a line chart,No,,
+author1,stacked_bar_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,this vs cannot be turned into a line chart,No,,
+author2,stacked_bar_chart-describe_the_characteristics_of_an_alternative_chart_type-weather_and_climate,,No,,
+expert_3,stacked_bar_chart-estimate_the_difference_between_two_values_of_the_same_type-education,,Yes,"
+
+only one expert said no but majority said yes","q3: Y
+keep"
+expert_7,stacked_bar_chart-estimate_the_difference_between_two_values_of_the_same_type-education,Cannot tell the exact number,Yes,,
+expert_8,stacked_bar_chart-estimate_the_difference_between_two_values_of_the_same_type-education,I can't tell,No,,
+expert_10,stacked_bar_chart-estimate_the_difference_between_two_values_of_the_same_type-education,This specific question compares two extremely close values in a challenging color palette; I think you are likely to get a lot of confounding.,Yes,,
+author1,stacked_bar_chart-estimate_the_difference_between_two_values_of_the_same_type-education,a bit hard,Yes,,
+author2,stacked_bar_chart-estimate_the_difference_between_two_values_of_the_same_type-education,,Yes,,
+expert_2,tree_map-describe_trend_or_correlation-education,,No,"hard to ask trend questions when treemap does not contain temporal values
+
+more people said yes than no","q3: Y
+keep"
+expert_5,tree_map-describe_trend_or_correlation-education,,Yes,,
+expert_9,tree_map-describe_trend_or_correlation-education,,Yes,,
+expert_10,tree_map-describe_trend_or_correlation-education,"I don't know what you mean by a ""decreasing trend"" in a squarified treemap",No,,
+author1,tree_map-describe_trend_or_correlation-education,not really about trend. trend is hard with tree map without a time dimension,Yes,,
+author2,tree_map-describe_trend_or_correlation-education,,Yes,,
+expert_4,tree_map-estimate_the_difference_between_two_values_of_the_same_type-education,Hard to tell which one is the correct answer.,Yes,only one expert said no but majority said yes,"q3: Y
+keep"
+expert_6,tree_map-estimate_the_difference_between_two_values_of_the_same_type-education,,Yes,,
+expert_11,tree_map-estimate_the_difference_between_two_values_of_the_same_type-education,,No,,
+author1,tree_map-estimate_the_difference_between_two_values_of_the_same_type-education,a bit hard,Yes,,
+author2,tree_map-estimate_the_difference_between_two_values_of_the_same_type-education,,Yes,,
+expert_2,tree_map-identify_labels_of_scales-population_and_demography,This question is nonsensical given the chart.,No,"treemap has a conceptual error because of an inappropriate hierarchy
+
+only one expert said no and the majority said yes","q3: Y
+remove"
+expert_7,tree_map-identify_labels_of_scales-population_and_demography,,Yes,,
+expert_8,tree_map-identify_labels_of_scales-population_and_demography,The color legend makes sense but the treemap itself doesn't,Yes,,
+expert_10,tree_map-identify_labels_of_scales-population_and_demography,,Yes,,
+author1,tree_map-identify_labels_of_scales-population_and_demography,tree map is problematic because of the three categories are not a partition,Yes,,
+author2,tree_map-identify_labels_of_scales-population_and_demography,,Yes,,
+expert_3,tree_map-identify_range-energy_and_environment,Very challenging to compare the areas,Yes,"hard to retrieve value and identify range from tree map
+
+more people said yes than no","q3: Y
+keep"
+expert_6,tree_map-identify_range-energy_and_environment,"Not as clear in this one what values are being encoded, so it seems like there could be more uncertainty or confusion related to the visualization question/items.",Yes,,
+expert_7,tree_map-identify_range-energy_and_environment,Cannot read any values from the visualization,No,,
+expert_8,tree_map-identify_range-energy_and_environment,Not sure what the tree map represents or what the ranges are in the options,No,,
+author1,tree_map-identify_range-energy_and_environment,a bit hard to estimate ,Yes,,
+author2,tree_map-identify_range-energy_and_environment,not sure what the numbers correspond to,Yes,,

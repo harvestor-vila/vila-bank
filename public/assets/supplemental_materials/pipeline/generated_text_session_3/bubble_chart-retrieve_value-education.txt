@@ -1,0 +1,7 @@
+part 1: What is the number of students at the school with an average test score of 92?
+    part 2: 
+      (A) 470
+      (B) 570
+      (C) 670
+      (D) 770
+    part 3: (B) 570

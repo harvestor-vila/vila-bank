@@ -1,0 +1,9 @@
+part 1: What is the range of innovation scores across all states as shown in the choropleth map?
+
+part 2: 
+(A) [38, 567]
+(B) [53, 508]
+(C) [63, 493]
+(D) [45, 550]
+
+part 3: (C) [63, 493]

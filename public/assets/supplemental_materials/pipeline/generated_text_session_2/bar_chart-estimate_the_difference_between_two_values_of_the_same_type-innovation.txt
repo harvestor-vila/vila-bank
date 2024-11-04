@@ -1,0 +1,15 @@
+part 1: What is the difference in investment (in millions) between the IoT and AI sectors?
+
+part 2: 
+(A) 10.0
+(B) 16.0
+(C) 50.0
+(D) 20.0
+
+part 3: (D) 20.0
+
+To generate the correct answer:
+- The precise difference between IoT (294) and AI (278) is 16.
+- The rounded correct answer to one decimal place is 16.0.
+- 15% of 16.0 is 2.4, which rounds up to the nearest whole number as 3 (min_distance).
+- The incorrect options are generated to be at least 3 away from the rounded correct answer: 10.0 (16 - 6), 16.0 (precise answer, not rounded), and 50.0 (16 + 34), ensuring that they are unambiguously incorrect. Option (D) is the rounded correct answer and is at least min_distance away from the other options.

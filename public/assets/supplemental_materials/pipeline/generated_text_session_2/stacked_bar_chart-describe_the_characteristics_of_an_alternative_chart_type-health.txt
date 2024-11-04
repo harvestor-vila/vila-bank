@@ -1,0 +1,9 @@
+part 1: If the patient distribution by health category and clinic were to be displayed using a pie chart instead of a stacked bar chart, which of the following would be a characteristic of the pie chart?
+
+part 2: 
+(A) Each clinic would be represented by a separate pie chart, with slices proportional to the number of patients in each health category.
+(B) The pie chart would have slices representing each clinic, with the size of each slice proportional to the total number of patients across all health categories.
+(C) The pie chart would show a single slice for each health category, with the size of the slice representing the average number of patients per clinic.
+(D) The pie chart would have slices for each health category, with each slice divided further into segments representing the clinics.
+
+part 3: (A) Each clinic would be represented by a separate pie chart, with slices proportional to the number of patients in each health category.

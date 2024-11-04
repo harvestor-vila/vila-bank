@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the range of Voter Turnout percentages represented in the scatterplot?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) [40, 104]
+(B) [52, 90]
+(C) [44, 106]
+(D) [47, 101]
+
+part 3: the correct answer
+(B) [52, 90]

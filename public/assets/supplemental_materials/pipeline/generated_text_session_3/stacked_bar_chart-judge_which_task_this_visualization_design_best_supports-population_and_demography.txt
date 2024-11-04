@@ -1,0 +1,7 @@
+part 1: What task does the stacked bar chart design best support?
+    part 2: 
+    (A) Comparing the total population across different regions
+    (B) Identifying the exact population count for each age group within a region
+    (C) Analyzing the trend of population growth over time
+    (D) Assessing the distribution of population density across various landforms
+    part 3: (A) Comparing the total population across different regions

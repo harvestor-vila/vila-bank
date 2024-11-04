@@ -1,0 +1,7 @@
+part 1: What are the labels for the x-axis and y-axis in the political issues stacked bar chart?
+part 2: 
+(A) x-axis: Party, y-axis: Issue
+(B) x-axis: Issue, y-axis: Percentage
+(C) x-axis: Percentage, y-axis: Party
+(D) x-axis: Party, y-axis: Percentage
+part 3: (B) x-axis: Issue, y-axis: Percentage

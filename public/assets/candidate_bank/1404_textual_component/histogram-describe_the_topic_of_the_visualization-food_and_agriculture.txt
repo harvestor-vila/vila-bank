@@ -1,0 +1,7 @@
+part 1: What is the topic of the histogram?
+    part 2: 
+    (A) The average temperature variations over a year
+    (B) The distribution of agricultural yield per acre
+    (C) The frequency of different species in a forest
+    (D) The number of students enrolled in various university courses
+    part 3: (B) The distribution of agricultural yield per acre

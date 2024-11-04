@@ -1,0 +1,9 @@
+part 1: What is the average number of cases across all diseases shown in the bar chart?
+
+part 2:
+(A) 248
+(B) 336
+(C) 380
+(D) 292
+
+part 3: (D) 292

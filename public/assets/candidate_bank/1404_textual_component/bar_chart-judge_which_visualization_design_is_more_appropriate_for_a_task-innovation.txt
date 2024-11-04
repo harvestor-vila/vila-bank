@@ -1,0 +1,7 @@
+part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the exact investment values across different innovation sectors?
+    part 2:
+    (A) A pie chart with different colors representing each sector and the size of each slice proportional to the investment amount.
+             (B) A scatter plot with innovation sectors on the x-axis and investment amounts on the y-axis, with each sector represented by a distinct dot.
+             (C) A sorted bar chart with innovation sectors on the x-axis and investment amounts on the y-axis, with bars ordered from highest to lowest investment.
+             (D) A line graph with innovation sectors on the x-axis and investment amounts on the y-axis, with points connected in the order of the sectors listed.
+    part 3: (C) A sorted bar chart with innovation sectors on the x-axis and investment amounts on the y-axis, with bars ordered from highest to lowest investment.

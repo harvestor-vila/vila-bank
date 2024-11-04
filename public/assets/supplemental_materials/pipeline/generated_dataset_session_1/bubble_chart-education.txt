@@ -1,0 +1,9 @@
+"School"	"Average_Test_Score"	"Number_of_Students"	"School_Funding"
+"School A"	72	640	3e+06
+"School B"	92	570	1e+06
+"School C"	76	970	4e+06
+"School D"	95	560	1e+07
+"School E"	98	740	9e+06
+"School F"	62	660	7e+06
+"School G"	81	280	7e+06
+"School H"	96	920	1e+07

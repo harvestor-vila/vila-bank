@@ -1,0 +1,7 @@
+part 1: Estimate the difference in population between the "0-14" and "65+" age groups in the year 2000.
+part 2: 
+  (A) 31769
+  (B) 37376
+  (C) 42983
+  (D) 48590
+part 3: (B) 37376

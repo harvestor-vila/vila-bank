@@ -1,0 +1,9 @@
+part 1: What is the average value of the subcategories under "Renewable Energy"?
+
+part 2: 
+  (A) 6.7
+  (B) 10.7
+  (C) 12.7
+  (D) 8.7
+
+part 3: (D) 8.7

@@ -1,0 +1,9 @@
+part 1: What is the average percentage value across all categories in the pie chart?
+
+part 2: 
+  (A) 20%
+  (B) 33.3%
+  (C) 45%
+  (D) 60%
+
+part 3: (B) 33.3%

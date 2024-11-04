@@ -1,0 +1,9 @@
+part 1: What is the topic of the visualization?
+
+part 2: 
+  (A) The impact of weather on crop yields over a 20-year period
+  (B) The fluctuation of stock prices for a technology company over 20 months
+  (C) The change in energy consumption over a series of time intervals
+  (D) The pattern of traffic flow through a major city during different hours of the day
+
+part 3: (C) The change in energy consumption over a series of time intervals

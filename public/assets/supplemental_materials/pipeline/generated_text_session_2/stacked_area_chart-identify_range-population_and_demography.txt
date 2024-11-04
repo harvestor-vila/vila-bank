@@ -1,0 +1,9 @@
+part 1: What is the range of the population values represented in the stacked area chart?
+
+part 2: 
+  (A) [500, 100500]
+  (B) [5510, 99433]
+  (C) [4500, 101000]
+  (D) [5000, 100000]
+
+part 3: (B) [5510, 99433]

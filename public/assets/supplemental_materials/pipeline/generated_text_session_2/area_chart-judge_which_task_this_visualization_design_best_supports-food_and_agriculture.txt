@@ -1,0 +1,9 @@
+part 1: What task does the area chart design best support?
+
+part 2: 
+(A) Comparing the exact production values between individual years
+(B) Tracking changes in agricultural production over the 20-year period
+(C) Identifying the distribution of production values across different categories
+(D) Assessing the correlation between year and production
+
+part 3: (B) Tracking changes in agricultural production over the 20-year period

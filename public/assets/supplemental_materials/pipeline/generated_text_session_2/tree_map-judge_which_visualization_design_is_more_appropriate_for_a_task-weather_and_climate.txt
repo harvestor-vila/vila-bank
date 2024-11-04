@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the relative proportions of weather and climate data categories and subcategories?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A line chart with time on the x-axis and percentage on the y-axis.
+(B) A treemap with areas representing the percentage of each subcategory within their respective categories.
+(C) A scatter plot with categories on the x-axis and percentage on the y-axis.
+(D) A bar chart with separate bars for each category and subcategory without a clear distinction between the categories.
+
+part 3: the correct answer
+(B) A treemap with areas representing the percentage of each subcategory within their respective categories.

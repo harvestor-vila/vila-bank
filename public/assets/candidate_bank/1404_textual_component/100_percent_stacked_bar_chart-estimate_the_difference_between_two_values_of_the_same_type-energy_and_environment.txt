@@ -1,0 +1,7 @@
+part 1: Estimate the difference in percentage points between the use of Solar energy and Fossil Fuels energy in 2021.
+    part 2: 
+      (A) 27.0%
+      (B) 32.0%
+      (C) 37.0%
+      (D) 42.0%
+    part 3: (B) 32.0%

@@ -1,0 +1,7 @@
+part 1: What was the income (in millions) for the Technology sector in 2018?
+    part 2: 
+    (A) 300
+    (B) 492
+    (C) 700
+    (D) 200
+    part 3: (B) 492

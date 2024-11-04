@@ -1,0 +1,7 @@
+part 1: Estimate the difference between the maximum and minimum 'Yield_per_Acre' as shown in the histogram.
+part 2: 
+(A) 36.0
+(B) 30.0
+(C) 42.0
+(D) 48.0
+part 3: (A) 36.0

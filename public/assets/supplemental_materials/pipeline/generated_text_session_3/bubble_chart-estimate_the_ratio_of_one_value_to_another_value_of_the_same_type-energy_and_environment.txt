@@ -1,0 +1,3 @@
+part 1: Estimate the ratio of CO2 Emissions (in million metric tons) to Energy Consumption (in TWh) for Grevia.
+part 2: (A) 632 (B) 857 (C) 969 (D) 744.5
+part 3: (D) 744.5

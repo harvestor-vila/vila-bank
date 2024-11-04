@@ -1,0 +1,9 @@
+part 1: Which state has a higher value, Michigan or Texas?
+
+part 2: 
+(A) Michigan
+(B) Texas
+(C) Both have the same value
+(D) The visualization does not provide this information
+
+part 3: (A) Michigan

@@ -1,0 +1,4 @@
+"School"	"Math"	"Science"	"English"	"History"	"Arts"
+"Greenwood Elementary"	30	25	20	15	10
+"Lakeside High"	25	30	25	10	10
+"Hilltop Middle"	35	25	15	15	10

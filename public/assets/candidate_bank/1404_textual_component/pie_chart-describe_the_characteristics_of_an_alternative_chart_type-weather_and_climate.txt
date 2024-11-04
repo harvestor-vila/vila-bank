@@ -1,0 +1,7 @@
+part 1: If the climate category distribution data were to be displayed using a stacked bar chart instead of a pie chart, which of the following would be a correct description of its characteristics?
+    part 2: 
+    (A) Each climate category would be represented by a separate bar, with the length of each bar proportional to the percentage of the total.
+    (B) Climate categories would be represented by concentric circles with varying radii corresponding to their percentages.
+    (C) Climate categories would be represented by points plotted on a map, with the size of each point proportional to the percentage.
+    (D) Climate categories would be represented by segments of a single bar stacked end-to-end, with the length of each segment proportional to its percentage.
+    part 3: (D) Climate categories would be represented by segments of a single bar stacked end-to-end, with the length of each segment proportional to its percentage.

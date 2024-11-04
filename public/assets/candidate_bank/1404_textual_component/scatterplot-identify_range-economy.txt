@@ -1,0 +1,9 @@
+part 1: What is the range of GDP values in billions shown in the scatterplot?
+
+part 2:
+(A) [400, 2300]
+(B) [456, 2290]
+(C) [537, 1991]
+(D) [500, 2299]
+
+part 3: (C) [537, 1991]

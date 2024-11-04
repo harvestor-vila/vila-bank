@@ -1,0 +1,9 @@
+part 1: What trend is observed in the number of cases for the different health conditions over the years?
+
+part 2: 
+(A) The number of cases for all conditions has steadily increased over the years.
+(B) The number of cases for all conditions has steadily decreased over the years.
+(C) No clear trend is observed in the number of cases for the different health conditions over the years.
+(D) The number of cases for Respiratory conditions has shown a significant increase in the last five years compared to others.
+
+part 3: (C) No clear trend is observed in the number of cases for the different health conditions over the years.

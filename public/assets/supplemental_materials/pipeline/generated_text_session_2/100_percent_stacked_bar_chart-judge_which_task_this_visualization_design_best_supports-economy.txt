@@ -1,0 +1,9 @@
+part 1: Which task does the visualization design best support?
+
+part 2: 
+(A) Comparing the exact values of different sectors within a single year
+(B) Tracking the change in a sector's contribution over multiple years
+(C) Identifying the sector with the highest percentage contribution for a single year
+(D) Displaying the distribution of percentage contributions across sectors for all years combined
+
+part 3: (B) Tracking the change in a sector's contribution over multiple years

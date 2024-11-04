@@ -1,0 +1,7 @@
+part 1: What percentage of the tree map area is allocated to the "Employed" subcategory within the "Employment_Status" category?
+    part 2: 
+      (A) 1%
+      (B) 10%
+      (C) 20%
+      (D) 5%
+    part 3: (D) 5%

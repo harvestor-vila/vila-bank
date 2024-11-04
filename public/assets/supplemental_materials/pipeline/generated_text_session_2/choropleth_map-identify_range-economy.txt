@@ -1,0 +1,9 @@
+part 1: What is the range of the economic values represented in the choropleth map?
+
+part 2: 
+(A) [8500, 105000]
+(B) [10040, 99708]
+(C) [9000, 102000]
+(D) [8000, 101000]
+
+part 3: (B) [10040, 99708]

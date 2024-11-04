@@ -1,0 +1,9 @@
+part 1: In which year did the population first exceed 100 million?
+
+part 2: 
+(A) 2014
+(B) 2015
+(C) 2016
+(D) 2017
+
+part 3: (B) 2015

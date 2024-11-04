@@ -1,0 +1,7 @@
+part 1: Which category has the smallest percentage share in the food and agriculture sectors?
+    part 2: 
+      (A) Vegetables
+      (B) Meats
+      (C) Dairy
+      (D) Fruits
+    part 3: (C) Dairy

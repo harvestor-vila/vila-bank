@@ -1,0 +1,7 @@
+part 1: What is the range of votes received by the political party from 2000 to 2019 as shown in the area chart?
+    part 2: 
+    (A) [96, 544]
+    (B) [113, 473]
+    (C) [95, 545]
+    (D) [94, 546]
+    part 3: (B) [113, 473]

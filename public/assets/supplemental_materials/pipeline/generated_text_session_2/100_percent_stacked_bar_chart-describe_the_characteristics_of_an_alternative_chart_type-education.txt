@@ -1,0 +1,9 @@
+part 1: If the subject distribution by school were displayed using a pie chart instead of a 100 percent stacked bar chart, which of the following would be an accurate description of its characteristics?
+
+part 2: 
+(A) Each school would be represented by a separate pie chart, with slices proportional to the number of students in each subject.
+(B) A single pie chart would represent all schools combined, with slices showing the cumulative percentage of each subject across all schools.
+(C) Each subject would have a corresponding pie chart, with slices indicating the percentage contribution of each school to that subject.
+(D) One pie chart would be used to represent the data, with different colors indicating the percentage of each subject for the school with the highest overall percentage.
+
+part 3: (A) Each school would be represented by a separate pie chart, with slices proportional to the number of students in each subject.

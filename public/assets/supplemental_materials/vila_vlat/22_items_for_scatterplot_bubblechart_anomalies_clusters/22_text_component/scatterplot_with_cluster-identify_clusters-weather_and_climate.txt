@@ -1,0 +1,7 @@
+part 1: Where is the cluster of data points located on the scatterplot of temperature versus humidity?
+    part 2: 
+    (A) Around 50 degrees temperature and 120 degrees humidity
+    (B) Around 80 degrees temperature and 90 degrees humidity
+    (C) Around 50 degrees temperature and 50 degrees humidity
+    (D) No visible cluster on the scatterplot
+    part 3: (C) Around 50 degrees temperature and 50 degrees humidity

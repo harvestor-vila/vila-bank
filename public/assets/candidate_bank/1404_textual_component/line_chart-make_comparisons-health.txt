@@ -1,0 +1,7 @@
+part 1: Which day's heart rate measurement is higher, Day 5 or Day 10?
+    part 2: 
+      (A) Day 5's heart rate is higher.
+      (B) Day 10's heart rate is higher.
+      (C) Day 5's and Day 10's heart rates are the same.
+      (D) The visualization does not provide information on individual days.
+    part 3: (A) Day 5's heart rate is higher.

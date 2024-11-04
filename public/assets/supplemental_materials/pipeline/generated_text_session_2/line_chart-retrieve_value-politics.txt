@@ -1,0 +1,9 @@
+part 1: What was the approval rating in the year 2007?
+
+part 2: 
+  (A) 42
+  (B) 57
+  (C) 72
+  (D) 85
+
+part 3: (B) 57

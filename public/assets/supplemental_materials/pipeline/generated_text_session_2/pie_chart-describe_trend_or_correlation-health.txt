@@ -1,0 +1,9 @@
+part 1: What pattern does the pie chart of health-related activities distribution show?
+
+part 2: 
+(A) The percentage of people who manage stress is higher than those who exercise.
+(B) Exercise constitutes the largest percentage of the health-related activities.
+(C) Hydration is twice as prevalent as diet in the health-related activities.
+(D) Sleep and diet categories are equally represented in the health-related activities.
+
+part 3: (B) Exercise constitutes the largest percentage of the health-related activities.

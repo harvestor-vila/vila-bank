@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the range of energy production values (in GWh) represented in the stacked bar chart?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) [96, 1116]
+(B) [113, 970]
+(C) [79, 1262]
+(D) [62, 1408]
+
+part 3: the correct answer
+(B) [113, 970]

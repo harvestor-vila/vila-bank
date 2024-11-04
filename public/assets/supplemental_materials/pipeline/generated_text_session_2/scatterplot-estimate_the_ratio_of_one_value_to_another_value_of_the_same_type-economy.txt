@@ -1,0 +1,7 @@
+part 1: Estimate the ratio of the number of countries with an Unemployment Rate of 1 to the number of countries with an Unemployment Rate of 7.
+part 2: 
+  (A) 0.1
+  (B) 2.1
+  (C) 3.1
+  (D) 1.1
+part 3: (D) 1.1

@@ -1,0 +1,7 @@
+part 1: What task does the histogram of standardized test scores best support?
+    part 2: 
+    (A) Identifying the relationship between two quantitative variables
+    (B) Understanding the distribution of test scores among students
+    (C) Comparing the mean test scores of two different classes
+    (D) Determining the exact number of students who scored above 95
+    part 3: (B) Understanding the distribution of test scores among students

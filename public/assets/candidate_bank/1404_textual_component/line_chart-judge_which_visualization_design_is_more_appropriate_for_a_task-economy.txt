@@ -1,0 +1,9 @@
+part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to display the trend in annual GDP growth rates over the years?
+
+part 2:
+(A) A pie chart showing the proportion of each year's GDP growth rate to the total sum of growth rates.
+(B) A line chart with years on the x-axis and GDP growth rates on the y-axis, with points marking each year's growth rate.
+(C) A bar chart with different colors representing each year's GDP growth rate.
+(D) A scatter plot with GDP growth rates on the x-axis and years on the y-axis.
+
+part 3:   (B) A line chart with years on the x-axis and GDP growth rates on the y-axis, with points marking each year's growth rate.

@@ -1,0 +1,9 @@
+part 1: What is the enrollment number for Middle School in the year with the lowest enrollment across all education levels?
+
+part 2: 
+(A) 180
+(B) 106
+(C) 472
+(D) 458
+
+part 3: (B) 106

@@ -1,0 +1,9 @@
+part 1: What does the size of the bubbles in the bubble chart represent?
+
+part 2: 
+  (A) GDP (in billions USD)
+  (B) Unemployment Rate (%)
+  (C) Population
+  (D) Country Name
+
+part 3: (C) Population

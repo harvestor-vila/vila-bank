@@ -1,0 +1,9 @@
+part 1: If the annual GDP growth rates were to be displayed using a bar chart instead of a line chart, which of the following would be an accurate description of its characteristics?
+
+part 2: 
+(A) The bar chart would show a continuous curve connecting the points of GDP growth for each year.
+(B) The bar chart would consist of individual, equally spaced vertical bars, each representing the GDP growth rate for a given year.
+(C) The bar chart would display pie slices with sizes proportional to the GDP growth rates for each year.
+(D) The bar chart would use a single horizontal bar with segments colored differently to represent each year's GDP growth rate.
+
+part 3: (B) The bar chart would consist of individual, equally spaced vertical bars, each representing the GDP growth rate for a given year.

@@ -1,0 +1,6 @@
+part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to show the trend in the number of graduates over the years?
+part 2: (A) A pie chart with different slices representing each year's graduates.
+(B) An area chart with the years on the x-axis and the cumulative number of graduates on the y-axis.
+(C) A scatter plot with individual data points for each year without connecting lines.
+(D) A bar chart with each bar representing the percentage change in graduates from the previous year.
+part 3: (B) An area chart with the years on the x-axis and the cumulative number of graduates on the y-axis.

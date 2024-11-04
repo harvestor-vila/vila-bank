@@ -1,0 +1,9 @@
+part 1: What are the labels for the horizontal and vertical axes in the scatterplot?
+
+part 2: 
+(A) Horizontal: Height (cm), Vertical: Weight (kg)
+(B) Horizontal: Weight (kg), Vertical: Height (cm)
+(C) Horizontal: Age (years), Vertical: Weight (kg)
+(D) Horizontal: Weight (lbs), Vertical: Height (in)
+
+part 3: (B) Horizontal: Weight (kg), Vertical: Height (cm)

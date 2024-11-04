@@ -1,0 +1,7 @@
+part 1: What trend does the area chart of Energy Consumption from 2000 to 2019 show?
+    part 2: 
+      (A) Energy Consumption has remained constant over the years.
+      (B) Energy Consumption has shown an increasing trend over the years.
+      (C) Energy Consumption has fluctuated without a clear trend.
+      (D) Energy Consumption has shown a decreasing trend over the years.
+    part 3: (D) Energy Consumption has shown a decreasing trend over the years.

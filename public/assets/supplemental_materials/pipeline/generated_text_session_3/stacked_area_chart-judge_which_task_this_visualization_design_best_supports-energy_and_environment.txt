@@ -1,0 +1,7 @@
+part 1: What task does the stacked area chart best support?
+    part 2: 
+    (A) Comparing the exact annual energy production values between different energy sources
+    (B) Tracking the change in total energy production over time
+    (C) Identifying the energy source with the highest production in a specific year
+    (D) Analyzing the correlation between two different energy sources' production values
+    part 3: (B) Tracking the change in total energy production over time

@@ -1,0 +1,3 @@
+part 1: What is the average investment (in millions) across the innovation sectors shown in the bar chart?
+    part 2: (A) 251 (B) 296 (C) 342 (D) 386
+    part 3: (B) 296

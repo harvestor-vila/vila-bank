@@ -1,0 +1,7 @@
+part 1: What are the labels for the horizontal and vertical axes in the scatterplot?
+    part 2: 
+      (A) Horizontal: Voter Age (%), Vertical: Government Support (%)
+      (B) Horizontal: Voter Turnout (%), Vertical: Opposition Support (%)
+      (C) Horizontal: Population Density, Vertical: Economic Growth Rate (%)
+      (D) Horizontal: Education Level (%), Vertical: Employment Rate (%)
+    part 3: (B) Horizontal: Voter Turnout (%), Vertical: Opposition Support (%)

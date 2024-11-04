@@ -1,0 +1,7 @@
+part 1: What task does the histogram of Energy Consumption best support?
+    part 2: 
+    (A) Identifying the exact mean Energy Consumption value
+    (B) Comparing the Energy Consumption between different categories
+    (C) Understanding the distribution of Energy Consumption values
+    (D) Determining the relationship between Energy Consumption and time
+    part 3: (C) Understanding the distribution of Energy Consumption values

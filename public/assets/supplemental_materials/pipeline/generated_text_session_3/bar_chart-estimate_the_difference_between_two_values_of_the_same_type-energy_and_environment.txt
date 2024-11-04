@@ -1,0 +1,7 @@
+part 1: What is the difference in production (GWh) between Nuclear and Natural Gas energy sources?
+part 2: 
+  (A) 5 GWh
+  (B) 12 GWh
+  (C) 7 GWh
+  (D) 20 GWh
+part 3: (C) 7 GWh

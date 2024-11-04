@@ -1,0 +1,9 @@
+part 1: If the bubble chart showing political party performance were to be represented as a bar chart, which description would best fit its characteristics?
+
+part 2: 
+(A) A bar chart with bars of different widths representing the amount of funding each party received.
+(B) A bar chart with horizontal bars, where the length of each bar is proportional to the number of votes, and color indicates the party.
+(C) A bar chart with bars of uniform width, where the height of each bar represents the number of seats won, and color indicates the party.
+(D) A bar chart with stacked bars, where each segment's height represents the number of votes, and each color within a stack represents a different party.
+
+part 3: (C) A bar chart with bars of uniform width, where the height of each bar represents the number of seats won, and color indicates the party.

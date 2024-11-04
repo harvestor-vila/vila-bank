@@ -1,0 +1,321 @@
+context:
+  [
+    health,
+    population and demography,
+    energy and environment,
+    weather and climate,
+    food and agriculture,
+    economy,
+    politics,
+    education,
+    innovation,
+  ]
+
+task_dict:
+  make comparisons: |
+    The question should provide the descriptions of two values and ask the viewer to compare them. The viewer should not need to retrieve specific values or calculate derived values for this question.
+  identify range: |
+    The question should ask the viewer to identify the range of values of the same type in the visualization.
+     To construct the item, you must follow this procedure in order:
+      First, find the precise minimum value and the precise maximum value of the same type in the entire dataset, and call them min_value and max_value. Use the precise [min_value, max_value] as the correct answer. [min_value, max_value] must be in part 3 of your response and one of the options in part 2 of your response.
+      Second, calculate what 15% multiplies min_value is and what 15% multiplies max_value is, and round these two numbers up to the nearest whole numbers. Call the first rounded number distance_min and the second rounded number distance_max.
+      Third, use distance_min and distance_max to generate exactly three incorrect options in the form of [lower bound, upper bound] such that the lower bound of the incorrect range is at least distance_min smaller than min_value and the upper bound of the incorrect range is at least distance_max larger than max_value.
+  retrieve value: |
+    The question should give the viewer a precise description of a value and ask the viewer to retrieve it. 
+    To construct the item, you must follow this procedure in order:
+      First, use the precise number from the dataset as the correct answer. This number must be in part 3 of your response and one of the options in part 2 of your response.
+      Second, calculate what 15% multiplies the correct answer is and round this number up to the nearest whole number. Call this number min_distance.
+      Third, use min_distance to generate exactly three incorrect options that are at least min_distance away from the correct answer. These three incorrect options and the rounded correct answer should be the four options in part 2 of your response.
+  locate value: |
+    The question should ask the viewer to locate the value that fits a description. You must use the dataset to find the precise correct answer and do not round any numbers in the dataset when creating this item. For example, the question can ask where the maximum or minimum value occurs. The correct answer must fit the description of the value in the question. The three incorrect options must be sufficiently far away from the correct answer.
+  identify labels of scales: |
+    The question should ask the viewer to identify labels of axes or legends.
+  describe the topic of the visualization: |
+    The question should ask the viewer to describe what the visualization is about. Do not state the title of the visualization in the question stem in part 1 of your response.
+  estimate the difference between two values of the same type: |
+    To construct the item, you must follow this procedure in order:
+      First, use the dataset to calculate the precise correct answer.
+      Second, round the precise correct answer to one decimal place, call this number the rounded correct answer, and use this as the correct answer for the item. The rounded correct answer must be in part 3 of your response and one of the options in part 2 of your response. To round a number to one decimal place, keep the first digit after the decimal and adjust it up if the next digit is 5 or higher. For example, 15.26 rounds to 15.3.
+      Third, calculate what 15% multiplies the rounded correct answer is and round this number up to the nearest whole number. Call this number min_distance.
+      Fourth, use min_distance to generate exactly three incorrect options that are at least min_distance away from the rounded correct answer. These three incorrect options and the rounded correct answer should be the four options in part 2 of your response.
+  estimate the ratio of one value to another value of the same type: |
+    To construct the item, you must follow this procedure in order:
+      First, use the dataset to calculate the precise correct answer.
+      Second, round the precise correct answer to one decimal place, call this number the rounded correct answer, and use this as the correct answer for the item. The rounded correct answer must be in part 3 of your response and one of the options in part 2 of your response. To round a number to one decimal place, keep the first digit after the decimal and adjust it up if the next digit is 5 or higher. For example, 15.26 rounds to 15.3.
+      Third, calculate what 15% multiplies the rounded correct answer is and round this number up to the nearest whole number. Call this number min_distance.
+      Fourth, use min_distance to generate exactly three incorrect options that are at least min_distance away from the rounded correct answer. These three incorrect options and the rounded correct answer should be the four options in part 2 of your response.
+  estimate the average of multiple values of the same type: |
+    To construct the item, you must follow this procedure in order:
+      First, use the dataset to calculate the precise correct answer.
+      Second, round the precise correct answer to one decimal place, call this number the rounded correct answer, and use this as the correct answer for the item. The rounded correct answer must be in part 3 of your response and one of the options in part 2 of your response. To round a number to one decimal place, keep the first digit after the decimal and adjust it up if the next digit is 5 or higher. For example, 15.26 rounds to 15.3.
+      Third, calculate what 15% multiplies the rounded correct answer is and round this number up to the nearest whole number. Call this number min_distance.
+      Fourth, use min_distance to generate exactly three incorrect options that are at least min_distance away from the rounded correct answer. These three incorrect options and the rounded correct answer should be the four options in part 2 of your response.
+  describe trend or correlation: |
+    The question should ask the viewer to describe patterns in the data such as trend or correlation. If there is no clear trend or correlation, then that should be the correct answer.
+  describe the characteristics of an alternative chart type: |
+    To construct the item, you must follow this procedure in order:
+      First, include the name of an alternative chart in the question stem in part 1 of your response.
+      Second, create a correct description of the alternative chart type and use this as the correct answer for the item. This option must be in part 3 of your response and one of the options in part 2 of your response.
+      Third, generate three other incorrect descriptions as the three incorrect options for part 2 of your response. The incorrect options should not be trivially incorrect.
+  judge which visualization design is more appropriate for a task: |
+    To construct the item, you must follow this procedure in order:
+      First, pick a visualization task only based on the dataset without regard to the data visualization. 
+      Second, create a description of a visualization design that is best suited for the task and use this as the correct answer for the item. This option must be in part 3 of your response and one of the options in part 2 of your response.
+      Third, generate three other incorrect options for part 2 of your response. Make sure the visualization designs in the incorrect options are not suitable for the task.
+      Fourth, in the question stem (part 1 of your response), you must include the following sentence:
+        "The visualization above is only a demonstration of the relevant data."
+  judge which task this visualization design best supports: |
+    Make sure the visualization designs in the incorrect options do not support the task.
+  # identify anomalies: |
+  #   The question should ask the viewer to identify the outlier data point on the visualization. If there is no outlier in the dataset, make sure to use that as the correct answer for the item.
+  # identify clusters: |
+  #   The question should ask the viewer to identify a cluster of data points close together on the visualization. If there is no visible cluster in the dataset, make sure to use that as the correct answer for the item.
+  # identify the hierarchical structure: |
+  #   The question should ask the viewer to identify the different layers of the tree map and how they are nested. For example, the question can ask what category contains a particular subcategory.
+
+pairs:
+  line_chart:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  bar_chart:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  stacked_bar_chart:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  100_percent_stacked_bar_chart:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  area_chart:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  stacked_area_chart:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  scatterplot:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  bubble_chart:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  pie_chart:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  histogram:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  choropleth_map:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+    ]
+  tree_map:
+    [
+      make comparisons,
+      identify range,
+      retrieve value,
+      locate value,
+      identify labels of scales,
+      describe the topic of the visualization,
+      estimate the difference between two values of the same type,
+      estimate the ratio of one value to another value of the same type,
+      estimate the average of multiple values of the same type,
+      describe trend or correlation,
+      describe the characteristics of an alternative chart type,
+      judge which visualization design is more appropriate for a task,
+      judge which task this visualization design best supports,
+      identify the hierarchical structure,
+    ]
+  scatterplot_with_outlier: [identify anomalies]
+  bubble_chart_with_outlier: [identify anomalies]
+  scatterplot_with_cluster: [identify clusters]
+  bubble_chart_with_cluster: [identify clusters]
+
+gpt_model: "gpt-4-1106-preview"
+
+prompt:
+  system_text: |
+    You write multiple-choice items on data visualization tasks. 
+    You are provided with the following:
+      (1) the R code that generated the dataset and the data visualization in a string format;
+      (2) the realized dataset in a string format.
+    You should output the following three parts for each multiple-choice test item:
+      part 1: the question stem you generated associated with the data visualization;
+      part 2: all of the options you generated;
+      part 3: the correct answer out of the generated options.
+  user_text_1: |
+    I will first give you the R code as a string. 
+    Here is the R code: {r_code}
+  assistant_text_1: |
+    I have received the R code that generated the dataset and the data visualization in a string format.
+    Please provide me with the dataset that the R code generated.
+  user_text_2: |
+    I will now give you the dataset the R code generated as a string.
+    Here is the dataset: {dataset}
+  assistant_text_2: I have now received both
+    (1) the R code that generated the dataset and the data visualization in a string format, and
+    (2) the realized dataset in a string format.
+    Please provide me with further instructions on how to generate the multiple-choice item based on these two inputs.
+  user_text_3: |
+    Write a multiple-choice item associated with the data visualization and the dataset. The multiple-choice item must have the following properties:
+      (1) the task the viewer does is to {task}; {task_description}
+      (2) the item has only one correct answer. 
+      (3) the viewer should be able to find the correct answer with only the visualization, question stem, options, and without access to the dataset.
+    First, generate a question stem that allows a tester taker to do the task of "{task}" with the data visualization created by the R code.
+    Second, generate one correct answer to the question stem. Use the provided dataset to find the correct answer.
+    Third, generate three other unambiguously incorrect options for the question stem and the data visualization.
+    Do not include justifications for the options in the options themselves.
+    Your response must be in this specific format. Make sure the word "part" in your output is lowercased: 
+      part 1: the question stem
+      part 2: the option set that includes the the correct answer and three incorrect options
+      part 3: the correct answer
+    Make sure the correct answer is one of the options in part 2 of your response.
+    In the question stem of part 1: 
+      (1) do not include the phrase "R code" or "R script"; the question stem should not reveal how the dataset or visualization is generated.
+      (2) the question stem should be succinct; do not use the phrases "According to the visualization", "Based on the visualization", or similar phrases.
+    In part 2, make sure there are a total of 4 options, formatted as
+      (A) option 1
+      (B) option 2
+      (C) option 3
+      (D) option 4

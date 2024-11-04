@@ -1,0 +1,9 @@
+part 1: What does the legend label represent in the tree map visualization of the economy breakdown?
+
+part 2: 
+  (A) Subcategory names
+  (B) Percentage values
+  (C) Category names
+  (D) Number of companies
+
+part 3: (C) Category names

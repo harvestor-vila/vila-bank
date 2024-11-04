@@ -1,0 +1,7 @@
+"Party" "Votes" "Seats" "Funding"
+"Green" 224021 2 3214790
+"Conservative" 234057 4 9098425
+"Libertarian" 260996 7 1378536
+"Liberal" 288941 10 1926322
+"Socialist" 326317 13 3951286
+"Progressive" 465208 18 9590533

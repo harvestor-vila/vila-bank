@@ -1,0 +1,9 @@
+part 1: What is the ratio of the percentage of Youth to the percentage of Seniors in the population distribution?
+
+part 2: 
+  (A) 1.3
+  (B) 2.3
+  (C) 3.3
+  (D) 4.3
+
+part 3: (B) 2.3

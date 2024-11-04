@@ -1,0 +1,9 @@
+part 1: If the choropleth map of Energy Consumption by State were to be represented as a bar chart, which of the following would best describe its characteristics?
+
+part 2: 
+(A) A bar chart would show each state's energy consumption as a series of pie slices, with the size of each slice proportional to the consumption level.
+(B) A bar chart would display horizontal bars for each state, with bar length representing the rank of energy consumption from highest to lowest.
+(C) A bar chart would depict energy consumption using lines, with peaks and valleys indicating the consumption levels for each state.
+(D) A bar chart would represent each state's energy consumption as vertical bars, with bar height corresponding to the value of energy units consumed.
+
+part 3: (D) A bar chart would represent each state's energy consumption as vertical bars, with bar height corresponding to the value of energy units consumed.

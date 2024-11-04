@@ -1,0 +1,11 @@
+part 1: the question stem
+Which days had a greater temperature difference between them, Day 2 and Day 3 or Day 5 and Day 6?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) Day 2 and Day 3
+(B) Day 5 and Day 6
+(C) The temperature difference is the same for both pairs of days.
+(D) There is not enough information to determine the answer.
+
+part 3: the correct answer
+(B) Day 5 and Day 6

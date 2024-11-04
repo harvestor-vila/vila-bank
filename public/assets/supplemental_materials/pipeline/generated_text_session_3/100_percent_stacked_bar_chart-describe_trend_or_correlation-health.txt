@@ -1,0 +1,7 @@
+part 1: What trend can be observed in the focus on different health categories across the age groups Young Adults, Adults, and Seniors?
+    part 2: 
+    (A) Seniors have the highest percentage focus on Diet and the lowest on Stress Management.
+    (B) Young Adults have the highest percentage focus on Sleep and the lowest on Diet.
+    (C) Adults have the highest percentage focus on Hydration and the lowest on Exercise.
+    (D) All age groups prioritize Exercise over other health categories.
+    part 3: (A) Seniors have the highest percentage focus on Diet and the lowest on Stress Management.

@@ -1,0 +1,7 @@
+part 1: What trend can be observed in the energy consumption over time?
+    part 2: 
+    (A) Energy consumption decreases as time increases.
+    (B) Energy consumption increases as time increases.
+    (C) There is no clear trend in energy consumption over time.
+    (D) Energy consumption shows a cyclical pattern with regular intervals.
+    part 3: (C) There is no clear trend in energy consumption over time.

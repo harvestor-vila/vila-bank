@@ -1,0 +1,9 @@
+part 1: What task does the line chart design best support?
+
+part 2: 
+  (A) Comparing the approval rating between different years
+  (B) Identifying the exact approval rating for a given year
+  (C) Showing the distribution of approval ratings across different political parties
+  (D) Demonstrating the correlation between approval ratings and economic indicators
+
+part 3: (B) Identifying the exact approval rating for a given year

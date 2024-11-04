@@ -1,0 +1,7 @@
+part 1: What is the difference in economic value between Texas and Oklahoma?
+    part 2: 
+    (A) 12563
+    (B) 10678
+    (C) 15000
+    (D) 17500
+    part 3: (A) 12563

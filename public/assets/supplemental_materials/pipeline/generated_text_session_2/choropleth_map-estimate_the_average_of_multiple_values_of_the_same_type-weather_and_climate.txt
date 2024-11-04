@@ -1,0 +1,9 @@
+part 1: What is the average temperature across all states as represented on the choropleth map?
+
+part 2:
+(A) 62.0
+(B) 74.0
+(C) 86.0
+(D) 98.0
+
+part 3: (B) 74.0

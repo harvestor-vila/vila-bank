@@ -1,0 +1,9 @@
+part 1: Which school has a larger bubble size, indicating higher funding, but a lower average test score: School A or School B?
+
+part 2: 
+  (A) School A
+  (B) School B
+  (C) Both schools have the same bubble size and average test score
+  (D) Neither school has a larger bubble size with a lower average test score
+
+part 3: (A) School A

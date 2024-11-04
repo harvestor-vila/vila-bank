@@ -1,0 +1,9 @@
+part 1: Estimate the difference in the number of innovations between the years 2019 and 2003.
+
+part 2:
+(A) 35
+(B) 42
+(C) 49
+(D) 56
+
+part 3: (B) 42

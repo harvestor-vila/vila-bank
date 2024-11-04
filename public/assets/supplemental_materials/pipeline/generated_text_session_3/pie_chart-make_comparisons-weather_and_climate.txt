@@ -1,0 +1,7 @@
+part 1: Which climate category has a larger percentage, Tropical or Polar?
+    part 2: 
+      (A) Tropical
+      (B) Polar
+      (C) Both have the same percentage
+      (D) The visualization does not contain these categories
+    part 3: (A) Tropical

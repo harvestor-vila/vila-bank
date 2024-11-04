@@ -1,0 +1,7 @@
+part 1: Estimate the difference in the number of patients between Clinic 3's Cardio category and Clinic 7's Strength category.
+part 2: 
+  (A) 111.0
+  (B) 128.0
+  (C) 94.0
+  (D) 145.0
+part 3: (A) 111.0

@@ -1,0 +1,9 @@
+part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for comparing the average temperatures across all cities?
+
+part 2:
+(A) A pie chart with slices representing the proportion of total temperature for each city.
+(B) A bar chart with cities on the x-axis and average temperatures on the y-axis.
+(C) A line graph with cities on the x-axis and average temperatures on the y-axis, connected by lines.
+(D) A scatter plot with cities on the x-axis and average temperatures on the y-axis, represented by dots.
+
+part 3:   (B) A bar chart with cities on the x-axis and average temperatures on the y-axis.

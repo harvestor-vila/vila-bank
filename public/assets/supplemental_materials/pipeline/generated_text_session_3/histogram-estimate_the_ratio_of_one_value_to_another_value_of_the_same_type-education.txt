@@ -1,0 +1,7 @@
+part 1: What is the ratio of students who scored above 90 to those who scored 90 or below?
+part 2: 
+(A) 1.6
+(B) 0.6
+(C) 1.7
+(D) 2.7
+part 3: (B) 0.6

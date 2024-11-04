@@ -1,0 +1,9 @@
+part 1: What task does this pie chart design best support?
+
+part 2: 
+  (A) Comparing the exact numerical values between different food and agriculture sectors
+  (B) Showing the distribution of various food and agriculture sectors as a part of a whole
+  (C) Displaying the trend of agricultural sector growth over time
+  (D) Identifying the correlation between different agricultural sectors
+
+part 3: (B) Showing the distribution of various food and agriculture sectors as a part of a whole

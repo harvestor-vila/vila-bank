@@ -1,0 +1,9 @@
+part 1: Which temperature range has a higher average humidity, 60-70°F or 90-100°F?
+
+part 2: 
+(A) 60-70°F
+(B) 90-100°F
+(C) Both ranges have the same average humidity
+(D) Cannot be determined from the scatterplot
+
+part 3: (B) 90-100°F

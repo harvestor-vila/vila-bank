@@ -1,0 +1,6 @@
+part 1: The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate for understanding the distribution of standardized test scores?
+part 2: (A) A pie chart showing the proportion of students achieving each unique test score.
+(B) A scatter plot with test scores on the x-axis and student count on the y-axis.
+(C) A histogram with appropriate bin widths to show the frequency distribution of test scores.
+(D) A line graph showing the trend of test scores over time.
+part 3: (C) A histogram with appropriate bin widths to show the frequency distribution of test scores.

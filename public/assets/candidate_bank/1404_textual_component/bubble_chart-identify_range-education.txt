@@ -1,0 +1,9 @@
+part 1: What is the range of average test scores represented in the bubble chart?
+
+part 2:
+  (A) [47, 113]
+  (B) [52, 113]
+  (C) [47, 108]
+  (D) [62, 98]
+
+part 3: (D) [62, 98]

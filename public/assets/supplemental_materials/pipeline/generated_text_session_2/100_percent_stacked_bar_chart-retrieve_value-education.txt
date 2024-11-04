@@ -1,0 +1,9 @@
+part 1: What percentage of Greenwood Elementary's curriculum is dedicated to Math?
+
+part 2: 
+  (A) 20%
+  (B) 30%
+  (C) 45%
+  (D) 50%
+
+part 3: (B) 30%

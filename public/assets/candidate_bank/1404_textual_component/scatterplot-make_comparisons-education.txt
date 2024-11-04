@@ -1,0 +1,7 @@
+part 1: Which group of students has a higher average grade, those who study less than 10 hours per week or those who study 15 hours or more per week?
+    part 2: 
+      (A) Students who study less than 10 hours per week
+      (B) Students who study 15 hours or more per week
+      (C) Both groups have the same average grade
+      (D) There is no visible trend between study hours and average grades
+    part 3: (B) Students who study 15 hours or more per week

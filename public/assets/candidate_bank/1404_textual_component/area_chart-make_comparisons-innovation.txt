@@ -1,0 +1,7 @@
+part 1: How does the number of innovations in 2003 compare to the number of innovations in 2018?
+    part 2:
+    (A) 2003 had fewer innovations than 2018.
+            (B) 2003 had the same number of innovations as 2018.
+            (C) 2003 had more innovations than 2018.
+            (D) The number of innovations in 2003 and 2018 cannot be compared.
+    part 3: (C) 2003 had more innovations than 2018.

@@ -1,0 +1,7 @@
+part 1: Which policy area contains the subcategory "Trade"?
+    part 2: 
+      (A) Domestic Policy
+      (B) Economic Policy
+      (C) Foreign Policy
+      (D) Social Policy
+    part 3: (C) Foreign Policy

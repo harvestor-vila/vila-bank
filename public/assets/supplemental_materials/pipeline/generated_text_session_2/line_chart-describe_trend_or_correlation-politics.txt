@@ -1,0 +1,9 @@
+part 1: How does the approval rating change over the years from 2000 to 2019?
+
+part 2: 
+  (A) The approval rating consistently increases over the years.
+  (B) The approval rating fluctuates without a clear trend.
+  (C) The approval rating consistently decreases over the years.
+  (D) The approval rating remains constant throughout the years.
+
+part 3: (C) The approval rating consistently decreases over the years.

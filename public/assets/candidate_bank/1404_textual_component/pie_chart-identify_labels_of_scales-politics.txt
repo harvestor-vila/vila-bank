@@ -1,0 +1,7 @@
+part 1: What does the label on the pie chart's colored segments represent?
+    part 2: 
+      (A) Number of votes
+      (B) Political party names
+      (C) Percentage of total funding
+      (D) Number of seats in parliament
+    part 3: (B) Political party names

@@ -1,0 +1,9 @@
+part 1: Which political party has a larger percentage share, the Socialist or the Green party?
+
+part 2: 
+(A) The Socialist party has a larger percentage share.
+(B) The Green party has a larger percentage share.
+(C) Both parties have the same percentage share.
+(D) The data does not provide information on percentage shares.
+
+part 3: (A) The Socialist party has a larger percentage share.

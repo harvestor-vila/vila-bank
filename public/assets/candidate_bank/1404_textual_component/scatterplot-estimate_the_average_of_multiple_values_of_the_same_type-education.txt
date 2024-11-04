@@ -1,0 +1,8 @@
+part 1: What is the average grade of the students?
+part 2:
+(A) 72.5
+(B) 84
+(C) 61
+(D) 100
+part 3: (A) 72.5
+

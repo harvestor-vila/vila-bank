@@ -1,0 +1,7 @@
+part 1: If the choropleth map displaying Innovation Scores by State were to be represented as a bar chart, which of the following characteristics would it most likely have?
+    part 2: 
+    (A) A bar chart with each bar representing a different country's innovation score, sorted in ascending order of score.
+    (B) A bar chart with each bar representing a state's innovation score, with bars colored differently based on predefined score ranges.
+    (C) A pie chart with slices representing the proportion of total innovation scores attributed to each state.
+    (D) A bar chart with each bar representing a state's innovation score, sorted alphabetically by state name.
+    part 3: (B) A bar chart with each bar representing a state's innovation score, with bars colored differently based on predefined score ranges.

@@ -1,0 +1,11 @@
+part 1: the question stem
+The visualization above is only a demonstration of the relevant data. Which visualization design is most appropriate for comparing the relative distribution of energy sources for each year individually?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart for each year showing the distribution of energy sources.
+(B) A single line graph with time on the x-axis and percentage on the y-axis, with separate lines for each energy source.
+(C) A scatter plot with energy sources on the x-axis and years on the y-axis, with dot size representing the percentage.
+(D) A series of maps with each country's energy source usage represented by color intensity.
+
+part 3: the correct answer
+(A) A pie chart for each year showing the distribution of energy sources.

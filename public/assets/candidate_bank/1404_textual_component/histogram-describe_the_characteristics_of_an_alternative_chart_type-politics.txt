@@ -1,0 +1,7 @@
+part 1: If the distribution of votes in the hypothetical primary election were to be displayed using a box plot, which of the following would best describe its characteristics?
+    part 2: 
+    (A) The box plot would show a symmetrical distribution with equal lengths of whiskers and a median line located centrally within the box.
+    (B) The box plot would likely have a longer lower whisker, indicating a concentration of data points at the higher end of the votes.
+    (C) The box plot would display multiple outliers on both the lower and upper extremes, suggesting a bimodal distribution of votes.
+    (D) The box plot would have a longer upper whisker, with the median closer to the bottom of the box, indicating a right-skewed distribution.
+    part 3: (B) The box plot would likely have a longer lower whisker, indicating a concentration of data points at the higher end of the votes.

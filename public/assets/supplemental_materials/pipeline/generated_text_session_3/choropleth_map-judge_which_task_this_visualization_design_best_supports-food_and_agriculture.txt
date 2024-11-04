@@ -1,0 +1,7 @@
+part 1: What task does the choropleth map design best support?
+    part 2: 
+    (A) Comparing the exact value of food and agriculture production between two specific states
+    (B) Identifying trends in food and agriculture production across different regions
+    (C) Showing the distribution of a categorical variable across different states
+    (D) Presenting the hierarchical structure of government agricultural agencies
+    part 3: (B) Identifying trends in food and agriculture production across different regions

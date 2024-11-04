@@ -1,0 +1,7 @@
+part 1: What is the range of agricultural production values (in tons) from 2000 to 2019?
+    part 2: 
+    (A) [100, 1000]
+    (B) [123, 1020]
+    (C) [138, 961]
+    (D) [50, 1100]
+    part 3: (C) [138, 961]

@@ -1,0 +1,7 @@
+part 1: Which company's data point is the outlier in the bubble chart for patent applications?
+    part 2: 
+      (A) Company B
+      (B) Company C
+      (C) Company A
+      (D) Company E
+    part 3: (C) Company A

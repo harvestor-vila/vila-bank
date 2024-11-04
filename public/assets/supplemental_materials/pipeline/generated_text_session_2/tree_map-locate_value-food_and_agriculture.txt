@@ -1,0 +1,9 @@
+part 1: Which subcategory has the smallest percentage share in the tree map of Food and Agriculture Categories?
+
+part 2: 
+(A) Bananas
+(B) Lettuces
+(C) Apples
+(D) Oranges
+
+part 3: (B) Lettuces

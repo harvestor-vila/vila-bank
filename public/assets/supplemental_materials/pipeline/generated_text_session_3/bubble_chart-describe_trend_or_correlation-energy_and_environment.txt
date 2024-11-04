@@ -1,0 +1,7 @@
+part 1: What trend or correlation is observed between energy consumption and CO2 emissions in the bubble chart?
+part 2: 
+  (A) A strong positive correlation between energy consumption and CO2 emissions.
+  (B) A strong negative correlation between energy consumption and CO2 emissions.
+  (C) No clear trend or correlation between energy consumption and CO2 emissions.
+  (D) A moderate positive correlation between energy consumption and renewable energy percentage.
+part 3: (A) A strong positive correlation between energy consumption and CO2 emissions.

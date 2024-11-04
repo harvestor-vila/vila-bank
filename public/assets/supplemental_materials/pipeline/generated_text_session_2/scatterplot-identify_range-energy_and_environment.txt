@@ -1,0 +1,11 @@
+part 1: the question stem
+What is the range of Energy Consumption (MWh) values in the scatterplot?
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) [90, 566]
+(B) [74, 640]
+(C) [58, 714]
+(D) [106, 492]
+
+part 3: the correct answer
+(D) [106, 492]

@@ -1,0 +1,9 @@
+part 1:  Considering the task of understanding the relationship between two quantitative variables, judge which visualization design is more appropriate. The visualization above is only a demonstration of the relevant data.
+
+part 2:
+(A) A pie chart with slices representing different ranges of weights and their corresponding average heights.
+(B) A scatterplot with weight on the x-axis and height on the y-axis, points representing individual data entries.
+(C) A bar graph with weight categories on the x-axis and the count of individuals in each category on the y-axis.
+(D) A line graph showing the trend of height over sequential weight categories.
+
+part 3:   (B) A scatterplot with weight on the x-axis and height on the y-axis, points representing individual data entries.

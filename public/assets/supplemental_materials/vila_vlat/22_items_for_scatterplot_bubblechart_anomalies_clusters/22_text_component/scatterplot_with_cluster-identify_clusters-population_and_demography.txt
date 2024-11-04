@@ -1,0 +1,7 @@
+part 1: Where is the cluster of data points located on the Population vs Median Age Scatterplot?
+    part 2: 
+    (A) Around 3500 Population and 50 Median Age
+    (B) Around 6000 Population and 25 Median Age
+    (C) Around 2000 Population and 75 Median Age
+    (D) No visible cluster
+    part 3: (A) Around 3500 Population and 50 Median Age

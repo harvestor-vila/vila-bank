@@ -1,0 +1,11 @@
+part 1: the question stem of the original item
+The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to understand the correlation between Research Investment and Innovation Scores?
+
+part 2: options of the original item
+(A) A pie chart with slices representing different ranges of Innovation Scores.
+(B) A scatterplot with Research Investment on the x-axis and Innovation Scores on the y-axis, points representing data entries.
+(C) A bar chart with bars representing total Research Investment for grouped ranges of Innovation Scores.
+(D) A line graph showing the trend of Innovation Scores over time.
+
+part 3: the correct answer of the original item
+(B) A scatterplot with Research Investment on the x-axis and Innovation Scores on the y-axis, points representing data entries.

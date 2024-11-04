@@ -1,0 +1,9 @@
+part 1: What is the range of percentage values for the health subcategories shown in the tree map?
+
+part 2: 
+(A) [3, 18]
+(B) [5, 15]
+(C) [0, 20]
+(D) [2, 17]
+
+part 3: (B) [5, 15]

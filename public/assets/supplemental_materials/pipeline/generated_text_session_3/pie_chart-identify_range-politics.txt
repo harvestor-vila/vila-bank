@@ -1,0 +1,7 @@
+part 1: What is the range of percentages represented by the political parties in the pie chart?
+part 2: 
+  (A) [5, 40]
+  (B) [10, 35]
+  (C) [0, 50]
+  (D) [8, 37]
+part 3: (B) [10, 35]

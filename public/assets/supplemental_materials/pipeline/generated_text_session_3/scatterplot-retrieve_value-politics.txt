@@ -1,0 +1,7 @@
+part 1: What is the percentage of opposition support when voter turnout is 74%?
+    part 2: 
+    (A) 8%
+    (B) 22%
+    (C) 37%
+    (D) 52%
+    part 3: (B) 22%

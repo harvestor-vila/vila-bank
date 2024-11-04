@@ -1,0 +1,9 @@
+part 1: If the bubble chart were to be replaced with a bar chart, which of the following best describes its characteristics?
+
+part 2: 
+(A) Each location would be represented by a bar, with bar height indicating average temperature and bar color showing precipitation levels.
+(B) Bars would represent humidity levels, with the width of each bar indicating the amount of precipitation at each location.
+(C) The bar chart would have multiple bars for each location, with each bar's height corresponding to the temperature, humidity, or precipitation.
+(D) A single bar would represent each location, with the height proportional to the temperature and the color gradient representing humidity.
+
+part 3: (A) Each location would be represented by a bar, with bar height indicating average temperature and bar color showing precipitation levels.

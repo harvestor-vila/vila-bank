@@ -1,0 +1,9 @@
+part 1: What trend does the average daily temperature over 20 days exhibit?
+
+part 2: 
+  (A) The temperature shows a decreasing trend.
+  (B) The temperature fluctuates frequently.
+  (C) The temperature remains constant throughout the period.
+  (D) The temperature shows an increasing trend initially and then stabilizes.
+
+part 3: (D) The temperature shows an increasing trend initially and then stabilizes.

@@ -1,0 +1,155 @@
+combo,n
+100 percent bar-describe the characteristics of an alternative chart type,7
+100 percent bar-describe the topic of the visualization,9
+100 percent bar-describe trend or correlation,8
+100 percent bar-estimate average,9
+100 percent bar-estimate difference,8
+100 percent bar-estimate ratio,9
+100 percent bar-identify labels of scales,9
+100 percent bar-identify range,8
+100 percent bar-judge which design is more appropriate for a task,8
+100 percent bar-judge which task this visualization design best supports,9
+100 percent bar-locate value,8
+100 percent bar-make comparisons,5
+100 percent bar-retrieve value,9
+area-describe the characteristics of an alternative chart type,9
+area-describe the topic of the visualization,8
+area-describe trend or correlation,9
+area-estimate average,9
+area-estimate difference,8
+area-estimate ratio,8
+area-identify labels of scales,9
+area-identify range,7
+area-judge which design is more appropriate for a task,9
+area-judge which task this visualization design best supports,8
+area-locate value,9
+area-make comparisons,9
+area-retrieve value,9
+bar-describe the characteristics of an alternative chart type,9
+bar-describe the topic of the visualization,9
+bar-describe trend or correlation,2
+bar-estimate average,7
+bar-estimate difference,8
+bar-estimate ratio,9
+bar-identify labels of scales,9
+bar-identify range,9
+bar-judge which design is more appropriate for a task,9
+bar-judge which task this visualization design best supports,9
+bar-locate value,9
+bar-make comparisons,9
+bar-retrieve value,9
+bubble -describe the characteristics of an alternative chart type,1
+bubble -describe the topic of the visualization,9
+bubble -describe trend or correlation,6
+bubble -estimate average,6
+bubble -estimate difference,3
+bubble -estimate ratio,4
+bubble -identify labels of scales,9
+bubble -identify range,7
+bubble -judge which design is more appropriate for a task,9
+bubble -judge which task this visualization design best supports,9
+bubble -locate value,9
+bubble -make comparisons,6
+bubble -retrieve value,7
+choropleth map-describe the characteristics of an alternative chart type,8
+choropleth map-describe the topic of the visualization,9
+choropleth map-describe trend or correlation,8
+choropleth map-estimate ratio,4
+choropleth map-identify labels of scales,8
+choropleth map-identify range,8
+choropleth map-judge which design is more appropriate for a task,9
+choropleth map-judge which task this visualization design best supports,8
+choropleth map-locate value,5
+choropleth map-make comparisons,7
+choropleth map-retrieve value,7
+histogram-describe the characteristics of an alternative chart type,3
+histogram-describe the topic of the visualization,9
+histogram-describe trend or correlation,7
+histogram-estimate average,7
+histogram-estimate difference,4
+histogram-estimate ratio,3
+histogram-identify labels of scales,9
+histogram-identify range,8
+histogram-judge which design is more appropriate for a task,9
+histogram-judge which task this visualization design best supports,9
+histogram-locate value,6
+histogram-make comparisons,8
+histogram-retrieve value,1
+line-describe the characteristics of an alternative chart type,7
+line-describe the topic of the visualization,9
+line-describe trend or correlation,9
+line-estimate average,7
+line-estimate difference,9
+line-estimate ratio,8
+line-identify labels of scales,8
+line-identify range,9
+line-judge which design is more appropriate for a task,9
+line-judge which task this visualization design best supports,8
+line-locate value,8
+line-make comparisons,8
+line-retrieve value,9
+pie-describe the characteristics of an alternative chart type,9
+pie-describe the topic of the visualization,9
+pie-describe trend or correlation,1
+pie-estimate average,9
+pie-estimate difference,8
+pie-estimate ratio,7
+pie-identify labels of scales,4
+pie-identify range,8
+pie-judge which design is more appropriate for a task,8
+pie-judge which task this visualization design best supports,9
+pie-locate value,9
+pie-make comparisons,9
+pie-retrieve value,9
+scatterplot-describe the characteristics of an alternative chart type,4
+scatterplot-describe the topic of the visualization,9
+scatterplot-describe trend or correlation,8
+scatterplot-estimate average,7
+scatterplot-estimate difference,6
+scatterplot-estimate ratio,2
+scatterplot-identify labels of scales,9
+scatterplot-identify range,9
+scatterplot-judge which design is more appropriate for a task,9
+scatterplot-judge which task this visualization design best supports,9
+scatterplot-locate value,9
+scatterplot-make comparisons,6
+scatterplot-retrieve value,6
+stacked area-describe the characteristics of an alternative chart type,6
+stacked area-describe the topic of the visualization,8
+stacked area-describe trend or correlation,7
+stacked area-estimate average,2
+stacked area-estimate difference,3
+stacked area-estimate ratio,8
+stacked area-identify labels of scales,7
+stacked area-identify range,3
+stacked area-judge which design is more appropriate for a task,8
+stacked area-judge which task this visualization design best supports,8
+stacked area-locate value,5
+stacked area-make comparisons,6
+stacked area-retrieve value,7
+stacked bar-describe the characteristics of an alternative chart type,3
+stacked bar-describe the topic of the visualization,9
+stacked bar-describe trend or correlation,8
+stacked bar-estimate average,6
+stacked bar-estimate difference,5
+stacked bar-estimate ratio,8
+stacked bar-identify labels of scales,8
+stacked bar-identify range,6
+stacked bar-judge which design is more appropriate for a task,8
+stacked bar-judge which task this visualization design best supports,8
+stacked bar-locate value,8
+stacked bar-make comparisons,4
+stacked bar-retrieve value,9
+tree map-describe the characteristics of an alternative chart type,6
+tree map-describe the topic of the visualization,6
+tree map-describe trend or correlation,1
+tree map-estimate average,5
+tree map-estimate difference,4
+tree map-estimate ratio,5
+tree map-identify labels of scales,6
+tree map-identify range,1
+tree map-judge which design is more appropriate for a task,6
+tree map-judge which task this visualization design best supports,6
+tree map-locate value,5
+tree map-make comparisons,5
+tree map-retrieve value,6

@@ -1,0 +1,7 @@
+part 1: Estimate the difference in CO2 Emissions (in million metric tons) between Grevia and Cyprum.
+  part 2: 
+  (A) 10500
+  (B) 14180
+  (C) 8700
+  (D) 15960
+  part 3: (A) 10500

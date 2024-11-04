@@ -1,0 +1,9 @@
+part 1: What task does the line chart of Energy Consumption Over Time best support?
+
+part 2: 
+  (A) Identifying the correlation between two variables
+  (B) Tracking changes in energy consumption over a period of time
+  (C) Comparing the energy consumption of different regions
+  (D) Categorizing types of energy sources by consumption
+
+part 3: (B) Tracking changes in energy consumption over a period of time

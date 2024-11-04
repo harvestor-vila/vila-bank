@@ -1,0 +1,11 @@
+part 1: the question stem
+Given the task of displaying the trend of average daily temperatures over a period of 20 days, which visualization design would be most appropriate? The visualization above is only a demonstration of the relevant data.
+
+part 2: the option set that includes the correct answer and three incorrect options
+(A) A pie chart with slices representing the proportion of days within certain temperature ranges.
+(B) An area chart with the days on the x-axis and average temperatures on the y-axis, filled beneath the line to show the cumulative temperature over time.
+(C) A scatter plot with individual days on the x-axis and corresponding temperatures on the y-axis, without connecting lines or areas.
+(D) A bar chart with each bar representing a different month of the year and its average temperature.
+
+part 3: the correct answer
+(B) An area chart with the days on the x-axis and average temperatures on the y-axis, filled beneath the line to show the cumulative temperature over time.

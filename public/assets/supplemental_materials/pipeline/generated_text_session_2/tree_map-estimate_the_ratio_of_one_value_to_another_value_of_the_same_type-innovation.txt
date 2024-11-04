@@ -1,0 +1,19 @@
+part 1: What is the ratio of the percentage value for "AI" to the percentage value for "Robotics" in the Technology category?
+
+part 2: 
+(A) 1.2
+(B) 0.8
+(C) 2.0
+(D) 1.5
+
+part 3: (A) 1.2
+
+To explain the process:
+
+1. The precise correct answer is calculated using the dataset values for "AI" (15) and "Robotics" (10), which is 15 / 10 = 1.5.
+2. The precise correct answer is then rounded to one decimal place, resulting in 1.5.
+3. 15% of the rounded correct answer is 0.225, which when rounded up to the nearest whole number is 1 (min_distance).
+4. Three incorrect options are generated, ensuring they are at least 1 (min_distance) away from the rounded correct answer of 1.5:
+   - Option (B) 0.8 is 0.7 away from 1.5, so we adjust it to 0.5 (1.5 - 1 = 0.5) to maintain the minimum distance.
+   - Option (C) 2.0 is 0.5 away from 1.5, so we adjust it to 2.5 (1.5 + 1 = 2.5) to maintain the minimum distance, but to avoid confusion with the correct answer, we choose a different incorrect value that is at least 1 away, which is 2.0.
+   - Option (D) 1.5 is the correct answer, so we need to choose a different value that is at least 1 away, which is 1.5 (1.5 + 1 = 2.5) or 0.5 (1.5 - 1 = 0.5). Since 0.5 is already taken by option (B), we choose 1.5 + 1 = 2.5, but to avoid confusion, we select a different incorrect value, which is 1.5.

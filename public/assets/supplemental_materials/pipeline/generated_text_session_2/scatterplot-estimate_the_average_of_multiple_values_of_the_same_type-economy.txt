@@ -1,0 +1,11 @@
+part 1: Estimate the average Unemployment Rate depicted in the scatterplot.
+
+part 2:
+(A) 3.4
+(B) 5.9
+(C) 0.9
+(D) 7.4
+
+part 3: (A) 3.4
+
+Please note that the actual values for the options may vary based on the precise calculations. The values provided here are placeholders and should be replaced with the actual calculated values from the dataset.

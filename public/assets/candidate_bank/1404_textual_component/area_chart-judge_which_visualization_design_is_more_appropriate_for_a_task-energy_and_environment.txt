@@ -1,0 +1,9 @@
+part 1:  The visualization above is only a demonstration of the relevant data. Which visualization design would be most appropriate to display the trend in energy consumption over the years?
+
+part 2:
+(A) A pie chart showing the proportion of energy consumption for each year.
+(B) An area chart with the years on the x-axis and energy consumption on the y-axis, shaded beneath the line.
+(C) A scatter plot with random x and y values not corresponding to years or energy consumption.
+(D) A bar chart with different colors for each year, not ordered chronologically.
+
+part 3:   (B) An area chart with the years on the x-axis and energy consumption on the y-axis, shaded beneath the line.

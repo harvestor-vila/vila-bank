@@ -1,0 +1,7 @@
+part 1: What pattern does the stacked area chart of food and agriculture production over the years 2000 to 2019 reveal?
+    part 2: 
+    (A) All crops show a consistent upward trend in production.
+    (B) Production of each crop fluctuates without a clear upward or downward trend.
+    (C) There is a strong negative correlation between the productions of the different crops.
+    (D) One crop dominates the production throughout the entire period.
+    part 3: (B) Production of each crop fluctuates without a clear upward or downward trend.

@@ -1,0 +1,7 @@
+part 1: If the relationship between Voter Turnout and Opposition Support were to be displayed using a bar chart, which of the following characteristics would it most likely have?
+    part 2: 
+    (A) Each bar represents a range of Voter Turnout percentages, with the height corresponding to the average Opposition Support within that range.
+    (B) Bars are arranged in ascending order of Voter Turnout, with the height of each bar representing the corresponding value of Opposition Support.
+    (C) Bars are stacked with two segments, one for Voter Turnout and one for Opposition Support, showing the proportion of each within the electorate.
+    (D) Each bar represents an individual data point, with the height corresponding to the Voter Turnout and color intensity representing the level of Opposition Support.
+    part 3: (A) Each bar represents a range of Voter Turnout percentages, with the height corresponding to the average Opposition Support within that range.

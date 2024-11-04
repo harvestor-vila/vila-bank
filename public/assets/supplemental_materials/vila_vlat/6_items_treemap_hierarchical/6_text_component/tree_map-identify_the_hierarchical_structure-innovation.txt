@@ -1,0 +1,7 @@
+    part 1: Which category does the subcategory "Biotech" belong to in the tree map?
+    part 2: 
+      (A) Technology
+      (B) Healthcare
+      (C) Energy
+      (D) Education
+    part 3: (B) Healthcare

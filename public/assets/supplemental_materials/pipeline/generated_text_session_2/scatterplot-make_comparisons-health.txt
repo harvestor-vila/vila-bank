@@ -1,0 +1,9 @@
+part 1: Which weight category has generally taller individuals, those weighing between 50-60 kg or those weighing between 90-100 kg?
+
+part 2: 
+  (A) 50-60 kg
+  (B) 90-100 kg
+  (C) Both categories have individuals of the same height
+  (D) It is not possible to determine from the scatterplot
+
+part 3: (A) 50-60 kg

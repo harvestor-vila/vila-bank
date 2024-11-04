@@ -1,0 +1,11 @@
+part 1: What trend or correlation is observed between temperature and humidity in the weather and climate bubble chart after correcting the dataset?
+
+part 2: 
+  (A) As temperature increases, humidity increases.
+  (B) There is no clear trend or correlation between temperature and humidity.
+  (C) As temperature increases, humidity decreases.
+  (D) Humidity remains constant regardless of changes in temperature.
+
+part 3: (B) There is no clear trend or correlation between temperature and humidity.
+
+The new correct answer is chosen as (B) because the dataset provided does not allow for a valid analysis of trends or correlations. The dataset would need to be corrected with valid humidity values before a trend or correlation could be determined.

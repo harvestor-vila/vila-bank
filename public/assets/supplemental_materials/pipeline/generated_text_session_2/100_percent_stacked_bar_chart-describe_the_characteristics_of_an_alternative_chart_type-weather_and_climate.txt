@@ -1,0 +1,9 @@
+part 1: If the 100 percent stacked bar chart showing weather distribution by location were to be represented as a pie chart, which of the following descriptions would be accurate?
+
+part 2: 
+(A) Each pie chart would represent a location, with slices proportional to the number of days with each weather type.
+(B) A single pie chart would represent all locations combined, with slices showing the overall weather distribution.
+(C) Four pie charts would represent each weather type, with slices indicating the percentage of locations experiencing that weather.
+(D) Each pie chart would represent a weather type, with slices proportional to the percentage contribution of each location to that weather type.
+
+part 3: (A) Each pie chart would represent a location, with slices proportional to the number of days with each weather type.
