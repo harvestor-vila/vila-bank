@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
  
-import { ChartType, VisualizationTask, VisualizationContext } from './types';
+import { ChartType, VisualizationTask, VisualizationContext } from '../types';
 
 interface ItemProps {
     chartType: ChartType;
