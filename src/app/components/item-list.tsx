@@ -70,8 +70,8 @@ const ItemList = ({ items }: ItemListProps) => {
             />
           </div>
           <div className="p-4 text-left">
-            <h2 className="font-bold text-lg mb-2">
-              Context: {formatString(item.context)}
+            <h2 className="text-lg mb-2">
+              {formatString(item.context)}
             </h2>
           </div>
         </button>

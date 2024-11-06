@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Papa, { ParseResult } from 'papaparse';
-import ItemList from './item-list'; 
+import ItemList from './item-list';
 import { ChartType, VisualizationTask, VisualizationContext, VisualizationItem } from '@/app/types';
 
 interface CSVRow {
@@ -11,13 +11,13 @@ interface CSVRow {
 }
 
 interface MatrixRow {
-  taskName: string;
-  [key: string]: number | string | null;
+  taskName: VisualizationTask;
+  [key: string]: number | VisualizationTask | null;
 }
 
 interface MatrixData {
-  chartTypes: string[];
-  taskNames: string[];
+  chartTypes: ChartType[];
+  taskNames: VisualizationTask[];
   matrix: MatrixRow[];
 }
 
@@ -29,60 +29,72 @@ const BlueMatrix = () => {
   });
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedItems, setSelectedItems] = useState<VisualizationItem[]>([]);
-  const [itemsInFinalBank, setItemsInFinalBank] = useState<string[]>([]);
+  const [itemsInFinalBank, setItemsInFinalBank] = useState<VisualizationItem[]>([]);
   const [selectedCell, setSelectedCell] = useState<{
-    chartType: string;
-    taskName: string;
+    chartType: ChartType;
+    taskName: VisualizationTask;
   } | null>(null);
+
+  // Helper function to get enum value by string value
+  const getEnumValueByString = <T extends { [key: string]: string }>(
+    enumObj: T,
+    value: string
+  ): T[keyof T] | null => {
+    const enumKey = Object.entries(enumObj).find(([_, val]) => val === value)?.[0];
+    return enumKey ? enumObj[enumKey as keyof T] : null;
+  };
 
   useEffect(() => {
     const fetchCSV = async () => {
       try {
-        // Fetch and parse the count data
-        const response = await fetch('/final_bank/final_bank_count_by_charttypetaskcombo.csv');
-        const csvText = await response.text();
-        
-        Papa.parse<CSVRow>(csvText, {
-          header: true,
-          skipEmptyLines: true,
-          complete: (result: ParseResult<CSVRow>) => {
-            const data = result.data;
-            const parsedData = data.map((row) => ({
-              chartType: row.combo.split('-')[0].trim(),
-              taskName: row.combo.split('-')[1].trim(),
-              value: Number(row.n),
-            }));
-
-            const chartTypes = [...new Set(parsedData.map((d) => d.chartType))];
-            const taskNames = [...new Set(parsedData.map((d) => d.taskName))];
-
-            const matrix = taskNames.map((task) => {
-              const row: MatrixRow = { taskName: task };
-              chartTypes.forEach((chart) => {
-                const cell = parsedData.find(
-                  (d) => d.chartType === chart && d.taskName === task
-                );
-                row[chart] = cell ? cell.value : null;
-              });
-              return row;
-            });
-
-            setMatrixData({ chartTypes, taskNames, matrix });
-          },
-        });
-
-        // Fetch and parse the items data
+        // Fetch and parse the items data first
         const itemsResponse = await fetch('/final_bank/final_bank.csv');
         const itemsText = await itemsResponse.text();
+        
+        const parsedItems: VisualizationItem[] = [];
         
         Papa.parse<string[]>(itemsText, {
           header: false,
           skipEmptyLines: true,
           complete: (result: ParseResult<string[]>) => {
-            const items = result.data
-              .slice(1)  // Skip header row if present
-              .map((row) => row[0]);
-            setItemsInFinalBank(items);
+            result.data.slice(1).forEach(row => {
+              const [chartTypeStr, taskStr, contextStr] = row[0].split('-');
+              
+              const chartType = getEnumValueByString(ChartType, chartTypeStr);
+              const task = getEnumValueByString(VisualizationTask, taskStr);
+              const context = getEnumValueByString(VisualizationContext, contextStr);
+
+              if (chartType && task && context) {
+                parsedItems.push({
+                  chartType: chartType as ChartType,
+                  task: task as VisualizationTask,
+                  context: context as VisualizationContext
+                });
+              }
+            });
+
+            setItemsInFinalBank(parsedItems);
+
+            // Create matrix data from parsed items
+            const chartTypes = Array.from(new Set(parsedItems.map(item => item.chartType)));
+            const taskNames = Array.from(new Set(parsedItems.map(item => item.task)));
+
+            const matrix = taskNames.map(task => {
+              const row: MatrixRow = { taskName: task };
+              chartTypes.forEach(chart => {
+                const count = parsedItems.filter(
+                  item => item.chartType === chart && item.task === task
+                ).length;
+                row[chart] = count;
+              });
+              return row;
+            });
+
+            setMatrixData({
+              chartTypes,
+              taskNames,
+              matrix
+            });
           },
         });
       } catch (error) {
@@ -112,36 +124,25 @@ const BlueMatrix = () => {
     return colorMap[value] || 'bg-white text-black';
   };
 
-  const handleCellClick = (chartType: string, taskName: string) => {
-    const normalizedChartType = chartType.replace(/\s+/g, '_').toLowerCase();
-    const normalizedTaskName = taskName.replace(/\s+/g, '_').toLowerCase();
-    
-    // Filter items for this cell
-    const items: VisualizationItem[] = itemsInFinalBank
-      .filter((item) => {
-        const [itemChart, itemTask] = item.split('-');
-        return (
-          itemChart.trim().toLowerCase() === normalizedChartType &&
-          itemTask.trim().toLowerCase() === normalizedTaskName
-        );
-      })
-      .map((item) => {
-        const [chart, task, context] = item.split('-');
-        return {
-          chartType: chart.toUpperCase() as ChartType,
-          task: task.toUpperCase() as VisualizationTask,
-          context: context.toUpperCase() as VisualizationContext,
-        };
-      });
+  const handleCellClick = (chartType: ChartType, taskName: VisualizationTask) => {
+    const items = itemsInFinalBank.filter(
+      item => item.chartType === chartType && item.task === taskName
+    );
 
     setSelectedItems(items);
     setSelectedCell({ chartType, taskName });
     setIsModalOpen(true);
   };
 
+  const formatEnumValue = (value: string) => {
+    return value
+      .split('_')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+      .join(' ');
+  };
+
   return (
     <div className="p-8 flex flex-col items-center">
-      {/* Matrix Table */}
       {matrixData.matrix.length > 0 && (
         <table className="w-full border-collapse mt-4 text-sm table-fixed">
           <thead>
@@ -154,7 +155,7 @@ const BlueMatrix = () => {
                   key={chart}
                   className="w-24 bg-gray-100 font-semibold border border-gray-300 p-2 text-center"
                 >
-                  {chart}
+                  {formatEnumValue(chart)}
                 </th>
               ))}
             </tr>
@@ -163,7 +164,7 @@ const BlueMatrix = () => {
             {matrixData.matrix.map((row, rowIndex) => (
               <tr key={`row-${rowIndex}`}>
                 <td className="w-40 font-semibold bg-[#e0f7fa] border border-gray-300 p-2 text-center">
-                  {row.taskName}
+                  {formatEnumValue(row.taskName)}
                 </td>
                 {matrixData.chartTypes.map((chart) => (
                   <td
@@ -184,21 +185,21 @@ const BlueMatrix = () => {
         </table>
       )}
 
-      {/* Modal with ItemList */}
       {isModalOpen && selectedCell && (
-        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50 overflow-y-auto">
-          <div className="bg-white rounded-lg shadow-lg w-full max-w-6xl m-4 relative">
-            <div className="p-4 border-b">
-              <h2 className="text-xl font-bold">
-                {selectedCell.chartType} - {selectedCell.taskName}
+        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50">
+          <div className="bg-white rounded-lg shadow-lg w-[70vw] h-[90vh] m-4 relative flex flex-col">
+            {/* Header */}
+            <div className="p-6 border-b border-gray-200 flex justify-between items-center">
+              <h2 className="text-2xl font-bold">
+                {formatEnumValue(selectedCell.chartType)} - {formatEnumValue(selectedCell.taskName)}
               </h2>
               <button
-                className="absolute top-4 right-4 text-gray-500 hover:text-gray-700"
+                className="text-gray-500 hover:text-gray-700 transition-colors"
                 onClick={() => setIsModalOpen(false)}
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  className="h-6 w-6"
+                  className="h-8 w-8"
                   fill="none"
                   viewBox="0 0 24 24"
                   stroke="currentColor"
@@ -212,7 +213,9 @@ const BlueMatrix = () => {
                 </svg>
               </button>
             </div>
-            <div className="p-4 max-h-[80vh] overflow-y-auto">
+            
+            {/* Content */}
+            <div className="flex-1 p-6 overflow-y-auto">
               <ItemList items={selectedItems} />
             </div>
           </div>

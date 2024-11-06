@@ -53,10 +53,7 @@ const Carousel = ({ items, initialIndex = 0, onBackClick }: CarouselProps) => {
 
   return (
     <div className="relative max-w-4xl mx-auto">
-      <h2 className="text-2xl font-bold mb-6">
-        {formatCategoryName(chartType, task)}
-      </h2>
-      
+
       {/* Current Item */}
       <div className="overflow-hidden bg-white rounded-lg shadow-lg">
         <Item {...items[currentIndex]} />
