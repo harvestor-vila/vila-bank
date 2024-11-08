@@ -25,11 +25,13 @@ const Item = ({ chartType, task, context }: ItemProps) => {
                 
                 const text = await response.text();
                 
+                // Split into main parts
                 const parts = text.split('part 2:');
                 if (parts.length < 2) {
                     throw new Error('Invalid text format');
                 }
 
+                // Get question (part 1)
                 const questionPart = parts[0].replace('part 1:', '').trim();
                 const choicesAndAnswer = parts[1].split('part 3:');
                 
@@ -37,11 +39,16 @@ const Item = ({ chartType, task, context }: ItemProps) => {
                     throw new Error('Invalid text format');
                 }
 
-                const choicesPart = choicesAndAnswer[0].trim().split('\n').map(choice => choice.trim());
+                // Parse choices
+                const choicesPart = choicesAndAnswer[0].trim();
+                // Match all choices in format (A) value, (B) value, etc.
+                const choicesArray = choicesPart.match(/\([A-D]\)\s*[^(]*/g) || [];
+                const formattedChoices = choicesArray.map(choice => choice.trim());
+
                 const answerPart = choicesAndAnswer[1].trim();
 
                 setQuestion(questionPart);
-                setChoices(choicesPart);
+                setChoices(formattedChoices);
                 setAnswer(answerPart);
             } catch (error) {
                 console.error('Error loading text content:', error);
@@ -78,7 +85,7 @@ const Item = ({ chartType, task, context }: ItemProps) => {
                 <h2 className="font-bold">Question</h2>
                 <p>{question}</p>
                 <h2 className="font-bold mt-4">Choices</h2>
-                <div className="list-disc pl-5">
+                <div className="space-y-1 pl-5">
                     {choices.map((choice, index) => (
                         <p key={index}>{choice}</p>
                     ))}

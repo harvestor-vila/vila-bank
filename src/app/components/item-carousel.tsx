@@ -50,14 +50,14 @@ const Carousel = ({ items, initialIndex = 0 }: CarouselProps) => {
       <div className="absolute inset-y-0 left-0 right-0 flex items-center justify-between">
         <button
           onClick={goToPrevious}
-          className="p-2 ml-4 bg-[#b2ebf2] rounded-full shadow-lg hover:bg-[#80deea] transition-colors"
+          className="p-2 -ml-10 bg-[#b2ebf2] rounded-full shadow-lg hover:bg-[#80deea] transition-colors"
           aria-label="Previous item"
         >
           <ChevronLeft className="w-6 h-6" />
         </button>
         <button
           onClick={goToNext}
-          className="p-2 mr-4 bg-[#b2ebf2] rounded-full shadow-lg hover:bg-[#80deea] transition-colors"
+          className="p-2 -mr-10 bg-[#b2ebf2] rounded-full shadow-lg hover:bg-[#80deea] transition-colors"
           aria-label="Next item"
         >
           <ChevronRight className="w-6 h-6" />
