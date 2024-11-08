@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import ItemList from './item-list';
 import { ChartType, VisualizationTask, VisualizationItem } from '@/app/utils/types';
-import { fetchVisualizationItems, createMatrixData } from '@/app/utils/visualizationUtils';
+import { fetchVisualizationItems, fetchBlueMatrixItems, createMatrixData } from '@/app/utils/visualizationUtils';
 import { formatTaskString, formatEnumValue } from '@/app/utils/formatStringUtils';
 
 interface MatrixRow {
@@ -33,7 +33,7 @@ const BlueMatrix = () => {
 
   useEffect(() => {
     const loadData = async () => {
-      const items = await fetchVisualizationItems();
+      const items = await fetchBlueMatrixItems();
       setItemsInFinalBank(items);
       setMatrixData(createMatrixData(items));
     };
