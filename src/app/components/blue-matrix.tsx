@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import ItemList from './item-list';
 import { ChartType, VisualizationTask, VisualizationItem } from '@/app/utils/types';
-import { fetchVisualizationItems, fetchBlueMatrixItems, createMatrixData } from '@/app/utils/visualizationUtils';
+import { fetchBlueMatrixItems, createMatrixData } from '@/app/utils/visualizationUtils';
 import { formatTaskString, formatEnumValue } from '@/app/utils/formatStringUtils';
 
 interface MatrixRow {
