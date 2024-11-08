@@ -142,14 +142,14 @@ const ItemGallery = () => {
 
       {/* Results Count */}
       <div className="mb-4">
-        <p className="text-gray-600">
+        {filteredItems.length > 0 && (<p className="text-gray-600">
           Showing {startIndex + 1}-{Math.min(endIndex, filteredItems.length)} of {filteredItems.length} items
-        </p>
+        </p>)}
       </div>
 
       {/* Displaying Items */}
       {filteredItems.length === 0 ? (
-        <div className="flex flex-col items-center justify-center h-64 bg-gray-50 rounded-lg">
+        <div className="flex flex-col items-center justify-center h-64">
           <p className="text-xl text-gray-500 font-medium mb-2">No items available</p>
           <p className="text-gray-400">Try adjusting your filters :(</p>
           <button
