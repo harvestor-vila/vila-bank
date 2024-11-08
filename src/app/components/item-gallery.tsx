@@ -7,7 +7,7 @@ import ItemList from './item-list';
 import Item from './item';
 import Pagination from './pagination';
 
-const ITEMS_PER_PAGE = 24;
+const ITEMS_PER_PAGE = 18;
 
 const ItemGallery = () => {
   const [items, setItems] = useState<VisualizationItem[]>([]);
