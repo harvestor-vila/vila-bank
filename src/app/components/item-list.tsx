@@ -1,7 +1,7 @@
 'use client';
 import { useState } from 'react';
 import Image from 'next/image';
-import { ChartType, VisualizationTask, VisualizationContext } from '@/app/types';
+import { ChartType, VisualizationTask, VisualizationContext } from '@/app/utils/types';
 import Carousel from '@/app/components/item-carousel';
 
 interface ItemListProps {

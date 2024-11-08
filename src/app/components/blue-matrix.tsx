@@ -3,12 +3,8 @@
 import { useState, useEffect } from 'react';
 import Papa, { ParseResult } from 'papaparse';
 import ItemList from './item-list';
-import { ChartType, VisualizationTask, VisualizationContext, VisualizationItem } from '@/app/types';
-
-interface CSVRow {
-  combo: string;
-  n: string;
-}
+import { ChartType, VisualizationTask, VisualizationContext, VisualizationItem } from '@/app/utils/types';
+import { fetchVisualizationItems, createMatrixData,formatEnumValue } from '@/app/utils/visualizationUtils';
 
 interface MatrixRow {
   taskName: VisualizationTask;
@@ -35,74 +31,14 @@ const BlueMatrix = () => {
     taskName: VisualizationTask;
   } | null>(null);
 
-  // Helper function to get enum value by string value
-  const getEnumValueByString = <T extends { [key: string]: string }>(
-    enumObj: T,
-    value: string
-  ): T[keyof T] | null => {
-    const enumKey = Object.entries(enumObj).find(([_, val]) => val === value)?.[0];
-    return enumKey ? enumObj[enumKey as keyof T] : null;
-  };
-
   useEffect(() => {
-    const fetchCSV = async () => {
-      try {
-        // Fetch and parse the items data first
-        const itemsResponse = await fetch('/final_bank/final_bank.csv');
-        const itemsText = await itemsResponse.text();
-        
-        const parsedItems: VisualizationItem[] = [];
-        
-        Papa.parse<string[]>(itemsText, {
-          header: false,
-          skipEmptyLines: true,
-          complete: (result: ParseResult<string[]>) => {
-            result.data.slice(1).forEach(row => {
-              const [chartTypeStr, taskStr, contextStr] = row[0].split('-');
-              
-              const chartType = getEnumValueByString(ChartType, chartTypeStr);
-              const task = getEnumValueByString(VisualizationTask, taskStr);
-              const context = getEnumValueByString(VisualizationContext, contextStr);
-
-              if (chartType && task && context) {
-                parsedItems.push({
-                  chartType: chartType as ChartType,
-                  task: task as VisualizationTask,
-                  context: context as VisualizationContext
-                });
-              }
-            });
-
-            setItemsInFinalBank(parsedItems);
-
-            // Create matrix data from parsed items
-            const chartTypes = Array.from(new Set(parsedItems.map(item => item.chartType)));
-            const taskNames = Array.from(new Set(parsedItems.map(item => item.task)));
-
-            const matrix = taskNames.map(task => {
-              const row: MatrixRow = { taskName: task };
-              chartTypes.forEach(chart => {
-                const count = parsedItems.filter(
-                  item => item.chartType === chart && item.task === task
-                ).length;
-                row[chart] = count;
-              });
-              return row;
-            });
-
-            setMatrixData({
-              chartTypes,
-              taskNames,
-              matrix
-            });
-          },
-        });
-      } catch (error) {
-        console.error('Error fetching CSV data:', error);
-      }
+    const loadData = async () => {
+      const items = await fetchVisualizationItems();
+      setItemsInFinalBank(items);
+      setMatrixData(createMatrixData(items));
     };
-
-    fetchCSV();
+  
+    loadData();
   }, []);
 
   const getColorClass = (value: number | null) => {
@@ -172,10 +108,14 @@ const BlueMatrix = () => {
                     className={`w-12 h-12 border border-gray-300 cursor-pointer ${getColorClass(
                       row[chart] as number | null
                     )}`}
-                    onClick={() => handleCellClick(chart, row.taskName)}
+                    onClick={() => {
+                        if (row[chart] && row[chart] !== 0)
+                          handleCellClick(chart, row.taskName)
+                      }
+                    }
                   >
                     <div className="flex items-center justify-center h-full">
-                      {row[chart] !== null ? row[chart].toString() : '-'}
+                      {row[chart] && row[chart] !== 0 ? row[chart].toString() : '-'}
                     </div>
                   </td>
                 ))}

@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import Item from './item';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import { ChartType, VisualizationTask, VisualizationContext } from '@/app/types';
+import { ChartType, VisualizationTask, VisualizationContext } from '@/app/utils/types';
 
 interface CarouselProps {
   items: Array<{
