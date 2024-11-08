@@ -9,14 +9,6 @@ export const getEnumValueByString = <T extends { [key: string]: string }>(
   return enumKey ? enumObj[enumKey as keyof T] : null;
 };
 
-// Format enum values for display
-export const formatEnumValue = (value: string) => {
-  return value
-    .split('_')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-    .join(' ');
-};
-
 // Function to fetch and parse visualization items
 export const fetchVisualizationItems = async (): Promise<VisualizationItem[]> => {
   try {

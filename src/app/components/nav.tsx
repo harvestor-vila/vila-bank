@@ -16,7 +16,7 @@ const Navigation = () => {
       <div className="px-5">
         <div className="flex h-16 items-center">
           <div className="flex items-center">
-            <span className="font-mono text-lg font-bold">
+            <span className="text-[#00acc1] text-xl font-semibold">
               VILA Bank
             </span>
           </div>
@@ -25,8 +25,8 @@ const Navigation = () => {
               <Link
                 key={item.href}
                 href={item.href}
-                className={`relative flex items-center font-bold text-sm transition-colors text-black-500 hover:text-blue-500
-                  after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-full after:scale-x-0 after:bg-blue-500 after:transition-transform after:duration-300
+                className={`relative flex items-center font-medium text-sm transition-colors text-black-500 hover:text-[#00acc1]
+                  after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-full after:scale-x-0 after:bg-[#00acc1] after:transition-transform after:duration-300
                   ${pathname === item.href 
                     ? 'after:scale-x-100' 
                     : 'hover:after:scale-x-100'

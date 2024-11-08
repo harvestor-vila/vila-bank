@@ -1,10 +1,10 @@
 "use client";
 
 import { useState, useEffect } from 'react';
-import Papa, { ParseResult } from 'papaparse';
 import ItemList from './item-list';
-import { ChartType, VisualizationTask, VisualizationContext, VisualizationItem } from '@/app/utils/types';
-import { fetchVisualizationItems, createMatrixData,formatEnumValue } from '@/app/utils/visualizationUtils';
+import { ChartType, VisualizationTask, VisualizationItem } from '@/app/utils/types';
+import { fetchVisualizationItems, createMatrixData } from '@/app/utils/visualizationUtils';
+import { formatTaskString, formatEnumValue } from '@/app/utils/formatStringUtils';
 
 interface MatrixRow {
   taskName: VisualizationTask;
@@ -70,26 +70,19 @@ const BlueMatrix = () => {
     setIsModalOpen(true);
   };
 
-  const formatEnumValue = (value: string) => {
-    return value
-      .split('_')
-      .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-      .join(' ');
-  };
-
   return (
-    <div className="p-8 flex flex-col items-center">
+    <div className="flex flex-col items-center mt-5 shadow-md">
       {matrixData.matrix.length > 0 && (
-        <table className="w-full border-collapse mt-4 text-sm table-fixed">
+        <table className="w-full border-collapse text-sm table-fixed">
           <thead>
             <tr>
-              <th className="w-40 bg-gray-100 font-semibold border border-gray-300 p-2 text-center">
-                Task \\ Chart Type
+              <th className="w-40 bg-gray-100 font-medium border border-gray-300 text-center">
+                Task / Chart Type
               </th>
               {matrixData.chartTypes.map((chart) => (
                 <th
                   key={chart}
-                  className="w-24 bg-gray-100 font-semibold border border-gray-300 p-2 text-center"
+                  className="w-24 bg-gray-100 font-medium border border-gray-300 p-2 text-center"
                 >
                   {formatEnumValue(chart)}
                 </th>
@@ -99,20 +92,21 @@ const BlueMatrix = () => {
           <tbody>
             {matrixData.matrix.map((row, rowIndex) => (
               <tr key={`row-${rowIndex}`}>
-                <td className="w-40 font-semibold bg-[#e0f7fa] border border-gray-300 p-2 text-center">
-                  {formatEnumValue(row.taskName)}
+                <td className="w-40 font-medium bg-gray-100 border border-gray-300 p-2 text-center">
+                  {formatTaskString(row.taskName)}
                 </td>
                 {matrixData.chartTypes.map((chart) => (
                   <td
                     key={`${chart}-${rowIndex}`}
-                    className={`w-12 h-12 border border-gray-300 cursor-pointer ${getColorClass(
-                      row[chart] as number | null
-                    )}`}
+                    className={`w-12 h-12 border border-gray-300 ${
+                      row[chart] && row[chart] !== 0 
+                        ? 'cursor-pointer hover:brightness-90 hover:scale-105 transition-all duration-200 hover:shadow-lg' 
+                        : ''
+                    } ${getColorClass(row[chart] as number | null)}`}
                     onClick={() => {
-                        if (row[chart] && row[chart] !== 0)
-                          handleCellClick(chart, row.taskName)
-                      }
-                    }
+                      if (row[chart] && row[chart] !== 0)
+                        handleCellClick(chart, row.taskName)
+                    }}
                   >
                     <div className="flex items-center justify-center h-full">
                       {row[chart] && row[chart] !== 0 ? row[chart].toString() : '-'}
@@ -130,8 +124,8 @@ const BlueMatrix = () => {
           <div className="bg-white rounded-lg shadow-lg w-[70vw] h-[90vh] m-4 relative flex flex-col">
             {/* Header */}
             <div className="p-6 border-b border-gray-200 flex justify-between items-center">
-              <h2 className="text-2xl font-bold">
-                {formatEnumValue(selectedCell.chartType)} - {formatEnumValue(selectedCell.taskName)}
+              <h2 className="text-2xl font-medium">
+                {formatTaskString(selectedCell.taskName)} - {formatEnumValue(selectedCell.chartType)}
               </h2>
               <button
                 className="text-gray-500 hover:text-gray-700 transition-colors"

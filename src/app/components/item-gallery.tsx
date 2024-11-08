@@ -1,13 +1,13 @@
 'use client';
 import { useEffect, useState } from 'react';
 import { ChartType, VisualizationTask, VisualizationContext, VisualizationItem } from '@/app/utils/types';
-import { fetchVisualizationItems, getFilterOptions, filterItems, formatEnumValue } from '@/app/utils/visualizationUtils';
-import { ChevronFirst, ChevronLast } from 'lucide-react';
+import { fetchVisualizationItems, getFilterOptions, filterItems } from '@/app/utils/visualizationUtils';
+import { formatEnumValue } from '@/app/utils/formatStringUtils';
 import ItemList from './item-list';
 import Item from './item';
+import Pagination from './pagination';
 
 const ITEMS_PER_PAGE = 24;
-const VISIBLE_PAGE_BUTTONS = 5;
 
 const ItemGallery = () => {
   const [items, setItems] = useState<VisualizationItem[]>([]);
@@ -58,19 +58,6 @@ const ItemGallery = () => {
   const endIndex = startIndex + ITEMS_PER_PAGE;
   const currentItems = filteredItems.slice(startIndex, endIndex);
 
-  // Calculate visible page numbers
-  const getVisiblePageNumbers = () => {
-    let start = Math.max(currentPage - Math.floor(VISIBLE_PAGE_BUTTONS / 2), 1);
-    let end = start + VISIBLE_PAGE_BUTTONS - 1;
-
-    if (end > totalPages) {
-      end = totalPages;
-      start = Math.max(end - VISIBLE_PAGE_BUTTONS + 1, 1);
-    }
-
-    return Array.from({ length: end - start + 1 }, (_, i) => start + i);
-  };
-
   const handlePageChange = (pageNumber: number) => {
     setCurrentPage(pageNumber);
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -79,7 +66,7 @@ const ItemGallery = () => {
   if (isLoading) {
     return (
       <div className="flex items-center justify-center min-h-screen">
-        <div className="animate-spin rounded-full h-32 w-32 border-b-2 border-blue-500" />
+        <div className="animate-spin rounded-full h-32 w-32 border-b-2 border-[#80deea]" />
       </div>
     );
   }
@@ -92,7 +79,7 @@ const ItemGallery = () => {
         <div className="flex flex-col">
           <label className="text-sm font-medium mb-2">Chart Type</label>
           <select
-            className="border rounded-lg p-2"
+            className="border rounded-lg p-2 focus:outline-none"
             onChange={(e) => handleFilterChange('chartType', e.target.value || null)}
             value={filters.chartType || ''}
           >
@@ -109,7 +96,7 @@ const ItemGallery = () => {
         <div className="flex flex-col">
           <label className="text-sm font-medium mb-2">Task</label>
           <select
-            className="border rounded-lg p-2"
+            className="border rounded-lg p-2 focus:outline-none"
             onChange={(e) => handleFilterChange('task', e.target.value || null)}
             value={filters.task || ''}
           >
@@ -126,7 +113,7 @@ const ItemGallery = () => {
         <div className="flex flex-col">
           <label className="text-sm font-medium mb-2">Context</label>
           <select
-            className="border rounded-lg p-2"
+            className="border rounded-lg p-2 focus:outline-none"
             onChange={(e) => handleFilterChange('context', e.target.value || null)}
             value={filters.context || ''}
           >
@@ -140,25 +127,32 @@ const ItemGallery = () => {
         </div>
       </div>
 
-      {/* Results Count */}
-      <div className="mb-4">
-        {filteredItems.length > 0 && (<p className="text-gray-600">
-          Showing {startIndex + 1}-{Math.min(endIndex, filteredItems.length)} of {filteredItems.length} items
-        </p>)}
+      {/* Results Count and Top Pagination */}
+      <div className="mb-4 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
+        {filteredItems.length > 0 && (
+          <p className="text-sm sm:text-base text-gray-600">
+            Showing {startIndex + 1}-{Math.min(endIndex, filteredItems.length)} of {filteredItems.length} items
+          </p>
+        )}
+        <Pagination
+          currentPage={currentPage}
+          totalPages={totalPages}
+          onPageChange={handlePageChange}
+        />
       </div>
 
       {/* Displaying Items */}
       {filteredItems.length === 0 ? (
         <div className="flex flex-col items-center justify-center h-64">
-          <p className="text-xl text-gray-500 font-medium mb-2">No items available</p>
-          <p className="text-gray-400">Try adjusting your filters :(</p>
+          <p className="text-xl text-black-500 font-medium mb-2">No items available</p>
+          <p className="text-gray-500">Try adjusting your filters :(</p>
           <button
             onClick={() => setFilters({
               chartType: null,
               task: null,
               context: null
             })}
-            className="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors"
+            className="mt-4 px-4 py-2 bg-[#b2ebf2] hover:bg-[#80deea] rounded-lg transition-colors"
           >
             Reset Filters
           </button>
@@ -169,61 +163,14 @@ const ItemGallery = () => {
         <>
           <ItemList items={currentItems} />
           
-          {/* Modified Pagination Controls */}
-          {totalPages > 1 && (
-            <div className="mt-8 flex justify-center gap-2">
-              {/* First Page Button */}
-              <button
-                onClick={() => handlePageChange(1)}
-                disabled={currentPage === 1}
-                className="px-3 py-2 border rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-50"
-                aria-label="First page"
-              >
-                <ChevronFirst className="h-4 w-4" />
-              </button>
-
-              {/* Previous Button */}
-              <button
-                onClick={() => handlePageChange(currentPage - 1)}
-                disabled={currentPage === 1}
-                className="px-4 py-2 border rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-50"
-              >
-                Previous
-              </button>
-
-              {/* Page Numbers */}
-              {getVisiblePageNumbers().map((page) => (
-                <button
-                  key={page}
-                  onClick={() => handlePageChange(page)}
-                  className={`px-4 py-2 border rounded-lg hover:bg-gray-50 ${
-                    currentPage === page ? 'bg-blue-500 text-white hover:bg-blue-600' : ''
-                  }`}
-                >
-                  {page}
-                </button>
-              ))}
-
-              {/* Next Button */}
-              <button
-                onClick={() => handlePageChange(currentPage + 1)}
-                disabled={currentPage === totalPages}
-                className="px-4 py-2 border rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-50"
-              >
-                Next
-              </button>
-
-              {/* Last Page Button */}
-              <button
-                onClick={() => handlePageChange(totalPages)}
-                disabled={currentPage === totalPages}
-                className="px-3 py-2 border rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-50"
-                aria-label="Last page"
-              >
-                <ChevronLast className="h-4 w-4" />
-              </button>
-            </div>
-          )}
+          {/* Bottom Pagination */}
+          <div className="mt-4 sm:mt-8">
+            <Pagination
+              currentPage={currentPage}
+              totalPages={totalPages}
+              onPageChange={handlePageChange}
+            />
+          </div>
         </>
       )}
     </div>

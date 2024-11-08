@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Visualization Bank",
+  title: "VILA Bank",
   description: "A collection of visualization examples",
 };
 

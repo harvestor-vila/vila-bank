@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import { ChartType, VisualizationTask, VisualizationContext } from '@/app/utils/types';
+import { formatTaskString, formatEnumValue } from '@/app/utils/formatStringUtils';
 import Carousel from '@/app/components/item-carousel';
 
 interface ItemListProps {
@@ -12,12 +13,6 @@ interface ItemListProps {
   }>;
 }
 
-const formatString = (str: string) => {
-  return str.split('_')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ');
-};
-
 const ItemList = ({ items }: ItemListProps) => {
   const [selectedItem, setSelectedItem] = useState<number | null>(null);
 
@@ -26,7 +21,7 @@ const ItemList = ({ items }: ItemListProps) => {
       <div>
         <button
           onClick={() => setSelectedItem(null)}
-          className="mb-6 flex items-center gap-1 px-3 py-3 bg-white rounded-lg shadow hover:bg-gray-50 transition-colors"
+          className="mb-6 flex items-center gap-1 px-3 py-3 bg-[#b2ebf2] hover:bg-[#80deea] rounded-lg shadow transition-colors"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -71,7 +66,7 @@ const ItemList = ({ items }: ItemListProps) => {
           </div>
           <div className="p-4 text-left">
             <h2 className="text-lg mb-2">
-              {formatString(item.context)}
+              {formatTaskString(item.task) + " - " + formatEnumValue(item.context)}
             </h2>
           </div>
         </button>
