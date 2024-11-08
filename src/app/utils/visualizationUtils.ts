@@ -10,38 +10,62 @@ export const getEnumValueByString = <T extends { [key: string]: string }>(
 };
 
 // Function to fetch and parse visualization items
-export const fetchVisualizationItems = async (): Promise<VisualizationItem[]> => {
-  try {
-    const response = await fetch('/final_bank/final_bank.csv');
-    const csvText = await response.text();
-    const lines = csvText.split('\n').slice(1); // Skip header
-    
-    const items: VisualizationItem[] = [];
-    
-    for (const line of lines) {
-      if (!line.trim()) continue;
-      
-      const [chartTypeStr, taskStr, contextStr] = line.trim().split('-');
-      
-      const chartType = getEnumValueByString(ChartType, chartTypeStr);
-      const task = getEnumValueByString(VisualizationTask, taskStr);
-      const context = getEnumValueByString(VisualizationContext, contextStr);
-
-      if (chartType && task && context) {
-        items.push({
-          chartType: chartType as ChartType,
-          task: task as VisualizationTask,
-          context: context as VisualizationContext
-        });
-      }
+export const fetchVisualizationItems = async (
+    page: number,
+    itemsPerPage: number,
+    filters: {
+      chartType: ChartType | null;
+      task: VisualizationTask | null;
+      context: VisualizationContext | null;
     }
-
-    return items;
-  } catch (error) {
-    console.error('Error fetching visualization items:', error);
-    return [];
-  }
-};
+  ): Promise<{ items: VisualizationItem[]; totalItems: number }> => {
+    try {
+      const response = await fetch('/final_bank/final_bank.csv');
+      const csvText = await response.text();
+      const lines = csvText.split('\n').slice(1); // Skip header
+      
+      const allItems: VisualizationItem[] = [];
+      
+      // Parse all items first to apply filters
+      for (const line of lines) {
+        if (!line.trim()) continue;
+        
+        const [chartTypeStr, taskStr, contextStr] = line.trim().split('-');
+        
+        const chartType = getEnumValueByString(ChartType, chartTypeStr);
+        const task = getEnumValueByString(VisualizationTask, taskStr);
+        const context = getEnumValueByString(VisualizationContext, contextStr);
+  
+        if (chartType && task && context) {
+          allItems.push({
+            chartType: chartType as ChartType,
+            task: task as VisualizationTask,
+            context: context as VisualizationContext
+          });
+        }
+      }
+  
+      // Apply filters
+      const filteredItems = allItems.filter(item => {
+        if (filters.chartType && item.chartType !== filters.chartType) return false;
+        if (filters.task && item.task !== filters.task) return false;
+        if (filters.context && item.context !== filters.context) return false;
+        return true;
+      });
+  
+      // Calculate pagination
+      const startIndex = (page - 1) * itemsPerPage;
+      const paginatedItems = filteredItems.slice(startIndex, startIndex + itemsPerPage);
+  
+      return {
+        items: paginatedItems,
+        totalItems: filteredItems.length
+      };
+    } catch (error) {
+      console.error('Error fetching visualization items:', error);
+      return { items: [], totalItems: 0 };
+    }
+  };
 
 // Function to get unique values for filters
 export const getFilterOptions = (items: VisualizationItem[]) => {

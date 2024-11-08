@@ -1,17 +1,17 @@
 'use client';
 import { useEffect, useState } from 'react';
 import { ChartType, VisualizationTask, VisualizationContext, VisualizationItem } from '@/app/utils/types';
-import { fetchVisualizationItems, getFilterOptions, filterItems } from '@/app/utils/visualizationUtils';
+import { fetchVisualizationItems, getFilterOptions } from '@/app/utils/visualizationUtils';
 import { formatEnumValue, formatTaskString } from '@/app/utils/formatStringUtils';
 import ItemList from './item-list';
 import Item from './item';
 import Pagination from './pagination';
 
-const ITEMS_PER_PAGE = 18;
+const ITEMS_PER_PAGE = 24;
 
 const ItemGallery = () => {
   const [items, setItems] = useState<VisualizationItem[]>([]);
-  const [filteredItems, setFilteredItems] = useState<VisualizationItem[]>([]);
+  const [totalItems, setTotalItems] = useState(0);
   const [currentPage, setCurrentPage] = useState(1);
   const [filters, setFilters] = useState({
     chartType: null as ChartType | null,
@@ -25,22 +25,35 @@ const ItemGallery = () => {
   });
   const [isLoading, setIsLoading] = useState(true);
 
+  // Fetch initial filter options
+  useEffect(() => {
+    const loadFilterOptions = async () => {
+      const { items } = await fetchVisualizationItems(1, 1000, {
+        chartType: null,
+        task: null,
+        context: null
+      });
+      setFilterOptions(getFilterOptions(items));
+    };
+    loadFilterOptions();
+  }, []);
+
+  // Fetch items when page or filters change
   useEffect(() => {
     const loadItems = async () => {
-      const fetchedItems = await fetchVisualizationItems();
+      setIsLoading(true);
+      const { items: fetchedItems, totalItems: total } = await fetchVisualizationItems(
+        currentPage,
+        ITEMS_PER_PAGE,
+        filters
+      );
       setItems(fetchedItems);
-      setFilteredItems(fetchedItems);
-      setFilterOptions(getFilterOptions(fetchedItems));
+      setTotalItems(total);
       setIsLoading(false);
     };
 
     loadItems();
-  }, []);
-
-  useEffect(() => {
-    setFilteredItems(filterItems(items, filters));
-    setCurrentPage(1);
-  }, [items, filters]);
+  }, [currentPage, filters]);
 
   const handleFilterChange = (
     filterType: 'chartType' | 'task' | 'context',
@@ -50,13 +63,10 @@ const ItemGallery = () => {
       ...prev,
       [filterType]: value ? value : null
     }));
+    setCurrentPage(1); // Reset to first page when filters change
   };
 
-  // Pagination calculations
-  const totalPages = Math.ceil(filteredItems.length / ITEMS_PER_PAGE);
-  const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-  const endIndex = startIndex + ITEMS_PER_PAGE;
-  const currentItems = filteredItems.slice(startIndex, endIndex);
+  const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
 
   const handlePageChange = (pageNumber: number) => {
     setCurrentPage(pageNumber);
@@ -127,11 +137,12 @@ const ItemGallery = () => {
         </div>
       </div>
 
-      {/* Results Count and Top Pagination */}
+      {/* Results Count and Pagination */}
       <div className="mb-4 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
-        {filteredItems.length > 0 && (
+        {totalItems > 0 && (
           <p className="text-sm sm:text-base text-gray-600">
-            Showing {startIndex + 1}-{Math.min(endIndex, filteredItems.length)} of {filteredItems.length} items
+            Showing {((currentPage - 1) * ITEMS_PER_PAGE) + 1}-
+            {Math.min(currentPage * ITEMS_PER_PAGE, totalItems)} of {totalItems} items
           </p>
         )}
         <Pagination
@@ -141,8 +152,8 @@ const ItemGallery = () => {
         />
       </div>
 
-      {/* Displaying Items */}
-      {filteredItems.length === 0 ? (
+      {/* Display Items */}
+      {totalItems === 0 ? (
         <div className="flex flex-col items-center justify-center h-64">
           <p className="text-xl text-black-500 font-medium mb-2">No items available</p>
           <p className="text-gray-500">Try adjusting your filters :(</p>
@@ -157,11 +168,11 @@ const ItemGallery = () => {
             Reset Filters
           </button>
         </div>
-      ) : filteredItems.length === 1 ? (
-        <Item chartType={filteredItems[0].chartType} task={filteredItems[0].task} context={filteredItems[0].context} />
+      ) : items.length === 1 ? (
+        <Item {...items[0]} />
       ) : (
         <>
-          <ItemList items={currentItems} />
+          <ItemList items={items} />
           
           {/* Bottom Pagination */}
           <div className="mt-4 sm:mt-8">
