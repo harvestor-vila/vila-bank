@@ -44,21 +44,11 @@ public/                   # Static assets such as images and supplemental materi
 src/                      # Source code for the application.
   ├── app/                # Main application code.
     ├── components/       # Reusable UI components.
-      ├── blue-matrix.tsx     # Component for blue matrix visualizations.
-      ├── item-carousel.tsx   # Component for displaying items in a carousel.
-      ├── item-gallery.tsx    # Component for displaying items in a gallery.
-      ├── item-list.tsx       # Component for displaying a list of items.
-      ├── item.tsx            # Component for individual item display.
-      └── nav.tsx             # Navigation component.
     ├── fonts/            # Custom fonts used in the project.
-      ├── GeistMonoVF.woff    # Geist Mono Variable font.
-      └── GeistVF.woff        # Geist Variable font.
     ├── gallery/          # Page component for the gallery view.
       └── page.tsx            # Main page for the gallery view.
     ├── styles/           # Custom styling files.
     └── utils/            # Utility and helper functions.
-      ├── types.ts            # Type definitions.
-      └── visualizationUtils.ts # Utilities for visualization tasks.
   ├── globals.css         # Global CSS styles.
   ├── layout.tsx          # Layout component for the application.
   └── page.tsx            # Main page component with Blue Matrix.
