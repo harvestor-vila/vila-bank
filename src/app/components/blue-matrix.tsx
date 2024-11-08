@@ -71,7 +71,7 @@ const BlueMatrix = () => {
   };
 
   return (
-    <div className="flex flex-col items-center mt-5 shadow-md">
+    <div className="flex flex-col items-center shadow-md">
       {matrixData.matrix.length > 0 && (
         <table className="w-full border-collapse text-sm table-fixed">
           <thead>
@@ -92,13 +92,13 @@ const BlueMatrix = () => {
           <tbody>
             {matrixData.matrix.map((row, rowIndex) => (
               <tr key={`row-${rowIndex}`}>
-                <td className="w-40 font-medium bg-gray-100 border border-gray-300 p-2 text-center">
+                <td className="font-medium bg-gray-100 border border-gray-300 text-center">
                   {formatTaskString(row.taskName)}
                 </td>
                 {matrixData.chartTypes.map((chart) => (
                   <td
                     key={`${chart}-${rowIndex}`}
-                    className={`w-12 h-12 border border-gray-300 ${
+                    className={`p-4 border border-gray-300 ${
                       row[chart] && row[chart] !== 0 
                         ? 'cursor-pointer hover:brightness-90 hover:scale-105 transition-all duration-200 hover:shadow-lg' 
                         : ''
@@ -121,7 +121,7 @@ const BlueMatrix = () => {
 
       {isModalOpen && selectedCell && (
         <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50">
-          <div className="bg-white rounded-lg shadow-lg w-[70vw] h-[90vh] m-4 relative flex flex-col">
+          <div className="bg-white rounded-lg shadow-lg lg:w-[70vw] h-[90vh] md:w-[90vw] m-4 relative flex flex-col">
             {/* Header */}
             <div className="p-6 border-b border-gray-200 flex justify-between items-center">
               <h2 className="text-2xl font-medium">

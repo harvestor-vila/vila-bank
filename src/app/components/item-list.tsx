@@ -21,12 +21,12 @@ const ItemList = ({ items }: ItemListProps) => {
       <div>
         <button
           onClick={() => setSelectedItem(null)}
-          className="mb-6 flex items-center gap-1 px-3 py-3 bg-[#b2ebf2] hover:bg-[#80deea] rounded-lg shadow transition-colors"
+          className="flex items-center gap-1 p-2 bg-[#b2ebf2] hover:bg-[#80deea] rounded-lg shadow transition-colors"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
+            width="20"
+            height="20"
             viewBox="0 0 24 24"
             fill="none"
             stroke="currentColor"
@@ -36,12 +36,11 @@ const ItemList = ({ items }: ItemListProps) => {
           >
             <path d="m15 18-6-6 6-6"/>
           </svg>
-          Back to List
+          Back
         </button>
         <Carousel 
           items={items} 
           initialIndex={selectedItem}
-          onBackClick={() => setSelectedItem(null)}
         />
       </div>
     );
@@ -64,10 +63,9 @@ const ItemList = ({ items }: ItemListProps) => {
               className="p-4"
             />
           </div>
-          <div className="p-4 text-left">
-            <h2 className="text-lg mb-2">
-              {formatTaskString(item.task) + " - " + formatEnumValue(item.context)}
-            </h2>
+          <div className="p-4 text-left text-lg mb-1">
+            <h2 className="text-lg">{"Task: " + formatTaskString(item.task)}</h2>
+            <h2 className="text-lg">{"Context: " + formatEnumValue(item.context)}</h2>
           </div>
         </button>
       ))}
