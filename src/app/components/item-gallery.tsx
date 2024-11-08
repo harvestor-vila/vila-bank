@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import { ChartType, VisualizationTask, VisualizationContext, VisualizationItem } from '@/app/utils/types';
 import { fetchVisualizationItems, getFilterOptions, filterItems } from '@/app/utils/visualizationUtils';
-import { formatEnumValue } from '@/app/utils/formatStringUtils';
+import { formatEnumValue, formatTaskString } from '@/app/utils/formatStringUtils';
 import ItemList from './item-list';
 import Item from './item';
 import Pagination from './pagination';
@@ -103,7 +103,7 @@ const ItemGallery = () => {
             <option value="">All Tasks</option>
             {filterOptions.tasks.map(task => (
               <option key={task} value={task}>
-                {formatEnumValue(task)}
+                {formatTaskString(task)}
               </option>
             ))}
           </select>
