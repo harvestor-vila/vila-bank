@@ -1,13 +1,5 @@
-'use client';
-import BlueMatrix from "./components/blue-matrix";
-// import ItemList from "./components/item-list";
-import { ChartType, VisualizationTask, VisualizationContext } from '@/app/types';
+import BlueMatrix from "@/app/components/blue-matrix";
 
 export default function Home() {
-
-  return (
-    <div className="min-h-screen">
-      <BlueMatrix />
-    </div>
-  );
+  return <BlueMatrix />;
 }

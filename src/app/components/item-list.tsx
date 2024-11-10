@@ -1,7 +1,8 @@
 'use client';
 import { useState } from 'react';
 import Image from 'next/image';
-import { ChartType, VisualizationTask, VisualizationContext } from '@/app/types';
+import { ChartType, VisualizationTask, VisualizationContext } from '@/app/utils/types';
+import { formatTaskString, formatEnumValue } from '@/app/utils/formatStringUtils';
 import Carousel from '@/app/components/item-carousel';
 
 interface ItemListProps {
@@ -12,12 +13,6 @@ interface ItemListProps {
   }>;
 }
 
-const formatString = (str: string) => {
-  return str.split('_')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ');
-};
-
 const ItemList = ({ items }: ItemListProps) => {
   const [selectedItem, setSelectedItem] = useState<number | null>(null);
 
@@ -26,12 +21,12 @@ const ItemList = ({ items }: ItemListProps) => {
       <div>
         <button
           onClick={() => setSelectedItem(null)}
-          className="mb-6 flex items-center gap-1 px-3 py-3 bg-white rounded-lg shadow hover:bg-gray-50 transition-colors"
+          className="flex items-center gap-1 p-2 bg-[#b2ebf2] hover:bg-[#80deea] rounded-lg shadow transition-colors"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
+            width="20"
+            height="20"
             viewBox="0 0 24 24"
             fill="none"
             stroke="currentColor"
@@ -41,12 +36,11 @@ const ItemList = ({ items }: ItemListProps) => {
           >
             <path d="m15 18-6-6 6-6"/>
           </svg>
-          Back to List
+          Back
         </button>
         <Carousel 
           items={items} 
           initialIndex={selectedItem}
-          onBackClick={() => setSelectedItem(null)}
         />
       </div>
     );
@@ -69,10 +63,9 @@ const ItemList = ({ items }: ItemListProps) => {
               className="p-4"
             />
           </div>
-          <div className="p-4 text-left">
-            <h2 className="text-lg mb-2">
-              {formatString(item.context)}
-            </h2>
+          <div className="p-4 text-left text-lg mb-1">
+            <h2 className="text-lg">{"Task: " + formatTaskString(item.task)}</h2>
+            <h2 className="text-lg">{"Context: " + formatEnumValue(item.context)}</h2>
           </div>
         </button>
       ))}
