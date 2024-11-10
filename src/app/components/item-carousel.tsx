@@ -60,17 +60,17 @@ const Carousel = ({ items, initialIndex = 0, onBackClick }: CarouselProps) => {
       </div>
 
       {/* Navigation Buttons */}
-      <div className="absolute inset-y-0 left-0 right-0 flex items-center justify-between">
+      <div className="absolute inset-y-0 left-0 right-0 flex items-center justify-between pointer-events-none">
         <button
           onClick={goToPrevious}
-          className="p-2 ml-4 bg-white rounded-full shadow-lg hover:bg-gray-100 transition-colors"
+          className="p-2 ml-4 bg-white rounded-full shadow-lg hover:bg-gray-100 transition-colors pointer-events-auto"
           aria-label="Previous item"
         >
           <ChevronLeft className="w-6 h-6" />
         </button>
         <button
           onClick={goToNext}
-          className="p-2 mr-4 bg-white rounded-full shadow-lg hover:bg-gray-100 transition-colors"
+          className="p-2 mr-4 bg-white rounded-full shadow-lg hover:bg-gray-100 transition-colors pointer-events-auto"
           aria-label="Next item"
         >
           <ChevronRight className="w-6 h-6" />

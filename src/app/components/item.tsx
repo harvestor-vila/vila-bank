@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
- 
 import { ChartType, VisualizationTask, VisualizationContext } from '../types';
 
 interface ItemProps {
@@ -14,6 +13,12 @@ const Item = ({ chartType, task, context }: ItemProps) => {
     const [choices, setChoices] = useState<string[]>([]);
     const [answer, setAnswer] = useState<string>('');
     const [imageError, setImageError] = useState<boolean>(false);
+
+    const [name, setName] = useState<string>('');
+    const [comment, setComment] = useState<string>('');
+    const [comments, setComments] = useState<{ name: string; comment: string }[]>([]);
+
+    const itemKey = `${chartType}-${task}-${context}`;
 
     useEffect(() => {
         const loadTextContent = async () => {
@@ -52,7 +57,35 @@ const Item = ({ chartType, task, context }: ItemProps) => {
         };
 
         loadTextContent();
+
+        // Fetch existing comments
+        const fetchComments = async () => {
+            const response = await fetch(`/api/comments`);
+            const data = await response.json();
+            setComments(data[itemKey] || []);
+        };
+
+        fetchComments();
     }, [chartType, task, context]);
+
+    const handleCommentSubmit = async (e: React.FormEvent) => {
+        e.preventDefault();
+        if (!name || !comment) return;
+
+        const response = await fetch('/api/comments', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ chartType, task, context, name, comment }),
+        });
+
+        if (response.ok) {
+            setComments([...comments, { name, comment }]);
+            setName('');
+            setComment('');
+        }
+    };
 
     const imagePath = `/candidate_bank/108_visualization_component/${chartType}-${context}.png`;
 
@@ -85,6 +118,47 @@ const Item = ({ chartType, task, context }: ItemProps) => {
                 </div>
                 <h2 className="font-bold mt-4">Answer</h2>
                 <p>{answer}</p>
+            </div>
+
+            <div className="mt-4 p-4 bg-gray-50 rounded-lg">
+                <h2 className="font-bold mb-2">Leave a Comment</h2>
+                <form onSubmit={handleCommentSubmit} className="flex flex-col gap-2">
+                    <input
+                        type="text"
+                        placeholder="Your Name"
+                        value={name}
+                        onChange={(e) => setName(e.target.value)}
+                        required
+                        className="p-2 border border-gray-300 rounded"
+                    />
+                    <textarea
+                        placeholder="Your Comment"
+                        value={comment}
+                        onChange={(e) => setComment(e.target.value)}
+                        required
+                        className="p-2 border border-gray-300 rounded"
+                    />
+                    <button
+                        type="submit"
+                        className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 transition-colors"
+                    >
+                        Submit
+                    </button>
+                </form>
+            </div>
+
+            <div className="mt-4">
+                <h2 className="font-bold mb-2">Comments</h2>
+                {comments.length > 0 ? (
+                    comments.map((c, index) => (
+                        <div key={index} className="p-2 border-b border-gray-200">
+                            <p className="font-semibold">{c.name}</p>
+                            <p>{c.comment}</p>
+                        </div>
+                    ))
+                ) : (
+                    <p className="text-gray-500">No comments yet.</p>
+                )}
             </div>
         </div>
     );
