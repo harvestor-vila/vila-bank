@@ -39,36 +39,30 @@ const Carousel = ({ items, initialIndex = 0 }: CarouselProps) => {
 
   return (
     <div className="relative max-w-4xl mx-auto">
-      {/* Current Item with extra padding at bottom */}
       <div className="overflow-hidden bg-white rounded-lg">
-        <div className="pb-10"> {/* Added padding bottom wrapper */}
+        <div className="pb-10">
           <Item {...items[currentIndex]} />
         </div>
       </div>
 
-      {/* Navigation Buttons */}
-      <div className="absolute inset-y-0 left-0 right-0 flex items-center justify-between pointer-events-none">
-        <button
-          onClick={goToPrevious}
-          className="p-2 -ml-10 bg-[#b2ebf2] rounded-full shadow-lg hover:bg-[#80deea] transition-colors"
-          aria-label="Previous item"
-        >
-          <ChevronLeft className="w-6 h-6" />
-        </button>
-        <button
-          onClick={goToNext}
-          className="p-2 -mr-10 bg-[#b2ebf2] rounded-full shadow-lg hover:bg-[#80deea] transition-colors"
-          aria-label="Next item"
-        >
-          <ChevronRight className="w-6 h-6" />
-        </button>
+        {/* Navigation Buttons */}
+        <div className="absolute top-60 left-0 right-0 flex items-center justify-between px-4 -translate-y-1/2">
+          <button
+            onClick={goToPrevious}
+            className="z-10 p-2 bg-[#b2ebf2] rounded-full shadow-lg hover:bg-[#80deea] transition-colors"
+            aria-label="Previous item"
+          >
+            <ChevronLeft className="w-6 h-6" />
+          </button>
+          <button
+            onClick={goToNext}
+            className="z-10 p-2 bg-[#b2ebf2] rounded-full shadow-lg hover:bg-[#80deea] transition-colors"
+            aria-label="Next item"
+          >
+            <ChevronRight className="w-6 h-6" />
+          </button>
+        </div>
       </div>
-
-      {/* Slide Counter */}
-      <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 bg-black/50 text-white px-3 py-1 rounded-full text-sm z-10">
-        {currentIndex + 1} / {items.length}
-      </div>
-    </div>
   );
 };
 

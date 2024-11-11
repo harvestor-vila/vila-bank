@@ -137,18 +137,18 @@ const Item = ({ chartType, task, context }: ItemProps) => {
                         value={name}
                         onChange={(e) => setName(e.target.value)}
                         required
-                        className="p-2 border border-gray-300 rounded"
+                        className="p-2 border border-gray-300 rounded focus:outline-none"
                     />
                     <textarea
                         placeholder="Your Comment"
                         value={comment}
                         onChange={(e) => setComment(e.target.value)}
                         required
-                        className="p-2 border border-gray-300 rounded"
+                        className="p-2 border border-gray-300 rounded focus:outline-none"
                     />
                     <button
                         type="submit"
-                        className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 transition-colors"
+                        className="bg-[#b2ebf2] hover:bg-[#80deea] text-black py-2 px-4 rounded transition-colors"
                     >
                         Submit
                     </button>
