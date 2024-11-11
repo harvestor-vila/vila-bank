@@ -47,7 +47,7 @@ const Carousel = ({ items, initialIndex = 0 }: CarouselProps) => {
       </div>
 
       {/* Navigation Buttons */}
-      <div className="absolute inset-y-0 left-0 right-0 flex items-center justify-between">
+      <div className="absolute inset-y-0 left-0 right-0 flex items-center justify-between pointer-events-none">
         <button
           onClick={goToPrevious}
           className="p-2 -ml-10 bg-[#b2ebf2] rounded-full shadow-lg hover:bg-[#80deea] transition-colors"
