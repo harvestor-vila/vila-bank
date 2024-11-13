@@ -1,6 +1,6 @@
 "use client";
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/app/components/ui/card';
-import { BarChart, Search, Filter, Code, BookOpen, Github, FileText, ChevronRight, Zap, Lightbulb, Target, Users, Grid } from 'lucide-react';
+import { BarChart, Code, Github, FileText, ChevronRight, Zap, Lightbulb, Target, Users, Grid } from 'lucide-react';
 
 const FeatureCard = ({ icon: Icon, title, description }) => (
   <div className="group p-6 rounded-xl border bg-white hover:shadow-lg transition-all duration-300">
