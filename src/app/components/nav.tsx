@@ -1,4 +1,3 @@
-// components/nav.tsx
 'use client';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
@@ -7,7 +6,8 @@ const Navigation = () => {
   const pathname = usePathname();
 
   const navItems = [
-    { href: '/', label: 'Matrix View' },
+    { href: '/', label: 'About' },
+    { href: '/matrix', label: 'Matrix View' },
     { href: '/gallery', label: 'Gallery View' },
   ];
 
@@ -16,9 +16,12 @@ const Navigation = () => {
       <div className="px-5">
         <div className="flex h-16 items-center">
           <div className="flex items-center">
-            <span className="text-[#00acc1] text-xl font-semibold">
+            <Link                 
+                key='/'
+                href='/'
+                className="text-cyan-600 text-xl font-semibold">
               VILA Bank
-            </span>
+            </Link>
           </div>
           <div className="ml-auto flex gap-6">
             {navItems.map((item) => (

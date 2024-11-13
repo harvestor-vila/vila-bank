@@ -1,5 +1,5 @@
-import BlueMatrix from "@/app/components/blue-matrix";
+import AboutPage from "@/app/components/about";
 
 export default function Home() {
-  return <BlueMatrix />;
+  return <AboutPage />;
 }
