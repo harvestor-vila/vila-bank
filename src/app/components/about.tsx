@@ -1,4 +1,5 @@
 "use client";
+import Link from 'next/link'
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/app/components/ui/card';
 import { BarChart, Code, Github, FileText, ChevronRight, Zap, Lightbulb, Target, Users, Grid } from 'lucide-react';
 
@@ -35,21 +36,21 @@ const AboutPage = () => {
             Exploring the future of visualization education through AI-generated examples
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
-            <button 
-              onClick={() => window.location.href = '/matrix'}
+            <Link 
+              href="/matrix"
               className="bg-cyan-600 text-white px-6 py-3 rounded-lg hover:bg-cyan-700 transition-all duration-200 flex items-center gap-2"
             >
               <Grid className="h-5 w-5" />
               View Matrix
-            </button>
-            <button 
-              onClick={() => window.location.href = '/gallery'}
+            </Link>
+            <Link 
+              href="/gallery"
               className="bg-white text-cyan-600 px-6 py-3 rounded-lg border-2 border-cyan-600 hover:bg-cyan-50 transition-all duration-200 flex items-center gap-2"
             >
               <BarChart className="h-5 w-5" />
               Explore Bank
-            </button>
-            <a 
+            </Link>
+            <Link 
               href="https://mucollective.northwestern.edu/files/2024-vila.pdf" 
               target="_blank"
               rel="noopener noreferrer"
@@ -57,7 +58,7 @@ const AboutPage = () => {
             >
               <FileText className="h-5 w-5" />
               Read Paper
-            </a>
+            </Link>
           </div>
         </div>
       </div>
