@@ -173,7 +173,12 @@ const AboutPage = () => {
                 <p className="text-gray-600">
                   Jovy Zhou, 
                   Harry Guan,
-                  <a href="https://digital-flaneur.github.io/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://digital-flaneur.github.io/" 
+                    target="_blank" 
+                    rel="noopener noreferrer">
+                    className="flex items-center gap-2 text-cyan-600 hover:text-cyan-700 transition-colors"
+                  >
+                    <Github className="h-5 w-5" />
                     Charles Cui
                   </a>
                 </p>
