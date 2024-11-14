@@ -30,7 +30,7 @@ const AboutPage = () => {
       <div className="bg-gradient-to-b from-cyan-50 to-white rounded-2xl">
         <div className="max-w-6xl mx-auto px-4 py-20 text-center">
           <h1 className="text-5xl font-bold mb-6">
-            VILA Visualization Gallery
+            VILA Visualization Item Bank
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
             Exploring the future of visualization education through AI-generated examples
@@ -48,7 +48,7 @@ const AboutPage = () => {
               className="bg-white text-cyan-600 px-6 py-3 rounded-lg border-2 border-cyan-600 hover:bg-cyan-50 transition-all duration-200 flex items-center gap-2"
             >
               <BarChart className="h-5 w-5" />
-              Explore Gallery
+              Explore Bank
             </Link>
             <Link 
               href="https://mucollective.northwestern.edu/files/2024-vila.pdf" 
@@ -78,7 +78,7 @@ const AboutPage = () => {
       {/* Stats Section */}
       <div className="max-w-6xl mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
-          <StatCard icon={BarChart} value="1,100+" label="Visualizations Items" />
+          <StatCard icon={BarChart} value="1,100+" label="Visualization Items" />
           <StatCard icon={Code} value="12" label="Chart Types" />
           <StatCard icon={Target} value="13" label="Visualization Tasks" />
           <StatCard icon={Lightbulb} value="9" label="Different Contexts" />
@@ -92,22 +92,22 @@ const AboutPage = () => {
           <FeatureCard
             icon={Zap}
             title="AI-Powered Generation"
-            description="Using state-of-the-art large language models to create diverse visualization examples at scale."
+            description="Using state-of-the-art large language models to create diverse visualization items at scale."
           />
           <FeatureCard
             icon={Target}
             title="Comprehensive Coverage"
-            description="Spanning multiple contexts from economy to healthcare, with tasks covering all levels of Bloom's taxonomy."
+            description="Spanning multiple contexts from economy to healthcare, with visualization tasks covering all levels of Bloom's taxonomy."
           />
           <FeatureCard
             icon={Users}
             title="Expert Validated"
-            description="Each item carefully evaluated by visualization experts for relevance, clarity, and correctness."
+            description="Each item evaluated by visualization experts for relevance, clarity, and correctness."
           />
           <FeatureCard
             icon={Lightbulb}
             title="Educational Impact"
-            description="Supporting visualization literacy, research, and education through carefully curated examples."
+            description="Supporting visualization research education through carefully curated materials."
           />
         </div>
       </div>
@@ -166,12 +166,63 @@ const AboutPage = () => {
               <div>
                 <h3 className="font-semibold mb-3">Research Team</h3>
                 <p className="text-gray-600">
-                  Yuan Cui, Lily W. Ge, Yiren Ding, Lane Harrison, Fumeng Yang, and Matthew Kay
+                  <a href="https://digital-flaneur.github.io/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Charles Cui
+                  </a>,{' '}
+                  <a href="https://lilyge.com/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Lily W. Ge
+                  </a>, {' '}
+                  Yiren Ding, 
+                  Lane Harrison,{' '}
+                  <a href="https://www.fmyang.com/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Fumeng Yang
+                  </a>,{' '}
+                  <a href="https://www.mjskay.com/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Matthew Kay
+                  </a>
                 </p>
               </div>
               <div>
-                <h3 className="font-semibold mb-3">Developers</h3>
-                <p className="text-gray-600">Jovy Zhou, Harry Guan</p>
+                <h3 className="font-semibold mb-3">Web Developers</h3>
+                <p className="text-gray-600">
+                  <a href="https://www.linkedin.com/in/jovy-zhou/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Jovy Zhou 
+                  </a>,{' '}    
+                  <a href="https://www.linkedin.com/in/~harryguan/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Harry Guan 
+                  </a>,{' '}    
+                  <a href="https://digital-flaneur.github.io/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Charles Cui
+                  </a>
+                </p>
               </div>
               <div className="md:col-span-2">
                 <p className="text-gray-600">
