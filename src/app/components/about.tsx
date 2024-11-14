@@ -165,19 +165,60 @@ const AboutPage = () => {
               <div>
                 <h3 className="font-semibold mb-3">Research Team</h3>
                 <p className="text-gray-600">
-                  Yuan Cui, Lily W. Ge, Yiren Ding, Lane Harrison, Fumeng Yang, and Matthew Kay
+                  <a href="https://digital-flaneur.github.io/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Charles Cui
+                  </a>, 
+                  <a href="https://lilyge.com/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Lily W. Ge
+                  </a>, 
+                  Yiren Ding, 
+                  Lane Harrison, 
+                  <a href="https://www.fmyang.com/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Fumeng Yang
+                  </a>, and 
+                  <a href="https://www.mjskay.com/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Matthew Kay
+                  </a>,
                 </p>
               </div>
               <div>
                 <h3 className="font-semibold mb-3">Developers</h3>
                 <p className="text-gray-600">
-                  Jovy Zhou, 
-                  Harry Guan,
+                  <a href="https://www.linkedin.com/in/jovy-zhou/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Jovy Zhou 
+                  </a>,   
+                  <a href="https://www.linkedin.com/in/~harryguan/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
+                    Harry Guan 
+                  </a>,    
                   <a href="https://digital-flaneur.github.io/" 
                     target="_blank" 
-                    rel="noopener noreferrer">,
-                    className="flex items-center gap-2 text-cyan-600 hover:text-cyan-700 transition-colors"
-                  >
+                    rel="noopener noreferrer"
+                    className="hover:text-cyan-700"
+                    >
                     Charles Cui
                   </a>
                 </p>
