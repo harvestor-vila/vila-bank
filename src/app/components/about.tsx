@@ -77,7 +77,7 @@ const AboutPage = () => {
       {/* Stats Section */}
       <div className="max-w-6xl mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
-          <StatCard icon={BarChart} value="1,100+" label="Visualizations" />
+          <StatCard icon={BarChart} value="1,100+" label="Visualization Items" />
           <StatCard icon={Code} value="12" label="Chart Types" />
           <StatCard icon={Target} value="13" label="Visualization Tasks" />
           <StatCard icon={Lightbulb} value="9" label="Different Contexts" />
@@ -171,34 +171,34 @@ const AboutPage = () => {
                     className="hover:text-cyan-700"
                     >
                     Charles Cui
-                  </a>, 
+                  </a>,{' '}
                   <a href="https://lilyge.com/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="hover:text-cyan-700"
                     >
                     Lily W. Ge
-                  </a>, 
+                  </a>, {' '}
                   Yiren Ding, 
-                  Lane Harrison, 
+                  Lane Harrison,{' '}
                   <a href="https://www.fmyang.com/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="hover:text-cyan-700"
                     >
                     Fumeng Yang
-                  </a>, and 
+                  </a>,{' '}
                   <a href="https://www.mjskay.com/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="hover:text-cyan-700"
                     >
                     Matthew Kay
-                  </a>,
+                  </a>
                 </p>
               </div>
               <div>
-                <h3 className="font-semibold mb-3">Developers</h3>
+                <h3 className="font-semibold mb-3">Web Developers</h3>
                 <p className="text-gray-600">
                   <a href="https://www.linkedin.com/in/jovy-zhou/" 
                     target="_blank" 
@@ -206,14 +206,14 @@ const AboutPage = () => {
                     className="hover:text-cyan-700"
                     >
                     Jovy Zhou 
-                  </a>,   
+                  </a>,{' '}    
                   <a href="https://www.linkedin.com/in/~harryguan/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="hover:text-cyan-700"
                     >
                     Harry Guan 
-                  </a>,    
+                  </a>,{' '}    
                   <a href="https://digital-flaneur.github.io/" 
                     target="_blank" 
                     rel="noopener noreferrer"
