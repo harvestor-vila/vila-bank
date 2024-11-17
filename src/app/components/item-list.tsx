@@ -1,6 +1,5 @@
 'use client';
 
-import { useState } from 'react';
 import Image from 'next/image';
 import { ChartType, VisualizationTask, VisualizationContext } from '@/app/utils/types';
 import { formatTaskString, formatEnumValue } from '@/app/utils/formatStringUtils';
@@ -16,18 +15,17 @@ interface ItemListProps {
 }
 
 const ItemList = ({ items }: ItemListProps) => {
-  const [selectedItem, setSelectedItem] = useState<number | null>(null);
   const { cart, addToCart, removeFromCart } = useCart();
 
   const toggleCartItem = (index: number) => {
     const item = items[index];
 
     const cartItem = {
-      imageFileName: generateImagePath(item.chartType, item.context),
-      textFileName: generateTextPath(item.chartType, item.task, item.context),
+      imageFileName: generateImagePath(item.chartType, item.context), // Visual component
+      textFileName: generateTextPath(item.chartType, item.task, item.context), // Textual component
     };
 
-    const isInCart = cart.some(cartItem => cartItem.imageFileName === generateImagePath(item.chartType, item.context));
+    const isInCart = cart.some(cartItem => cartItem.textFileName === generateTextPath(item.chartType, item.task, item.context));
 
     if (isInCart) {
       removeFromCart(cartItem);
@@ -39,12 +37,13 @@ const ItemList = ({ items }: ItemListProps) => {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-6">
       {items.map((item, index) => {
-        const isInCart = cart.some(cartItem => cartItem.imageFileName === generateImagePath(item.chartType, item.context));
+        // Check if the textual component is in the cart
+        const isInCart = cart.some(cartItem => cartItem.textFileName === generateTextPath(item.chartType, item.task, item.context));
 
         return (
           <div
             key={`${item.chartType}-${item.task}-${item.context}-${index}`}
-            className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
+            className="relative bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
           >
             <div className="relative w-full h-48">
               <Image
@@ -59,14 +58,37 @@ const ItemList = ({ items }: ItemListProps) => {
               <h2 className="text-lg">{"Task: " + formatTaskString(item.task)}</h2>
               <h2 className="text-lg">{"Context: " + formatEnumValue(item.context)}</h2>
             </div>
-            <button
-              onClick={() => toggleCartItem(index)}
-              className={`mt-2 px-4 py-2 rounded-lg ${
-                isInCart ? 'bg-red-500 hover:bg-red-600' : 'bg-green-500 hover:bg-green-600'
-              } text-white transition`}
-            >
-              {isInCart ? 'Remove from Cart' : 'Add to Cart'}
-            </button>
+
+            {/* Tick Mark for Selection */}
+            <label className="absolute top-4 right-4">
+              <input
+                type="checkbox"
+                checked={isInCart}
+                onChange={() => toggleCartItem(index)}
+                className="hidden"
+              />
+              <div
+                className={`w-6 h-6 rounded-full border-2 border-green-500 flex items-center justify-center ${
+                  isInCart ? 'bg-green-500' : 'bg-white'
+                }`}
+              >
+                {isInCart && (
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="white"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M20 6L9 17l-5-5" />
+                  </svg>
+                )}
+              </div>
+            </label>
           </div>
         );
       })}
