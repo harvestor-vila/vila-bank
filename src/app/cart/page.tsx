@@ -12,18 +12,38 @@ const CartPage = () => {
 
     for (const item of cart) {
       try {
-        const imageResponse = await fetch(item.imageFileName);
-        const imageBlob = await imageResponse.blob();
-        zip.file(`images/${item.imageFileName.split('/').pop()}`, imageBlob);
+        // Create a folder for each item
+        const folderName = item.textFileName.split('/').pop()?.replace('.txt', '') || 'item';
+        const itemFolder = zip.folder(folderName);
 
+        if (!itemFolder) {
+          console.error('Failed to create folder in zip:', folderName);
+          continue;
+        }
+
+        // Fetch and add the image file to the folder
+        const imageResponse = await fetch(item.imageFileName);
+        if (imageResponse.ok) {
+          const imageBlob = await imageResponse.blob();
+          itemFolder.file(`visualization.png`, imageBlob);
+        } else {
+          console.warn(`Failed to fetch image: ${item.imageFileName}`);
+        }
+
+        // Fetch and add the text file to the folder
         const textResponse = await fetch(item.textFileName);
-        const textContent = await textResponse.text();
-        zip.file(`texts/${item.textFileName.split('/').pop()}`, textContent);
+        if (textResponse.ok) {
+          const textContent = await textResponse.text();
+          itemFolder.file(`description.txt`, textContent);
+        } else {
+          console.warn(`Failed to fetch text: ${item.textFileName}`);
+        }
       } catch (error) {
-        console.error('Error fetching file:', error);
+        console.error('Error processing item:', error);
       }
     }
 
+    // Generate and download the zip file
     const zipBlob = await zip.generateAsync({ type: 'blob' });
     saveAs(zipBlob, 'visualizations.zip');
   };
