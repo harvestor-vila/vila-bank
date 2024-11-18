@@ -10,17 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout code
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # Step 2: Install dependencies
       - name: Install dependencies
         run: npm install
 
+      # Step 3: Build and export static site
       - name: Build and export static site
+        env: # Ensure environment variables are passed to the build process
+          NODE_ENV: production
         run: npm run build
 
+      # Step 4: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./out
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Access token for deployment
+          publish_dir: ./out # Directory to publish (Next.js export)
+          force_orphan: true # Ensure a clean gh-pages branch
