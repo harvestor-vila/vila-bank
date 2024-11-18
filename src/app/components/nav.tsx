@@ -3,14 +3,17 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useCart } from '@/app/context/cart-context';
 
+// Dynamically retrieve the basePath from environment variables (set by Next.js)
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+
 const Navigation = () => {
   const pathname = usePathname();
   const { cart } = useCart();
 
   const navItems = [
-    { href: '/', label: 'About' },
-    { href: '/matrix', label: 'Matrix View' },
-    { href: '/gallery', label: 'Gallery View' },
+    { href: `${basePath}/`, label: 'About' },
+    { href: `${basePath}/matrix`, label: 'Matrix View' },
+    { href: `${basePath}/gallery`, label: 'Gallery View' },
   ];
 
   return (
@@ -19,8 +22,8 @@ const Navigation = () => {
         <div className="flex h-16 items-center">
           <div className="flex items-center">
             <Link
-              key="/"
-              href="/"
+              key={`${basePath}/`}
+              href={`${basePath}/`}
               className="text-cyan-600 text-xl font-semibold"
             >
               VILA Bank
@@ -33,8 +36,8 @@ const Navigation = () => {
                 href={item.href}
                 className={`relative flex items-center font-medium text-sm transition-colors text-black-500 hover:text-[#00acc1]
                   after:absolute after:bottom-0 after:left-0 after:h-[2px] after:w-full after:scale-x-0 after:bg-[#00acc1] after:transition-transform after:duration-300
-                  ${pathname === item.href 
-                    ? 'after:scale-x-100' 
+                  ${pathname === item.href
+                    ? 'after:scale-x-100'
                     : 'hover:after:scale-x-100'
                   }
                 `}
@@ -43,7 +46,7 @@ const Navigation = () => {
               </Link>
             ))}
             <div className="relative">
-              <Link href="/cart" className="flex items-center gap-2">
+              <Link href={`${basePath}/cart`} className="flex items-center gap-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
