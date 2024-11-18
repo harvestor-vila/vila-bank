@@ -5,7 +5,7 @@ export const getEnumValueByString = <T extends { [key: string]: string }>(
   enumObj: T,
   value: string
 ): T[keyof T] | null => {
-  const enumKey = Object.entries(enumObj).find(([_, val]) => val === value)?.[0];
+  const enumKey = Object.entries(enumObj).find(([, val]) => val === value)?.[0];
   return enumKey ? enumObj[enumKey as keyof T] : null;
 };
 

@@ -3,7 +3,13 @@ import Link from 'next/link'
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/app/components/ui/card';
 import { BarChart, Code, Github, FileText, ChevronRight, Zap, Lightbulb, Target, Users, Grid } from 'lucide-react';
 
-const FeatureCard = ({ icon: Icon, title, description }) => (
+interface FeatureCardProps {
+  icon: React.FC<React.SVGProps<SVGSVGElement>>;
+  title: string;
+  description: string;
+}
+
+const FeatureCard: React.FC<FeatureCardProps> = ({ icon: Icon, title, description }) => (
   <div className="group p-6 rounded-xl border bg-white hover:shadow-lg transition-all duration-300">
     <div className="flex items-center gap-4 mb-3">
       <div className="p-3 rounded-lg bg-cyan-50 text-cyan-600 group-hover:bg-cyan-100 transition-colors">
@@ -15,13 +21,20 @@ const FeatureCard = ({ icon: Icon, title, description }) => (
   </div>
 );
 
-const StatCard = ({ value, label, icon: Icon }) => (
+interface StatCardProps {
+  value: string;
+  label: string;
+  icon: React.FC<React.SVGProps<SVGSVGElement>>;
+}
+
+const StatCard: React.FC<StatCardProps> = ({ value, label, icon: Icon }) => (
   <div className="flex flex-col items-center p-6 bg-gradient-to-br from-cyan-50 to-white rounded-xl border hover:shadow-md transition-all duration-300">
     <Icon className="h-8 w-8 text-cyan-600 mb-2" />
     <span className="text-2xl font-bold text-gray-900">{value}</span>
     <span className="text-sm text-gray-600">{label}</span>
   </div>
 );
+
 
 const AboutPage = () => {
   return (
