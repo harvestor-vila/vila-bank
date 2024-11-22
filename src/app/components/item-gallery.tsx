@@ -1,11 +1,12 @@
-'use client';
-import { useEffect, useState } from 'react';
-import { ChartType, VisualizationTask, VisualizationContext, VisualizationItem } from '@/app/utils/types';
-import { fetchVisualizationItems, getFilterOptions } from '@/app/utils/visualizationUtils';
-import { formatEnumValue, formatTaskString } from '@/app/utils/formatStringUtils';
-import ItemList from './item-list';
-import Item from './item';
-import Pagination from './pagination';
+"use client";
+
+import { useState, useEffect } from "react";
+import ItemList from "./item-list";
+import { ChartType, VisualizationTask, VisualizationContext, VisualizationItem } from "@/app/utils/types";
+import { fetchVisualizationItems, getFilterOptions } from "@/app/utils/visualizationUtils";
+import { formatEnumValue, formatTaskString } from "@/app/utils/formatStringUtils";
+import Pagination from "./pagination";
+import { useCart } from "@/app/context/cart-context";
 
 const ITEMS_PER_PAGE = 24;
 
@@ -16,14 +17,16 @@ const ItemGallery = () => {
   const [filters, setFilters] = useState({
     chartType: null as ChartType | null,
     task: null as VisualizationTask | null,
-    context: null as VisualizationContext | null
+    context: null as VisualizationContext | null,
   });
   const [filterOptions, setFilterOptions] = useState({
     chartTypes: [] as ChartType[],
     tasks: [] as VisualizationTask[],
-    contexts: [] as VisualizationContext[]
+    contexts: [] as VisualizationContext[],
   });
   const [isLoading, setIsLoading] = useState(true);
+
+  const { } = useCart(); // Access cart context
 
   // Fetch initial filter options
   useEffect(() => {
@@ -31,14 +34,14 @@ const ItemGallery = () => {
       const { items } = await fetchVisualizationItems(1, 1000, {
         chartType: null,
         task: null,
-        context: null
+        context: null,
       });
       setFilterOptions(getFilterOptions(items));
     };
     loadFilterOptions();
   }, []);
 
-  // Fetch items when page or filters change
+  // Fetch items whenever the page or filters change
   useEffect(() => {
     const loadItems = async () => {
       setIsLoading(true);
@@ -56,21 +59,21 @@ const ItemGallery = () => {
   }, [currentPage, filters]);
 
   const handleFilterChange = (
-    filterType: 'chartType' | 'task' | 'context',
+    filterType: "chartType" | "task" | "context",
     value: string | null
   ) => {
-    setFilters(prev => ({
+    setFilters((prev) => ({
       ...prev,
-      [filterType]: value ? value : null
+      [filterType]: value ? value : null,
     }));
-    setCurrentPage(1); // Reset to first page when filters change
+    setCurrentPage(1); // Reset to the first page when filters change
   };
 
   const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
 
   const handlePageChange = (pageNumber: number) => {
     setCurrentPage(pageNumber);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   if (isLoading) {
@@ -90,11 +93,11 @@ const ItemGallery = () => {
           <label className="text-sm font-medium mb-2">Chart Type</label>
           <select
             className="border rounded-lg p-2 focus:outline-none"
-            onChange={(e) => handleFilterChange('chartType', e.target.value || null)}
-            value={filters.chartType || ''}
+            onChange={(e) => handleFilterChange("chartType", e.target.value || null)}
+            value={filters.chartType || ""}
           >
             <option value="">All Chart Types</option>
-            {filterOptions.chartTypes.map(type => (
+            {filterOptions.chartTypes.map((type) => (
               <option key={type} value={type}>
                 {formatEnumValue(type)}
               </option>
@@ -107,11 +110,11 @@ const ItemGallery = () => {
           <label className="text-sm font-medium mb-2">Task</label>
           <select
             className="border rounded-lg p-2 focus:outline-none"
-            onChange={(e) => handleFilterChange('task', e.target.value || null)}
-            value={filters.task || ''}
+            onChange={(e) => handleFilterChange("task", e.target.value || null)}
+            value={filters.task || ""}
           >
             <option value="">All Tasks</option>
-            {filterOptions.tasks.map(task => (
+            {filterOptions.tasks.map((task) => (
               <option key={task} value={task}>
                 {formatTaskString(task)}
               </option>
@@ -124,11 +127,11 @@ const ItemGallery = () => {
           <label className="text-sm font-medium mb-2">Context</label>
           <select
             className="border rounded-lg p-2 focus:outline-none"
-            onChange={(e) => handleFilterChange('context', e.target.value || null)}
-            value={filters.context || ''}
+            onChange={(e) => handleFilterChange("context", e.target.value || null)}
+            value={filters.context || ""}
           >
             <option value="">All Contexts</option>
-            {filterOptions.contexts.map(context => (
+            {filterOptions.contexts.map((context) => (
               <option key={context} value={context}>
                 {formatEnumValue(context)}
               </option>
@@ -153,37 +156,7 @@ const ItemGallery = () => {
       </div>
 
       {/* Display Items */}
-      {totalItems === 0 ? (
-        <div className="flex flex-col items-center justify-center h-64">
-          <p className="text-xl text-black-500 font-medium mb-2">No items available</p>
-          <p className="text-gray-500">Try adjusting your filters :(</p>
-          <button
-            onClick={() => setFilters({
-              chartType: null,
-              task: null,
-              context: null
-            })}
-            className="mt-4 px-4 py-2 bg-[#b2ebf2] hover:bg-[#80deea] rounded-lg transition-colors"
-          >
-            Reset Filters
-          </button>
-        </div>
-      ) : items.length === 1 ? (
-        <Item {...items[0]} />
-      ) : (
-        <>
-          <ItemList items={items} />
-          
-          {/* Bottom Pagination */}
-          <div className="mt-4 sm:mt-8">
-            <Pagination
-              currentPage={currentPage}
-              totalPages={totalPages}
-              onPageChange={handlePageChange}
-            />
-          </div>
-        </>
-      )}
+      <ItemList items={items} />
     </div>
   );
 };
